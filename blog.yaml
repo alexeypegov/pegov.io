@@ -1,0 +1,4 @@
+# Blog configuration file
+---
+general:
+  posts: posts/
