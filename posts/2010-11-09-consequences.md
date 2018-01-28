@@ -1,6 +1,8 @@
+---
 Title: Consequences
 Date: 2010-11-09
 Tags: микс
+---
 
 <div class="text"><p><img src="http://dl.dropbox.com/u/140528/consequences.jpg" /></p>
 <p><a href="http://dl.dropbox.com/u/140528/consequences.mp3">consequences.mp3</a></p>

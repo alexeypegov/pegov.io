@@ -1,6 +1,8 @@
+---
 Title: Greatest fun
 Date: 2012-01-18
 Tags: слушаю
+---
 
 <div class="text">I heard a funny thing<br />
 Somebody said to me<br />

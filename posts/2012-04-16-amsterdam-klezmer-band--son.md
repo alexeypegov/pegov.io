@@ -1,6 +1,8 @@
+---
 Title: Amsterdam Klezmer Band - Son
 Date: 2012-04-16
 Tags: слушаю
+---
 
 <div class="text">Хоть родился я в рубашке,<br />
 Рубашка эта – не для глажки!<br />

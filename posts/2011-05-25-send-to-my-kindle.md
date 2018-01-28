@@ -1,6 +1,8 @@
+---
 Title: Send to my Kindle
 Date: 2011-05-25
 Tags: kindle
+---
 
 <div class="text">Думается, на википедии была бы не лишней кнопка Send to my Kindle.<br /><br />
 Нашел <a href="http://ebookarchitects.com/kindlepedia/">онлайн тулзу</a>, которая умеет генерить (но не посылать) mobi для статьи из википедии. А вот еще похожий <a href="http://www.ereadups.com/">сервис</a> от тех же чуваков, который уже умеет посылать прямо на киндл.<br /><br />

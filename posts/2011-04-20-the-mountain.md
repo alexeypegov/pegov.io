@@ -1,8 +1,10 @@
+---
 Title: The Mountain
 Date: 2011-04-20
 Tags: 
   - саптрю
   - слушаю
+---
 
 <div class="text"><iframe src="http://player.vimeo.com/video/22439234" width="700" height="394" frameborder="0"></iframe><br /><br />
 Каждый раз, когда я смотрю видео, в котором видно как вращается Земля, у меня захватывает дух.<br /><br />
