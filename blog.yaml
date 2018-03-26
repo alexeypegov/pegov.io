@@ -1,4 +1,10 @@
 # Blog configuration file
 ---
 general:
-  posts: posts/
+  notes: notes/
+  theme: theme/
+  output: output/
+  notes-per-page: 7
+
+vars:
+  blog_title: Ложное движение
