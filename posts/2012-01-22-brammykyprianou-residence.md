@@ -4,5 +4,6 @@ Date: 2012-01-22
 Tags: архитектура
 ---
 
-<div class="text"><img src="http://dl.dropbox.com/u/140528/site/brammy-kyprianou-residence-exterior-pool-family-portrait.jpg" /><br /><br />
-Очень клевая тема. Вот этот вот <a href="http://www.dwell.com/articles/party-in-the-back.html">вид сзади</a> вообще отпад. Интерьерчик тоже вполне себе.</div>
+![brammy-kyprianou-residence-exterior-pool-family-portrait.jpg](images/brammy-kyprianou-residence-exterior-pool-family-portrait.jpg)
+
+Очень клевая тема. Вот этот вот [вид сзади](http://www.dwell.com/articles/party-in-the-back.html) вообще отпад. Интерьерчик тоже вполне себе.

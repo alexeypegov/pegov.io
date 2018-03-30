@@ -4,6 +4,7 @@ Date: 2012-01-06
 Tags: слушаю
 ---
 
-<div class="text"><img src="http://dl.dropbox.com/u/140528/site/the-random-and-the-purpose.jpg" /><br /><br />
-Очень клевый альбом. Вот на пробу <a href="http://soundcloud.com/w-h-bsound/dax-johnson-a-moment-in-the">на саундклауде</a> или вот <a href="http://www.youtube.com/artist/Dax_Johnson">на трубе</a> :)<br /><br />
-Непременно брошу его в <a href="http://www.dropbox.com">ящик</a>, но чутка попозже :)</div>
+![the-random-and-the-purpose.jpg](images/the-random-and-the-purpose.jpg)
+
+Очень клевый альбом. Вот на пробу [на саундклауде](http://soundcloud.com/w-h-bsound/dax-johnson-a-moment-in-the) или вот [на трубе](http://www.youtube.com/artist/Dax_Johnson) :)
+Непременно брошу его в [ящик](http://www.dropbox.com), но чутка попозже :)

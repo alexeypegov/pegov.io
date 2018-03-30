@@ -1,9 +1,9 @@
 ---
 Title: Longboarding
 Date: 2015-08-23
-Tags: 
+Tags:
   - саптрю
   - экстрим
 ---
 
-<div class="text"><iframe width="560" height="315" src="https://www.youtube.com/embed/7OUl2SOeL44" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+http://youtube.com/watch?v=7OUl2SOeL44

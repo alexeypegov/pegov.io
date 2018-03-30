@@ -1,9 +1,9 @@
 ---
 Title: Animagraffs
 Date: 2014-12-02
-Tags: 
+Tags:
   - анимация
   - internals
 ---
 
-<div class="text">Наглядная демонстрация того, как работает <a href="http://animagraffs.com/how-a-car-engine-works/">ДВС</a> или <a href="http://animagraffs.com/inside-a-jet-engine/">реактивный двигатель</a>, или <a href="http://animagraffs.com/how-a-handgun-works-1911-45/">пистолет</a>. Клево!</div>
+Наглядная демонстрация того, как работает [ДВС](http://animagraffs.com/how-a-car-engine-works/) или [реактивный двигатель](http://animagraffs.com/inside-a-jet-engine/), или [пистолет](http://animagraffs.com/how-a-handgun-works-1911-45/). Клево!

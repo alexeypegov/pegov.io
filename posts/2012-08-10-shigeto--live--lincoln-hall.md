@@ -4,4 +4,4 @@ Date: 2012-08-10
 Tags: слушаю
 ---
 
-<div class="text">Ох, <a href="http://soundcloud.com/shigeto/shigeto-live-lincoln-hall-7-10">отличный сет</a>!</div>
+Ох, [отличный сет](http://soundcloud.com/shigeto/shigeto-live-lincoln-hall-7-10)!

@@ -4,4 +4,4 @@ Date: 2012-09-25
 Tags: цитаты
 ---
 
-<div class="text">“We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle</div>
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle

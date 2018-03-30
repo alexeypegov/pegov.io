@@ -4,5 +4,6 @@ Date: 2012-04-13
 Tags: картинка
 ---
 
-<div class="text"><img src="http://dl.dropbox.com/u/140528/site/van-gogh.jpg" /><br /><br />
-Какой охуенный Ван Гог! <a href="http://mocoloco.com/art/archives/004230.php">via</a></div>
+![van-gogh.jpg](images/van-gogh.jpg)
+
+Какой охуенный Ван Гог! [via](http://mocoloco.com/art/archives/004230.php)

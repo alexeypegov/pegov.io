@@ -4,4 +4,4 @@ Date: 2013-04-05
 Tags: интересное
 ---
 
-<div class="text"><a href="http://www.distancetomars.com/">Distance to Mars</a></div>
+[Distance to Mars](http://www.distancetomars.com/)

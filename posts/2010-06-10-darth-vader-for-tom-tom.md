@@ -4,6 +4,6 @@ Date: 2010-06-10
 Tags: fun
 ---
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/2ljFfL-mL70&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2ljFfL-mL70&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+http://www.youtube.com/watch?v=2ljFfL-mL70
 
 На память себе то, что уже все видели :)
