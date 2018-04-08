@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ложное движение</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+  </head>
+<body>
+<div class="top"><a href="index.html">Ложное движение</a></div>
+<div class="notes">
+<div class="note">
+<div class="title">command + 1-9 и гугл хром</div>
+<div class="date">2012-06-08</div>
+<div class="body"><p>В <a href="http://apple.com/safari">Сафари</a> можно было с помощью шорткатов Command + 1-9 вызывать закладки из букмаркбара (такой хренотени с закладками, которая всегда видна).
+В Гугл Хроме же с помощью этих же шорткатов осуществляется переключение между табами. Но, в отличие от закладок, которые ты расположил определенным образом и запомнил, где и что лежит (1-mail, 2-google reader, 3-lenta.ru), табы у тебя все время разные и имеют разную ширину, в итоге, в хроме я пользуюсь (и то редко) только command + 1, 2 ибо в остальных случаях надо считать, и проще просто кликнуть в нужный таб.
+Для избранных букмарков можно, конечно, настроить <a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95653">keyword search</a>, но делается это <a href="http://lifehacker.com/5476033/how-to-set-keyword-bookmarks-in-google-chrome">через попу</a> и я уверен, что многие даже не догадываются о том, что keyword search можно использовать не только для поиска.
+Вывод: такие шорткаты нужно использовать только в случае, когда связанная с ними информация меняется редко и не требует никакого “визуального” контроля.</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Breaking design patterns</div>
+<div class="date">2012-06-08</div>
+<div class="body"><p>Чуваки из “Smashing magazine” пишут о том, <a href="http://uxdesign.smashingmagazine.com/2012/06/06/design-patterns-when-breaking-rules-ok/">почему и когда можно ломать устоявшиеся шаблоны</a>.</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Be open to whatever comes next</div>
+<div class="date">2012-06-04</div>
+<div class="body"><p><img src="images/be-open.jpeg" alt="be-open.jpeg" /></p>
+<p><a href="http://thingsweforget.blogspot.com/2012/06/880-be-open-to-whatever-comes-next.html">thingsweforget</a></p>
+</div>
+</div>
+<div class="note">
+<div class="title">Залочить мак с клавиатуры</div>
+<div class="date">2012-06-01</div>
+<div class="body"><p>Оказывается, не все знают, как можно залочить мак с клавиатуры.</p>
+<ul>
+<li>Идем в настройки безопасности и ставим галочку напротив опции &quot;Спрашивать пароль после активации скринсейвера&quot;:
+<img src="images/lock-1.png" alt="lock-1.png" /></li>
+<li>Потом идем в настройки клавиатуры, находим там группу шорткатов &quot;Services&quot; и вешаем шорткат на запуск скринсейвера:
+<img src="images/lock-2.png" alt="lock-2.png" /></li>
+</ul>
+<p>Ну и напомню про самую клевую штуку — <a href="http://blog.alexeypegov.com/note/use-caps-lock-as-spotlight-trigger">повесить Spotlight на Caps Lock</a>!</p>
+</div>
+</div>
+<div class="note">
+<div class="title">command+tab</div>
+<div class="date">2012-05-30</div>
+<div class="body"><p>Как же меня достал command+tab &quot;не туда&quot;. Типа, ходишь ты ходишь, между редактором и браузером и все ок, до того момента, пока не захочешь почту посмотреть. После этого, блин, пять раз не туда по цмд-табу попадаешь (черт! блядь! фак!), пока явно туда-сюда между редактором-браузером не переключишься.
+Вот и Аза Раскин <a href="http://www.azarask.in/blog/post/solving-the-alt-tab-problem/">пишет</a>, что переключение по MRU (most recently used) неправильное. Но он предлагает какое-то &quot;адаптивное&quot; поведение, а думаю, что самый простой способ — это дать мне возможность &quot;замораживать&quot; (лочить) &quot;цикл&quot;. При этом сделать так, чтобы этот лок в некоторых случаях не работал (например, если виден попап с иконками приложений, появляющийся если подержать command и нажать и отпустить alt).
+Например, есть у меня три приложения: редактор, браузер и почтовый клиент. И я все время хожу между редактором и браузером, но иногда хочу попасть в почтового клиента. Соответственно, изначально все работает как обычно, то есть на cmd+tab активируется предыдущее активированное приложение, но вот я попал в редактор, дальше знаю, что следующим cmd+tab я попаду в браузер и я просто беру и нажимаю там что-то, скажем просто долго держу cmd+tab, мне вокруг этих двух приложений (текущего и следующего) рисуется специальная рамка, показывающая, что они залочены. Дальше, я сколько бы не нажимал cmd+tab всегда буду переключаться между ними. А когда захочу попасть в почтового клиента, то нажму cmd+tab и <i>подожду</i> появления попапа с иконками приложений, при появлении которого, вот этот лок работать перестает, то есть нажав там два раза cmd+tab я выйду за пределы текущего залоченного &quot;цикла&quot;. Захочу опять в редактор или браузер — нажму быстро alt+tab и, независимо ни от чего, сразу опять попаду в &quot;цикл&quot;.
+Заделать что-ли пруф-оф-концепт?
+ps: Если надо переключаться между тремя прогами, то залочить и нажать цифру &quot;3&quot;.</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Тросики</div>
+<div class="date">2012-05-28</div>
+<div class="body"><p><img src="images/delorean-bisycle.jpg" alt="delorean-bisycle.jpg" /></p>
+<p>О, <a href="http://deloreanbicycle.com">чуваки запрятали тросики</a>!!</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Wishlist</div>
+<div class="date">2012-05-28</div>
+<div class="body"><p>Хочу еще раз убедиться, что вишлисты — это полная херня.</p>
+<p><a href="http://amzn.to/alexeypegov">http://amzn.to/alexeypegov</a></p>
+</div>
+</div>
+<div class="note">
+<div class="title">субурбы</div>
+<div class="date">2012-05-26</div>
+<div class="body"><p><img src="images/industrial.jpg" alt="industrial.jpg" /></p>
+<p><a href="https://dl.dropbox.com/u/140528/site/suburbs_retina.jpg">Обои</a> для 4 айфона.</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Alt-J - An Awesome Wave (2012)</div>
+<div class="date">2012-05-26</div>
+<div class="body"><p><div class="media" style="padding-top: 56.25%;"><iframe src="https://player.vimeo.com/video/39430834?app_id=122963" width="480" height="270" frameborder="0" title="Alt-J (∆) | Breezeblocks" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></p>
+<p>Отличный <a href="http://www.discogs.com/-alt-j-An-Awesome-Wave/release/3588408">альбом</a>!</p>
+</div>
+</div>
+<div class="note">
+<div class="title">Apple Scotland - iPhone commercial for Siri</div>
+<div class="date">2012-05-24</div>
+<div class="body"><p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/SGxKhUuZ0Rc?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Великолепно! +<a href="http://www.youtube.com/watch?v=5FFRoYhTJQQ">ELEVEN!</a></p>
+</div>
+</div>
+</div>
+<div class="paging">
+<a href="page-18.html">предыдущая</a>
+&#151;
+<a href="page-21.html">следующая</a>
+</div>
+<div class="footer">&copy; Алексей Пегов 2009-2018</div>
+</body>
+</html>

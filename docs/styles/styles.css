@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+
+  font-size: 16pt;
+  font-family: 'Vollkorn', serif;
+}
+
+.top {
+  font-size: 50pt;
+  text-align: center;
+  margin: 0.7em 0;
+}
+
+.top > a {
+    color: #000;
+    text-decoration: none;
+}
+
+.top > a:hover {
+  color: #444;
+}
+
+.notes {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.note {
+  width: 800px;
+}
+
+.note .title {
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+.note .date {
+  font-size: 12pt;
+  color: #999;
+}
+
+.note .body {
+  margin: 10px 0 60px 0;
+}
+
+.note .body .media {
+  position: relative;
+
+  display: flex;
+  margin: 0 0 20px;
+  justify-content: space-around;
+}
+
+.note .body blockquote {
+  border-left: 4px solid #EDA017;
+  padding: 10px;
+  margin: 20px 0;
+  background-color: #efefef;
+}
+
+.note .body .media iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.note .body ul {
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
+.note .body img {
+  max-width: 800px;
+}
+
+.footer {
+  font-size: 12pt;
+  color: #999;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.paging {
+  text-align: center;
+  padding: 40px 0;
+  color: #777;
+}
+
+@media all and (max-width: 799px) {
+  body {
+    font-size: 14pt;
+  }
+
+  .note > div {
+    padding: 0 20px;
+  }
+
+  .note .body .media {
+    margin: 0 -20px 20px;
+  }
+
+  .note .body .media iframe {
+    margin: 0 !important;
+  }
+
+  .top {
+    font-size: 20pt;
+    margin: 20px;
+  }
+
+  .note .title {
+    font-size: 15pt;
+  }
+
+  .note .body blockquote {
+    margin: 20px -20px;
+  }
+
+  .note .body img {
+    max-width: 100%;
+    max-width: calc(100% + 40px);
+    margin-left: -20px;
+  }
+}
