@@ -4,6 +4,6 @@ Date: 2014-10-03
 Tags: анимация
 ---
 
-http://youtube.com/watch?v=3isgh
+https://coub.com/view/3isgh
 
 Шикарно!

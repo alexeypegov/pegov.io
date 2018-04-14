@@ -10,61 +10,103 @@ body {
   margin: 0;
 
   font-size: 16pt;
+  font-size: 1.7vw;
+
   font-family: 'Vollkorn', serif;
 }
 
 .top {
-  font-size: 50pt;
   text-align: center;
-  margin: 0.7em 0;
+  margin: 30px 0 50px;
 }
 
-.top > a {
-    color: #000;
-    text-decoration: none;
+.top .title {
+  font-size: 50pt;
+  font-size: 4vw;
 }
 
-.top > a:hover {
+.top .title > a {
+  color: #000;
+  text-decoration: none;
+}
+
+.top .title > a:hover {
   color: #444;
+}
+
+.top .menu a {
+  text-decoration: none;
+}
+
+.top .menu a ~ a {
+  padding-left: 20px;
+}
+
+.top .menu a:hover {
+  text-decoration: underline;
 }
 
 .notes {
   display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .note {
-  width: 800px;
+  width: 60vw;
+
+  color: #444;
+}
+
+.note ~ .note {
+  margin-top: 3em;
 }
 
 .note .title {
   font-weight: bold;
   font-size: 20pt;
+  font-size: 2.3vw;
+
+  color: #000;
 }
 
 .note .date {
   font-size: 12pt;
+  font-size: 1.3vw;
   color: #999;
 }
 
 .note .body {
-  margin: 10px 0 60px 0;
+  margin-top: 10px;
 }
 
 .note .body .media {
   position: relative;
 
   display: flex;
-  margin: 0 0 20px;
   justify-content: space-around;
 }
 
+.note .body * ~ p,
+.note .body * ~ ol,
+.note .body * ~ ul,
+.note .body * ~ pre,
+.note .body * ~ blockquote {
+  margin-top: 1em;
+}
+
 .note .body blockquote {
-  border-left: 4px solid #EDA017;
+  padding: 10px 10px 10px 40px;
+  border-left: 2px solid #1E90FF;
+}
+
+.note .body pre {
+  background-color: #eee;
   padding: 10px;
-  margin: 20px 0;
-  background-color: #efefef;
+  border-radius: 5px;
+  font-size: 1.2vw;
+  white-space: pre-wrap;
 }
 
 .note .body .media iframe {
@@ -75,18 +117,19 @@ body {
   height: 100% !important;
 }
 
-.note .body ul {
-  padding-left: 20px;
-  margin: 20px 0;
+.note .body ul, ol {
+  padding-left: 40px;
 }
 
 .note .body img {
   max-width: 800px;
+  max-width: 60vw;
 }
 
 .footer {
   font-size: 12pt;
-  color: #999;
+  font-size: 1.5vw;
+  color: #bbb;
   text-align: center;
   padding: 10px 0;
 }
@@ -102,8 +145,16 @@ body {
     font-size: 14pt;
   }
 
+  .note {
+    width: 100%;
+  }
+
   .note > div {
     padding: 0 20px;
+  }
+
+  .note .date {
+    font-size: 10pt;
   }
 
   .note .body .media {
@@ -131,5 +182,9 @@ body {
     max-width: 100%;
     max-width: calc(100% + 40px);
     margin-left: -20px;
+  }
+
+  .footer {
+    font-size: 12pt;
   }
 }

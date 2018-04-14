@@ -8,6 +8,7 @@ general:
   static:
     - theme/styles/
     - posts/images/
+    - pages/
 
 vars:
   blog_title: Ложное движение

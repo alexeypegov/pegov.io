@@ -5,4 +5,5 @@ Tags: слушаю
 ---
 
 ![Image](images/ryan_davis_the_wolve.jpg)
+
 Шикарный [релиз](http://www.discogs.com/Ryan-Davis-The-Wolve/release/2417398)!

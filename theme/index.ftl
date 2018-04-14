@@ -7,7 +7,13 @@
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
 <body>
-<div class="top"><a href="index.html">Ложное движение</a></div>
+<div class="top">
+  <div class="title"><a href="index.html">Ложное движение</a></div>
+  <div class="menu">
+    <a href="pages/about.html">О блоге</a>
+    <a href="pages/subscription.html">Подписка</a>
+  </div>
+</div>
 <div class="notes">
 <#list notes as note>
 <div class="note">
@@ -16,9 +22,9 @@
 </#list>
 </div>
 <div class="paging">
-<#if prev gt 0>
+<#if prev gt 1>
 <a href="page-${prev}.html">предыдущая</a>
-<#elseif prev == 0>
+<#elseif prev == 1>
 <a href="index.html">предыдущая</a>
 <#else>
 <a nohref>предыдущая</a>
