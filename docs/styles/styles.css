@@ -18,9 +18,7 @@ body {
 .top {
   text-align: center;
   margin: 30px 0 50px;
-}
 
-.top .title {
   font-size: 50pt;
   font-size: 4vw;
 }
@@ -145,12 +143,21 @@ body {
     font-size: 14pt;
   }
 
+  .top {
+    margin: 20px 0 30px;
+    font-size: 20pt;
+  }
+
+  .top .menu {
+    font-size: 14pt;
+  }
+
   .note {
     width: 100%;
   }
 
   .note > div {
-    padding: 0 20px;
+    padding: 0 10px;
   }
 
   .note .date {
@@ -158,30 +165,25 @@ body {
   }
 
   .note .body .media {
-    margin: 0 -20px 20px;
+    margin: 0 -10px 20px;
+  }
+
+  .note .body ul, ol {
+    padding-left: 15px;
   }
 
   .note .body .media iframe {
     margin: 0 !important;
   }
 
-  .top {
-    font-size: 20pt;
-    margin: 20px;
-  }
-
   .note .title {
     font-size: 15pt;
   }
 
-  .note .body blockquote {
-    margin: 20px -20px;
-  }
-
   .note .body img {
     max-width: 100%;
-    max-width: calc(100% + 40px);
-    margin-left: -20px;
+    max-width: calc(100% + 20px);
+    margin-left: -10px;
   }
 
   .footer {

@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>${blog_title}</title>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
-  </head>
-<body>
-<div class="top">
-  <div class="title"><a href="index.html">Ложное движение</a></div>
-  <div class="menu">
-    <a href="pages/about.html">О блоге</a>
-    <a href="pages/subscription.html">Подписка</a>
-  </div>
-</div>
+<#include "header.ftl">
 <div class="notes">
 <#list notes as note>
 <div class="note">
@@ -36,6 +21,4 @@
 <a nohref>следующая</a>
 </#if>
 </div>
-<div class="footer">&copy; Алексей Пегов 2009-2018</div>
-</body>
-</html>
+<#include "footer.ftl">

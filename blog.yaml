@@ -5,10 +5,12 @@ general:
   theme: theme/
   output: docs/
   notes-per-page: 10
-  static:
+  copy:
     - theme/styles/
     - posts/images/
-    - pages/
+  pages:
+    - about
+    - subscription
 
 vars:
   blog_title: Ложное движение
