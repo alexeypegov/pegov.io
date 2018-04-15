@@ -146,18 +146,18 @@ body {
 @media all and (max-width: 799px) {
   body {
     font-size: 14pt;
-    font-size: 4vw;
+    font-size: 3vmax;
   }
 
   .top {
     margin: 20px 0 30px;
     font-size: 20pt;
-    font-size: 6vw;
+    font-size: 5vmax;
   }
 
   .top .menu {
     font-size: 14pt;
-    font-size: 4vw;
+    font-size: 3vmax;
   }
 
   .note {
@@ -170,12 +170,12 @@ body {
 
   .note .title {
     font-size: 15pt;
-    font-size: 5vw;
+    font-size: 4vmax;
   }
 
   .note .date {
     font-size: 10pt;
-    font-size: 3vw;
+    font-size: 2vmax;
   }
 
   .note .body .media {
@@ -198,6 +198,6 @@ body {
 
   .footer {
     font-size: 12pt;
-    font-size: 3vw;
+    font-size: 2vmax;
   }
 }
