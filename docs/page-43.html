@@ -3,7 +3,7 @@
   <head>
     <title>Ложное движение</title>
     <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
 <body>
@@ -90,10 +90,24 @@
 </div>
 </div>
 <div class="paging">
-<a href="page-42.html">предыдущая</a>
+<a id="prev" href="page-42.html">предыдущая</a>
 &#151;
-<a href="page-44.html">следующая</a>
+<a id="next" href="page-44.html">следующая</a>
 </div>
+<script src="js/pure-swipe.min.js"></script>
+<script type="text/javascript">
+  const f = function(id) {
+    return function() {
+      const anchor = document.getElementById(id);
+      if (anchor && anchor.getAttribute("href")) {
+        anchor.click();
+      }
+    }
+  };
+
+  document.addEventListener('swiped-left', f('next'));
+  document.addEventListener('swiped-right', f('prev'));
+</script>
 
 <div class="footer">&copy; Алексей Пегов 2009-2018</div>
 </body>

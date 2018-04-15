@@ -7,6 +7,7 @@ general:
   notes-per-page: 10
   copy:
     - theme/styles/
+    - theme/js/
     - posts/images/
   pages:
     - about

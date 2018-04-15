@@ -150,14 +150,14 @@ body {
   }
 
   .top {
-    margin: 20px 0 30px;
+    margin: 1em 0;
     font-size: 20pt;
-    font-size: 5vmax;
+    font-size: 6vmax;
   }
 
   .top .menu {
     font-size: 14pt;
-    font-size: 3vmax;
+    font-size: 4vmax;
   }
 
   .note {
@@ -198,6 +198,6 @@ body {
 
   .footer {
     font-size: 12pt;
-    font-size: 2vmax;
+    font-size: 3vmax;
   }
 }
