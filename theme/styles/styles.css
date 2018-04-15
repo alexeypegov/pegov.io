@@ -146,7 +146,7 @@ body {
 @media all and (max-width: 799px) {
   body {
     font-size: 14pt;
-    font-size: 4vmax;
+    font-size: 3.5vmax;
   }
 
   .top {
