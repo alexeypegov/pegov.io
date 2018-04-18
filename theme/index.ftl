@@ -1,9 +1,7 @@
 <#include "header.ftl">
 <div class="notes">
-<#list notes as note>
-<div class="note">
+<#list items as note>
   <#include "note_body.ftl">
-</div>
 </#list>
 </div>
 <div class="paging">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>${blog_title}</title>
+    <title>${vars.blog_title}</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>

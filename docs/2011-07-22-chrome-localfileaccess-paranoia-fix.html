@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Ложное движение</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+  </head>
+<body>
+<div class="top">
+  <div class="title"><a href="index.html">Ложное движение</a></div>
+  <div class="menu">
+    <a href="about.html">О блоге</a>
+    <a href="subscription.html">Подписка</a>
+  </div>
+</div>
+<div class="notes single-note">
+<div class="note">
+  <div class="title"><a href="2011-07-22-chrome-localfileaccess-paranoia-fix.html">Chrome local-file-access paranoia fix</a></div>
+  <div class="date">2011-07-22</div>
+  <div class="body"><p>Чтобы подебажить html5 dnd картинок в хроме надо немного запариться:</p>
+<pre><code>cd /Applications/Google\ Chrome.app/Contents/MacOS
+sudo mv Google\ Chrome Chrome
+sudo sh -c 'echo &quot;/Applications/Google\ Chrome.app/Contents/MacOS/Chrome --allow-file-access-from-files --allow-file-access&quot; &gt; Google\ Chrome'
+sudo chmod +x Google\ Chrome
+</code></pre>
+</div>
+</div>
+</div>
+
+<div class="footer">&copy; Алексей Пегов 2009-2018</div>
+</body>
+</html>
