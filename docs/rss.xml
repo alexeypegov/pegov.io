@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://pegov.io' rel='self' type='application/rss+xml'/>
+<title>
+Ложное движение
+</title>
+<link>
+http://pegov.io
+</link>
+<description>
+Ложное движение
+</description>
+<lastBuildDate>
+Thu, 19 Apr 2018 23:26:31 +0300
+</lastBuildDate>
+<pubDate>
+Thu, 19 Apr 2018 23:26:31 +0300
+</pubDate>
+<ttl>
+60
+</ttl>
+<generator>
+clj-rss
+</generator>
+<item>
+<title>
+<![CDATA[Описание тарифа]]>
+</title>
+<link>
+http://pegov.io/2018-04-12-описание-тарифа.html
+</link>
+<guid>
+2018-04-12-описание-тарифа
+</guid>
+<pubDate>
+Thu, 12 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><img src="images/perehodi-na-nol.jpg" alt="Переходи на Ноль" /></p>
+<p>Всегда было интересно посмотреть на людей, которые придумывают такое.</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Новояз]]>
+</title>
+<link>
+http://pegov.io/2018-04-12-новояз.html
+</link>
+<guid>
+2018-04-12-новояз
+</guid>
+<pubDate>
+Thu, 12 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p>Звонит Тимур:</p>
+<p>— Папа, а вот я сейчас пойду гулять, можно я круассанчики в <em>подкрепку</em> возьму?</p>
+<p>Вот так слово за слово и перестанешь вообще что-либо понимать :)</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Пленка]]>
+</title>
+<link>
+http://pegov.io/2018-04-08-film-camera.html
+</link>
+<guid>
+2018-04-08-film-camera
+</guid>
+<pubDate>
+Sun, 08 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 66.60000085830688%;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/alexeypegov/41072922792/" title="IMG_13 by alexeypegov, on Flickr"><img alt="IMG_13" height="666" src="https://noembed.com/i/https://farm1.staticflickr.com/874/41072922792_8bf8c766ea_b.jpg" width="1000"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div></p>
+<p>Снова фотографирую на пленку!</p>
+<p>И веду блог!</p>
+<p>Вот.</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[GoGo Penguin Live from Old Grenada Studios]]>
+</title>
+<link>
+http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html
+</link>
+<guid>
+2016-11-29-gogo-penguin-live-from-old-grenada-studios
+</guid>
+<pubDate>
+Tue, 29 Nov 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/UokxELNWkJ4?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[АлоэВера]]>
+</title>
+<link>
+http://pegov.io/2016-10-31-алоэвера.html
+</link>
+<guid>
+2016-10-31-алоэвера
+</guid>
+<pubDate>
+Mon, 31 Oct 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/H81D-04qpRM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Очень приятная :)</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[ГШ]]>
+</title>
+<link>
+http://pegov.io/2016-10-03-гш.html
+</link>
+<guid>
+2016-10-03-гш
+</guid>
+<pubDate>
+Mon, 03 Oct 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/xle4KXGwGlk?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Клевые ребята)</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Bellaluz Gutierrez Danza]]>
+</title>
+<link>
+http://pegov.io/2016-09-28-bellaluz-gutierrez-danza.html
+</link>
+<guid>
+2016-09-28-bellaluz-gutierrez-danza
+</guid>
+<pubDate>
+Wed, 28 Sep 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><a href="http://youtube.com/watch?v=YVNVwWS9jJY">http://youtube.com/watch?v=YVNVwWS9jJY</a></p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Электронная осень]]>
+</title>
+<link>
+http://pegov.io/2016-09-24-электронная-осень.html
+</link>
+<guid>
+2016-09-24-электронная-осень
+</guid>
+<pubDate>
+Sat, 24 Sep 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p>Не часто сейчас слушаю электронику, но как-то так получилось, что за последние пару месяцев вышло аж три альбома, которые хочется упомянуть:</p>
+<ul>
+<li>CloZee с их EP'шкой <a href="https://www.discogs.com/CloZee-Revolution/release/8804994">Revolution</a>, узнал про ребят из музыкального обзора <a href="http://meduza.io">Медузы</a> (в котором, к слову, частенько нахожу что-то новое и приятное).</li>
+<li>Новый альбом старых знакомых Pitch Black – <a href="https://www.discogs.com/Pitch-Black-Filtered-Senses/master/1051785">Filtered Senses</a> напомнил мне звуком Massive Attack и Leftfield одновременно (переслушал по этому поводу ставший уже классикой <a href="https://www.discogs.com/Leftfield-Leftism/master/66073">Leftism</a> 1995 года).</li>
+<li>И на сладкое очень драйвовый диск от Birdy Nam Nam – <a href="https://www.discogs.com/Birdy-Nam-Nam-Dance-Or-Die/master/1060105">Dance or Die</a>, огонь!</li>
+</ul>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Первый класс]]>
+</title>
+<link>
+http://pegov.io/2016-09-01-первый-класс.html
+</link>
+<guid>
+2016-09-01-первый-класс
+</guid>
+<pubDate>
+Thu, 01 Sep 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><img src="images/01092016.jpg" alt="01092016.jpg" /></p>
+<p>Парень так вырос, что пошел сегодня в первый класс)</p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Swiss Army Man]]>
+</title>
+<link>
+http://pegov.io/2016-08-30-swiss-army-man.html
+</link>
+<guid>
+2016-08-30-swiss-army-man
+</guid>
+<pubDate>
+Tue, 30 Aug 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><img src="images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
+<p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
+]]>
+</description>
+</item>
+</channel>
+</rss>
