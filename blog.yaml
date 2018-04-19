@@ -5,6 +5,9 @@ general:
   theme: theme/
   output: docs/
   notes-per-page: 10
+  rss:
+    cout: 10
+    url-prefix: http://pegov.io/
   copy:
     - theme/styles/
     - theme/js/
@@ -15,3 +18,5 @@ general:
 
 vars:
   blog_title: Ложное движение
+  blog_url: http://pegov.io
+  blog_description: Ложное движение

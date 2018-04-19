@@ -107,8 +107,10 @@ body {
 }
 
 .note .body blockquote {
-  padding: 10px 10px 10px 40px;
+  margin: 1em;
+  padding-left: 1em;
   border-left: 2px solid #1E90FF;
+  color: #777;
 }
 
 .note .body pre {
@@ -179,7 +181,7 @@ body {
   }
 
   .note .date {
-    font-size: 10pt;
+    font-size: 12pt;
   }
 
   .note .body .media {
@@ -188,6 +190,10 @@ body {
 
   .note .body ul, ol {
     padding-left: 15px;
+  }
+
+  .note .body blockquote {
+    margin: 1em 0;
   }
 
   .note .body .media iframe {
