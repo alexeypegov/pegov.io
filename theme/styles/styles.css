@@ -201,8 +201,8 @@ body {
   }
 
   .note .body img {
-    max-width: 100%;
-    max-width: calc(100% + 20px);
+    width: 100%;
+    width: calc(100% + 20px);
     margin-left: -10px;
   }
 
