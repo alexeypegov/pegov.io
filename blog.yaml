@@ -20,3 +20,4 @@ general:
 vars:
   blog-title: Ложное движение
   blog-url: http://pegov.io
+  rss-url: http://feeds.feedburner.com/false-movement

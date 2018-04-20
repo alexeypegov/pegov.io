@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Fri, 20 Apr 2018 09:57:33 +0300
+Fri, 20 Apr 2018 10:09:28 +0300
 </lastBuildDate>
 <pubDate>
-Fri, 20 Apr 2018 09:57:33 +0300
+Fri, 20 Apr 2018 10:09:28 +0300
 </pubDate>
 <ttl>
 60
@@ -23,25 +23,6 @@ Fri, 20 Apr 2018 09:57:33 +0300
 <generator>
 clj-rss
 </generator>
-<item>
-<title>
-<![CDATA[Описание тарифа]]>
-</title>
-<link>
-http://pegov.io/2018-04-12-описание-тарифа.html
-</link>
-<guid>
-2018-04-12-описание-тарифа
-</guid>
-<pubDate>
-Thu, 12 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/perehodi-na-nol.jpg" alt="Переходи на Ноль" /></p>
-<p>Всегда было интересно посмотреть на людей, которые придумывают такое.</p>
-]]>
-</description>
-</item>
 <item>
 <title>
 <![CDATA[Новояз]]>
@@ -221,6 +202,26 @@ Tue, 30 Aug 2016 00:00:00 +0300
 <description>
 <![CDATA[<p><img src="http://pegov.io/images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
 <p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Kinetic Sculptures]]>
+</title>
+<link>
+http://pegov.io/2016-08-28-kinetic-sculptures.html
+</link>
+<guid>
+2016-08-28-kinetic-sculptures
+</guid>
+<pubDate>
+Sun, 28 Aug 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/PIbk4AKFMTc?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
 ]]>
 </description>
 </item>
