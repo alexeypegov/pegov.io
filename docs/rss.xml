@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Thu, 19 Apr 2018 23:26:31 +0300
+Fri, 20 Apr 2018 09:54:05 +0300
 </lastBuildDate>
 <pubDate>
-Thu, 19 Apr 2018 23:26:31 +0300
+Fri, 20 Apr 2018 09:54:05 +0300
 </pubDate>
 <ttl>
 60
@@ -28,7 +28,7 @@ clj-rss
 <![CDATA[Описание тарифа]]>
 </title>
 <link>
-http://pegov.io/2018-04-12-описание-тарифа.html
+//pegov.io/2018-04-12-описание-тарифа.html
 </link>
 <guid>
 2018-04-12-описание-тарифа
@@ -37,7 +37,7 @@ http://pegov.io/2018-04-12-описание-тарифа.html
 Thu, 12 Apr 2018 00:00:00 +0300
 </pubDate>
 <description>
-<![CDATA[<p><img src="images/perehodi-na-nol.jpg" alt="Переходи на Ноль" /></p>
+<![CDATA[<p><img src="//pegov.io/images/perehodi-na-nol.jpg" alt="Переходи на Ноль" /></p>
 <p>Всегда было интересно посмотреть на людей, которые придумывают такое.</p>
 ]]>
 </description>
@@ -47,7 +47,7 @@ Thu, 12 Apr 2018 00:00:00 +0300
 <![CDATA[Новояз]]>
 </title>
 <link>
-http://pegov.io/2018-04-12-новояз.html
+//pegov.io/2018-04-12-новояз.html
 </link>
 <guid>
 2018-04-12-новояз
@@ -67,7 +67,7 @@ Thu, 12 Apr 2018 00:00:00 +0300
 <![CDATA[Пленка]]>
 </title>
 <link>
-http://pegov.io/2018-04-08-film-camera.html
+//pegov.io/2018-04-08-film-camera.html
 </link>
 <guid>
 2018-04-08-film-camera
@@ -88,7 +88,7 @@ Sun, 08 Apr 2018 00:00:00 +0300
 <![CDATA[GoGo Penguin Live from Old Grenada Studios]]>
 </title>
 <link>
-http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html
+//pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html
 </link>
 <guid>
 2016-11-29-gogo-penguin-live-from-old-grenada-studios
@@ -108,7 +108,7 @@ Tue, 29 Nov 2016 00:00:00 +0300
 <![CDATA[АлоэВера]]>
 </title>
 <link>
-http://pegov.io/2016-10-31-алоэвера.html
+//pegov.io/2016-10-31-алоэвера.html
 </link>
 <guid>
 2016-10-31-алоэвера
@@ -129,7 +129,7 @@ Mon, 31 Oct 2016 00:00:00 +0300
 <![CDATA[ГШ]]>
 </title>
 <link>
-http://pegov.io/2016-10-03-гш.html
+//pegov.io/2016-10-03-гш.html
 </link>
 <guid>
 2016-10-03-гш
@@ -150,7 +150,7 @@ Mon, 03 Oct 2016 00:00:00 +0300
 <![CDATA[Bellaluz Gutierrez Danza]]>
 </title>
 <link>
-http://pegov.io/2016-09-28-bellaluz-gutierrez-danza.html
+//pegov.io/2016-09-28-bellaluz-gutierrez-danza.html
 </link>
 <guid>
 2016-09-28-bellaluz-gutierrez-danza
@@ -168,7 +168,7 @@ Wed, 28 Sep 2016 00:00:00 +0300
 <![CDATA[Электронная осень]]>
 </title>
 <link>
-http://pegov.io/2016-09-24-электронная-осень.html
+//pegov.io/2016-09-24-электронная-осень.html
 </link>
 <guid>
 2016-09-24-электронная-осень
@@ -191,7 +191,7 @@ Sat, 24 Sep 2016 00:00:00 +0300
 <![CDATA[Первый класс]]>
 </title>
 <link>
-http://pegov.io/2016-09-01-первый-класс.html
+//pegov.io/2016-09-01-первый-класс.html
 </link>
 <guid>
 2016-09-01-первый-класс
@@ -200,7 +200,7 @@ http://pegov.io/2016-09-01-первый-класс.html
 Thu, 01 Sep 2016 00:00:00 +0300
 </pubDate>
 <description>
-<![CDATA[<p><img src="images/01092016.jpg" alt="01092016.jpg" /></p>
+<![CDATA[<p><img src="//pegov.io/images/01092016.jpg" alt="01092016.jpg" /></p>
 <p>Парень так вырос, что пошел сегодня в первый класс)</p>
 ]]>
 </description>
@@ -210,7 +210,7 @@ Thu, 01 Sep 2016 00:00:00 +0300
 <![CDATA[Swiss Army Man]]>
 </title>
 <link>
-http://pegov.io/2016-08-30-swiss-army-man.html
+//pegov.io/2016-08-30-swiss-army-man.html
 </link>
 <guid>
 2016-08-30-swiss-army-man
@@ -219,7 +219,7 @@ http://pegov.io/2016-08-30-swiss-army-man.html
 Tue, 30 Aug 2016 00:00:00 +0300
 </pubDate>
 <description>
-<![CDATA[<p><img src="images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
+<![CDATA[<p><img src="//pegov.io/images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
 <p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
 ]]>
 </description>
