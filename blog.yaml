@@ -12,6 +12,7 @@ general:
   copy:
     - theme/styles/
     - theme/js/
+    - theme/i/
     - posts/images/
   pages:
     - about
