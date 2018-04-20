@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Fri, 20 Apr 2018 10:47:42 +0300
+Fri, 20 Apr 2018 16:03:55 +0300
 </lastBuildDate>
 <pubDate>
-Fri, 20 Apr 2018 10:47:42 +0300
+Fri, 20 Apr 2018 16:03:55 +0300
 </pubDate>
 <ttl>
 60
@@ -23,6 +23,26 @@ Fri, 20 Apr 2018 10:47:42 +0300
 <generator>
 clj-rss
 </generator>
+<item>
+<title>
+<![CDATA[Lianne La Havas]]>
+</title>
+<link>
+http://pegov.io/2018-04-20-lianne-la-havas.html
+</link>
+<guid>
+2018-04-20-lianne-la-havas
+</guid>
+<pubDate>
+Fri, 20 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><img src="http://pegov.io/images/lianne-la-havas-blood.jpg" alt="lianne-la-havas-blood.jpg" /></p>
+<p>Очень приятный <a href="https://www.discogs.com/Lianne-La-Havas-Blood/release/7294987">альбом</a>!</p>
+<p>Ну и вдогонку, новый <a href="https://www.discogs.com/Sly-Robbie-Meets-Nils-Petter-Molv%C3%A6r-Feat-Eivind-Aarset-And-Vladislav-Delay-Nordub/master/1348090">Nils Petter Molvær сотоварищи</a> тоже очень хорош!</p>
+]]>
+</description>
+</item>
 <item>
 <title>
 <![CDATA[Новояз]]>
@@ -202,26 +222,6 @@ Tue, 30 Aug 2016 00:00:00 +0300
 <description>
 <![CDATA[<p><img src="http://pegov.io/images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
 <p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
-]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Kinetic Sculptures]]>
-</title>
-<link>
-http://pegov.io/2016-08-28-kinetic-sculptures.html
-</link>
-<guid>
-2016-08-28-kinetic-sculptures
-</guid>
-<pubDate>
-Sun, 28 Aug 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/PIbk4AKFMTc?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
 ]]>
 </description>
 </item>
