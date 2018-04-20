@@ -6,7 +6,7 @@ general:
   output: docs/
   notes-per-page: 10
   date-format: yyyy-MM-dd
-  base-url: //pegov.io/
+  base-url: http://pegov.io/
   rss:
     count: 10
   copy:
