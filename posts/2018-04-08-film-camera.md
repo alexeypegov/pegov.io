@@ -6,7 +6,7 @@ Tags:
   - Тимур
 ---
 
-https://www.flickr.com/photos/alexeypegov/41072922792/
+![20180408.jpg](images/20180408.jpg)
 
 Снова фотографирую на пленку!
 

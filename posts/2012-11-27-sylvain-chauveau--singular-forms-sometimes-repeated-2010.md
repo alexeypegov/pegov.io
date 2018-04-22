@@ -1,5 +1,5 @@
 ---
-Title: Sylvain Chauveau - Singular Forms (Sometimes Repeated) (2010)
+Title: Sylvain Chauveau - Singular Forms (Sometimes Repeated)
 Date: 2012-11-27
 Tags:
   - слушаю

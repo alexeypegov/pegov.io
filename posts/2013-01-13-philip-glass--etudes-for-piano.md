@@ -4,6 +4,6 @@ Date: 2013-01-13
 Tags: слушаю
 ---
 
-http://youtube.com/watch?v=ahMYM8hP2fg
+https://www.youtube.com/watch?v=hebUyOR6B2c
 
 Вообще, все этюды очень клевые!

@@ -3,7 +3,8 @@ Title: It's not the miles, it's how you live them
 Date: 2012-10-06
 Tags:
   - саптрю
-  - commercial
+  - ad
+  - volkswagen
 ---
 
-http://youtube.com/watch?v=PR_UYx4vSPs
+https://www.youtube.com/watch?v=uW-iZgZcQ0I

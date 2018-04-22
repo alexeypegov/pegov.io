@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Fri, 20 Apr 2018 16:03:55 +0300
+Sun, 22 Apr 2018 14:35:32 +0300
 </lastBuildDate>
 <pubDate>
-Fri, 20 Apr 2018 16:03:55 +0300
+Sun, 22 Apr 2018 14:35:32 +0300
 </pubDate>
 <ttl>
 60
@@ -77,7 +77,7 @@ http://pegov.io/2018-04-08-film-camera.html
 Sun, 08 Apr 2018 00:00:00 +0300
 </pubDate>
 <description>
-<![CDATA[<p><div class="media" style="padding-top: 66.60000085830688%;"><a data-flickr-embed="true" href="https://www.flickr.com/photos/alexeypegov/41072922792/" title="IMG_13 by alexeypegov, on Flickr"><img alt="IMG_13" height="666" src="https://noembed.com/i/https://farm1.staticflickr.com/874/41072922792_8bf8c766ea_b.jpg" width="1000"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></div></p>
+<![CDATA[<p><img src="http://pegov.io/images/20180408.jpg" alt="20180408.jpg" /></p>
 <p>Снова фотографирую на пленку!</p>
 <p>И веду блог!</p>
 <p>Вот.</p>
@@ -148,24 +148,6 @@ Mon, 03 Oct 2016 00:00:00 +0300
 </item>
 <item>
 <title>
-<![CDATA[Bellaluz Gutierrez Danza]]>
-</title>
-<link>
-http://pegov.io/2016-09-28-bellaluz-gutierrez-danza.html
-</link>
-<guid>
-2016-09-28-bellaluz-gutierrez-danza
-</guid>
-<pubDate>
-Wed, 28 Sep 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><a href="http://youtube.com/watch?v=YVNVwWS9jJY">http://youtube.com/watch?v=YVNVwWS9jJY</a></p>
-]]>
-</description>
-</item>
-<item>
-<title>
 <![CDATA[Электронная осень]]>
 </title>
 <link>
@@ -222,6 +204,26 @@ Tue, 30 Aug 2016 00:00:00 +0300
 <description>
 <![CDATA[<p><img src="http://pegov.io/images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
 <p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
+]]>
+</description>
+</item>
+<item>
+<title>
+<![CDATA[Kinetic Sculptures]]>
+</title>
+<link>
+http://pegov.io/2016-08-28-kinetic-sculptures.html
+</link>
+<guid>
+2016-08-28-kinetic-sculptures
+</guid>
+<pubDate>
+Sun, 28 Aug 2016 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/PIbk4AKFMTc?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
 ]]>
 </description>
 </item>

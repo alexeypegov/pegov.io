@@ -4,6 +4,6 @@ Date: 2012-03-17
 Tags: саптрю
 ---
 
-http://vimeo.com/38153447
+https://www.youtube.com/watch?v=pt9wnawn7xQ
 
 Клип-то охуенный.
