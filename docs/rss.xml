@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Sun, 22 Apr 2018 23:54:13 +0300
+Mon, 23 Apr 2018 10:07:53 +0300
 </lastBuildDate>
 <pubDate>
-Sun, 22 Apr 2018 23:54:13 +0300
+Mon, 23 Apr 2018 10:07:53 +0300
 </pubDate>
 <ttl>
 60
@@ -37,13 +37,13 @@ http://pegov.io/2018-04-22-nikon-coolscan.html
 Sun, 22 Apr 2018 00:00:00 +0300
 </pubDate>
 <description>
-<![CDATA[<p>TWIMC.</p>
+<![CDATA[<p>TWIMC</p>
 <ol>
 <li>Лучшая программа для сканирования — <del>VueScan</del> NikonScan.</li>
 <li>Последняя версия — 4.0.3, для запуска требуется Windows Vista. В инете можно нагуглить мануалы для запуска под W7/64bit и может даже W10.</li>
 <li>У меня мак и винды нет, поэтому запустил винду в виртуалке. Раньше их раздавали бесплатно вместе с IE, а теперь <a href="https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/">там остались только W7/10</a>, в итоге пришлось искать на торрентах. Вообще, купил бы, но не продают ведь.</li>
 <li>Под маком у меня в VirtialBox сканер определился, но NikonScan его не увидел, шаманил-шаманил — ни в какую. Поставил <a href="https://www.vmware.com/products/fusion.html">VMware Fusion</a> — и все сразу заработало.</li>
-<li>Интерфейс у NikonScan достаточно оригинальный, особенно интересно спрятан контрол пакетной обработки кадров (если вам так повезло и ваш адаптер такое поддерживает):</li>
+<li>Если вам так повезло и ваш адаптер поддерживает пакетную обработку кадров, то вот где она спрятана в интерфейсу NikonScan'а (картинка из интернетов):</li>
 </ol>
 <p><img src="http://pegov.io/images/nikon-coolscan.jpg" alt="nikon-coolscan.jpg" /></p>
 ]]>
