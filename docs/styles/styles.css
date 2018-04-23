@@ -16,7 +16,7 @@ body {
 
 .top {
   text-align: center;
-  margin: 30px 0 50px;
+  margin: 1em 0;
 
   font-size: 50pt;
 }
@@ -34,16 +34,12 @@ body {
   font-size: 20pt;
 }
 
-.top .menu a {
-  text-decoration: none;
+a {
+  text-decoration-color: #ccf;
 }
 
 .top .menu a ~ a {
   margin-left: 1em;
-}
-
-.top .menu a:hover {
-  text-decoration: underline;
 }
 
 .notes {
@@ -95,22 +91,16 @@ body {
 }
 
 .note .tags {
-  /*margin-left: 1em;*/
   color: #999;
-}
-
-.note .tags:before {
-  /*content: " | ";*/
 }
 
 .note .tag {
   background-color: #eee;
-  /*border-radius: 4px;*/
   padding: 0 4px;
 }
 
 .note .body {
-  margin-top: 10px;
+  margin-top: .5em;
 }
 
 .note .body .media {
@@ -157,6 +147,10 @@ body {
 
 .note .body ul, ol {
   padding-left: 2em;
+}
+
+.note .body li {
+  padding-left: .5em;
 }
 
 .note .body img {
@@ -211,7 +205,7 @@ body {
   }
 
   .note .body ul, ol {
-    padding-left: 15px;
+    padding-left: 1em;
   }
 
   .note .body blockquote {
