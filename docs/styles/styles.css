@@ -54,8 +54,7 @@ a {
   margin-bottom: 2em;
 }
 
-.note,
-.page {
+.note {
   width: 800px;
 
   color: #444;
@@ -83,7 +82,7 @@ a {
 
 .note .sub {
   font-size: 12pt;
-  padding: .5em 0;
+  padding-bottom: .5em;
 }
 
 .note .sub > div {
@@ -125,14 +124,14 @@ a {
   margin-top: 2em;
 }
 
-.note .body blockquote {
+blockquote {
   margin: 1em;
   padding-left: 1em;
   border-left: 2px solid #1E90FF;
   color: #777;
 }
 
-.note .body pre {
+pre {
   background-color: #eee;
   padding: 10px;
   border-radius: 5px;
@@ -140,7 +139,7 @@ a {
   white-space: pre-wrap;
 }
 
-.note .body .media iframe {
+.media iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -148,15 +147,15 @@ a {
   height: 100% !important;
 }
 
-.note .body ul {
+ul {
   list-style: square;
 }
 
-.note .body ul, ol {
+ul, ol {
   padding-left: 2em;
 }
 
-.note .body li {
+li {
   padding-left: .3em;
 }
 
@@ -195,7 +194,7 @@ a {
     width: 100%;
   }
 
-  .note > div {
+  .note > * {
     padding: 0 10px;
   }
 
@@ -211,19 +210,19 @@ a {
     margin: 0 -10px 20px;
   }
 
-  .note .body ul, ol {
+  ul, ol {
     padding-left: 1.5em;
   }
 
-  .note .body blockquote {
+  blockquote {
     margin: 1em 0;
   }
 
-  .note .body .media iframe {
+  .media iframe {
     margin: 0 !important;
   }
 
-  .note .body img {
+  .body img {
     width: 100%;
     width: calc(100% + 20px);
     margin-left: -10px;

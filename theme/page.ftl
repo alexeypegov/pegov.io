@@ -1,5 +1,5 @@
 <#include "header.ftl">
-<div class="page">
+<div class="note">
   <h2>${title}</h2>
   ${body}
 </div>
