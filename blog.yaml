@@ -14,9 +14,7 @@ general:
     - theme/js/
     - theme/i/
     - posts/images/
-  pages:
-    - about
-    - subscription
+  pages: pages/
 
 vars:
   blog-title: Ложное движение

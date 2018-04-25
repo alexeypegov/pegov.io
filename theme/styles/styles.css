@@ -11,7 +11,7 @@ body {
 
   font-size: 18pt;
 
-  font-family: 'Vollkorn', serif;
+  font-family: 'Vollkorn', 'Georgia', serif;
 }
 
 .top {
@@ -43,7 +43,7 @@ a {
   margin-left: 1em;
 }
 
-.notes {
+.container {
   display: flex;
   flex-flow: column;
   justify-content: center;
@@ -54,7 +54,8 @@ a {
   margin-bottom: 2em;
 }
 
-.note {
+.note,
+.page {
   width: 800px;
 
   color: #444;
@@ -81,7 +82,8 @@ a {
 }
 
 .note .sub {
-    font-size: 12pt;
+  font-size: 12pt;
+  padding: .5em 0;
 }
 
 .note .sub > div {
@@ -101,10 +103,6 @@ a {
   padding: 0 4px;
 }
 
-.note .body {
-  margin-top: .5em;
-}
-
 .note .body .media {
   position: relative;
 
@@ -112,12 +110,19 @@ a {
   justify-content: space-around;
 }
 
-.note .body * ~ p,
-.note .body * ~ ol,
-.note .body * ~ ul,
-.note .body * ~ pre,
-.note .body * ~ blockquote {
+* ~ p,
+* ~ ol,
+* ~ ul,
+* ~ pre,
+* ~ blockquote {
   margin-top: 1em;
+}
+
+* ~ h1,
+* ~ h2,
+* ~ h3,
+* ~ h4 {
+  margin-top: 2em;
 }
 
 .note .body blockquote {

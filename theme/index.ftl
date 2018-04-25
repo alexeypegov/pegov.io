@@ -1,9 +1,7 @@
 <#include "header.ftl">
-<div class="notes">
 <#list items as note>
   <#include "note_body.ftl">
 </#list>
-</div>
 <div class="paging">
 <#if prev gt 1>
 <a id="prev" href="page-${prev}.html">предыдущая</a>
