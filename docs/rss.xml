@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Thu, 26 Apr 2018 13:30:27 +0300
+Thu, 26 Apr 2018 16:09:39 +0300
 </lastBuildDate>
 <pubDate>
-Thu, 26 Apr 2018 13:30:27 +0300
+Thu, 26 Apr 2018 16:09:39 +0300
 </pubDate>
 <ttl>
 60
@@ -23,6 +23,28 @@ Thu, 26 Apr 2018 13:30:27 +0300
 <generator>
 clj-rss
 </generator>
+<item>
+<title>
+<![CDATA[Нормально сделать не получается]]>
+</title>
+<link>
+http://pegov.io/2018-04-26-нормально-сделать-не-получается.html
+</link>
+<guid>
+2018-04-26-нормально-сделать-не-получается
+</guid>
+<pubDate>
+Thu, 26 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/HoewNYw7TEc?feature=oembed&amp;start=57" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Самый цимус начинается на 57 секунде.</p>
+<p>Вообще, интересно, что годы идут, люди меняются, там уже не Гейтс, не Баллмер даже, но традиции настолько сильны, что нормально сделать <em>просто не получается</em>.</p>
+]]>
+</description>
+</item>
 <item>
 <title>
 <![CDATA[Gil Evans - Las Vegas Tango]]>
@@ -214,25 +236,6 @@ Sat, 24 Sep 2016 00:00:00 +0300
 <li>Новый альбом старых знакомых Pitch Black – <a href="https://www.discogs.com/Pitch-Black-Filtered-Senses/master/1051785">Filtered Senses</a> напомнил мне звуком Massive Attack и Leftfield одновременно (переслушал по этому поводу ставший уже классикой <a href="https://www.discogs.com/Leftfield-Leftism/master/66073">Leftism</a> 1995 года).</li>
 <li>И на сладкое очень драйвовый диск от Birdy Nam Nam – <a href="https://www.discogs.com/Birdy-Nam-Nam-Dance-Or-Die/master/1060105">Dance or Die</a>, огонь!</li>
 </ul>
-]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Первый класс]]>
-</title>
-<link>
-http://pegov.io/2016-09-01-первый-класс.html
-</link>
-<guid>
-2016-09-01-первый-класс
-</guid>
-<pubDate>
-Thu, 01 Sep 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/01092016.jpg" alt="01092016.jpg" /></p>
-<p>Парень так вырос, что пошел сегодня в первый класс)</p>
 ]]>
 </description>
 </item>
