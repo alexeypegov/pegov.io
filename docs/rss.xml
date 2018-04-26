@@ -12,10 +12,10 @@ http://pegov.io
 Ложное движение
 </description>
 <lastBuildDate>
-Wed, 25 Apr 2018 23:28:27 +0300
+Thu, 26 Apr 2018 12:46:15 +0300
 </lastBuildDate>
 <pubDate>
-Wed, 25 Apr 2018 23:28:27 +0300
+Thu, 26 Apr 2018 12:46:15 +0300
 </pubDate>
 <ttl>
 60
@@ -23,6 +23,27 @@ Wed, 25 Apr 2018 23:28:27 +0300
 <generator>
 clj-rss
 </generator>
+<item>
+<title>
+<![CDATA[Gil Evans - Las Vegas Tango]]>
+</title>
+<link>
+http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html
+</link>
+<guid>
+2018-04-26-gil-evans-las-vegas-tango
+</guid>
+<pubDate>
+Thu, 26 Apr 2018 00:00:00 +0300
+</pubDate>
+<description>
+<![CDATA[<p><div class="media" style="padding-top: 74.94553327560425%;">
+<iframe width=" 459" height="344" src="https://www.youtube.com/embed/PRyqNio3ncA?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Случайно услышал в <a href="https://www.imdb.com/title/tt5598160">одном французском фильме</a>.</p>
+]]>
+</description>
+</item>
 <item>
 <title>
 <![CDATA[Nikon CoolScan V ED]]>
@@ -212,25 +233,6 @@ Thu, 01 Sep 2016 00:00:00 +0300
 <description>
 <![CDATA[<p><img src="http://pegov.io/images/01092016.jpg" alt="01092016.jpg" /></p>
 <p>Парень так вырос, что пошел сегодня в первый класс)</p>
-]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Swiss Army Man]]>
-</title>
-<link>
-http://pegov.io/2016-08-30-swiss-army-man.html
-</link>
-<guid>
-2016-08-30-swiss-army-man
-</guid>
-<pubDate>
-Tue, 30 Aug 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/swiss-army-man.jpg" alt="swiss-army-man.jpg" /></p>
-<p>Очень легкое и веселое кино. <a href="http://www.imdb.com/title/tt4034354">IMDB</a></p>
 ]]>
 </description>
 </item>
