@@ -14,6 +14,7 @@ general:
     - theme/js/
     - theme/i/
     - posts/images/
+    - static/robots.txt
   pages: pages/
 
 vars:
