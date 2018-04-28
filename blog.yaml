@@ -8,6 +8,9 @@ general:
   date-format: yyyy-MM-dd
   base-url: http://pegov.io/
   rss:
+    feeds:
+      - rss
+      - short-rss
     count: 10
   copy:
     - theme/styles/

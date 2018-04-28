@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"/>
     <meta name="description" content=""/>
     <link rel="icon" type="image/png" href="${vars.blog_url}/i/favicon.png">
-    <link rel="alternate" type="application/rss+xml" title="Все записи" href="${vars.rss_url}"/>
+    <link rel="alternate" type="application/rss+xml" title="Все заметки" href="${vars.rss_url}"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
 <body>

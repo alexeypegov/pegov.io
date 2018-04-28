@@ -1,64 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://pegov.io' rel='self' type='application/rss+xml'/>
-<title>
-Ложное движение
-</title>
-<link>
-http://pegov.io
-</link>
-<description>
-Ложное движение
-</description>
-<lastBuildDate>
-Sat, 28 Apr 2018 09:52:15 +0300
-</lastBuildDate>
-<pubDate>
-Sat, 28 Apr 2018 09:52:15 +0300
-</pubDate>
-<ttl>
-60
-</ttl>
-<generator>
-clj-rss
-</generator>
-<item>
-<title>
-<![CDATA[Gil Evans - Las Vegas Tango]]>
-</title>
-<link>
-http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html
-</link>
-<guid>
-2018-04-26-gil-evans-las-vegas-tango
-</guid>
-<pubDate>
-Thu, 26 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><div class="media" style="padding-top: 74.94553327560425%;">
+  <atom:link href='http://pegov.io' rel='self' type='application/rss+xml'/>
+  <title>Ложное движение</title>
+  <link>http://pegov.io</link>
+  <description>Ложное движение</description>
+  <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Thu, 26 Apr 2018 00:00:00 +0300</pubDate>
+  <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Gil Evans - Las Vegas Tango]]></title>
+      <link>http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html</link>
+      <guid>2018-04-26-gil-evans-las-vegas-tango</guid>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><div class="media" style="padding-top: 74.94553327560425%;">
 <iframe width=" 459" height="344" src="https://www.youtube.com/embed/PRyqNio3ncA?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Случайно услышал в <a href="https://www.imdb.com/title/tt5598160">одном французском фильме</a>.</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Nikon CoolScan V ED]]>
-</title>
-<link>
-http://pegov.io/2018-04-22-nikon-coolscan.html
-</link>
-<guid>
-2018-04-22-nikon-coolscan
-</guid>
-<pubDate>
-Sun, 22 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p>TWIMC</p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Nikon CoolScan V ED]]></title>
+      <link>http://pegov.io/2018-04-22-nikon-coolscan.html</link>
+      <guid>2018-04-22-nikon-coolscan</guid>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p>TWIMC</p>
 <ol>
 <li>Лучшая программа для сканирования — <del>VueScan</del> NikonScan.</li>
 <li>Последняя версия — 4.0.3, выпущена в конце нулевых и для запуска потребуется Windows Vista. Потанцевав с бубном можно стартануть под W7/64bit и вроде даже W10 (гуглите).</li>
@@ -69,172 +38,108 @@ Sun, 22 Apr 2018 00:00:00 +0300
 </ol>
 <p><img src="http://pegov.io/images/nikon-coolscan.jpg" alt="nikon-coolscan.jpg" /></p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Lianne La Havas]]>
-</title>
-<link>
-http://pegov.io/2018-04-20-lianne-la-havas.html
-</link>
-<guid>
-2018-04-20-lianne-la-havas
-</guid>
-<pubDate>
-Fri, 20 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/lianne-la-havas-blood.jpg" alt="lianne-la-havas-blood.jpg" /></p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Lianne La Havas]]></title>
+      <link>http://pegov.io/2018-04-20-lianne-la-havas.html</link>
+      <guid>2018-04-20-lianne-la-havas</guid>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/lianne-la-havas-blood.jpg" alt="lianne-la-havas-blood.jpg" /></p>
 <p>Очень приятный <a href="https://www.discogs.com/Lianne-La-Havas-Blood/release/7294987">альбом</a>!</p>
 <p>Ну и вдогонку, новый <a href="https://www.discogs.com/Sly-Robbie-Meets-Nils-Petter-Molv%C3%A6r-Feat-Eivind-Aarset-And-Vladislav-Delay-Nordub/master/1348090">Nils Petter Molvær сотоварищи</a> тоже очень хорош!</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Новояз]]>
-</title>
-<link>
-http://pegov.io/2018-04-12-новояз.html
-</link>
-<guid>
-2018-04-12-новояз
-</guid>
-<pubDate>
-Thu, 12 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p>Звонит Тимур:</p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Новояз]]></title>
+      <link>http://pegov.io/2018-04-12-новояз.html</link>
+      <guid>2018-04-12-новояз</guid>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p>Звонит Тимур:</p>
 <p>— Папа, а вот я сейчас пойду гулять, можно я круассанчики в <em>подкрепку</em> возьму?</p>
 <p>Вот так слово за слово и перестанешь вообще что-либо понимать :)</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Пленка]]>
-</title>
-<link>
-http://pegov.io/2018-04-08-film-camera.html
-</link>
-<guid>
-2018-04-08-film-camera
-</guid>
-<pubDate>
-Sun, 08 Apr 2018 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/20180408.jpg" alt="20180408.jpg" /></p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Пленка]]></title>
+      <link>http://pegov.io/2018-04-08-film-camera.html</link>
+      <guid>2018-04-08-film-camera</guid>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/20180408.jpg" alt="20180408.jpg" /></p>
 <p>Снова фотографирую на пленку!</p>
 <p>И веду блог!</p>
 <p>Вот.</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[GoGo Penguin Live from Old Grenada Studios]]>
-</title>
-<link>
-http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html
-</link>
-<guid>
-2016-11-29-gogo-penguin-live-from-old-grenada-studios
-</guid>
-<pubDate>
-Tue, 29 Nov 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[GoGo Penguin Live from Old Grenada Studios]]></title>
+      <link>http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html</link>
+      <guid>2016-11-29-gogo-penguin-live-from-old-grenada-studios</guid>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/UokxELNWkJ4?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[АлоэВера]]>
-</title>
-<link>
-http://pegov.io/2016-10-31-алоэвера.html
-</link>
-<guid>
-2016-10-31-алоэвера
-</guid>
-<pubDate>
-Mon, 31 Oct 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[АлоэВера]]></title>
+      <link>http://pegov.io/2016-10-31-алоэвера.html</link>
+      <guid>2016-10-31-алоэвера</guid>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/H81D-04qpRM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Очень приятная :)</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[ГШ]]>
-</title>
-<link>
-http://pegov.io/2016-10-03-гш.html
-</link>
-<guid>
-2016-10-03-гш
-</guid>
-<pubDate>
-Mon, 03 Oct 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[ГШ]]></title>
+      <link>http://pegov.io/2016-10-03-гш.html</link>
+      <guid>2016-10-03-гш</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/xle4KXGwGlk?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Клевые ребята)</p>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Электронная осень]]>
-</title>
-<link>
-http://pegov.io/2016-09-24-электронная-осень.html
-</link>
-<guid>
-2016-09-24-электронная-осень
-</guid>
-<pubDate>
-Sat, 24 Sep 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p>Не часто сейчас слушаю электронику, но как-то так получилось, что за последние пару месяцев вышло аж три альбома, которые хочется упомянуть:</p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Электронная осень]]></title>
+      <link>http://pegov.io/2016-09-24-электронная-осень.html</link>
+      <guid>2016-09-24-электронная-осень</guid>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p>Не часто сейчас слушаю электронику, но как-то так получилось, что за последние пару месяцев вышло аж три альбома, которые хочется упомянуть:</p>
 <ul>
 <li>CloZee с их EP'шкой <a href="https://www.discogs.com/CloZee-Revolution/release/8804994">Revolution</a>, узнал про ребят из музыкального обзора <a href="http://meduza.io">Медузы</a> (в котором, к слову, частенько нахожу что-то новое и приятное).</li>
 <li>Новый альбом старых знакомых Pitch Black – <a href="https://www.discogs.com/Pitch-Black-Filtered-Senses/master/1051785">Filtered Senses</a> напомнил мне звуком Massive Attack и Leftfield одновременно (переслушал по этому поводу ставший уже классикой <a href="https://www.discogs.com/Leftfield-Leftism/master/66073">Leftism</a> 1995 года).</li>
 <li>И на сладкое очень драйвовый диск от Birdy Nam Nam – <a href="https://www.discogs.com/Birdy-Nam-Nam-Dance-Or-Die/master/1060105">Dance or Die</a>, огонь!</li>
 </ul>
 ]]>
-</description>
-</item>
-<item>
-<title>
-<![CDATA[Первый класс]]>
-</title>
-<link>
-http://pegov.io/2016-09-01-первый-класс.html
-</link>
-<guid>
-2016-09-01-первый-класс
-</guid>
-<pubDate>
-Thu, 01 Sep 2016 00:00:00 +0300
-</pubDate>
-<description>
-<![CDATA[<p><img src="http://pegov.io/images/01092016.jpg" alt="01092016.jpg" /></p>
+      </description>
+    </item>
+    <item>
+      <title><![CDATA[Первый класс]]></title>
+      <link>http://pegov.io/2016-09-01-первый-класс.html</link>
+      <guid>2016-09-01-первый-класс</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/01092016.jpg" alt="01092016.jpg" /></p>
 <p>Парень так вырос, что пошел сегодня в первый класс)</p>
 ]]>
-</description>
-</item>
+      </description>
+    </item>
 </channel>
 </rss>

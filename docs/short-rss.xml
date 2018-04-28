@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+  <atom:link href='http://pegov.io' rel='self' type='application/rss+xml'/>
+  <title>Ложное движение</title>
+  <link>http://pegov.io</link>
+  <description>Ложное движение</description>
+  <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Thu, 26 Apr 2018 00:00:00 +0300</pubDate>
+  <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Gil Evans - Las Vegas Tango]]></title>
+      <link>http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html</link>
+      <guid>2018-04-26-gil-evans-las-vegas-tango</guid>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Nikon CoolScan V ED]]></title>
+      <link>http://pegov.io/2018-04-22-nikon-coolscan.html</link>
+      <guid>2018-04-22-nikon-coolscan</guid>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Lianne La Havas]]></title>
+      <link>http://pegov.io/2018-04-20-lianne-la-havas.html</link>
+      <guid>2018-04-20-lianne-la-havas</guid>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Новояз]]></title>
+      <link>http://pegov.io/2018-04-12-новояз.html</link>
+      <guid>2018-04-12-новояз</guid>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Пленка]]></title>
+      <link>http://pegov.io/2018-04-08-film-camera.html</link>
+      <guid>2018-04-08-film-camera</guid>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[GoGo Penguin Live from Old Grenada Studios]]></title>
+      <link>http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html</link>
+      <guid>2016-11-29-gogo-penguin-live-from-old-grenada-studios</guid>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[АлоэВера]]></title>
+      <link>http://pegov.io/2016-10-31-алоэвера.html</link>
+      <guid>2016-10-31-алоэвера</guid>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[ГШ]]></title>
+      <link>http://pegov.io/2016-10-03-гш.html</link>
+      <guid>2016-10-03-гш</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Электронная осень]]></title>
+      <link>http://pegov.io/2016-09-24-электронная-осень.html</link>
+      <guid>2016-09-24-электронная-осень</guid>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Первый класс]]></title>
+      <link>http://pegov.io/2016-09-01-первый-класс.html</link>
+      <guid>2016-09-01-первый-класс</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0300</pubDate>
+    </item>
+</channel>
+</rss>
