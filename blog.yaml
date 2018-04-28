@@ -15,6 +15,7 @@ general:
     - theme/i/
     - posts/images/
     - static/robots.txt
+    - static/CNAME
   pages: pages/
 
 vars:
