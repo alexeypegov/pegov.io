@@ -20,7 +20,7 @@
     <link rel="next" id="link-later" href="${later}" />
     </#if>
     <#if recent?exists>
-      <#assign description = "">
+      <#assign description = "\nСвеженькое">
       <#list recent as item>
         <#assign description = description + "\n" + item.title>
       </#list>
