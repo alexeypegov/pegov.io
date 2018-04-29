@@ -1,6 +1,6 @@
 <#include "header.ftl">
 <div class="note">
-  <h2>${title}</h2>
+  <h1>${title}</h1>
   ${body}
 </div>
 <#include "footer.ftl">

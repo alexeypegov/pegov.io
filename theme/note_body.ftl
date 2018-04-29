@@ -1,5 +1,5 @@
 <div class="note">
-  <div class="title"><a href="${note.slug}.html">${note.title}</a></div>
+  <div class="title"><h1><a href="${note.slug}.html">${note.title}</a></h1></div>
   <div class="sub">
     <div class="date">${note.date}</div>
     <div class="tags">

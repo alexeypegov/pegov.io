@@ -44,7 +44,7 @@
   </head>
 <body>
 <div class="top">
-  <div class="title"><a href="index.html">Ложное движение</a></div>
+  <div class="title"><h1><a href="index.html">Ложное движение</a></h1></div>
   <div class="menu">
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
