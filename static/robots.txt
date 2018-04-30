@@ -4,6 +4,7 @@ Disallow: /images/
 Disallow: /js/
 Disallow: /styles/
 Disallow: /rss.xml
+Disallow: /short-rss.xml
 
 
 User-agent: Googlebot
