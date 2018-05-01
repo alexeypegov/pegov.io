@@ -5,10 +5,22 @@
   <title>Ложное движение</title>
   <link>http://pegov.io</link>
   <description>Ложное движение</description>
-  <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0300</lastBuildDate>
-  <pubDate>Mon, 30 Apr 2018 00:00:00 +0300</pubDate>
+  <lastBuildDate>Tue, 01 May 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
   <ttl>60</ttl>
   <generator>Statique 0.1.0-SNAPSHOT</generator>
+    <item>
+      <title><![CDATA[Instagram & co]]></title>
+      <link>http://pegov.io/2018-05-01-instagram.html</link>
+      <guid>2018-05-01-instagram</guid>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p>Смешная вещь, но в поле для ввода кода подтверждения в Инстаграме нельзя ввести оный из бекап набора, как они сами тебе на той же странице и предлагают, потому что у кодов из смс и бекапа не совпадает разрядность, то есть, в смс тебе приходит 6 цифр, а в бекапных кодах их аж 8.</p>
+<p>Другая смещная вещь, что у Инстаграма в принципе, насколько я понимаю, нет живой поддержки; я как-то попробовал написать на support@instagram.com в надежде разрешить проблему, ответ на которую я не нашел в их Help Center, так мне очень смешно ответили что-то вроде &quot;здесь поддержки больше нет и писать сюда не надо — идите в наш Help Center&quot;, то есть &quot;нахуй&quot;.</p>
+<p>Ну, нахуй так нахуй – по фейсбуку вроде не особенно скучаю, думаю, и по инстаграму не буду.</p>
+]]>
+      </description>
+    </item>
     <item>
       <title><![CDATA[О пожарной котлете]]></title>
       <link>http://pegov.io/2018-04-30-о-пожарной-котлете.html</link>
@@ -124,19 +136,6 @@
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/H81D-04qpRM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Очень приятная :)</p>
-]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[ГШ]]></title>
-      <link>http://pegov.io/2016-10-03-гш.html</link>
-      <guid>2016-10-03-гш</guid>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/xle4KXGwGlk?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
-<p>Клевые ребята)</p>
 ]]>
       </description>
     </item>
