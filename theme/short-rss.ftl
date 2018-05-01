@@ -9,6 +9,7 @@
   <lastBuildDate>${date}</lastBuildDate>
   <pubDate>${date}</pubDate>
   <ttl>60</ttl>
+  <generator>${vars.statique}</generator>
   <#list items as note>
     <item>
       <title><![CDATA[${note.title}]]></title>
