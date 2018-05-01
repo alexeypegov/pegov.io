@@ -6,4 +6,4 @@ Title: О блоге
 
 Меня зовут Алексей Пегов, я программист. Живу в Питере, увлекаюсь юзабилити и фотографией, люблю путешествовать и слушать джаз. Обо всем этом я пишу в этом блоге.
 
-Подписаться на обновления можно через [RSS](https://feed.feedburner.com/false-movement) или в Телеграме: [@falsemovement](tg://@falsemovement), а связаться лично через почту: iam[at]alexeypegov.com.
+Подписаться на обновления можно через [RSS](https://feed.feedburner.com/false-movement) или в Телеграме: [@falsemovement](https://t.me/falsemovement), а связаться лично через почту: iam[at]alexeypegov.com.
