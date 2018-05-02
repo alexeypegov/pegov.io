@@ -177,6 +177,10 @@ li {
   padding: 1em 0;
 }
 
+.footer a {
+  color: #ccf;
+}
+
 @media all and (max-width: 799px) {
   body {
     font-size: 14pt;
