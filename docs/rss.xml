@@ -5,10 +5,21 @@
   <title>Ложное движение</title>
   <link>http://pegov.io</link>
   <description>Ложное движение</description>
-  <lastBuildDate>Tue, 15 May 2018 00:00:00 +0300</lastBuildDate>
-  <pubDate>Tue, 15 May 2018 00:00:00 +0300</pubDate>
+  <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
   <ttl>60</ttl>
   <generator>Statique 0.1.0-SNAPSHOT</generator>
+    <item>
+      <title><![CDATA[Манн]]></title>
+      <link>http://pegov.io/2018-06-18-манн.html</link>
+      <guid>2018-06-18-манн</guid>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/knees-mann.jpg" alt="Катя, Манн и коленки" /></p>
+<p>Прочел тут с удовольствием &quot;Будденброков&quot; (к стыду своему Манна до этого не читал). И хотя в финале, как мне показалось, автор слегка не дожал, перефилософствовал и тп, книжка мне так понравилась, что сразу же захотелось все бросить и поехать в тот самый Любек, погулять по его улочкам, выбраться на море в Травемюнде, где непременно посидеть &quot;на камнях&quot;.</p>
+]]>
+      </description>
+    </item>
     <item>
       <title><![CDATA[Лето]]></title>
       <link>http://pegov.io/2018-05-15-лето.html</link>
@@ -123,19 +134,6 @@
         <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/UokxELNWkJ4?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
-]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[АлоэВера]]></title>
-      <link>http://pegov.io/2016-10-31-алоэвера.html</link>
-      <guid>2016-10-31-алоэвера</guid>
-      <pubDate>Mon, 31 Oct 2016 00:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/H81D-04qpRM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
-<p>Очень приятная :)</p>
 ]]>
       </description>
     </item>
