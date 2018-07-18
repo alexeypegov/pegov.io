@@ -5,10 +5,22 @@
   <title>Ложное движение</title>
   <link>http://pegov.io</link>
   <description>Ложное движение</description>
-  <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0300</lastBuildDate>
-  <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
+  <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Thu, 19 Jul 2018 00:00:00 +0300</pubDate>
   <ttl>60</ttl>
   <generator>Statique 0.1.0-SNAPSHOT</generator>
+    <item>
+      <title><![CDATA[Повторения]]></title>
+      <link>http://pegov.io/2018-07-19-повторения.html</link>
+      <guid>2018-07-19-повторения</guid>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
+<p>Я с утра сегодня зачем-то собрал диван. Сейчас пришел и думаю: ну вот зачем — знал ведь, что приду поздно и сразу лягу спать. А теперь пришел — и снова его разбирай. Повел себя как-то совершенно механически.</p>
+<p>А на фото мужик спит, ничего не разбирая, прямо посреди Неаполя.</p>
+]]>
+      </description>
+    </item>
     <item>
       <title><![CDATA[Манн]]></title>
       <link>http://pegov.io/2018-06-18-манн.html</link>
@@ -122,18 +134,6 @@
 <p>Снова фотографирую на пленку!</p>
 <p>И веду блог!</p>
 <p>Вот.</p>
-]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[GoGo Penguin Live from Old Grenada Studios]]></title>
-      <link>http://pegov.io/2016-11-29-gogo-penguin-live-from-old-grenada-studios.html</link>
-      <guid>2016-11-29-gogo-penguin-live-from-old-grenada-studios</guid>
-      <pubDate>Tue, 29 Nov 2016 00:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/UokxELNWkJ4?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
 ]]>
       </description>
     </item>
