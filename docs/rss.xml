@@ -5,10 +5,21 @@
   <title>Ложное движение</title>
   <link>http://pegov.io</link>
   <description>Ложное движение</description>
-  <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0300</lastBuildDate>
-  <pubDate>Thu, 19 Jul 2018 00:00:00 +0300</pubDate>
+  <lastBuildDate>Fri, 08 Aug 1018 00:29:43 +0300</lastBuildDate>
+  <pubDate>Fri, 08 Aug 1018 00:29:43 +0300</pubDate>
   <ttl>60</ttl>
   <generator>Statique 0.1.0-SNAPSHOT</generator>
+    <item>
+      <title><![CDATA[Несоциальность]]></title>
+      <link>http://pegov.io/2018-08-14-antisocial.html</link>
+      <guid>2018-08-14-antisocial</guid>
+      <pubDate>Fri, 08 Aug 1018 00:29:43 +0300</pubDate>
+      <description>
+        <![CDATA[<p><img src="http://pegov.io/images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
+<p>Такое странное ощущение, когда на телефоне нет инстаграмма или твиттера... да и не только в телефоне, а и вообще — нет.</p>
+]]>
+      </description>
+    </item>
     <item>
       <title><![CDATA[Механически]]></title>
       <link>http://pegov.io/2018-07-19-механически.html</link>
@@ -121,19 +132,6 @@
         <![CDATA[<p>Звонит Тимур:</p>
 <p>— Папа, а вот я сейчас пойду гулять, можно я круассанчики в <em>подкрепку</em> возьму?</p>
 <p>Вот так слово за слово и перестанешь вообще что-либо понимать :)</p>
-]]>
-      </description>
-    </item>
-    <item>
-      <title><![CDATA[Пленка]]></title>
-      <link>http://pegov.io/2018-04-08-film-camera.html</link>
-      <guid>2018-04-08-film-camera</guid>
-      <pubDate>Sun, 08 Apr 2018 00:00:00 +0300</pubDate>
-      <description>
-        <![CDATA[<p><img src="http://pegov.io/images/20180408.jpg" alt="20180408.jpg" /></p>
-<p>Снова фотографирую на пленку!</p>
-<p>И веду блог!</p>
-<p>Вот.</p>
 ]]>
       </description>
     </item>
