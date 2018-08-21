@@ -5,10 +5,16 @@
   <title>Ложное движение</title>
   <link>http://pegov.io</link>
   <description>Ложное движение</description>
-  <lastBuildDate>Fri, 08 Aug 1018 00:29:43 +0300</lastBuildDate>
-  <pubDate>Fri, 08 Aug 1018 00:29:43 +0300</pubDate>
+  <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0300</lastBuildDate>
+  <pubDate>Tue, 21 Aug 2018 00:00:00 +0300</pubDate>
   <ttl>60</ttl>
   <generator>Statique 0.1.0-SNAPSHOT</generator>
+    <item>
+      <title><![CDATA[О садистах]]></title>
+      <link>http://pegov.io/2018-08-21-о-садистах.html</link>
+      <guid>2018-08-21-о-садистах</guid>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0300</pubDate>
+    </item>
     <item>
       <title><![CDATA[Несоциальность]]></title>
       <link>http://pegov.io/2018-08-14-antisocial.html</link>
@@ -62,12 +68,6 @@
       <link>http://pegov.io/2018-04-20-lianne-la-havas.html</link>
       <guid>2018-04-20-lianne-la-havas</guid>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Новояз]]></title>
-      <link>http://pegov.io/2018-04-12-новояз.html</link>
-      <guid>2018-04-12-новояз</guid>
-      <pubDate>Thu, 12 Apr 2018 00:00:00 +0300</pubDate>
     </item>
 </channel>
 </rss>
