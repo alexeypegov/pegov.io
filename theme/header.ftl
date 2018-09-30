@@ -21,13 +21,8 @@
     </#if>
     <#if note?exists>
       <#assign description = note.title>
-    <#elseif recent?exists>
-      <#assign description = "\nСвеженькое">
-      <#list recent as item>
-        <#assign description = description + "\n" + item.title>
-      </#list>
     <#else>
-      <#assign description = title>
+      <#assign description = vars.blog_title>
     </#if>
     <meta name="description" content="${description}" />
     <meta name="og:description" content="${description}" />
