@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pegov.io/">
   <title>Ложное движение</title>
-  <link href="http://pegov.io/atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
   <updated>2018-08-27T00:00:00+03:00</updated>
     <entry>
       <title><![CDATA[Автопортрет с сыном]]></title>
       <link href="http://pegov.io/2018-08-27-selfportrait-with-son.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-27-selfportrait-with-son.html" />
       <id>urn:uuid:f6f7cabb-8e85-3ee4-88ea-092d58ab1863</id>
       <updated>2018-08-27T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/bathroom-gang.jpg" alt="Автопортрет с сыном" /></p>
-]]>
+      <content type="xhtml">
+        <p><img src="images/bathroom-gang.jpg" alt="Автопортрет с сыном" /></p>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -23,17 +21,16 @@
     <entry>
       <title><![CDATA[О садистах]]></title>
       <link href="http://pegov.io/2018-08-21-о-садистах.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-21-о-садистах.html" />
       <id>urn:uuid:2659ad9d-0fab-3068-97a3-c312daaf39df</id>
       <updated>2018-08-21T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<blockquote>
+      <content type="xhtml">
+        <blockquote>
 <p>Почему-то в московской больнице мы не ставили детям периферические катетеры. Если новорожденному был нужен антибиотик три раза в день, ему делали укол внутримышечно три раза в день. Сейчас для меня это просто дикость — зачем так мучить ребенка? Это больно, он маленький. Более того, если все-таки разрешалось поставить периферический катетер, мы вызывали реаниматолога. Сейчас я уже знаю, что это базовая, ерундовая манипуляция, которую в Израиле делают каждому ребенку сразу при поступлении, чтобы можно было легко и безболезненно взять анализ, ввести лекарство, ввести жидкость, если он обезвожен.</p>
 </blockquote>
 <p>Интересное из <a href="https://republic.ru/posts/91848?code=a1c0467d1f3862d706a933c9f21a053c">статьи на Репаблике</a> от педиатра, которая переехала в Израиль (можно пройти по ссылке и прочитать бесплатно, правда, кажется, придется зарегаться), и напомнила мне о том, что было много лет назад.</p>
 <p>Я столкнулся с подобным, когда <a href="/2009-05-05-%D0%B2-%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B5.html">лежал в больнице с Егором</a> в 2009 году — ему было 5 лет, и три раза в день ему кололи антибиотик в попу, а мне приходилось его держать, потому что он кричал, плакал и вырывался, и от напряжения весь покрывался сеткой от лопнувших каппиляров. Я ему не родной отец, и от этого ему наверное было еще ужаснее, хотя я и сам очень сильно переживал и не понимал зачем так издеваться над ребенком — зачем нужно врубать свет в 6 или 7 утра и со словами &quot;готовим ребенка&quot; и шприцом в одной руке, словно с пистолетом, вламываться в бокс — не понимал, и до сих пор не могу понять. На третий, кажется, день (не знаю, что там произошло и почему они вдруг до нас так снизошли) мне предложили поставить Егору катетер — такую маленькую херню, для которой нужно сделать один прокол и потом просто вставлять в нее шприц столько раз сколько необходимо. Да, это не избавляет от неприятных ощущений от введения лекарства или необходимости этот катетер раз в несколько дней менять — но блин, это же день и ночь по сравнению с уколами — этим совершенно диким издевательством и садизмом.</p>
 <p>И зачем я про это снова вспомнил.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -43,13 +40,12 @@
     <entry>
       <title><![CDATA[Несоциальность]]></title>
       <link href="http://pegov.io/2018-08-14-antisocial.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-14-antisocial.html" />
       <id>urn:uuid:a4854264-3b09-34eb-9687-1cddf3f4f0fb</id>
       <updated>2018-08-14T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
+      <content type="xhtml">
+        <p><img src="images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
 <p>Такое странное ощущение, когда на телефоне нет инстаграма или твиттера... да и не только в телефоне, а и вообще — нет.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -59,14 +55,13 @@
     <entry>
       <title><![CDATA[Механически]]></title>
       <link href="http://pegov.io/2018-07-19-механически.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-07-19-механически.html" />
       <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
       <updated>2018-07-19T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
+      <content type="xhtml">
+        <p><img src="images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
 <p>Я с утра сегодня зачем-то собрал диван. Сейчас пришел и думаю: ну вот зачем — знал ведь, что приду поздно и сразу лягу спать. А теперь пришел — и снова его разбирай. Повел себя как-то совершенно механически.</p>
 <p>А на фото мужик спит, ничего не разбирая, прямо посреди Неаполя.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -76,13 +71,12 @@
     <entry>
       <title><![CDATA[Манн]]></title>
       <link href="http://pegov.io/2018-06-18-манн.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-06-18-манн.html" />
       <id>urn:uuid:0fdb64da-1ecb-3710-b40a-f2a09f74a25e</id>
       <updated>2018-06-18T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/knees-mann.jpg" alt="Катя, Манн и коленки" /></p>
+      <content type="xhtml">
+        <p><img src="images/knees-mann.jpg" alt="Катя, Манн и коленки" /></p>
 <p>Прочел с удовольствием &quot;Будденброков&quot; (к стыду своему Манна до этого не читал). И хотя в финале, как мне показалось, автор слегка не дожал, перефилософствовал и тп, книжка мне так понравилась, что сразу же захотелось все бросить и поехать в тот самый Любек, погулять по его улочкам, потом выбраться на море в Травемюнде, где бродить вдоль берега, слушая крики чаек, или просто сидеть на камнях.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -92,14 +86,13 @@
     <entry>
       <title><![CDATA[Лето]]></title>
       <link href="http://pegov.io/2018-05-15-лето.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-05-15-лето.html" />
       <id>urn:uuid:192a5543-3b81-3125-a32b-110998619b5b</id>
       <updated>2018-05-15T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/kotya.jpg" alt="Катя" /></p>
+      <content type="xhtml">
+        <p><img src="images/kotya.jpg" alt="Катя" /></p>
 <p>Уже пять дней лето и еще, похоже, пару дней будет. Роскошь. Отчетливо вдруг захотелось в отпуск, к морю, а до июля еще полтора месяца... жить</p>
 <p>А на картинке Катя.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -109,13 +102,12 @@
     <entry>
       <title><![CDATA[О пожарной котлете]]></title>
       <link href="http://pegov.io/2018-04-30-о-пожарной-котлете.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-30-о-пожарной-котлете.html" />
       <id>urn:uuid:eb714b51-cf50-393e-a58d-cf5314fd249e</id>
       <updated>2018-04-30T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><img src="images/pozharnaya-kotleta.jpg" alt="pozharnaya-kotleta.jpg" /></p>
+      <content type="xhtml">
+        <p><img src="images/pozharnaya-kotleta.jpg" alt="pozharnaya-kotleta.jpg" /></p>
 <p>Кажется мне, что еда не сильно изменилась с тех пор, как я сам ходил в школу. Не помню, правда, была ли у нас &quot;пожарная&quot; котлета, но вермишелевый суп по воспоминаниям очень похож.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -125,15 +117,14 @@
     <entry>
       <title><![CDATA[Van Morrison And Joey DeFrancesco ‎— You're Driving Me Crazy]]></title>
       <link href="http://pegov.io/2018-04-30-youre-driving-me-crazy.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-30-youre-driving-me-crazy.html" />
       <id>urn:uuid:c001ab0e-57fa-3283-844e-c218cca87938</id>
       <updated>2018-04-30T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><div class="media" style="padding-top: 56.25%;">
+      <content type="xhtml">
+        <p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/_Bx90unTjFs?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Классный какой <a href="https://www.discogs.com/Van-Morrison-And-Joey-DeFrancesco-Youre-Driving-Me-Crazy/master/1354143">альбом</a> у Моррисона и ДеФранческо. Последнего вообще крайне рекомендую.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -143,15 +134,14 @@
     <entry>
       <title><![CDATA[Gil Evans - Las Vegas Tango]]></title>
       <link href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html" />
       <id>urn:uuid:8f2286a1-ca43-303d-8993-afc5ec1fb3b6</id>
       <updated>2018-04-26T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p><div class="media" style="padding-top: 74.94553327560425%;">
+      <content type="xhtml">
+        <p><div class="media" style="padding-top: 74.94553327560425%;">
 <iframe width=" 459" height="344" src="https://www.youtube.com/embed/PRyqNio3ncA?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Случайно услышал в <a href="https://www.imdb.com/title/tt5598160">одном французском фильме</a>.</p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
@@ -161,11 +151,10 @@
     <entry>
       <title><![CDATA[Nikon CoolScan V ED]]></title>
       <link href="http://pegov.io/2018-04-22-nikon-coolscan.html" />
-      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-22-nikon-coolscan.html" />
       <id>urn:uuid:065b6217-d642-307e-aa60-7c1afc840a5b</id>
       <updated>2018-04-22T00:00:00+03:00</updated>
-      <content type="html" xml:base="http://pegov.io/">
-        <![CDATA[<p>TWIMC</p>
+      <content type="xhtml">
+        <p>TWIMC</p>
 <ol>
 <li>Лучшая программа для сканирования — <del>VueScan</del> NikonScan.</li>
 <li>Последняя версия — 4.0.3, выпущена в конце нулевых и для запуска потребуется Windows Vista. Потанцевав с бубном можно стартануть под W7/64bit и вроде даже W10 (гуглите).</li>
@@ -175,7 +164,7 @@
 <li>Если вам так повезло и ваш адаптер поддерживает пакетную обработку кадров, то вот где она спрятана в интерфейсе NikonScan'а (картинка из интернетов):</li>
 </ol>
 <p><img src="images/nikon-coolscan.jpg" alt="nikon-coolscan.jpg" /></p>
-]]>
+
       </content>
       <author>
         <name>Алексей Пегов</name>
