@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pegov.io/">
   <title>Ложное движение</title>
+  <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
   <updated>2018-08-27T00:00:00+03:00</updated>
