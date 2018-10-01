@@ -36,7 +36,7 @@
     <meta name="og:url" content="${self}" />
     </#if>
     <link rel="icon" type="image/png" href="${vars.blog_url}/i/favicon.png">
-    <link rel="alternate" type="application/rss+xml" title="Все заметки" href="${vars.rss_url}"/>
+    <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
 <body>

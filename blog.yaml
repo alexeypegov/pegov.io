@@ -10,8 +10,6 @@ general:
   tz: Europe/Moscow
   feeds:
     names:
-      - rss
-      - short-rss
       - atom
       - short-atom
     items: 10
@@ -27,6 +25,6 @@ general:
 vars:
   blog-title: Ложное движение
   blog-url: http://pegov.io
-  rss-url: http://feeds.feedburner.com/false-movement
+  feed-url: http://feeds.feedburner.com/false-movement
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
