@@ -11,7 +11,7 @@
       <title><![CDATA[${note.title}]]></title>
       <link href="${vars.blog_url}${note.link}"/>
       <link rel="alternate" type="text/html" href="${vars.blog_url}${note.link}"/>
-      <id>${note.uuid}</id>
+      <id>urn:uuid:${note.uuid}</id>
       <updated>${note.rfc_3339}</updated>
       <#if description?exists>
       <content type="html" xml:base="${base_url}">
