@@ -8,13 +8,13 @@ general:
   date-format: yyyy-MM-dd
   base-url: http://pegov.io/
   tz: Europe/Moscow
-  rss:
-    feeds:
+  feeds:
+    names:
       - rss
       - short-rss
       - atom
       - short-atom
-    count: 10
+    items: 10
   copy:
     - theme/styles/
     - theme/js/
@@ -28,3 +28,5 @@ vars:
   blog-title: Ложное движение
   blog-url: http://pegov.io
   rss-url: http://feeds.feedburner.com/false-movement
+  feed-author: Алексей Пегов
+  feed-email: iam@alexeypegov.com
