@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ложное движение</title>
+  <link href="http://pegov.io/atom.xml" rel="self" />
+  <link href="http://pegov.io" />
+  <id>http://pegov.io</id>
+  <updated>Mon, 27 Aug 2018 00:00:00 +0300</updated>
+    <entry>
+      <title><![CDATA[Автопортрет с сыном]]></title>
+      <link href="http://pegov.io/2018-08-27-selfportrait-with-son.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-27-selfportrait-with-son.html"/>
+      <id>/2018-08-27-selfportrait-with-son.html</id>
+      <updated>Mon, 27 Aug 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[О садистах]]></title>
+      <link href="http://pegov.io/2018-08-21-о-садистах.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-21-о-садистах.html"/>
+      <id>/2018-08-21-о-садистах.html</id>
+      <updated>Tue, 21 Aug 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Несоциальность]]></title>
+      <link href="http://pegov.io/2018-08-14-antisocial.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-08-14-antisocial.html"/>
+      <id>/2018-08-14-antisocial.html</id>
+      <updated>Tue, 14 Aug 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Механически]]></title>
+      <link href="http://pegov.io/2018-07-19-механически.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-07-19-механически.html"/>
+      <id>/2018-07-19-механически.html</id>
+      <updated>Thu, 19 Jul 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Манн]]></title>
+      <link href="http://pegov.io/2018-06-18-манн.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-06-18-манн.html"/>
+      <id>/2018-06-18-манн.html</id>
+      <updated>Mon, 18 Jun 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Лето]]></title>
+      <link href="http://pegov.io/2018-05-15-лето.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-05-15-лето.html"/>
+      <id>/2018-05-15-лето.html</id>
+      <updated>Tue, 15 May 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[О пожарной котлете]]></title>
+      <link href="http://pegov.io/2018-04-30-о-пожарной-котлете.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-30-о-пожарной-котлете.html"/>
+      <id>/2018-04-30-о-пожарной-котлете.html</id>
+      <updated>Mon, 30 Apr 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Van Morrison And Joey DeFrancesco ‎— You're Driving Me Crazy]]></title>
+      <link href="http://pegov.io/2018-04-30-youre-driving-me-crazy.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-30-youre-driving-me-crazy.html"/>
+      <id>/2018-04-30-youre-driving-me-crazy.html</id>
+      <updated>Mon, 30 Apr 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Gil Evans - Las Vegas Tango]]></title>
+      <link href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html"/>
+      <id>/2018-04-26-gil-evans-las-vegas-tango.html</id>
+      <updated>Thu, 26 Apr 2018 00:00:00 +0300</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Nikon CoolScan V ED]]></title>
+      <link href="http://pegov.io/2018-04-22-nikon-coolscan.html"/>
+      <link rel="alternate" type="text/html" href="http://pegov.io/2018-04-22-nikon-coolscan.html"/>
+      <id>/2018-04-22-nikon-coolscan.html</id>
+      <updated>Sun, 22 Apr 2018 00:00:00 +0300</updated>
+    </entry>
+</feed>

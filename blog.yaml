@@ -12,6 +12,8 @@ general:
     feeds:
       - rss
       - short-rss
+      - atom
+      - short-atom
     count: 10
   copy:
     - theme/styles/
