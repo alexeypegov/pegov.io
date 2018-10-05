@@ -4,7 +4,13 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-08-27T00:00:00+03:00</updated>
+  <updated>2018-10-04T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Ньютон]]></title>
+      <link href="http://pegov.io/2018-10-04-newton.html" />
+      <id>urn:uuid:028d133c-617f-301b-a2b7-a2b3fcb08b8a</id>
+      <updated>2018-10-04T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Автопортрет с сыном]]></title>
       <link href="http://pegov.io/2018-08-27-selfportrait-with-son.html" />
@@ -58,11 +64,5 @@
       <link href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html" />
       <id>urn:uuid:8f2286a1-ca43-303d-8993-afc5ec1fb3b6</id>
       <updated>2018-04-26T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Nikon CoolScan V ED]]></title>
-      <link href="http://pegov.io/2018-04-22-nikon-coolscan.html" />
-      <id>urn:uuid:065b6217-d642-307e-aa60-7c1afc840a5b</id>
-      <updated>2018-04-22T00:00:00+03:00</updated>
     </entry>
 </feed>
