@@ -4,11 +4,17 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-10-04T00:00:00+03:00</updated>
+  <updated>2018-10-16T00:00:00+03:00</updated>
     <entry>
-      <title><![CDATA[Ньютон]]></title>
-      <link href="http://pegov.io/2018-10-04-newton.html" />
-      <id>urn:uuid:028d133c-617f-301b-a2b7-a2b3fcb08b8a</id>
+      <title><![CDATA[Автопортрет в парикмахерской]]></title>
+      <link href="http://pegov.io/2018-10-16-barbershop.html" />
+      <id>urn:uuid:9570bc9e-66ef-36d7-91bf-2f4ce2ec3b1f</id>
+      <updated>2018-10-16T00:00:00+03:00</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Бостон]]></title>
+      <link href="http://pegov.io/2018-10-04-boston.html" />
+      <id>urn:uuid:016605d9-a0f9-34a2-90b5-effd54949cb2</id>
       <updated>2018-10-04T00:00:00+03:00</updated>
     </entry>
     <entry>
@@ -58,11 +64,5 @@
       <link href="http://pegov.io/2018-04-30-youre-driving-me-crazy.html" />
       <id>urn:uuid:c001ab0e-57fa-3283-844e-c218cca87938</id>
       <updated>2018-04-30T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Gil Evans - Las Vegas Tango]]></title>
-      <link href="http://pegov.io/2018-04-26-gil-evans-las-vegas-tango.html" />
-      <id>urn:uuid:8f2286a1-ca43-303d-8993-afc5ec1fb3b6</id>
-      <updated>2018-04-26T00:00:00+03:00</updated>
     </entry>
 </feed>
