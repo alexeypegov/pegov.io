@@ -4,7 +4,13 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-11-06T00:00:00+03:00</updated>
+  <updated>2018-11-12T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Плита]]></title>
+      <link href="http://pegov.io/2018-11-12-plita.html" />
+      <id>urn:uuid:f0e63999-ff43-330a-8187-463ed8263757</id>
+      <updated>2018-11-12T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Lytdybr]]></title>
       <link href="http://pegov.io/2018-11-06-lytdybr.html" />
@@ -58,11 +64,5 @@
       <link href="http://pegov.io/2018-05-15-лето.html" />
       <id>urn:uuid:192a5543-3b81-3125-a32b-110998619b5b</id>
       <updated>2018-05-15T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[О пожарной котлете]]></title>
-      <link href="http://pegov.io/2018-04-30-о-пожарной-котлете.html" />
-      <id>urn:uuid:eb714b51-cf50-393e-a58d-cf5314fd249e</id>
-      <updated>2018-04-30T00:00:00+03:00</updated>
     </entry>
 </feed>
