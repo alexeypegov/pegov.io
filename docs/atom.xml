@@ -4,7 +4,29 @@
   <link href="http://pegov.io/atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-11-12T00:00:00+03:00</updated>
+  <updated>2018-11-29T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Картинки]]></title>
+      <link href="http://pegov.io/2018-11-29-photos.html" />
+      <id>urn:uuid:0bb0ea9c-a07a-342a-8583-77cbf7612f43</id>
+      <updated>2018-11-29T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="images/zags.jpg" alt="zags.jpg" /></p>
+<p>Тут внезапно выяснилось, что Flickr живее всех живых (и контент там неожиданно приятный), поэтому:</p>
+<ul>
+<li>мои картинки можно смотреть <a href="https://flickr.com/photos/alexeypegov">прямо там</a></li>
+<li>а еще в новом канальчике @pegovphotography</li>
+</ul>
+<p>Пис!</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Плита]]></title>
       <link href="http://pegov.io/2018-11-12-plita.html" />
@@ -162,24 +184,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="images/knees-mann.jpg" alt="Катя, Манн и коленки" /></p>
 <p>Прочел с удовольствием &quot;Будденброков&quot; (к стыду своему Манна до этого не читал). И хотя в финале, как мне показалось, автор слегка не дожал, перефилософствовал и тп, книжка мне так понравилась, что сразу же захотелось все бросить и поехать в тот самый Любек, погулять по его улочкам, потом выбраться на море в Травемюнде, где бродить вдоль берега, слушая крики чаек, или просто сидеть на камнях.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Лето]]></title>
-      <link href="http://pegov.io/2018-05-15-лето.html" />
-      <id>urn:uuid:192a5543-3b81-3125-a32b-110998619b5b</id>
-      <updated>2018-05-15T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="images/kotya.jpg" alt="Катя" /></p>
-<p>Уже пять дней лето и еще, похоже, пару дней будет. Роскошь. Отчетливо вдруг захотелось в отпуск, к морю, а до июля еще полтора месяца... жить</p>
-<p>А на картинке Катя.</p>
 
         </div>
       </content>
