@@ -4,12 +4,24 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-11-29T00:00:00+03:00</updated>
+  <updated>2018-12-19T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Хрусталь (2018)]]></title>
+      <link href="http://pegov.io/2018-12-19-хрусталь.html" />
+      <id>urn:uuid:b48c0a79-e77b-3df8-8d01-92e534fd1ef4</id>
+      <updated>2018-12-19T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Картинки]]></title>
       <link href="http://pegov.io/2018-11-29-photos.html" />
       <id>urn:uuid:0bb0ea9c-a07a-342a-8583-77cbf7612f43</id>
       <updated>2018-11-29T00:00:00+03:00</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Flickr]]></title>
+      <link href="http://pegov.io/2018-11-17-flickr.html" />
+      <id>urn:uuid:9a330635-71ef-3f26-a5ae-14ccf34b2ee5</id>
+      <updated>2018-11-17T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Плита]]></title>
@@ -52,17 +64,5 @@
       <link href="http://pegov.io/2018-08-14-antisocial.html" />
       <id>urn:uuid:a4854264-3b09-34eb-9687-1cddf3f4f0fb</id>
       <updated>2018-08-14T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Механически]]></title>
-      <link href="http://pegov.io/2018-07-19-механически.html" />
-      <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
-      <updated>2018-07-19T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Манн]]></title>
-      <link href="http://pegov.io/2018-06-18-манн.html" />
-      <id>urn:uuid:0fdb64da-1ecb-3710-b40a-f2a09f74a25e</id>
-      <updated>2018-06-18T00:00:00+03:00</updated>
     </entry>
 </feed>

@@ -4,7 +4,24 @@
   <link href="http://pegov.io/atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-11-29T00:00:00+03:00</updated>
+  <updated>2018-12-19T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Хрусталь (2018)]]></title>
+      <link href="http://pegov.io/2018-12-19-хрусталь.html" />
+      <id>urn:uuid:b48c0a79-e77b-3df8-8d01-92e534fd1ef4</id>
+      <updated>2018-12-19T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="images/crystal.jpg" alt="Хрусталь" /></p>
+<p>С большим удовольствием посмотрели фильм <a href="https://www.imdb.com/title/tt6835498/">Хрусталь</a> Дарьи Жук. В Питере его показывают всего в нескольких кинотеатрах, например, в <a href="https://www.domkino.spb.ru/films/khrustal/">Доме Кино</a>. Сходите, фильм хороший.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Картинки]]></title>
       <link href="http://pegov.io/2018-11-29-photos.html" />
@@ -20,6 +37,21 @@
 </ul>
 <p>Пис!</p>
 
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[Flickr]]></title>
+      <link href="http://pegov.io/2018-11-17-flickr.html" />
+      <id>urn:uuid:9a330635-71ef-3f26-a5ae-14ccf34b2ee5</id>
+      <updated>2018-11-17T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        
         </div>
       </content>
       <author>
@@ -149,41 +181,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
 <p>Такое странное ощущение, когда на телефоне нет инстаграма или твиттера... да и не только в телефоне, а и вообще — нет.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Механически]]></title>
-      <link href="http://pegov.io/2018-07-19-механически.html" />
-      <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
-      <updated>2018-07-19T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
-<p>Я с утра сегодня зачем-то собрал диван. Сейчас пришел и думаю: ну вот зачем — знал ведь, что приду поздно и сразу лягу спать. А теперь пришел — и снова его разбирай. Повел себя как-то совершенно механически.</p>
-<p>А на фото мужик спит, ничего не разбирая, прямо посреди Неаполя.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Манн]]></title>
-      <link href="http://pegov.io/2018-06-18-манн.html" />
-      <id>urn:uuid:0fdb64da-1ecb-3710-b40a-f2a09f74a25e</id>
-      <updated>2018-06-18T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="images/knees-mann.jpg" alt="Катя, Манн и коленки" /></p>
-<p>Прочел с удовольствием &quot;Будденброков&quot; (к стыду своему Манна до этого не читал). И хотя в финале, как мне показалось, автор слегка не дожал, перефилософствовал и тп, книжка мне так понравилась, что сразу же захотелось все бросить и поехать в тот самый Любек, погулять по его улочкам, потом выбраться на море в Травемюнде, где бродить вдоль берега, слушая крики чаек, или просто сидеть на камнях.</p>
 
         </div>
       </content>
