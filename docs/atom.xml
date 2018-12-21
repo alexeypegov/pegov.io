@@ -45,21 +45,6 @@
       </author>
     </entry>
     <entry>
-      <title><![CDATA[Flickr]]></title>
-      <link href="http://pegov.io/2018-11-17-flickr.html" />
-      <id>urn:uuid:9a330635-71ef-3f26-a5ae-14ccf34b2ee5</id>
-      <updated>2018-11-17T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
       <title><![CDATA[Плита]]></title>
       <link href="http://pegov.io/2018-11-12-plita.html" />
       <id>urn:uuid:f0e63999-ff43-330a-8187-463ed8263757</id>
@@ -181,6 +166,24 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
 <p>Такое странное ощущение, когда на телефоне нет инстаграма или твиттера... да и не только в телефоне, а и вообще — нет.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[Механически]]></title>
+      <link href="http://pegov.io/2018-07-19-механически.html" />
+      <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
+      <updated>2018-07-19T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
+<p>Я с утра сегодня зачем-то собрал диван. Сейчас пришел и думаю: ну вот зачем — знал ведь, что приду поздно и сразу лягу спать. А теперь пришел — и снова его разбирай. Повел себя как-то совершенно механически.</p>
+<p>А на фото мужик спит, ничего не разбирая, прямо посреди Неаполя.</p>
 
         </div>
       </content>
