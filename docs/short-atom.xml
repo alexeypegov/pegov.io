@@ -4,7 +4,13 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-12-19T00:00:00+03:00</updated>
+  <updated>2018-12-26T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Finding Vivian Maier (2013)]]></title>
+      <link href="http://pegov.io/2018-12-26-finding-vivian-maier.html" />
+      <id>urn:uuid:30506e42-47aa-3c83-9fc6-16f6d7b93f48</id>
+      <updated>2018-12-26T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Хрусталь (2018)]]></title>
       <link href="http://pegov.io/2018-12-19-хрусталь.html" />
@@ -58,11 +64,5 @@
       <link href="http://pegov.io/2018-08-14-antisocial.html" />
       <id>urn:uuid:a4854264-3b09-34eb-9687-1cddf3f4f0fb</id>
       <updated>2018-08-14T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Механически]]></title>
-      <link href="http://pegov.io/2018-07-19-механически.html" />
-      <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
-      <updated>2018-07-19T00:00:00+03:00</updated>
     </entry>
 </feed>

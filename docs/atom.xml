@@ -4,7 +4,27 @@
   <link href="http://pegov.io/atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-12-19T00:00:00+03:00</updated>
+  <updated>2018-12-26T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Finding Vivian Maier (2013)]]></title>
+      <link href="http://pegov.io/2018-12-26-finding-vivian-maier.html" />
+      <id>urn:uuid:30506e42-47aa-3c83-9fc6-16f6d7b93f48</id>
+      <updated>2018-12-26T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/8ZoYG1kgMNo?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>С большим удовольствием посмотрел документальный фильм о Вивиан Майер. Несколько лет назад интернет буквально взорвался ее историей, а, оказывается, есть еще и хороший фильм. Если интересны фотографии, то их очень много на ее <a href="http://www.vivianmaier.com">официальном сайте</a>, вот, например, <a href="http://www.vivianmaier.com/gallery/color-1">цветные</a>.</p>
+<p>По косвенным признакам фильм доступен в нетфликсе (скорее всего, не в русском), а еще его можно найти на рутрекере.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Хрусталь (2018)]]></title>
       <link href="http://pegov.io/2018-12-19-хрусталь.html" />
@@ -166,24 +186,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="images/sokhr-social.jpg" alt="Женя сидит в телефоне" /></p>
 <p>Такое странное ощущение, когда на телефоне нет инстаграма или твиттера... да и не только в телефоне, а и вообще — нет.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Механически]]></title>
-      <link href="http://pegov.io/2018-07-19-механически.html" />
-      <id>urn:uuid:2d0c4571-35d9-39f0-9918-a85852e14838</id>
-      <updated>2018-07-19T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="images/napoli-chairs.jpg" alt="Какой-то мужик спит в Неаполе" /></p>
-<p>Я с утра сегодня зачем-то собрал диван. Сейчас пришел и думаю: ну вот зачем — знал ведь, что приду поздно и сразу лягу спать. А теперь пришел — и снова его разбирай. Повел себя как-то совершенно механически.</p>
-<p>А на фото мужик спит, ничего не разбирая, прямо посреди Неаполя.</p>
 
         </div>
       </content>
