@@ -15,7 +15,7 @@
       <#if description?exists>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        ${note.body}
+        ${note.body_abs}
         </div>
       </content>
       <author>

@@ -4,7 +4,7 @@ Date: 2010-08-22
 Tags: саптрю
 ---
 
-![Fantastic Mr. Fox](http://dl.dropbox.com/u/140528/site/fantastik-mr-fox.jpg)
+![Fantastic Mr. Fox](images/fantastik-mr-fox.jpg)
 
 [Великолепно](http://www.imdb.com/title/tt0432283/)!
 
