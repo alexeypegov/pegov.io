@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu:300');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Vollkorn:400,500');
 
 * {
   padding: 0;
@@ -9,19 +9,20 @@ body {
   padding: 0;
   margin: 0;
 
-  font-size: 16pt;
+  font-size: 14pt;
 
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.4;
 }
 
 .top {
+  margin: 4em 2em;
   text-align: center;
-  margin: 2em 0;
 }
 
 .top h1 {
   font-size: 50pt;
+  font-family: 'Vollkorn', serif;
 }
 
 .top .title a {
@@ -30,7 +31,7 @@ body {
 }
 
 .top .menu {
-  font-size: 20pt;
+  font-size: 16pt;
 }
 
 a {
@@ -58,7 +59,6 @@ p > a:hover:before {
 .container {
   display: flex;
   flex-flow: column;
-  justify-content: center;
   align-items: center;
 }
 
@@ -81,7 +81,7 @@ p > a:hover:before {
 }
 
 .note h1 {
-  font-size: 25pt;
+  font-size: 23pt;
 }
 
 .note .title a {
@@ -90,7 +90,7 @@ p > a:hover:before {
 }
 
 .note .sub {
-  font-size: 12pt;
+  font-size: 11pt;
   padding-bottom: .5em;
 }
 
@@ -181,7 +181,6 @@ li {
 }
 
 .paging {
-  text-align: center;
   padding: 2em 0;
   color: #777;
 }
@@ -203,15 +202,17 @@ li {
   }
 
   .top {
-    margin: 2em 0;
+    margin: 4vh 0;
   }
 
   .top h1 {
-    font-size: 25pt;
+    font-size: 8vw;
+    white-space: nowrap;
   }
 
   .top .menu {
-    font-size: 14pt;
+    font-size: 4vw;
+    white-space: nowrap;
   }
 
   .note {
@@ -223,11 +224,11 @@ li {
   }
 
   .note h1 {
-    font-size: 16pt;
+    font-size: 4vw;
   }
 
-  .note .date {
-    font-size: 12pt;
+  .note .sub {
+    font-size: 3vw;
   }
 
   .note .body .media {
