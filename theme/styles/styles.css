@@ -202,16 +202,16 @@ li {
   }
 
   .top {
-    margin: 4vh 0;
+    margin: 2em 0;
   }
 
   .top h1 {
-    font-size: 8vw;
+    font-size: 25pt;
     white-space: nowrap;
   }
 
   .top .menu {
-    font-size: 4vw;
+    font-size: 13pt;
     white-space: nowrap;
   }
 
@@ -224,11 +224,11 @@ li {
   }
 
   .note h1 {
-    font-size: 4vw;
+    font-size: 16pt;
   }
 
   .note .sub {
-    font-size: 3vw;
+    font-size: 13pt;
   }
 
   .note .body .media {
