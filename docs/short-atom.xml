@@ -4,7 +4,13 @@
   <link href="http://pegov.io/short-atom.xml" rel="self" />
   <link href="http://pegov.io" />
   <id>http://pegov.io/</id>
-  <updated>2018-12-27T00:00:00+03:00</updated>
+  <updated>2019-01-25T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Reggie Washington — Vintage New Acoustic (2018)]]></title>
+      <link href="http://pegov.io/2019-01-25-reggie-washington.html" />
+      <id>urn:uuid:7b9741ce-4c62-3cfb-9524-4075435f06d9</id>
+      <updated>2019-01-25T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Максим Дмитриев]]></title>
       <link href="http://pegov.io/2018-12-27-максим-дмитриев.html" />
@@ -58,11 +64,5 @@
       <link href="http://pegov.io/2018-08-27-selfportrait-with-son.html" />
       <id>urn:uuid:f6f7cabb-8e85-3ee4-88ea-092d58ab1863</id>
       <updated>2018-08-27T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[О садистах]]></title>
-      <link href="http://pegov.io/2018-08-21-о-садистах.html" />
-      <id>urn:uuid:2659ad9d-0fab-3068-97a3-c312daaf39df</id>
-      <updated>2018-08-21T00:00:00+03:00</updated>
     </entry>
 </feed>
