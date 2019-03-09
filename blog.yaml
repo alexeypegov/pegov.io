@@ -6,7 +6,7 @@ general:
   output: docs/
   notes-per-page: 10
   date-format: yyyy-MM-dd
-  base-url: http://pegov.io/
+  base-url: https://pegov.io/
   tz: Europe/Moscow
   feeds:
     names:
@@ -24,7 +24,7 @@ general:
 
 vars:
   blog-title: Ложное движение
-  blog-url: http://pegov.io
-  feed-url: http://feeds.feedburner.com/false-movement
+  blog-url: https://pegov.io
+  feed-url: https://feeds.feedburner.com/false-movement
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
