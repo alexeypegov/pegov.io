@@ -4,7 +4,26 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-01-25T00:00:00+03:00</updated>
+  <updated>2019-03-12T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Перестал]]></title>
+      <link href="https://pegov.io/2019-03-12-perestal.html" />
+      <id>urn:uuid:57e94efa-9783-35c5-a439-8ae53a3a2e56</id>
+      <updated>2019-03-12T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Вот иногда ты просто перестаешь что-то делать. Или кто-то перестает. Вот делал он, делал, а потом перестал. Варил с утра кофе и вдруг перестал. Ездил на велосипеде и вдруг перестал. Шутил как-то остроумно, а тут взял и все — перестал.</p>
+<p>Или вот делал человек фотографии, цепляющие такие картинки, а ты смотрел на них — ну и немного так охуевал с того, какие они крутые. Вот, думал ты, как так он может, откуда у него такое — понимание или наоборот — любопытство, откуда у него такое — ну, <em>чувство</em>?</p>
+<p>А потом, а потом — раз — и человек перестал это делать. Нет его фотографий больше, да и человека самого — нет — пропал. Нет, нет, он не умер, с ним все в порядке, просто он — перестал.</p>
+<p>И как-то грустно.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Reggie Washington — Vintage New Acoustic (2018)]]></title>
       <link href="https://pegov.io/2019-01-25-reggie-washington.html" />
@@ -167,22 +186,6 @@
         <p><img src="https://pegov.io/images/newton-2018.jpg" alt="Ньютон 2018" /></p>
 <p>Снова в Бостоне (ну, не совсем, но рядом). Пока летел понял, что соскучился по штатам, а по Бостону особенно. Три года не был, считай. Классный город.</p>
 <p>А на фото осень. Ну, не совсем в Бостоне. Но рядом.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Автопортрет с сыном]]></title>
-      <link href="https://pegov.io/2018-08-27-selfportrait-with-son.html" />
-      <id>urn:uuid:f6f7cabb-8e85-3ee4-88ea-092d58ab1863</id>
-      <updated>2018-08-27T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/bathroom-gang.jpg" alt="Автопортрет с сыном" /></p>
 
         </div>
       </content>
