@@ -12,6 +12,12 @@
       <updated>2019-03-28T00:00:00+03:00</updated>
     </entry>
     <entry>
+      <title><![CDATA[Cléa Vincent - Dans les strass]]></title>
+      <link href="https://pegov.io/2019-03-14-dans-les-strass.html" />
+      <id>urn:uuid:0c69878b-8264-3631-9861-9c3ce93d80b4</id>
+      <updated>2019-03-14T00:00:00+03:00</updated>
+    </entry>
+    <entry>
       <title><![CDATA[Перестал]]></title>
       <link href="https://pegov.io/2019-03-12-perestal.html" />
       <id>urn:uuid:57e94efa-9783-35c5-a439-8ae53a3a2e56</id>
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2018-11-06-lytdybr.html" />
       <id>urn:uuid:b0a9f32f-43cf-3a48-b2fd-ca2374ed4bf7</id>
       <updated>2018-11-06T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Автопортрет в парикмахерской]]></title>
-      <link href="https://pegov.io/2018-10-16-barbershop.html" />
-      <id>urn:uuid:9570bc9e-66ef-36d7-91bf-2f4ce2ec3b1f</id>
-      <updated>2018-10-16T00:00:00+03:00</updated>
     </entry>
 </feed>

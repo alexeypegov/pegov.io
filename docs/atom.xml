@@ -24,6 +24,25 @@
       </author>
     </entry>
     <entry>
+      <title><![CDATA[Cléa Vincent - Dans les strass]]></title>
+      <link href="https://pegov.io/2019-03-14-dans-les-strass.html" />
+      <id>urn:uuid:0c69878b-8264-3631-9861-9c3ce93d80b4</id>
+      <updated>2019-03-14T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" style="padding-top: 56.25%;">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/T-0zbGlC9Zg?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Милая такая французская попса. И <a href="https://www.youtube.com/watch?v=pc2pgS9Q3GA">еще</a>.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[Перестал]]></title>
       <link href="https://pegov.io/2019-03-12-perestal.html" />
       <id>urn:uuid:57e94efa-9783-35c5-a439-8ae53a3a2e56</id>
@@ -33,7 +52,7 @@
         <p>Вот иногда ты просто перестаешь что-то делать. Или кто-то перестает. Вот делал он, делал, а потом перестал. Варил с утра кофе и вдруг перестал. Ездил на велосипеде и вдруг перестал. Шутил как-то остроумно, а тут взял и все — перестал.</p>
 <p>Или вот делал человек фотографии, цепляющие такие картинки, а ты смотрел на них — ну и немного так охуевал с того, какие они крутые. Вот, думал ты, как так он может, откуда у него такое — понимание или наоборот — любопытство, откуда у него такое — ну, <em>чувство</em>?</p>
 <p>А потом, а потом — раз — и человек перестал это делать. Нет его фотографий больше, да и человека самого — нет — пропал. Нет, нет, он не умер, с ним все в порядке, просто он — перестал.</p>
-<p>И грустно.</p>
+<p>Грустно.</p>
 
         </div>
       </content>
@@ -169,23 +188,6 @@
         <p><img src="https://pegov.io/images/dad.jpg" alt="dad.jpg" /></p>
 <p>Хотел тут перечислить все, что со мной случилось, что я посмотрел, послушал, сделал (или не сделал) за последнее время, но вовремя спохватился.</p>
 <p>А на фото — мой папа.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Автопортрет в парикмахерской]]></title>
-      <link href="https://pegov.io/2018-10-16-barbershop.html" />
-      <id>urn:uuid:9570bc9e-66ef-36d7-91bf-2f4ce2ec3b1f</id>
-      <updated>2018-10-16T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/barbershop.jpg" alt="Автопортрет в парикмахерской" /></p>
-<p>Зашел к Косте подстричься, а заодно и селфи заебашил :)</p>
 
         </div>
       </content>
