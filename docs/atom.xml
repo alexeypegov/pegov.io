@@ -4,7 +4,25 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-03-12T00:00:00+03:00</updated>
+  <updated>2019-03-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Захар Алексеевич]]></title>
+      <link href="https://pegov.io/2019-03-28-захар-алексеевич.html" />
+      <id>urn:uuid:34f72951-bbf6-3947-a972-0d9a0a1f8dcd</id>
+      <updated>2019-03-28T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="https://pegov.io/images/zakhar-alekseevich.jpg" alt="Захар Алексеевич" /></p>
+<p>Все думал, что написать по поводу десятилетия этого блога, который начался с поста о рождении Тимура. А пока я думал, на свет появился Захар, так что жизнь идет, господа, и спасибо, что читаете)</p>
+<p>Для интересующихся ттх: 3280/52</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Перестал]]></title>
       <link href="https://pegov.io/2019-03-12-perestal.html" />
@@ -168,24 +186,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="https://pegov.io/images/barbershop.jpg" alt="Автопортрет в парикмахерской" /></p>
 <p>Зашел к Косте подстричься, а заодно и селфи заебашил :)</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Бостон]]></title>
-      <link href="https://pegov.io/2018-10-04-boston.html" />
-      <id>urn:uuid:016605d9-a0f9-34a2-90b5-effd54949cb2</id>
-      <updated>2018-10-04T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/newton-2018.jpg" alt="Ньютон 2018" /></p>
-<p>Снова в Бостоне (ну, не совсем, но рядом). Пока летел понял, что соскучился по штатам, а по Бостону особенно. Три года не был, считай. Классный город.</p>
-<p>А на фото осень. Ну, не совсем в Бостоне. Но рядом.</p>
 
         </div>
       </content>
