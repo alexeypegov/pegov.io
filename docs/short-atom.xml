@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-03-28T00:00:00+03:00</updated>
+  <updated>2019-04-01T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Поля из деревки и Дмитрий Марков]]></title>
+      <link href="https://pegov.io/2019-04-01-dmitry-markov.html" />
+      <id>urn:uuid:1e846c86-ae66-3097-8991-964f1d4a7625</id>
+      <updated>2019-04-01T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Захар Алексеевич]]></title>
       <link href="https://pegov.io/2019-03-28-захар-алексеевич.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2018-11-12-plita.html" />
       <id>urn:uuid:f0e63999-ff43-330a-8187-463ed8263757</id>
       <updated>2018-11-12T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Lytdybr]]></title>
-      <link href="https://pegov.io/2018-11-06-lytdybr.html" />
-      <id>urn:uuid:b0a9f32f-43cf-3a48-b2fd-ca2374ed4bf7</id>
-      <updated>2018-11-06T00:00:00+03:00</updated>
     </entry>
 </feed>
