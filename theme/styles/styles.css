@@ -176,7 +176,7 @@ li {
   padding-left: .3em;
 }
 
-.note .body img {
+.note img {
   max-width: 800px;
 }
 
@@ -247,7 +247,7 @@ li {
     margin: 0 !important;
   }
 
-  .body img {
+  .note img {
     width: 100%;
     width: calc(100% + 20px);
     margin-left: -10px;
