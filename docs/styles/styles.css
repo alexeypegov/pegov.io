@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400|Vollkorn:400,500');
+@import url('https://fonts.googleapis.com/css?family=Literata|Vollkorn:400,500');
 
 * {
   padding: 0;
@@ -11,8 +11,8 @@ body {
 
   font-size: 14pt;
 
-  font-family: 'Open Sans', sans-serif;
-  line-height: 1.4;
+  font-family: 'Literata', sans-serif;
+  line-height: 1.42105;
 }
 
 .top {
@@ -91,7 +91,8 @@ p > a:hover:before {
 
 .note .sub {
   font-size: 11pt;
-  padding-bottom: .5em;
+  padding-bottom: 1em;
+  padding-top: .5em;
 }
 
 .note .sub > div {
