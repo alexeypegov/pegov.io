@@ -34,7 +34,7 @@ body {
   font-size: 16pt;
 }
 
-a {
+a[href] {
   display: inline-block;
   position: relative;
   text-decoration: none;
