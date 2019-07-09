@@ -30,7 +30,7 @@
     <meta name="og:title" content="${vars.blog_title}" />
     <#if ndx?exists>
     <#assign self = vars.blog_url>
-    <#if ndx gt 0>
+    <#if ndx gt 1>
     <#assign self = vars.blog_url + "/page-" + ndx + ".html">
     </#if>
     <meta name="og:url" content="${self}" />
