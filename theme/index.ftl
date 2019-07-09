@@ -4,15 +4,15 @@
 </#list>
 <div class="paging">
 <#if prev_page?exists>
-<a id="prev" href="${prev_page}">ранее</a>
+<a id="prev" href="${prev_page}">позднее</a>
 <#else>
-<a nohref>ранее</a>
+<a nohref>позднее</a>
 </#if>
 &#151;
 <#if next_page?exists>
-<a id="next" href="${next_page}">позднее</a>
+<a id="next" href="${next_page}">ранее</a>
 <#else>
-<a id="next" nohref>позднее</a>
+<a id="next" nohref>ранее</a>
 </#if>
 </div>
 <script src="js/pure-swipe.min.js"></script>
