@@ -35,25 +35,20 @@ body {
 }
 
 a[href] {
-  display: inline-block;
-  position: relative;
-  text-decoration: none;
   color: #33c;
+  text-decoration-color: #bbf;
 }
 
-div > a:hover:before,
-p > a:hover:before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 3px;
-  bottom: 2px;
-  left: 0;
-  background-color: #66f;
+a:hover {
+  text-decoration-color: #33c;
 }
 
 .top .menu a ~ a {
   margin-left: 1em;
+}
+
+a:hover {
+  text-decoration-color: #33c;
 }
 
 .container {
@@ -85,8 +80,12 @@ p > a:hover:before {
 }
 
 .note .title a {
-  text-decoration: none;
   color: #444;
+  text-decoration-color: #ddd;
+}
+
+.note .title a:hover {
+  text-decoration-color: #444;
 }
 
 .note .sub {
@@ -220,12 +219,20 @@ li {
     margin-left: .5em;
   }
 
+  a[href] {
+    text-decoration-color: #33c;
+  }
+
   .note {
     width: 100%;
   }
 
   .note > * {
     padding: 0 10px;
+  }
+
+  .note .title a {
+    text-decoration-color: #444;
   }
 
   .note h1 {
