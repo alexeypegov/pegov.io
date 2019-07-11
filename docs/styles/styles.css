@@ -9,7 +9,7 @@ body {
   padding: 0;
   margin: 0;
 
-  font-size: 14pt;
+  font-size: 17pt;
 
   font-family: 'Literata', serif;
   line-height: 1.42105;
@@ -21,7 +21,7 @@ body {
 }
 
 .top h1 {
-  font-size: 50pt;
+  font-size: 60pt;
   font-family: 'Vollkorn', serif;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .top .menu {
-  font-size: 16pt;
+  font-size: 19pt;
 }
 
 a[href] {
@@ -62,8 +62,7 @@ a:hover {
 }
 
 .note {
-  width: 800px;
-
+  width: 1000px;
   color: #444;
 }
 
@@ -76,7 +75,7 @@ a:hover {
 }
 
 .note h1 {
-  font-size: 23pt;
+  font-size: 27pt;
 }
 
 .note .title a {
@@ -89,7 +88,7 @@ a:hover {
 }
 
 .note .sub {
-  font-size: 11pt;
+  font-size: 13pt;
   padding-bottom: 1em;
   padding-top: .5em;
 }
@@ -177,7 +176,7 @@ li {
 }
 
 .note img {
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 .paging {
@@ -186,7 +185,7 @@ li {
 }
 
 .footer {
-  font-size: 14pt;
+  font-size: 15pt;
   color: #ccc;
   text-align: center;
   padding: 1em 0;
@@ -196,7 +195,7 @@ li {
   color: #ccf;
 }
 
-@media all and (max-width: 799px) {
+@media all and (max-width: 1099px) {
   body {
     font-size: 14pt;
   }
