@@ -9,7 +9,7 @@ body {
   padding: 0;
   margin: 0;
 
-  font-size: 17pt;
+  font-size: 15pt;
 
   font-family: 'Literata', serif;
   line-height: 1.42105;
@@ -21,7 +21,7 @@ body {
 }
 
 .top h1 {
-  font-size: 60pt;
+  font-size: 50pt;
   font-family: 'Vollkorn', serif;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .top .menu {
-  font-size: 19pt;
+  font-size: 17pt;
 }
 
 a[href] {
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .note h1 {
-  font-size: 27pt;
+  font-size: 25pt;
 }
 
 .note .title a {
@@ -185,7 +185,7 @@ li {
 }
 
 .footer {
-  font-size: 15pt;
+  font-size: 13pt;
   color: #ccc;
   text-align: center;
   padding: 1em 0;
