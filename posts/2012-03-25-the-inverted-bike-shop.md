@@ -1,7 +1,9 @@
 ---
 Title: The Inverted Bike Shop
 Date: 2012-03-25
-Tags: крафт
+Tags:
+  - разное
+  - саптрю
 ---
 
 http://vimeo.com/36258512

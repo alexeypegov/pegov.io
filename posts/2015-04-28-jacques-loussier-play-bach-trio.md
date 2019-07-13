@@ -1,7 +1,9 @@
 ---
 Title: Jacques Loussier Play Bach Trio
 Date: 2015-04-28
-Tags: слушаю
+Tags:
+  - слушаю
+  - джаз
 ---
 
 http://youtube.com/watch?v=-x6jzKpqeuw

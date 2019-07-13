@@ -2,9 +2,6 @@
 Title: Sword & Sworcery
 Date: 2012-02-07
 Tags:
-  - iphone
-  - слушаю
-  - саптрю
   - играю
 ---
 

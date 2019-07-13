@@ -1,7 +1,7 @@
 ---
 Title: Send to my Kindle
 Date: 2011-05-25
-Tags: kindle
+Tags: софт
 ---
 
 Думается, на википедии была бы не лишней кнопка Send to my Kindle.

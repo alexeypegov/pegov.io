@@ -1,7 +1,7 @@
 ---
 Title: Optimism vs. Pessimism
 Date: 2011-09-23
-Tags: картинки
+Tags: разное
 ---
 
 ![pessimizm.png](images/pessimizm.png)

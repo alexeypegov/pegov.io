@@ -2,7 +2,6 @@
 Title: Spell checking
 Date: 2011-12-19
 Tags:
-  - айфон
   - юзабилити
 ---
 

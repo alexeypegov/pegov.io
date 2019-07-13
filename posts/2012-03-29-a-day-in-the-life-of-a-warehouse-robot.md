@@ -1,7 +1,7 @@
 ---
 Title: A day in the life of a warehouse robot
 Date: 2012-03-29
-Tags: технологии
+Tags: саптрю
 ---
 
 http://youtube.com/watch?v=6KRjuuEVEZs

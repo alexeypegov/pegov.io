@@ -3,7 +3,7 @@ Title: GoGo Penguin — V2.0
 Date: 2015-04-12
 Tags:
   - слушаю
-  - jazz
+  - джаз
 ---
 
 ![gogopenguin-v2.jpg](images/gogopenguin-v2.jpg)

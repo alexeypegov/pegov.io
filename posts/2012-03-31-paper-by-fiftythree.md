@@ -1,7 +1,7 @@
 ---
 Title: Paper by FiftyThree
 Date: 2012-03-31
-Tags: ios
+Tags: софт
 ---
 
 http://vimeo.com/37254322

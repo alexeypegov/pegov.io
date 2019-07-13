@@ -3,7 +3,6 @@ Title: Ludovico Einaudi - In a Time Lapse (2012)
 Date: 2013-01-21
 Tags:
   - слушаю
-  - neo-classic
 ---
 
 ![in-a-time-lapse.jpeg](images/in-a-time-lapse.jpeg)

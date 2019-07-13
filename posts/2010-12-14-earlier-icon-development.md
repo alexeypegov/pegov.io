@@ -1,7 +1,9 @@
 ---
 Title: Earlier icon development
 Date: 2010-12-14
-Tags: дизайн
+Tags:
+  - дизайн
+  - софт
 ---
 
 ![xerox](images/xerox.jpg)

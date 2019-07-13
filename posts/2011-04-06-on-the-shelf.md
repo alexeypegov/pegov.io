@@ -1,7 +1,7 @@
 ---
 Title: On The Shelf
 Date: 2011-04-06
-Tags: картинка
+Tags: разное
 ---
 
 ![On-the-Shelf.jpg](images/On-the-Shelf.jpg)

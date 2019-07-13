@@ -2,8 +2,7 @@
 Title: Film Retriever
 Date: 2011-05-16
 Tags:
-  - фото
-  - DIY
+  - фотографирую
 ---
 
 ![film_retriever.jpg](images/film_retriever.jpg)

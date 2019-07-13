@@ -1,7 +1,8 @@
 ---
 Title: The Going To Bed Book by Sandra Boynton
 Date: 2011-06-24
-Tags: ipad
+Tags:
+  - софт
 ---
 
 ![the-going-to-bed-book.jpg](images/the-going-to-bed-book.jpg)

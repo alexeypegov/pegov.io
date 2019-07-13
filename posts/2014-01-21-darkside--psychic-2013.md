@@ -1,7 +1,8 @@
 ---
 Title: Darkside - Psychic (2013)
 Date: 2014-01-21
-Tags: слушаю
+Tags:
+  - слушаю
 ---
 
 ![darkside-psychic.jpg](images/darkside-psychic.jpg)

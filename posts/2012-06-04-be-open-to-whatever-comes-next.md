@@ -1,7 +1,7 @@
 ---
 Title: Be open to whatever comes next
 Date: 2012-06-04
-Tags: картинка
+Tags: разное
 ---
 
 ![be-open.jpeg](images/be-open.jpeg)

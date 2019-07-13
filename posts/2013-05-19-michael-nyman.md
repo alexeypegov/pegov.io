@@ -3,7 +3,7 @@ Title: Michael Nyman
 Date: 2013-05-19
 Tags:
   - слушаю
-  - classical
+  - классика
 ---
 
 ![nyman.jpg](images/nyman.jpg)

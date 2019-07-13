@@ -1,7 +1,7 @@
 ---
 Title: In This Room
 Date: 2011-12-30
-Tags: typography
+Tags: дизайн
 ---
 
 ![this-room.jpg](images/this-room.jpg)

@@ -2,9 +2,7 @@
 Title: Bye, Google Reader
 Date: 2013-03-14
 Tags:
-  - google
-  - reader
-  - rss
+  - софт
 ---
 
 ![bye-reader.png](images/bye-reader.png)

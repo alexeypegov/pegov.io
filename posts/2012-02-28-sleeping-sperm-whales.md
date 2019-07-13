@@ -1,7 +1,7 @@
 ---
 Title: Sleeping sperm whales
 Date: 2012-02-28
-Tags: картинка
+Tags: разное
 ---
 
 ![sperm-whales.jpg](images/sperm-whales.jpg)

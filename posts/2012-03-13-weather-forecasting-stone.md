@@ -1,7 +1,7 @@
 ---
 Title: Weather forecasting stone
 Date: 2012-03-13
-Tags: картинка
+Tags: разное
 ---
 
 ![forecasting-stone.jpg](images/forecasting-stone.jpg)

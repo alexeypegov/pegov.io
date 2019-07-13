@@ -3,7 +3,7 @@ Title: Steve Reich - Double Sextet (2010)
 Date: 2013-01-19
 Tags:
   - слушаю
-  - classical
+  - классика
 ---
 
 ![double-sextet.jpg](images/double-sextet.jpg)

@@ -3,7 +3,6 @@ Title: Adam Johnson - Chigliak (2003)
 Date: 2011-11-06
 Tags:
   - слушаю
-  - idm
 ---
 
 ![chigliak.jpeg](images/chigliak.jpeg)

@@ -4,6 +4,7 @@ Date: 2018-12-26
 Tags:
   - саптрю
   - фотография
+  - интервью
 ---
 
 https://www.youtube.com/watch?v=8ZoYG1kgMNo

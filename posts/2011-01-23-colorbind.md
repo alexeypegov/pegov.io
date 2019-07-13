@@ -1,7 +1,7 @@
 ---
 Title: Colorbind
 Date: 2011-01-23
-Tags: iphone
+Tags: играю
 ---
 
 ![Image](images/cb.png)

@@ -2,8 +2,8 @@
 Title: Nikon CoolScan V ED
 Date: 2018-04-22
 Tags:
-  - фото
-  - сканер
+  - фотография
+  - пленка
 ---
 
 TWIMC

@@ -2,8 +2,7 @@
 Title: bash history
 Date: 2011-07-01
 Tags:
-  - bash
-  - tips
+  - софт
 ---
 
 Чтобы каждая сессия bash объединяла историю в один глобальный файл, надо в `~/.bash_logout` добавить строку: `history -a $HISTFILE`

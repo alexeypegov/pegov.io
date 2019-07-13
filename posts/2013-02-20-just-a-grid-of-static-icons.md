@@ -2,8 +2,9 @@
 Title: Just a grid of static icons
 Date: 2013-02-20
 Tags:
-  - ux
-  - simplicity
+  - юзабилити
+  - цитата
+  - юай
 ---
 
 > It has a killer processor and other great hardware features, but the operating system doesn’t take advantage of any of that. The home screen is still just a grid of static icons that launch apps.

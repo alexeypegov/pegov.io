@@ -2,7 +2,6 @@
 Title: Today screensaver
 Date: 2011-06-30
 Tags:
-  - mac
   - софт
 ---
 

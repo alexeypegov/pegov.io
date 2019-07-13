@@ -1,7 +1,7 @@
 ---
 Title: Darth Vader for Tom Tom
 Date: 2010-06-10
-Tags: fun
+Tags: саптрю
 ---
 
 http://www.youtube.com/watch?v=2ljFfL-mL70

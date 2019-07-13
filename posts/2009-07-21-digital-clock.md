@@ -1,7 +1,7 @@
 ---
 Title: Digital clock
 Date: 2009-07-21
-Tags: пром-дизайн
+Tags: дизайн
 ---
 
 ![B/W Clock](images/bw-clock.jpeg)

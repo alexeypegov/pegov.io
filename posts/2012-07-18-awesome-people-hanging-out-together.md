@@ -1,7 +1,7 @@
 ---
 Title: Awesome people hanging out together
 Date: 2012-07-18
-Tags: картинки
+Tags: разное
 ---
 
 ![fight-club.jpeg](images/fight-club.jpeg)

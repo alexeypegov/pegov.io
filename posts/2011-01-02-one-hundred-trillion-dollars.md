@@ -1,7 +1,7 @@
 ---
 Title: One Hundred Trillion Dollars
 Date: 2011-01-02
-Tags: фан
+Tags: разное
 ---
 
 ![Image](images/dollars.jpg)

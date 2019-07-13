@@ -1,11 +1,12 @@
 ---
 Title: Charlie Rose
 Date: 2011-02-10
-Tags: саптрю
+Tags:
+  - саптрю
+  - интервью
 ---
 
 ![Charlie Rose](images/charlie_rose.jpg)
-
 
 > Acclaimed interviewer and broadcast journalist [Charlie Rose](http://www.charlierose.com/) engages America's best thinkers, writers, politicians, athletes, entertainers, business leaders, scientists and other newsmakers in one-on-one interviews and roundtable discussions.
 

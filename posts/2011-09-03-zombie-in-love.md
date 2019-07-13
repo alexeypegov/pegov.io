@@ -1,7 +1,7 @@
 ---
 Title: Zombie in Love
 Date: 2011-09-03
-Tags: картинки
+Tags: разное
 ---
 
 ![zombie_in_love.jpg](images/zombie_in_love.jpg)

@@ -2,7 +2,6 @@
 Title: Progressive, Week 24
 Date: 2011-06-21
 Tags:
-  - progressive
   - слушаю
 ---
 

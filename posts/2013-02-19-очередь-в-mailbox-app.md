@@ -2,8 +2,8 @@
 Title: Очередь в Mailbox app
 Date: 2013-02-19
 Tags:
-  - epic fail
-  - iphone
+  - юзабилити
+  - софт
 ---
 
 Вот эти чуваки, которые [сделали очередь](http://www.mailboxapp.com/reservations/) якобы "_in order to provide a robust, world-class email experience_" и тд и тп, на самом деле, придумали все это от бедности.

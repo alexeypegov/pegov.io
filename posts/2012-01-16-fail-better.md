@@ -1,7 +1,7 @@
 ---
 Title: Fail better
 Date: 2012-01-16
-Tags: картинки
+Tags: разное
 ---
 
 ![fail-better.jpg](images/fail-better.jpg)

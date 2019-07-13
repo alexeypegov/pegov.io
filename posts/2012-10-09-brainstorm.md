@@ -1,7 +1,7 @@
 ---
 Title: Brainstorm
 Date: 2012-10-09
-Tags: комиксы
+Tags: разное
 ---
 
 ![brainstorm-blog.jpeg](images/brainstorm-blog.jpeg)

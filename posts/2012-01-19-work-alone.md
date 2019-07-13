@@ -1,7 +1,7 @@
 ---
 Title: Work alone
 Date: 2012-01-19
-Tags: цитаты
+Tags: цитата
 ---
 
 > I don’t believe anything really revolutionary has ever been invented by committee… I’m going to give you some advice that might be hard to take. That advice is: Work alone… — Steve Wozniack.

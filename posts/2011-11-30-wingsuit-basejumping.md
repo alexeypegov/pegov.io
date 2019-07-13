@@ -1,7 +1,7 @@
 ---
 Title: Wingsuit basejumping
 Date: 2011-11-30
-Tags: суперлюди
+Tags: саптрю
 ---
 
 http://vimeo.com/18150336

@@ -1,7 +1,7 @@
 ---
 Title: Jun Kumaori
 Date: 2012-01-08
-Tags: картинки
+Tags: разное
 ---
 
 ![kmr.jpg](images/kmr.jpg)

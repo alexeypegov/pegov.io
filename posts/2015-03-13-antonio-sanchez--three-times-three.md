@@ -1,7 +1,9 @@
 ---
 Title: Antonio Sanchez - Three Times Three
 Date: 2015-03-13
-Tags: слушаю
+Tags:
+  - слушаю
+  - джаз
 ---
 
 ![three-times-three.jpg](images/three-times-three.jpg)

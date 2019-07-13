@@ -2,7 +2,6 @@
 Title: Smartfiction.ru to Kindle
 Date: 2013-02-09
 Tags:
-  - kindle
   - читаю
 ---
 

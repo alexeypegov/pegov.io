@@ -1,7 +1,9 @@
 ---
 Title: Underwater topography
 Date: 2013-01-04
-Tags: картинки
+Tags:
+  - разное
+  - дизайн
 ---
 
 ![map-7.jpg](images/map-7.jpg)

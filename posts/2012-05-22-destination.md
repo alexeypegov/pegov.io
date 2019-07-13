@@ -1,7 +1,7 @@
 ---
 Title: Destination
 Date: 2012-05-22
-Tags: quotes
+Tags: цитата
 ---
 
 Henry Miller:

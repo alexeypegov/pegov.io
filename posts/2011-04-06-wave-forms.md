@@ -1,7 +1,7 @@
 ---
 Title: Wave Forms
 Date: 2011-04-06
-Tags: картинка
+Tags: разное
 ---
 
 ![wave_forms.gif](images/wave_forms.gif)

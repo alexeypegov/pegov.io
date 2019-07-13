@@ -1,7 +1,7 @@
 ---
 Title: Marie-Claire Bozant
 Date: 2011-03-28
-Tags: минимал
+Tags: фотография
 ---
 
 ![bozant-pool.jpg](images/bozant-pool.jpg)

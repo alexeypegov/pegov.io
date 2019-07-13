@@ -2,9 +2,7 @@
 Title: Chrome local-file-access paranoia fix
 Date: 2011-07-22
 Tags:
-  - mac
-  - chrome
-  - html5
+  - софт
 ---
 
 Чтобы подебажить html5 dnd картинок в хроме надо немного запариться:

@@ -3,7 +3,6 @@ Title: Booka Shade - Love Inc (Richie G Remix)
 Date: 2013-11-01
 Tags:
   - слушаю
-  - electronic
 ---
 
 http://youtube.com/watch?v=Hcqrby15Q0M

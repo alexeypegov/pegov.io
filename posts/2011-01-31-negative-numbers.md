@@ -1,7 +1,8 @@
 ---
 Title: Negative numbers
 Date: 2011-01-31
-Tags: фото
+Tags:
+  - цитата
 ---
 
 ![Michael Jordan](images/michael-jordan.jpg)

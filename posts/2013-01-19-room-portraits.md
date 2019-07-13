@@ -2,8 +2,8 @@
 Title: Room Portraits
 Date: 2013-01-19
 Tags:
-  - дизайн
   - фотография
+  - разное
 ---
 
 ![room-portraits.jpeg](images/room-portraits.jpeg)

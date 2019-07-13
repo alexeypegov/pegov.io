@@ -1,7 +1,7 @@
 ---
 Title: You're soaking in it
 Date: 2012-03-15
-Tags: фото
+Tags: разное
 ---
 
 ![abby-brothers-smug-brothers-5.jpg](images/abby-brothers-smug-brothers-5.jpg)

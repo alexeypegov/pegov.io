@@ -1,7 +1,9 @@
 ---
 Title: Sense Of Flying
 Date: 2011-12-06
-Tags: суперлюди
+Tags:
+  - разное
+  - саптрю
 ---
 
 http://vimeo.com/32875422

@@ -1,7 +1,7 @@
 ---
 Title: Consequences
 Date: 2010-11-09
-Tags: микс
+Tags: разное
 ---
 
 ![Consequences](images/consequences.jpg)

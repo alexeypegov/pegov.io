@@ -1,7 +1,7 @@
 ---
 Title: Happiness
 Date: 2010-10-29
-Tags: quote
+Tags: цитата
 ---
 
 ![Image](images/be_happy.jpg)

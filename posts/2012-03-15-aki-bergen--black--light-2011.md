@@ -3,7 +3,6 @@ Title: Aki Bergen - Black & Light (2011)
 Date: 2012-03-15
 Tags:
   - слушаю
-  - хаус
 ---
 
 ![aki-bergen-black-and-light.png](images/aki-bergen-black-and-light.png)

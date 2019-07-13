@@ -1,7 +1,7 @@
 ---
 Title: Vincent van Gogh in Blue
 Date: 2012-04-13
-Tags: картинка
+Tags: разное
 ---
 
 ![van-gogh.jpg](images/van-gogh.jpg)

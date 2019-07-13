@@ -1,7 +1,9 @@
 ---
-Title: 22-08-2014 14:42
+Title: Chet Faker - Gold
 Date: 2014-08-22
-Tags: саптрю
+Tags:
+  - саптрю
+  - слушаю
 ---
 
 http://youtube.com/watch?v=hi4pzKvuEQM

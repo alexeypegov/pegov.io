@@ -2,7 +2,7 @@
 Title: Architizer
 Date: 2011-06-08
 Tags:
-  - iPad
+  - софт
   - архитектура
 ---
 

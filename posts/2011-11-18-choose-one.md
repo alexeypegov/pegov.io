@@ -1,7 +1,7 @@
 ---
 Title: Choose one
 Date: 2011-11-18
-Tags: img
+Tags: разное
 ---
 
 ![choose_one.jpg](images/choose_one.jpg)

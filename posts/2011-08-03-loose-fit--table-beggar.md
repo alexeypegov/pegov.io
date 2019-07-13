@@ -3,7 +3,6 @@ Title: Loose Fit - Table Beggar
 Date: 2011-08-03
 Tags:
   - слушаю
-  - саптрю
 ---
 
 http://vimeo.com/25777821

@@ -1,5 +1,5 @@
 ---
-Title: The Greg Foat Group -  Dark Is The Sun (2011)
+Title: The Greg Foat Group - Dark Is The Sun (2011)
 Date: 2012-02-27
 Tags: слушаю
 ---

@@ -3,6 +3,8 @@ Title: Поля из деревки и Дмитрий Марков
 Date: 2019-04-01
 Tags:
   - саптрю
+  - фотография
+  - интервью
 ---
 
 https://www.youtube.com/watch?v=wJG1vC_IwLw
