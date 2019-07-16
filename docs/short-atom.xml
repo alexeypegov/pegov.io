@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-06-26T00:00:00+03:00</updated>
+  <updated>2019-07-16T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Захарио]]></title>
+      <link href="https://pegov.io/2019-07-16-zakhario.html" />
+      <id>urn:uuid:51dabece-7b40-375c-a396-32f9661db77e</id>
+      <updated>2019-07-16T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Castro Sideloads]]></title>
       <link href="https://pegov.io/2019-06-26-castro.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2018-12-26-finding-vivian-maier.html" />
       <id>urn:uuid:30506e42-47aa-3c83-9fc6-16f6d7b93f48</id>
       <updated>2018-12-26T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Хрусталь (2018)]]></title>
-      <link href="https://pegov.io/2018-12-19-хрусталь.html" />
-      <id>urn:uuid:b48c0a79-e77b-3df8-8d01-92e534fd1ef4</id>
-      <updated>2018-12-19T00:00:00+03:00</updated>
     </entry>
 </feed>

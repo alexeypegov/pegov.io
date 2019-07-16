@@ -4,7 +4,24 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-06-26T00:00:00+03:00</updated>
+  <updated>2019-07-16T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Захарио]]></title>
+      <link href="https://pegov.io/2019-07-16-zakhario.html" />
+      <id>urn:uuid:51dabece-7b40-375c-a396-32f9661db77e</id>
+      <updated>2019-07-16T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="https://pegov.io/images/pukhliy.jpg" alt="Пухлый" /></p>
+<p>Если коротко, то &quot;все хорошо&quot;. Но если вдруг вам этого мало, то вот у Кати есть <a href="https://instagram.com/mamablint">специальный инстаграм</a>, в котором она регулярно делится подробностями.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Castro Sideloads]]></title>
       <link href="https://pegov.io/2019-06-26-castro.html" />
@@ -163,23 +180,6 @@
 <p>Несколько лет назад интернет буквально взорвался историей Вивиан Майер — няни, которая много лет фотографировала, но по какой-то причине никому не показывала <a href="http://www.vivianmaier.com">свои картинки</a>.</p>
 <p>Чувак, который случайно приобрел на распродаже ее негативы, а затем опубликовал их, разыскал тех людей, которые знали Майер при жизни (к моменту, когда ее снимки получили известность, сама Вивьен уже умерла), взял у них интервью и сделал целый фильм-расследование, в котором он пытается ответить на вопрос — кем же, на самом деле, была Вивиан Маейер и почему мы узнали о ее работе только сейчас?</p>
 <p>Очень интересно, хотя и ужасно обидно, что люди, с которыми Вивьен жила много лет, почти ничего о ней, как выяснилось, не знают, а самого автора мы спросить обо всем этом уже не сможем.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Хрусталь (2018)]]></title>
-      <link href="https://pegov.io/2018-12-19-хрусталь.html" />
-      <id>urn:uuid:b48c0a79-e77b-3df8-8d01-92e534fd1ef4</id>
-      <updated>2018-12-19T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/crystal.jpg" alt="Хрусталь" /></p>
-<p>С большим удовольствием посмотрели фильм <a href="https://www.imdb.com/title/tt6835498/">Хрусталь</a> Дарьи Жук. В Питере его показывают всего в нескольких кинотеатрах, например, в <a href="https://www.domkino.spb.ru/films/khrustal/">Доме Кино</a>. Сходите, фильм хороший.</p>
 
         </div>
       </content>
