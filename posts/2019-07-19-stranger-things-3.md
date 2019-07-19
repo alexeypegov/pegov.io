@@ -6,6 +6,6 @@ Tags:
   - сериал
 ---
 
-![Stranger Things 3](images/stranger-things-3.png)
+![Stranger Things 3](images/stranger-things-3.jpg)
 
 А какой у них крутой третий сезон получился! Кайф!
