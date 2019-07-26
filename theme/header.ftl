@@ -5,18 +5,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
     <link rel="index" id="link-index" href="${vars.blog_url}" />
-    <#if prev?exists>
-      <#assign earlier = vars.blog_url>
-      <#if prev gt 1>
-        <#assign earlier = vars.blog_url + "/page-" + prev + ".html">
-      </#if>
+    <#if prev_page?exists>
+      <#assign earlier = vars.blog_url + "/" + prev_page + ".html">
     <link rel="prev" id="link-earlier" href="${earlier}" />
     </#if>
-    <#if next?exists>
-      <#assign later = vars.blog_url>
-      <#if next gt 0>
-        <#assign later = vars.blog_url + "/page-" + next + ".html">
-      </#if>
+    <#if next_page?exists>
+      <#assign later = vars.blog_url + "/" + next_page + ".html">
     <link rel="next" id="link-later" href="${later}" />
     </#if>
     <#if note?exists>

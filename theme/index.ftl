@@ -4,13 +4,13 @@
 </#list>
 <div class="paging">
 <#if prev_page?exists>
-<a id="prev" href="${prev_page}">позднее</a>
+<a id="prev" href="${prev_page}.html">позднее</a>
 <#else>
 <a nohref>позднее</a>
 </#if>
 &#151;
 <#if next_page?exists>
-<a id="next" href="${next_page}">ранее</a>
+<a id="next" href="${next_page}.html">ранее</a>
 <#else>
 <a id="next" nohref>ранее</a>
 </#if>
