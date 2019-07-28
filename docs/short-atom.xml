@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-07-19T00:00:00+03:00</updated>
+  <updated>2019-07-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Call Me By Your Name (2017)]]></title>
+      <link href="https://pegov.io/2019-07-28-call-me-by-your-name.html" />
+      <id>urn:uuid:06ae6522-eabb-337c-8124-13a1493d53ad</id>
+      <updated>2019-07-28T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Stranger Things 3]]></title>
       <link href="https://pegov.io/2019-07-19-stranger-things-3.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-01-25-reggie-washington.html" />
       <id>urn:uuid:7b9741ce-4c62-3cfb-9524-4075435f06d9</id>
       <updated>2019-01-25T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Максим Дмитриев]]></title>
-      <link href="https://pegov.io/2018-12-27-максим-дмитриев.html" />
-      <id>urn:uuid:2500e12d-e121-356d-9993-1949ad511828</id>
-      <updated>2018-12-27T00:00:00+03:00</updated>
     </entry>
 </feed>

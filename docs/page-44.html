@@ -26,6 +26,22 @@
   </div>
 </div>
 <div class="container"><div class="note">
+  <div class="title"><h1><a href="2011-07-22-chrome-localfileaccess-paranoia-fix.html">Chrome local-file-access paranoia fix</a></h1></div>
+  <div class="sub">
+    <div class="date">2011-07-22</div>
+    <div class="tags">
+      <span class="tag">софт</span>
+    </div>
+  </div>
+  <div class="body"><p>Чтобы подебажить html5 dnd картинок в хроме надо немного запариться:</p>
+<pre><code>cd /Applications/Google\ Chrome.app/Contents/MacOS
+sudo mv Google\ Chrome Chrome
+sudo sh -c 'echo &quot;/Applications/Google\ Chrome.app/Contents/MacOS/Chrome --allow-file-access-from-files --allow-file-access&quot; &gt; Google\ Chrome'
+sudo chmod +x Google\ Chrome
+</code></pre>
+</div>
+</div>
+<div class="note">
   <div class="title"><h1><a href="2011-07-20-assign-app-to-desktop-space.html">Assign app to desktop (space)</a></h1></div>
   <div class="sub">
     <div class="date">2011-07-20</div>
@@ -140,20 +156,6 @@
   <div class="body"><p><div class="media" style="padding-top: 56.25%;">
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/Puph1hejMQE?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
-</div>
-</div>
-<div class="note">
-  <div class="title"><h1><a href="2011-07-07-про-чекбоксы-и-не-только.html">Про чекбоксы и не только</a></h1></div>
-  <div class="sub">
-    <div class="date">2011-07-07</div>
-    <div class="tags">
-      <span class="tag">юзабилити</span>
-    </div>
-  </div>
-  <div class="body"><p><img src="images/inverted_checkbox.png" alt="inverted_checkbox.png" /></p>
-<p>Никогда не меняйте смысл чекбокса на обратный, то есть когда &quot;для того, чтобы что-то <em>включить</em> надо что-то <em>выключить</em>&quot; (или наоборот). Это же противоестественно :)</p>
-<p>На картинке показан клинический случай. А из классических примеров вспоминается инвертирование чекбокса на страничках логина с &quot;запомнить меня на этом компьютере&quot; на &quot;не запоминать меня на этом компьютере&quot; (отмеченный чекбокс будет означать абсолютно противоположные вещи), хотя вместо того, чтобы инвертировать смысл, достаточно всего лишь проставить правильное дефолтное значение.</p>
-<p>И еще внезапно выяснилось, что смена языка интерфейса, часто помогает посмотреть на вещи совсем под другим углом :)</p>
 </div>
 </div>
 <div class="paging">
