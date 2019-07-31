@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <#if note?exists>
+    <title>${note.title} - ${vars.blog_title}</title>
+    <#elseif ndx?exists && ndx gt 1>
+    <title>Страница ${ndx} - ${vars.blog_title}</title>
+    <#else>
     <title>${vars.blog_title}</title>
+    </#if>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
     <link rel="index" id="link-index" href="${vars.blog_url}" />
