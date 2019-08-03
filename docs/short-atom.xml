@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-07-28T00:00:00+03:00</updated>
+  <updated>2019-08-03T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[My body is a cage]]></title>
+      <link href="https://pegov.io/2019-08-03-my-body-is-a-cage.html" />
+      <id>urn:uuid:b945e060-6c69-3df4-ab63-02600fe5b1d6</id>
+      <updated>2019-08-03T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Call Me By Your Name (2017)]]></title>
       <link href="https://pegov.io/2019-07-28-call-me-by-your-name.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-03-12-perestal.html" />
       <id>urn:uuid:57e94efa-9783-35c5-a439-8ae53a3a2e56</id>
       <updated>2019-03-12T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Reggie Washington — Vintage New Acoustic (2018)]]></title>
-      <link href="https://pegov.io/2019-01-25-reggie-washington.html" />
-      <id>urn:uuid:7b9741ce-4c62-3cfb-9524-4075435f06d9</id>
-      <updated>2019-01-25T00:00:00+03:00</updated>
     </entry>
 </feed>
