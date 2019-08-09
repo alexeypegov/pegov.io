@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-08-03T00:00:00+03:00</updated>
+  <updated>2019-08-09T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Various Artists - We Out Here (2018)]]></title>
+      <link href="https://pegov.io/2019-08-09-we-out-here.html" />
+      <id>urn:uuid:9103d120-fc30-37d8-b823-d003f795a194</id>
+      <updated>2019-08-09T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[My body is a cage]]></title>
       <link href="https://pegov.io/2019-08-03-my-body-is-a-cage.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-03-14-dans-les-strass.html" />
       <id>urn:uuid:0c69878b-8264-3631-9861-9c3ce93d80b4</id>
       <updated>2019-03-14T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Перестал]]></title>
-      <link href="https://pegov.io/2019-03-12-perestal.html" />
-      <id>urn:uuid:57e94efa-9783-35c5-a439-8ae53a3a2e56</id>
-      <updated>2019-03-12T00:00:00+03:00</updated>
     </entry>
 </feed>
