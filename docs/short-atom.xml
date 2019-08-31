@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-08-15T00:00:00+03:00</updated>
+  <updated>2019-08-31T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Мои парни]]></title>
+      <link href="https://pegov.io/2019-08-31-my-boys.html" />
+      <id>urn:uuid:ebf91556-3ea7-3dfe-a082-af455d1ac32f</id>
+      <updated>2019-08-31T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Формальность]]></title>
       <link href="https://pegov.io/2019-08-15-формальность.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-04-01-dmitry-markov.html" />
       <id>urn:uuid:1e846c86-ae66-3097-8991-964f1d4a7625</id>
       <updated>2019-04-01T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар Алексеевич]]></title>
-      <link href="https://pegov.io/2019-03-28-захар-алексеевич.html" />
-      <id>urn:uuid:34f72951-bbf6-3947-a972-0d9a0a1f8dcd</id>
-      <updated>2019-03-28T00:00:00+03:00</updated>
     </entry>
 </feed>
