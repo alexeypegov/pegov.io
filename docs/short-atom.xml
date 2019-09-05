@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-08-31T00:00:00+03:00</updated>
+  <updated>2019-09-05T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[О наказаниях]]></title>
+      <link href="https://pegov.io/2019-09-05-о-наказаниях.html" />
+      <id>urn:uuid:049cb388-97db-3842-ac0b-f2056b75c451</id>
+      <updated>2019-09-05T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Мои парни]]></title>
       <link href="https://pegov.io/2019-08-31-my-boys.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-06-05-ararat-gay.html" />
       <id>urn:uuid:24f33e53-68f6-3ae1-af9c-7716d70fc40c</id>
       <updated>2019-06-05T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Поля из деревки и Дмитрий Марков]]></title>
-      <link href="https://pegov.io/2019-04-01-dmitry-markov.html" />
-      <id>urn:uuid:1e846c86-ae66-3097-8991-964f1d4a7625</id>
-      <updated>2019-04-01T00:00:00+03:00</updated>
     </entry>
 </feed>
