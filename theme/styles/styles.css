@@ -47,10 +47,6 @@ a:hover {
   margin-left: 1em;
 }
 
-a:hover {
-  text-decoration-color: #33c;
-}
-
 .container {
   display: flex;
   flex-flow: column;
@@ -97,10 +93,7 @@ a:hover {
   display: inline;
 }
 
-.note .date {
-  color: #999;
-}
-
+.note .date,
 .note .tags {
   color: #999;
 }
@@ -191,8 +184,8 @@ li {
   padding: 1em 0;
 }
 
-.footer a {
-  color: #ccf;
+.footer {
+  opacity: .3;
 }
 
 @media all and (max-width: 1099px) {
@@ -266,5 +259,50 @@ li {
 
   .footer {
     font-size: 12pt;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1C1C1C;
+  }
+
+  .top .title a {
+    color: #f3f3f3;
+  }
+
+  .note {
+    color: #aaa;
+  }
+
+  .note .date,
+  .note .tags {
+    color: #666;
+  }
+
+  .note .tag {
+    background-color: #333;
+  }
+
+  blockquote {
+    color: #ddd;
+  }
+
+  a[href] {
+    color: #358CDB;
+    text-decoration-color: #32556B;
+  }
+
+  a:hover {
+    text-decoration-color: #72AADD;
+  }
+
+  .note .title a {
+    color: #e7e7e7;
+    text-decoration-color: #444;
+  }
+
+  .note .title a:hover {
+    text-decoration-color: #e7e7e7;
   }
 }
