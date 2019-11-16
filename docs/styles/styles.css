@@ -1,18 +1,94 @@
 @import url('https://fonts.googleapis.com/css?family=Literata|Vollkorn:400,500');
 
+:root {
+  --font-family: 'Literata', serif;
+  --font-size: 15pt;
+
+  --blog-title-font-family: 'Vollkorn', serif;
+  --blog-title-font-size: 50pt;
+
+  --text-color: #444;
+
+  --menu-font-size: 17pt;
+
+  --background-color: #fff;
+
+  --link-color: #33c;
+  --link-decoration-color: #bbf;
+
+  --note-title-decoration-color: #ddd;
+  --note-title-text-size: 25pt;
+  --note-details-color: #999;
+  --note-details-text-size: 13pt;
+  --note-tags-background-color: #eee;
+
+  --blockquote-border-color: #1E90FF;
+  --blockquote-text-color: #777;
+  --pre-background-color: #eee;
+
+  --note-width: 1000px;
+
+  --paging-text-color: #777;
+  --footer-text-size: ;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1c1c1c;
+
+    --text-color: #aaa;
+
+    --link-color: #358CDB;
+    --link-decoration-color: #32556B;
+
+    --note-title-decoration-color: #444;
+    --note-details-color: #666;
+    --note-tags-background-color: #333;
+
+    --blockquote-text-color: #ddd;
+  }
+
+  .top .title a {
+    color: #f3f3f3;
+  }
+}
+
+@media (max-width: 1099px) {
+  :root {
+    --font-size: 14pt;
+    --blog-title-font-size: 25pt;
+    --menu-font-size: 13pt;
+
+    --link-decoration-color: #33c;
+
+    --note-title-text-size: 16pt;
+    --note-title-decoration-color: #444;
+    --note-details-text-size: 13pt;
+
+    --note-width: 100%;
+    --footer-text-size: 12pt;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --link-decoration-color: #358CDB;
+      --note-title-decoration-color: #aaa;
+    }
+  }
+}
+
 * {
   padding: 0;
   margin: 0;
 }
 
 body {
-  padding: 0;
-  margin: 0;
-
-  font-size: 15pt;
-
-  font-family: 'Literata', serif;
+  font-size: var(--font-size);
+  font-family: var(--font-family);
   line-height: 1.42105;
+
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 .top {
@@ -21,26 +97,28 @@ body {
 }
 
 .top h1 {
-  font-size: 50pt;
-  font-family: 'Vollkorn', serif;
+  font-size: var(--blog-title-font-size);
+  font-family: var(--blog-title-font-family);
+  white-space: nowrap;
 }
 
 .top .title a {
-  color: #444;
+  color: var(--blog-title-link-color);
   text-decoration: none;
 }
 
 .top .menu {
-  font-size: 17pt;
+  font-size: var(--menu-font-size);
+  white-space: nowrap;
 }
 
 a[href] {
-  color: #33c;
-  text-decoration-color: #bbf;
+  color: var(--link-color);
+  text-decoration-color: var(--link-decoration-color);
 }
 
 a:hover {
-  text-decoration-color: #33c;
+  text-decoration-color: var(--link-color);
 }
 
 .top .menu a ~ a {
@@ -58,8 +136,7 @@ a:hover {
 }
 
 .note {
-  width: 1000px;
-  color: #444;
+  width: var(--note-width);
 }
 
 .note ~ .note {
@@ -71,20 +148,20 @@ a:hover {
 }
 
 .note h1 {
-  font-size: 25pt;
+  font-size: var(--note-title-text-size);
 }
 
 .note .title a {
-  color: #444;
-  text-decoration-color: #ddd;
+  color: var(--text-color);
+  text-decoration-color: var(--note-title-decoration-color);
 }
 
 .note .title a:hover {
-  text-decoration-color: #444;
+  text-decoration-color: var(--text-color);
 }
 
 .note .sub {
-  font-size: 13pt;
+  font-size: var(--note-details-text-size);
   padding-bottom: 1em;
   padding-top: .5em;
 }
@@ -95,11 +172,11 @@ a:hover {
 
 .note .date,
 .note .tags {
-  color: #999;
+  color: var(--note-details-color);
 }
 
 .note .tag {
-  background-color: #eee;
+  background-color: var(--note-tags-background-color);
   padding: 0 4px;
 }
 
@@ -125,12 +202,12 @@ a:hover {
 blockquote {
   margin: 1em;
   padding-left: 1em;
-  border-left: 2px solid #1E90FF;
-  color: #777;
+  border-left: 2px solid var(--blockquote-border-color);
+  color: var(--blockquote-text-color);
 }
 
 pre {
-  background-color: #eee;
+  background-color: var(--pre-background-color);
   padding: 10px;
   border-radius: 5px;
   font-size: 14pt;
@@ -174,12 +251,11 @@ li {
 
 .paging {
   padding: 2em 0;
-  color: #777;
+  color: var(--paging-text-color);
 }
 
 .footer {
-  font-size: 13pt;
-  color: #ccc;
+  font-size: var(--footer-text-size);
   text-align: center;
   padding: 1em 0;
 }
@@ -189,50 +265,16 @@ li {
 }
 
 @media all and (max-width: 1099px) {
-  body {
-    font-size: 14pt;
-  }
-
   .top {
     margin: 2em 0;
-  }
-
-  .top h1 {
-    font-size: 25pt;
-    white-space: nowrap;
-  }
-
-  .top .menu {
-    font-size: 13pt;
-    white-space: nowrap;
   }
 
   .top .menu a ~ a {
     margin-left: .5em;
   }
 
-  a[href] {
-    text-decoration-color: #33c;
-  }
-
-  .note {
-    width: 100%;
-  }
-
   .note > * {
     padding: 0 10px;
-  }
-
-  .note .title a {
-    text-decoration-color: #444;
-  }
-
-  .note h1 {
-    font-size: 16pt;
-  }
-
-  .note .sub {
-    font-size: 13pt;
   }
 
   .note .body .media {
@@ -255,54 +297,5 @@ li {
     width: 100%;
     width: calc(100% + 20px);
     margin-left: -10px;
-  }
-
-  .footer {
-    font-size: 12pt;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #1C1C1C;
-  }
-
-  .top .title a {
-    color: #f3f3f3;
-  }
-
-  .note {
-    color: #aaa;
-  }
-
-  .note .date,
-  .note .tags {
-    color: #666;
-  }
-
-  .note .tag {
-    background-color: #333;
-  }
-
-  blockquote {
-    color: #ddd;
-  }
-
-  a[href] {
-    color: #358CDB;
-    text-decoration-color: #32556B;
-  }
-
-  a:hover {
-    text-decoration-color: #72AADD;
-  }
-
-  .note .title a {
-    color: #e7e7e7;
-    text-decoration-color: #444;
-  }
-
-  .note .title a:hover {
-    text-decoration-color: #e7e7e7;
   }
 }
