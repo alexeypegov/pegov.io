@@ -8,6 +8,7 @@
   --blog-title-font-size: 50pt;
 
   --text-color: #444;
+  --title-color: #444;
 
   --menu-font-size: 17pt;
 
@@ -37,6 +38,7 @@
     --background-color: #1c1c1c;
 
     --text-color: #aaa;
+    --title-color: #eee;
 
     --link-color: #358CDB;
     --link-decoration-color: #32556B;
@@ -46,10 +48,6 @@
     --note-tags-background-color: #333;
 
     --blockquote-text-color: #ddd;
-  }
-
-  .top .title a {
-    color: #f3f3f3;
   }
 }
 
@@ -72,7 +70,7 @@
   @media (prefers-color-scheme: dark) {
     :root {
       --link-decoration-color: #358CDB;
-      --note-title-decoration-color: #aaa;
+      --note-title-decoration-color: #eee;
     }
   }
 }
@@ -103,7 +101,7 @@ body {
 }
 
 .top .title a {
-  color: var(--blog-title-link-color);
+  color: var(--title-color);
   text-decoration: none;
 }
 
@@ -152,12 +150,12 @@ a:hover {
 }
 
 .note .title a {
-  color: var(--text-color);
+  color: var(--title-color);
   text-decoration-color: var(--note-title-decoration-color);
 }
 
 .note .title a:hover {
-  text-decoration-color: var(--text-color);
+  text-decoration-color: var(--title-color);
 }
 
 .note .sub {
