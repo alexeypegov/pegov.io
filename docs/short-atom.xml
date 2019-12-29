@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2019-09-05T00:00:00+03:00</updated>
+  <updated>2019-12-29T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Подкасты]]></title>
+      <link href="https://pegov.io/2019-12-29-подкасты.html" />
+      <id>urn:uuid:777f1a03-1a0e-3e1b-ad3b-24933119a8ff</id>
+      <updated>2019-12-29T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[О наказаниях]]></title>
       <link href="https://pegov.io/2019-09-05-о-наказаниях.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-06-26-castro.html" />
       <id>urn:uuid:84262f6a-4d6b-3fbd-885b-ddb036f77944</id>
       <updated>2019-06-26T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Арарат гей]]></title>
-      <link href="https://pegov.io/2019-06-05-ararat-gay.html" />
-      <id>urn:uuid:24f33e53-68f6-3ae1-af9c-7716d70fc40c</id>
-      <updated>2019-06-05T00:00:00+03:00</updated>
     </entry>
 </feed>
