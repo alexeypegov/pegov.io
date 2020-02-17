@@ -249,7 +249,7 @@ footer {
     margin-left: .5em;
   }
 
-  article > * {
+  main, footer {
     padding: 0 10px;
   }
 
