@@ -250,7 +250,7 @@ footer {
   }
 
   main, footer {
-    padding: 0 10px;
+    padding: 0 10px 1em 10px;
   }
 
   article .media {
