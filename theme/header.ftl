@@ -40,12 +40,12 @@
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
 <body>
-<div class="top">
-  <div class="title"><h1><a href="/">Ложное движение</a></h1></div>
-  <div class="menu">
+<header>
+  <h1><a href="/">Ложное движение</a></h1>
+  <nav>
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
     <a href="https://flickr.com/alexeypegov">Фотографирую</a>
-  </div>
-</div>
-<div class="container">
+  </nav>
+</header>
+<main>

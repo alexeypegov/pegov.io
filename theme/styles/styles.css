@@ -30,7 +30,6 @@
   --note-width: 1000px;
 
   --paging-text-color: #777;
-  --footer-text-size: ;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -64,7 +63,6 @@
     --note-details-text-size: 13pt;
 
     --note-width: 100%;
-    --footer-text-size: 12pt;
   }
 
   @media (prefers-color-scheme: dark) {
@@ -89,27 +87,6 @@ body {
   color: var(--text-color);
 }
 
-.top {
-  margin: 4em 2em;
-  text-align: center;
-}
-
-.top h1 {
-  font-size: var(--blog-title-font-size);
-  font-family: var(--blog-title-font-family);
-  white-space: nowrap;
-}
-
-.top .title a {
-  color: var(--title-color);
-  text-decoration: none;
-}
-
-.top .menu {
-  font-size: var(--menu-font-size);
-  white-space: nowrap;
-}
-
 a[href] {
   color: var(--link-color);
   text-decoration-color: var(--link-decoration-color);
@@ -119,81 +96,86 @@ a:hover {
   text-decoration-color: var(--link-color);
 }
 
-.top .menu a ~ a {
+header {
+  margin: 4em 2em;
+  text-align: center;
+}
+
+header > h1 {
+  font-size: var(--blog-title-font-size);
+  font-family: var(--blog-title-font-family);
+  white-space: nowrap;
+}
+
+header > h1 > a[href] {
+  color: var(--title-color);
+  text-decoration: none;
+}
+
+header nav {
+  font-size: var(--menu-font-size);
+  white-space: nowrap;
+}
+
+header nav a ~ a {
   margin-left: 1em;
 }
 
-.container {
+main {
   display: flex;
   flex-flow: column;
   align-items: center;
 }
 
-.notes.single-note {
-  margin-bottom: 2em;
-}
-
-.note {
+article {
   width: var(--note-width);
 }
 
-.note ~ .note {
+article ~ article {
   margin-top: 3em;
 }
 
-.note .title {
+article > h1 {
   font-weight: bold;
-}
-
-.note h1 {
   font-size: var(--note-title-text-size);
 }
 
-.note .title a {
+article > h1 > a[href] {
   color: var(--title-color);
   text-decoration-color: var(--note-title-decoration-color);
 }
 
-.note .title a:hover {
+article > h1 > a:hover {
   text-decoration-color: var(--title-color);
 }
 
-.note .sub {
+article > .sub {
   font-size: var(--note-details-text-size);
-  padding-bottom: 1em;
   padding-top: .5em;
 }
 
-.note .sub > div {
+article > .sub > div {
   display: inline;
 }
 
-.note .date,
-.note .tags {
+article time,
+article .tags {
   color: var(--note-details-color);
 }
 
-.note .tag {
+article .tag {
   background-color: var(--note-tags-background-color);
   padding: 0 4px;
 }
 
-.note .body .media {
+article .media {
   position: relative;
 
   display: flex;
   justify-content: space-around;
 }
 
-* ~ p,
-* ~ ol,
-* ~ ul,
-* ~ pre,
-* ~ blockquote,
-* ~ h1,
-* ~ h2,
-* ~ h3,
-* ~ h4 {
+p, ol, ul, pre, blockquote {
   margin-top: 1em;
 }
 
@@ -243,39 +225,35 @@ li {
   padding-left: .3em;
 }
 
-.note img {
+article img {
   max-width: 1000px;
 }
 
-.paging {
+nav.paging {
   padding: 2em 0;
   color: var(--paging-text-color);
 }
 
-.footer {
-  font-size: var(--footer-text-size);
+footer {
   text-align: center;
   padding: 1em 0;
-}
-
-.footer {
   opacity: .3;
 }
 
 @media all and (max-width: 1099px) {
-  .top {
+  header {
     margin: 2em 0;
   }
 
-  .top .menu a ~ a {
+  header nav a ~ a {
     margin-left: .5em;
   }
 
-  .note > * {
+  article > * {
     padding: 0 10px;
   }
 
-  .note .body .media {
+  article .media {
     margin: 0 -10px 20px;
   }
 
@@ -291,7 +269,7 @@ li {
     margin: 0 !important;
   }
 
-  .note img {
+  article img {
     width: 100%;
     width: calc(100% + 20px);
     margin-left: -10px;

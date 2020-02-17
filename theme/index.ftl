@@ -2,7 +2,7 @@
 <#list items as note>
   <#include "note_body.ftl">
 </#list>
-<div class="paging">
+<nav class="paging">
 <#if prev_page?exists>
 <a id="prev" href="${prev_page}.html">позднее</a>
 <#else>
@@ -14,7 +14,7 @@
 <#else>
 <a id="next" nohref>ранее</a>
 </#if>
-</div>
+</nav>
 <script src="js/pure-swipe.min.js"></script>
 <script type="text/javascript">
   const f = function(id) {
