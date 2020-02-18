@@ -136,6 +136,7 @@ article ~ article {
 }
 
 article > h1 {
+  color: var(--title-color);
   font-weight: bold;
   font-size: var(--note-title-text-size);
 }
