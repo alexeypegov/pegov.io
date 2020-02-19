@@ -45,7 +45,7 @@
   <nav>
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
-    <a href="https://flickr.com/alexeypegov">Фотографирую</a>
+    <a href="http://alexeypegov.com">Фотографирую</a>
   </nav>
 </header>
 <main>
