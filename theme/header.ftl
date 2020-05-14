@@ -12,11 +12,11 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
     <link rel="index" id="link-index" href="${vars.blog_url}" />
     <#if prev_page?exists>
-      <#assign earlier = vars.blog_url + "/" + prev_page + ".html">
+      <#assign earlier = vars.blog_url + "/" + prev_page>
     <link rel="prev" id="link-earlier" href="${earlier}" />
     </#if>
     <#if next_page?exists>
-      <#assign later = vars.blog_url + "/" + next_page + ".html">
+      <#assign later = vars.blog_url + "/" + next_page>
     <link rel="next" id="link-later" href="${later}" />
     </#if>
     <#if note?exists>

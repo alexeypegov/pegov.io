@@ -1,18 +1,15 @@
 # Blog configuration file
 ---
 general:
-  notes: posts/
-  theme: theme/
-  output: docs/
-  notes-per-page: 10
-  date-format: yyyy-MM-dd
+  notes-dir: posts/
+  page-template: index
+  singles-dir: pages/
+  single-template: page
+  output-dir: docs/
   base-url: https://pegov.io/
-  tz: Europe/Moscow
   feeds:
-    names:
-      - atom
-      - short-atom
-    items: 10
+    - atom
+    - short-atom
   copy:
     - theme/styles/
     - theme/js/
@@ -20,7 +17,6 @@ general:
     - posts/images/
     - static/robots.txt
     - static/CNAME
-  pages: pages/
 
 vars:
   blog-title: Ложное движение
