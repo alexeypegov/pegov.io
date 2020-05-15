@@ -5,12 +5,13 @@
   --font-size: 15pt;
 
   --blog-title-font-family: 'Lora', serif;
-  --blog-title-font-size: 50pt;
+  --blog-title-font-size: 45pt;
 
   --text-color: #444;
   --title-color: #444;
+  --subtitle-color: #444;
 
-  --menu-font-size: 18pt;
+  --menu-font-size: 15pt;
 
   --background-color: #fff;
 
@@ -18,7 +19,8 @@
   --link-decoration-color: #bbf;
 
   --note-title-decoration-color: #ddd;
-  --note-title-text-size: 25pt;
+  --note-title-text-size: 22pt;
+  --note-subtitle-text-size: 15pt;
   --note-details-color: #999;
   --note-details-text-size: 15pt;
   --note-tags-background-color: #eee;
@@ -38,6 +40,7 @@
 
     --text-color: #aaa;
     --title-color: #eee;
+    --subtitle-color: #eee;
 
     --link-color: #358CDB;
     --link-decoration-color: #32556B;
@@ -97,7 +100,7 @@ a:hover {
 }
 
 header {
-  margin: 5em 2em;
+  margin: 4em 2em;
   text-align: center;
 }
 
@@ -139,6 +142,12 @@ article > h1 {
   color: var(--title-color);
   font-weight: bold;
   font-size: var(--note-title-text-size);
+}
+
+article > h3 {
+  padding-top: 2em;
+  color: var(--subtitle-color);
+  font-size: var(--note-subtitle-text-size);
 }
 
 article > h1 > a[href] {
