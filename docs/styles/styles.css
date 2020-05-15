@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Literata|Vollkorn:400,500');
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 :root {
-  --font-family: 'Literata', serif;
+  --font-family: 'Lora', serif;
   --font-size: 15pt;
 
-  --blog-title-font-family: 'Vollkorn', serif;
+  --blog-title-font-family: 'Lora', serif;
   --blog-title-font-size: 50pt;
 
   --text-color: #444;
   --title-color: #444;
 
-  --menu-font-size: 17pt;
+  --menu-font-size: 18pt;
 
   --background-color: #fff;
 
@@ -20,7 +20,7 @@
   --note-title-decoration-color: #ddd;
   --note-title-text-size: 25pt;
   --note-details-color: #999;
-  --note-details-text-size: 13pt;
+  --note-details-text-size: 15pt;
   --note-tags-background-color: #eee;
 
   --blockquote-border-color: #1E90FF;
@@ -52,7 +52,7 @@
 
 @media (max-width: 1099px) {
   :root {
-    --font-size: 14pt;
+    --font-size: 13pt;
     --blog-title-font-size: 25pt;
     --menu-font-size: 13pt;
 
@@ -97,7 +97,7 @@ a:hover {
 }
 
 header {
-  margin: 4em 2em;
+  margin: 5em 2em;
   text-align: center;
 }
 

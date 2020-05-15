@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <#if note?exists>
     <title>${note.title} - ${vars.blog_title}</title>
@@ -22,7 +22,7 @@
     <#if note?exists>
       <#assign description = note.title>
     <#else>
-      <#assign description = vars.blog_title>
+      <#assign description = vars.description>
     </#if>
     <meta name="description" content="${description}" />
     <meta name="og:description" content="${description}" />
@@ -35,7 +35,7 @@
     </#if>
     <meta name="og:url" content="${self}" />
     </#if>
-    <link rel="icon" type="image/png" href="${vars.blog_url}/i/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="i/favicon.png">
     <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
   </head>
