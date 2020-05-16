@@ -1,16 +1,10 @@
 User-agent:  *
-Disallow: /i/
-Disallow: /images/
-Disallow: /js/
-Disallow: /styles/
 Disallow: /rss.xml
 Disallow: /short-rss.xml
 
 
 User-agent: Googlebot
 # disallow all files ending with these extensions
-Disallow: /*.js$
-Disallow: /*.css$
 Disallow: /*.txt$
 
 # disallow all files with? in url
