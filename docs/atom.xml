@@ -4,7 +4,31 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-04-08T00:00:00+03:00</updated>
+  <updated>2020-05-21T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Dead Cells]]></title>
+      <link href="https://pegov.io/2020-05-21-dead-cells.html" />
+      <id>urn:uuid:94847410-be3e-300f-85f0-b2438b474fc5</id>
+      <updated>2020-05-21T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="https://pegov.io/images/dead-cells.jpg" alt="Dead Cells" /></p>
+<p><a href="https://dead-cells.com/">Dead Cells</a> — кайф!</p>
+<p>Раскрою чутка:</p>
+<ul>
+<li>Графика и анимация — кайф</li>
+<li>Музыка — кайф</li>
+<li>Играбельность — кайф</li>
+</ul>
+<p>Совершенно не ожидал и от этого особенно приятно, так что — рекомендую.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Nils Frahm — Empty (2020)]]></title>
       <link href="https://pegov.io/2020-04-08-nils-frahm-empty.html" />
@@ -173,23 +197,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="https://pegov.io/images/stranger-things-3.jpg" alt="Stranger Things 3" /></p>
 <p>А какой у них крутой третий сезон получился! Кайф!</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Захарио]]></title>
-      <link href="https://pegov.io/2019-07-16-zakhario.html" />
-      <id>urn:uuid:51dabece-7b40-375c-a396-32f9661db77e</id>
-      <updated>2019-07-16T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/pukhliy.jpg" alt="Пухлый" /></p>
-<p>Если коротко, то &quot;все хорошо&quot;. Но если вдруг вам этого мало, то вот у Кати есть <a href="https://instagram.com/mamablint">специальный инстаграм</a>, в котором она регулярно делится подробностями.</p>
 
         </div>
       </content>
