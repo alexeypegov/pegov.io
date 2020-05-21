@@ -19,12 +19,12 @@
   :root {
     /* size factor: 1.067 */
 
-    --base-font-size: 16px;
+    --base-font-size: 18px;
     --font-weight: 500;
 
-    --blog-title-font-size: 1.802em;
-    --menu-font-size: 1.125em;
-    --note-title-text-size: 1.266em;
+    --blog-title-font-size: 1.383em;
+    --menu-font-size: 1em;
+    --note-title-text-size: 1.067em;
     --note-subtitle-text-size: 1em;
     --note-details-text-size: 1em;
     --pre-font-size: 1em;
@@ -118,7 +118,7 @@ a:hover {
 }
 
 header {
-  padding: 4em 0em;
+  margin: 4em 0em;
   text-align: center;
 }
 
@@ -271,7 +271,7 @@ footer {
 
 @media all and (max-width: 1099px) {
   header {
-    margin: 1em 0;
+    margin: 2em 0;
   }
 
   header nav a ~ a {
