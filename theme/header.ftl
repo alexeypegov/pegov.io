@@ -35,6 +35,9 @@
     </#if>
     <meta name="og:url" content="${self}" />
     </#if>
+    <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="180x180" href="i/favicon-180.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="i/favicon-196.png">
     <link rel="shortcut icon" type="image/png" href="i/favicon.png">
     <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}"/>
     <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
