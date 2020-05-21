@@ -1,18 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap');
 
 :root {
-  --font-family: 'Lora', serif;
-  --font-weight: 400;
-  --font-size: 15pt;
+  /* size factor: 1.250 */
 
-  --blog-title-font-family: 'Lora', serif;
-  --blog-title-font-size: 45pt;
+  --base-font-size: 18px;
+  --font-weight: 400;
+
+  --blog-title-font-size: 3.052em;
+  --menu-font-size: 1.25em;
+  --note-title-text-size: 1.563em;
+  --note-subtitle-text-size: 1em;
+  --note-details-text-size: 1em;
+  --pre-font-size: 1em;
+  --footer-font-size: .8em;
+}
+
+@media (max-width: 1099px) {
+  :root {
+    /* size factor: 1.067 */
+
+    --base-font-size: 16px;
+    --font-weight: 500;
+
+    --blog-title-font-size: 1.802em;
+    --menu-font-size: 1.125em;
+    --note-title-text-size: 1.266em;
+    --note-subtitle-text-size: 1em;
+    --note-details-text-size: 1em;
+    --pre-font-size: 1em;
+    --footer-font-size: 1em;
+  }
+}
+
+:root {
+  --font-family: 'Lora', serif;
+  --font-size: var(--base-font-size);
 
   --text-color: #444;
   --title-color: #444;
   --subtitle-color: #444;
-
-  --menu-font-size: 15pt;
 
   --background-color: #fff;
 
@@ -20,10 +46,7 @@
   --link-decoration-color: #bbf;
 
   --note-title-decoration-color: #ddd;
-  --note-title-text-size: 22pt;
-  --note-subtitle-text-size: 15pt;
   --note-details-color: #999;
-  --note-details-text-size: 15pt;
   --note-tags-background-color: #eee;
 
   --blockquote-border-color: #1E90FF;
@@ -56,16 +79,8 @@
 
 @media (max-width: 1099px) {
   :root {
-    --font-weight: 500;
-    --font-size: 13pt;
-    --blog-title-font-size: 25pt;
-    --menu-font-size: 13pt;
-
     --link-decoration-color: #33c;
-
-    --note-title-text-size: 16pt;
     --note-title-decoration-color: #444;
-    --note-details-text-size: 13pt;
 
     --note-width: 100%;
   }
@@ -103,7 +118,7 @@ a:hover {
 }
 
 header {
-  margin: 4em 2em;
+  padding: 4em 0em;
   text-align: center;
 }
 
@@ -178,7 +193,7 @@ article .tags {
 
 article .tag {
   background-color: var(--note-tags-background-color);
-  padding: 0 4px;
+  padding: 0 .3em;
 }
 
 article .media {
@@ -201,9 +216,9 @@ blockquote {
 
 pre {
   background-color: var(--pre-background-color);
-  padding: 10px;
+  padding: 1em;
   border-radius: 5px;
-  font-size: 14pt;
+  font-size: var(--pre-font-size);
   white-space: pre-wrap;
 }
 
@@ -251,11 +266,12 @@ footer {
   text-align: center;
   padding: 1em 0;
   opacity: .3;
+  font-size: var(--footer-font-size);
 }
 
 @media all and (max-width: 1099px) {
   header {
-    margin: 2em 0;
+    margin: 1em 0;
   }
 
   header nav a ~ a {
@@ -263,11 +279,11 @@ footer {
   }
 
   main, footer {
-    padding: 0 10px 1em 10px;
+    padding: 0 1em 1em 1em;
   }
 
   article .media {
-    margin: 0 -10px 20px;
+    margin: 0 -1em 1em;
   }
 
   ul > li {
@@ -284,7 +300,7 @@ footer {
 
   article img {
     width: 100%;
-    width: calc(100% + 20px);
-    margin-left: -10px;
+    width: calc(100% + 2em);
+    margin-left: -1em;
   }
 }
