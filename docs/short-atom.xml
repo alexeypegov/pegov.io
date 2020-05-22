@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-05-21T00:00:00+03:00</updated>
+  <updated>2020-05-23T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Старые пленки]]></title>
+      <link href="https://pegov.io/2020-05-23-old-photos.html" />
+      <id>urn:uuid:7b60aa4c-1bdc-3783-823a-b75dbfecd2e4</id>
+      <updated>2020-05-23T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Dead Cells]]></title>
       <link href="https://pegov.io/2020-05-21-dead-cells.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-07-28-call-me-by-your-name.html" />
       <id>urn:uuid:06ae6522-eabb-337c-8124-13a1493d53ad</id>
       <updated>2019-07-28T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Stranger Things 3]]></title>
-      <link href="https://pegov.io/2019-07-19-stranger-things-3.html" />
-      <id>urn:uuid:07e5cbcc-f437-3915-993e-6b24cd61b9bc</id>
-      <updated>2019-07-19T00:00:00+03:00</updated>
     </entry>
 </feed>

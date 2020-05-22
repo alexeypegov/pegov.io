@@ -4,7 +4,40 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-05-21T00:00:00+03:00</updated>
+  <updated>2020-05-23T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Старые пленки]]></title>
+      <link href="https://pegov.io/2020-05-23-old-photos.html" />
+      <id>urn:uuid:7b60aa4c-1bdc-3783-823a-b75dbfecd2e4</id>
+      <updated>2020-05-23T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Вспомнил, что у меня где-то была фотографии мамы, полез копаться в негативах и нашел несколько старых пленок из 90-х. Точный год сказать не возьмусь, даже не знаю в один год это снято или нет, скорее всего в течение нескольких лет, но зато знаю точно, что проявлялось все мной лично в ванной, снималось на пленку Свема и на фотоаппарат <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D0%BD%D0%B0-8%D0%9C">Смена 8М</a>.</p>
+<p>Несколько фотографий из деревни Шегрино, что в Новгородской области, где мы с братом проводили каждое лето с конца 80-х и до моего поступления в институт, то есть, до 1997-го.</p>
+<p>Жилая часть нашего дома:</p>
+<p><img src="https://pegov.io/images/199x-shegrino-1.jpg" alt="Шегрино" /></p>
+<p>Подружка Настя и мой брат Фёдор (на фоне хозяйственной пристройки-сарая):</p>
+<p><img src="https://pegov.io/images/199x-shegrino-2.jpg" alt="Шегрино" /></p>
+<p>Соседские девчонки Марина и Оля:</p>
+<p><img src="https://pegov.io/images/199x-shegrino-3.jpg" alt="Шегрино" /></p>
+<p>Брат куда-то топит на своей Каме:</p>
+<p><img src="https://pegov.io/images/199x-shegrino-4.jpg" alt="Шегрино" /></p>
+<p>Молочница баба Дуся и мама. Фотография сделана в конце лета, когда я уже сидел в машине, на которой мы уезжали из деревни домой, а баба Дуся пришла нас проводить:</p>
+<p><img src="https://pegov.io/images/199x-shegrino-5.jpg" alt="Шегрино" /></p>
+<p>Папа где-то в процессе строительства бани:</p>
+<p><img src="https://pegov.io/images/199x-shegrino-6.jpg" alt="Шегрино" /></p>
+<p>Школьный поход в саблинские пещеры:</p>
+<p><img src="https://pegov.io/images/199x-sablino-1.jpg" alt="Саблино" /></p>
+<p>Кто-то и меня щелкнул в том же походе:</p>
+<p><img src="https://pegov.io/images/199x-sablino-2.jpg" alt="Саблино" /></p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Dead Cells]]></title>
       <link href="https://pegov.io/2020-05-21-dead-cells.html" />
@@ -180,23 +213,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="https://pegov.io/images/call-me-by-your-name.jpg" alt="Call Me By Your Name" /></p>
 <p>Очень приятное и легкое кино.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Stranger Things 3]]></title>
-      <link href="https://pegov.io/2019-07-19-stranger-things-3.html" />
-      <id>urn:uuid:07e5cbcc-f437-3915-993e-6b24cd61b9bc</id>
-      <updated>2019-07-19T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/stranger-things-3.jpg" alt="Stranger Things 3" /></p>
-<p>А какой у них крутой третий сезон получился! Кайф!</p>
 
         </div>
       </content>
