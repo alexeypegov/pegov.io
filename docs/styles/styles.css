@@ -135,7 +135,6 @@ header > h1 > a[href] {
 
 header nav {
   font-size: var(--menu-font-size);
-  white-space: nowrap;
 }
 
 header nav a ~ a {
