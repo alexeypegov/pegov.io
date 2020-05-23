@@ -5,6 +5,7 @@ Tags:
   - саптрю
   - фотография
   - интервью
+Summary: Про Вивиан Майер
 ---
 
 https://www.youtube.com/watch?v=8ZoYG1kgMNo

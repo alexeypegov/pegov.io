@@ -4,6 +4,7 @@ Date: 2019-08-09
 Tags:
   - слушаю
   - джаз
+Cover: images/we-out-here.jpg
 ---
 
 ![We Out Here](images/we-out-here.jpg)

@@ -1,5 +1,6 @@
 ---
 Title: Привет и добро пожаловать!
+Cover: images/selfie.jpg
 ---
 
 ![selfie](images/selfie.jpg)

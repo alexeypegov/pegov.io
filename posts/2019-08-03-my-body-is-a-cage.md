@@ -3,7 +3,6 @@ Title: My body is a cage
 Date: 2019-08-03
 Tags:
   - слушаю
-Video: https://www.youtube.com/watch?v=dTZQ2IB_x7c
 ---
 
 https://www.youtube.com/watch?v=dTZQ2IB_x7c

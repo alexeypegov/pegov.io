@@ -26,8 +26,8 @@
     <meta property="og:locale" content="ru_RU" />
     <meta property="og:site_name" content="${vars.blog_title}" />
     <#if note?exists>
-      <#if note.description?exists>
-        <#assign description = note.description>
+      <#if note.summary?exists>
+        <#assign description = note.summary>
       <#else>
         <#assign description = note.title>
       </#if>
@@ -51,15 +51,16 @@
     </#if>
     <meta property="og:url" content="${url}" />
     <#if note?exists>
-      <#if note.image?exists>
-    <meta property="og:image" content="${vars.blog_url + "/" + note.image}" />
-      <#elseif note.video?exists>
-    <meta property="og:video" content="${note.video}" />
-      </#if>
       <#list note.tags as tag>
     <meta property="og:tag" content="${tag}" />
       </#list>
     </#if>
+    <#if note?exists && note.cover?exists>
+      <#assign cover = vars.blog_url + "/" + note.cover>
+    <#else>
+      <#assign cover = vars.cover>
+    </#if>
+    <meta property="og:image" content="${cover}" />
 
     <!-- favicons -->
     <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">
