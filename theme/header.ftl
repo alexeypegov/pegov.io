@@ -20,6 +20,7 @@
     <link rel="next" id="link-later" href="${later}" />
     </#if>
     <meta name="robots" content="index, follow" />
+    <meta name="yandex-verification" content="289843372f0ccc45" />
 
     <!-- open graph -->
     <meta property="og:type" content="website">
