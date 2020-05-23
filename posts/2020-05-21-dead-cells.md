@@ -3,6 +3,7 @@ Title: Dead Cells
 Date: 2020-05-21
 Tags:
   - играю
+Image: images/dead-cells.jpg
 ---
 
 ![Dead Cells](images/dead-cells.jpg)
