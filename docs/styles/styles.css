@@ -111,6 +111,7 @@ body {
 a[href] {
   color: var(--link-color);
   text-decoration-color: var(--link-decoration-color);
+  overflow-wrap: break-word;
 }
 
 a:hover {
