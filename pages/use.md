@@ -6,11 +6,11 @@ Title: Использую
 
 ### Продуктивность
 
-[Spark](https://sparkmailapp.com/) — самый лучший почтовый клиент.
+[Spark](https://sparkmailapp.com/) — клевый почтовый клиент.
 
-[Things 3](https://culturedcode.com/things/) — лучший таск менеджер для [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done).
+[Things 3](https://culturedcode.com/things/) — таск менеджер для [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done).
 
-[pinboard.in](https://pinboard.in) — лучший онлайн сервис для организации закладок. [Мои закладки](https://pinboard.in/u:alexeypegov).
+[pinboard.in](https://pinboard.in) — онлайн сервис для организации закладок. [Мои закладки](https://pinboard.in/u:alexeypegov).
 
 [Simplepin](http://simplepinapp.com/) — pinboard.in клиент для iOS (несколько лет без апдейтов).
 
@@ -34,7 +34,7 @@ Title: Использую
 
 [PS Deals](https://psdealsapp.com/) — Когда ты не упоротый геймер и можешь подождать распродажи. Добавляешь приложение в лист ожидания и приложение само сообщит, когда скидон и пора покупать.
 
-[Numi](https://numi.io/) — Очень клевый калькулятор для Мака, типа скретч пада, в котором можно всякое разное считать, заводить переменные и тп.
+[Numi](https://numi.io/) — Калькулятор для Мака, типа скретч пада, в котором можно всякое разное считать, заводить переменные и тп.
 
 [Reeder](http://reederapp.com/) — Пользуюсь только на маке для чтения RSS (через [The Old Reader](https://theoldreader.com))
 
@@ -48,4 +48,4 @@ Title: Использую
 
 [Instapaper](https://instapaper.com) — Сервис для чтения статей, который использую только для того, чтобы раз в неделю посылать интересные статьи на Кидл.
 
-[MonitorControl](https://github.com/the0neyouseek/MonitorControl) — маленькая утилитка, которая позволяет регулировать яркость внешнего монитора стандартными кнопками маковской клавы.
+[MonitorControl](https://github.com/the0neyouseek/MonitorControl) — Маленькая утилитка, которая позволяет регулировать яркость внешнего монитора стандартными кнопками маковской клавы.
