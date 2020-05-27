@@ -41,10 +41,12 @@
     </#if>
     <meta name="description" content="${description}" />
     <meta property="og:description" content="${description}" />
-    <#if note?exists>
-      <#assign title = note.title>
-    <#else>
-      <#assign title = vars.blog_title>
+    <#if !title?exists>
+      <#if note?exists>
+        <#assign title = note.title>
+      <#else>
+        <#assign title = vars.blog_title>
+      </#if>
     </#if>
     <meta property="og:title" content="${title}" />
     <#if note?exists>
