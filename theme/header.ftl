@@ -2,6 +2,8 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="ru">
     <#if note?exists>
     <title>${note.title} - ${vars.blog_title}</title>
     <#elseif ndx?exists && ndx gt 1>
@@ -22,10 +24,12 @@
     <meta name="robots" content="index, follow" />
     <meta name="yandex-verification" content="289843372f0ccc45" />
 
-    <!-- open graph -->
+    <!-- meta -->
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ru_RU" />
     <meta property="og:site_name" content="${vars.blog_title}" />
+    <meta itemprop="name" content="${vars.blog_title}" />
+    <meta name="keywords" content="${vars.keywords}" />
     <#if note?exists>
       <#if note.summary?exists>
         <#assign description = note.summary>
@@ -35,7 +39,7 @@
     <#else>
       <#assign description = vars.description>
     </#if>
-    <meta property="description" content="${description}" />
+    <meta name="description" content="${description}" />
     <meta property="og:description" content="${description}" />
     <#if note?exists>
       <#assign title = note.title>
@@ -61,6 +65,7 @@
     <#else>
       <#assign cover = vars.cover>
     </#if>
+    <meta itemprop="image" content="${cover}" />   
     <meta property="og:image" content="${cover}" />
 
     <!-- favicons -->

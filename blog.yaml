@@ -24,5 +24,6 @@ vars:
   feed-url: https://feeds.feedburner.com/false-movement
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
-  description: "Блог Алексея Пегова: читаю, слушаю, смотрю и фотографирую"
+  description: "Блог Алексея Пегова: о программировании, пленочной фотографии, удобном софте, интересном джазе, и не только."
+  keywords: "пегов,pegov,ложное движение,false movement"
   cover: https://pegov.io/images/selfie.jpg
