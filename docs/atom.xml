@@ -4,7 +4,28 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-05-23T00:00:00+03:00</updated>
+  <updated>2020-05-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Школа не для учителя]]></title>
+      <link href="https://pegov.io/2020-05-28-school.html" />
+      <id>urn:uuid:6c1321f5-2908-36b9-8606-12c5877f447a</id>
+      <updated>2020-05-28T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Катя как-то поделилась со мной забавным роликом о том, <a href="https://www.youtube.com/watch?v=OpO2tBN-7dw">как правильно писать слово &quot;коронавирус&quot;</a>,
+а в добавок порекомендовала посмотреть интервью с его автором — бывшим школьным учителем русского языка и литературы Павлом Астаповым.</p>
+<p>Интервью классное, рекомендую послушать (даже если вам не очень актуальна тема современной школы):</p>
+<p><div class="media" data-provider="YouTube">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/qRKE7cQLue4?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Старые пленки]]></title>
       <link href="https://pegov.io/2020-05-23-old-photos.html" />
@@ -198,23 +219,6 @@
 <iframe width=" 480" height="270" src="https://www.youtube.com/embed/dTZQ2IB_x7c?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div></p>
 <p>Услышал в одном (к слову, годном) <a href="https://www.imdb.com/title/tt5753856">сериале</a>, удивился тому, что старик все еще жжет, а потом выяснил, что это... <a href="https://www.youtube.com/watch?v=Jdve08cG3pE">кавер на Arcade Fire</a>. Теперь сижу и слушаю их по-кругу.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Call Me By Your Name (2017)]]></title>
-      <link href="https://pegov.io/2019-07-28-call-me-by-your-name.html" />
-      <id>urn:uuid:06ae6522-eabb-337c-8124-13a1493d53ad</id>
-      <updated>2019-07-28T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/call-me-by-your-name.jpg" alt="Call Me By Your Name" /></p>
-<p>Очень приятное и легкое кино.</p>
 
         </div>
       </content>
