@@ -4,7 +4,26 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-05-28T00:00:00+03:00</updated>
+  <updated>2020-05-30T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Space X]]></title>
+      <link href="https://pegov.io/2020-05-30-spacex.html" />
+      <id>urn:uuid:5b3a7563-d505-365e-8274-be53d4907183</id>
+      <updated>2020-05-30T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Это же просто космос какой-то! Совершенно охренительно!</p>
+<p><div class="media" data-provider="YouTube">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/OFocqVe3NuM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Школа не для учителя]]></title>
       <link href="https://pegov.io/2020-05-28-school.html" />
@@ -200,25 +219,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="https://pegov.io/images/we-out-here.jpg" alt="We Out Here" /></p>
 <p>А как кайфово <a href="https://www.discogs.com/Various-We-Out-Here/master/1312469">чуваки ебашат</a>!</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[My body is a cage]]></title>
-      <link href="https://pegov.io/2019-08-03-my-body-is-a-cage.html" />
-      <id>urn:uuid:b945e060-6c69-3df4-ab63-02600fe5b1d6</id>
-      <updated>2019-08-03T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><div class="media" data-provider="YouTube">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/dTZQ2IB_x7c?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
-<p>Услышал в одном (к слову, годном) <a href="https://www.imdb.com/title/tt5753856">сериале</a>, удивился тому, что старик все еще жжет, а потом выяснил, что это... <a href="https://www.youtube.com/watch?v=Jdve08cG3pE">кавер на Arcade Fire</a>. Теперь сижу и слушаю их по-кругу.</p>
 
         </div>
       </content>
