@@ -1,6 +1,7 @@
 ---
 Title: Привет и добро пожаловать!
 Cover: images/selfie.jpg
+Summary: Несколько слов об этом сайте
 ---
 
 ![selfie](images/selfie.jpg)

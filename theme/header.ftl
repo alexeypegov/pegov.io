@@ -30,17 +30,19 @@
     <meta property="og:site_name" content="${vars.blog_title}" />
     <meta itemprop="name" content="${vars.blog_title}" />
     <meta name="keywords" content="${vars.keywords}" />
-    <#if note?exists>
-      <#if note.summary?exists>
-        <#assign description = note.summary>
+    <#if !summary?exists>
+      <#if note?exists>
+        <#if note.summary?exists>
+          <#assign summary = note.summary>
+        </#if>
       <#else>
-        <#assign description = note.title>
+        <#assign summary = vars.description>
       </#if>
-    <#else>
-      <#assign description = vars.description>
     </#if>
-    <meta name="description" content="${description}" />
-    <meta property="og:description" content="${description}" />
+    <#if summary?exists>
+    <meta name="description" content="${summary}" />
+    <meta property="og:description" content="${summary}" />
+    </#if>
     <#if !title?exists>
       <#if note?exists>
         <#assign title = note.title>
@@ -62,13 +64,19 @@
     <meta property="og:tag" content="${tag}" />
       </#list>
     </#if>
-    <#if note?exists && note.cover?exists>
-      <#assign cover = vars.blog_url + "/" + note.cover>
+    <#if note?exists>
+      <#if note.cover?exists>
+        <#assign cover = note.cover>
+      <#elseif vars.note_cover?exists>
+        <#assign cover = vars.note_cover>
+      </#if>
     <#else>
-      <#assign cover = vars.cover>
+      <#assign cover = vars.blog_cover>
     </#if>
-    <meta itemprop="image" content="${cover}" />   
-    <meta property="og:image" content="${cover}" />
+    <#if cover?exists>
+    <meta itemprop="image" content="${vars.blog_url + cover}" />
+    <meta property="og:image" content="${vars.blog_url + cover}" />
+    </#if>
 
     <!-- favicons -->
     <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">

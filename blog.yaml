@@ -26,4 +26,6 @@ vars:
   feed-email: iam@alexeypegov.com
   description: "Блог Алексея Пегова: о программировании, пленочной фотографии, удобном софте, интересном джазе, и не только."
   keywords: "пегов,pegov,ложное движение,false movement"
-  cover: https://pegov.io/images/selfie.jpg
+  blog-cover: /images/selfie.jpg
+  note-cover: /i/favicon-180.png
+
