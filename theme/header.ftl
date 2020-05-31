@@ -66,7 +66,7 @@
     </#if>
     <#if note?exists>
       <#if note.cover?exists>
-        <#assign cover = note.cover>
+        <#assign cover = "/" + note.cover>
       <#elseif vars.note_cover?exists>
         <#assign cover = vars.note_cover>
       </#if>
