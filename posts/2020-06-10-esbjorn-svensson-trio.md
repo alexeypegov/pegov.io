@@ -10,3 +10,5 @@ Tags:
 https://youtu.be/0z6WFzFozeg
 
 Кайф какой.
+
+ps: [весь концерт](https://www.youtube.com/watch?v=U-pyV7U7bxU)
