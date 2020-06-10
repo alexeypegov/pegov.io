@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-05-30T00:00:00+03:00</updated>
+  <updated>2020-06-10T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Esbjörn Svensson Trio]]></title>
+      <link href="https://pegov.io/2020-06-10-esbjorn-svensson-trio.html" />
+      <id>urn:uuid:84f33391-5f21-31ac-92e0-1930edd0842a</id>
+      <updated>2020-06-10T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Space X]]></title>
       <link href="https://pegov.io/2020-05-30-spacex.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2019-08-15-формальность.html" />
       <id>urn:uuid:1bafe42c-947b-395d-9221-88d4b3b6a20d</id>
       <updated>2019-08-15T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Various Artists - We Out Here (2018)]]></title>
-      <link href="https://pegov.io/2019-08-09-we-out-here.html" />
-      <id>urn:uuid:9103d120-fc30-37d8-b823-d003f795a194</id>
-      <updated>2019-08-09T00:00:00+03:00</updated>
     </entry>
 </feed>
