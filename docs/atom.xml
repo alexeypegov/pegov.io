@@ -4,7 +4,26 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-08-27T00:00:00+03:00</updated>
+  <updated>2020-10-07T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Okshvo - Descobrir]]></title>
+      <link href="https://pegov.io/2020-10-07-okshvo-descobrir.html" />
+      <id>urn:uuid:7b53fbac-9281-35f1-9347-53f9a8038cef</id>
+      <updated>2020-10-07T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" data-provider="YouTube">
+<iframe width=" 459" height="344" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>Кайф!</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Как я читаю статьи]]></title>
       <link href="https://pegov.io/2020-08-27-how-i-read-articles.html" />
@@ -202,31 +221,6 @@
 <li><a href="https://www.niceandeasy.me/podcast">Легко, просто и подкаст.</a> Топчик, обнаруженный под конец года. Парни увлекательно рассуждают о разном, делятся своим опытом, переживаниями и восприятием мира, рассказывают смешные (и не очень) истории из жизни. Местами клево резонирует.</li>
 </ol>
 <p>Пис.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[О наказаниях]]></title>
-      <link href="https://pegov.io/2019-09-05-о-наказаниях.html" />
-      <id>urn:uuid:049cb388-97db-3842-ac0b-f2056b75c451</id>
-      <updated>2019-09-05T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>В порядке убывания:</p>
-<ol>
-<li>Написал твит — <a href="https://zona.media/news/2019/09/03/prigovor">5 лет колонии</a></li>
-<li>Несколько раз пришел на несогласованный митинг — <a href="https://zona.media/news/2019/09/05/ktv">4,5 года колонии</a></li>
-<li>Потянул росгвардейца за рукав — <a href="https://zona.media/online/2019/09/03/beglets">2 года колонии</a></li>
-<li>Избивал заключенных под &quot;Полет валькирий&quot; — <a href="https://zona.media/news/2019/06/20/polet_valkirij">4 года условно</a></li>
-<li>Пытал задержанных электрошокером, ершиком для унитаза и пакетом — <a href="https://zona.media/news/2019/09/03/3">4 года условно</a></li>
-<li>Бил задержанного без оснований по голове палкой так, что она сломалась — <a href="https://zona.media/news/2019/08/08/ex_uchastkovyu_uslovno">2 года условно</a></li>
-</ol>
-<p>Такие дела.</p>
 
         </div>
       </content>
