@@ -4,7 +4,26 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-10-07T00:00:00+03:00</updated>
+  <updated>2020-12-09T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Контрольные отпечатки (1989-2008)]]></title>
+      <link href="https://pegov.io/2020-12-09-contacts.html" />
+      <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
+      <updated>2020-12-09T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" data-provider="YouTube">
+<iframe width=" 480" height="270" src="https://www.youtube.com/embed/ClqZC5oLUMI?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div></p>
+<p>35 коротеньких серий про фоторафов, которые часто рассказывают сами про себя и свои снимки.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Okshvo - Descobrir]]></title>
       <link href="https://pegov.io/2020-10-07-okshvo-descobrir.html" />
@@ -197,30 +216,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
         <p><img src="https://pegov.io/images/nils-frahm-empty.jpg" alt="Nils Frahm — Empty (2020)" /></p>
 <p>Отлично работается под <a href="https://www.discogs.com/Nils-Frahm-Empty/release/15008614">него</a>.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Подкасты]]></title>
-      <link href="https://pegov.io/2019-12-29-подкасты.html" />
-      <id>urn:uuid:777f1a03-1a0e-3e1b-ad3b-24933119a8ff</id>
-      <updated>2019-12-29T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>В 2019-м я научился слушать подкасты.</p>
-<p>Но не как в 2018-м, когда я накачал всего и отовсюду, слушал непрерывно месяца полтора и передознулся так, что некоторое время ничего не мог слушать вовсе. В этот раз я начинал очень аккуратно, решил подписываться только на то, что очень нравится и слушать изредка. В итоге, в концу года у меня на постоянной основе всего четыре подкаста, зато очень крутых:</p>
-<ol>
-<li><a href="https://radiomayak.ru/podcasts/podcast/id/2981/">Любить нельзя воспитывать.</a> Подкаст Димы Зицера, который вроде бы и не подкаст вовсе, но как и любая многосерийная передача отлично слушается именно в форме подкаста. Эпизодов море, но слушать можно начать в любой момент, потому что каждый эпизод — это разбор только кажущихся уникальными историй слушателей.</li>
-<li><a href="https://soundcloud.com/memustalks">Мемус Решает.</a> Каждый сезон имеет свою тему — первый был про психотерапию, и я как-то удачно попал на самое его начало, а потом просто не смог оторваться. Второй — про Burning Man и только начался.</li>
-<li><a href="https://soundcloud.com/productsense">Make Sense.</a> Подкаст про продукты и про все, что с ними связано. Редко, когда мне нравятся околорабочие подкасты, но это исключение — и темы, и гости мейксенса очень интересные.</li>
-<li><a href="https://www.niceandeasy.me/podcast">Легко, просто и подкаст.</a> Топчик, обнаруженный под конец года. Парни увлекательно рассуждают о разном, делятся своим опытом, переживаниями и восприятием мира, рассказывают смешные (и не очень) истории из жизни. Местами клево резонирует.</li>
-</ol>
-<p>Пис.</p>
 
         </div>
       </content>
