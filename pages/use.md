@@ -3,50 +3,30 @@ Title: Использую
 Summary: Подборка приятного и удобного софта под Мак, которым пользуюсь каждый день.
 ---
 
-Подборка приятного и удобного софта под Мак, которым пользуюсь каждый день.
+Подборка приятного софта и сервисов, которыми пользуюсь каждый или почти каждый день.
 
 ### Продуктивность
 
-[Spark](https://sparkmailapp.com/) — клевый почтовый клиент.
-
-[Things 3](https://culturedcode.com/things/) — таск менеджер для [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done).
-
-[pinboard.in](https://pinboard.in) — онлайн сервис для организации закладок. [Мои закладки](https://pinboard.in/u:alexeypegov).
-
-[Simplepin](http://simplepinapp.com/) — pinboard.in клиент для iOS (несколько лет без апдейтов).
-
-[Better Notes](http://www.betternotesapp.com/) — Приятная и минималистичная записная книжка в виде ленты. Очень удобно быстро что-то записать.
-
-[Fantastical](https://flexibits.com/fantastical) — Если нужен Google Calendar, то лучше нет ничего.
+* [Spark](https://sparkmailapp.com/). Клевый почтовый клиент, который есть и под iOS и в котором можно отклыдывать сообщения "на потом".
+* [Things 3](https://culturedcode.com/things/). Таск менеджер для [GTD](https://en.wikipedia.org/wiki/Getting_Things_Done).
+* [Itsycal](https://www.mowglii.com/itsycal/). Календарь для маковского менюбара, в котором удобно открывать созвоны в Zoom.
+* [Better Notes](http://www.betternotesapp.com/). Приятная и минималистичная записная книжка в виде ленты. Очень удобно быстро что-то записать.
+* [Up Next](https://ellen.li/up-next/). Крохотное приложение, показываюещее следующую встречу в маковском менюбаре.
+* [LICEcap](https://www.cockos.com/licecap/). Очень простая программа для записи скринкастов в анимированные гифки, есть и под винду.
+* [Bumpr](https://getbumpr.com/). Удобная маленькая штука для Мака, которая позволяет выбрать в каком браузере открыть ссылку.
 
 ### Разное
 
-[Firefox](https://getfirefox.com) — Очень приятный стал, и можно в приватном режиме все время быть.
-
-[Remembear](https://www.remembear.com/) — Тулза для менеджмента уникальными паролями.
-
-[Castro](http://supertop.co/castro/) — Подкасты, и есть возможность [загрузить звук от видео с Youtube](/2019-06-26-castro.html).
-
-[Day One](https://dayoneapp.com/) — Пишу в него всякое личное про себя и семью.
-
-[Dropbox](https://dropbox.com) — Тут без открытий, уже давно плачу за терабайт и альтернативы не вижу.
-
-[Loyalty Cards](https://itunes.apple.com/ru/app/loyalty-cards/id1175509885) — Очень минималистичное и тем удобное приложение для хранения всяких скидочных карт со штрихкодами.
-
-[PS Deals](https://psdealsapp.com/) — Когда ты не упоротый геймер и можешь подождать распродажи. Добавляешь приложение в лист ожидания и приложение само сообщит, когда скидон и пора покупать.
-
-[Numi](https://numi.io/) — Калькулятор для Мака, типа скретч пада, в котором можно всякое разное считать, заводить переменные и тп.
-
-[Reeder](http://reederapp.com/) — Пользуюсь только на маке для чтения RSS (через [The Old Reader](https://theoldreader.com))
-
-[Bumpr](https://getbumpr.com/) — Удобная маленькая штука для Мака, которая позволяет выбрать в каком браузере открыть ссылку.
-
-[Rectangle](https://rectangleapp.com/) — Двигать окошки туда-сюда по экрану.
-
-[Alacritty](https://github.com/alacritty/alacritty) — Клевый и быстрый терминал.
-
-[Readwise](https://readwise.io) — Синкаю заметки из [Киндла](https://www.amazon.com/dp/B07CXG6C9W) и потом просматриваю.
-
-[Instapaper](https://instapaper.com) — Сервис для чтения статей, который использую только для того, чтобы раз в неделю посылать интересные статьи на Кидл.
-
-[MonitorControl](https://github.com/the0neyouseek/MonitorControl) — Маленькая утилитка, которая позволяет регулировать яркость внешнего монитора стандартными кнопками маковской клавы.
+* [Firefox](https://getfirefox.com). Всегда сижу в [incognito mode](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%B8%D0%BD%D0%BA%D0%BE%D0%B3%D0%BD%D0%B8%D1%82%D0%BE).
+* [Remembear](https://www.remembear.com/). Несколько лет назад перестал использовать один пароль для всего.
+* [pinboard.in](https://pinboard.in). Очень простой онлайн сервис для организации закладок. [Мои закладки](https://pinboard.in/u:alexeypegov).
+* [Castro](http://supertop.co/castro/). Слушаю подкасты, и иногда [сохраняю интервью с Youtube](/2019-06-26-castro.html).
+* [Zen Journal](https://thezenjournal.com/). Стараюсь вести дневник каждый день, подмечать интересное вокруг.
+* [Dropbox](https://dropbox.com). Уже давно плачу за терабайт и альтернативы не вижу.
+* [Numi](https://numi.io/). Калькулятор, в котором можно всякое разное считать, заводить переменные и тп.
+* [Rectangle](https://rectangleapp.com/). Двигать окошки туда-сюда по экрану.
+* [Sublime Text](https://www.sublimetext.com/). Легкий программерский (и не только) редактор.
+* [Reeder](http://reederapp.com/). Пользуюсь для чтения [RSS](https://ru.wikipedia.org/wiki/RSS) (вместе с [The Old Reader](https://theoldreader.com))
+* [Alacritty](https://github.com/alacritty/alacritty). Клевый и быстрый терминал.
+* [Instapaper](https://instapaper.com). Сервис для чтения статей, который использую только для того, чтобы [раз в неделю посылать интересные статьи на Кидл](/2020-08-27-how-i-read-articles.html).
+* [MonitorControl](https://github.com/the0neyouseek/MonitorControl). Маленькая утилитка, которая позволяет регулировать яркость внешнего монитора стандартными кнопками маковской клавы.
