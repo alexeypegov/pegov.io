@@ -4,7 +4,24 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2020-12-12T00:00:00+03:00</updated>
+  <updated>2021-03-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Информационные автократии]]></title>
+      <link href="https://pegov.io/2021-03-11-guriev.html" />
+      <id>urn:uuid:f1f65fbb-75db-3ced-b207-93ac163a6b44</id>
+      <updated>2021-03-11T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Z66N_oKbs0k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+<p>Популярное объяснение текущей ситуации.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Yussef Dayes Trio — Welcome to the Hills (2020)]]></title>
       <link href="https://pegov.io/2020-12-12-welcome-to-the-hills.html" />
@@ -194,30 +211,6 @@
 <p>Кто-то и меня щелкнул в том же походе:</p>
 <p><img src="https://pegov.io/images/199x-sablino-2.jpg" alt="Саблино" /></p>
 <p>Такие дела.</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Dead Cells]]></title>
-      <link href="https://pegov.io/2020-05-21-dead-cells.html" />
-      <id>urn:uuid:94847410-be3e-300f-85f0-b2438b474fc5</id>
-      <updated>2020-05-21T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/dead-cells.jpg" alt="Dead Cells" /></p>
-<p><a href="https://dead-cells.com/">Dead Cells</a> — кайф!</p>
-<p>Раскрою чутка:</p>
-<ul>
-<li>Графика и анимация — кайф</li>
-<li>Музыка — кайф</li>
-<li>Геймплей — кайф</li>
-</ul>
-<p>Совершенно не ожидал и от этого особенно приятно, так что — рекомендую.</p>
 
         </div>
       </content>
