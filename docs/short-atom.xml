@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2021-04-01T00:00:00+03:00</updated>
+  <updated>2021-06-14T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Россия]]></title>
+      <link href="https://pegov.io/2021-06-14-россия.html" />
+      <id>urn:uuid:d90a75f4-1f4f-3f67-ab9c-262a033bbea8</id>
+      <updated>2021-06-14T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Расследование Карагодина]]></title>
       <link href="https://pegov.io/2021-04-01-расследование-карагодина.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2020-05-30-spacex.html" />
       <id>urn:uuid:5b3a7563-d505-365e-8274-be53d4907183</id>
       <updated>2020-05-30T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Школа не для учителя]]></title>
-      <link href="https://pegov.io/2020-05-28-school.html" />
-      <id>urn:uuid:6c1321f5-2908-36b9-8606-12c5877f447a</id>
-      <updated>2020-05-28T00:00:00+03:00</updated>
     </entry>
 </feed>
