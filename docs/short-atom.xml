@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2021-06-14T00:00:00+03:00</updated>
+  <updated>2021-06-29T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Земля кочевников]]></title>
+      <link href="https://pegov.io/2021-06-29-nomad-land.html" />
+      <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
+      <updated>2021-06-29T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
       <link href="https://pegov.io/2021-06-14-россия.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2020-06-10-esbjorn-svensson-trio.html" />
       <id>urn:uuid:84f33391-5f21-31ac-92e0-1930edd0842a</id>
       <updated>2020-06-10T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Space X]]></title>
-      <link href="https://pegov.io/2020-05-30-spacex.html" />
-      <id>urn:uuid:5b3a7563-d505-365e-8274-be53d4907183</id>
-      <updated>2020-05-30T00:00:00+03:00</updated>
     </entry>
 </feed>

@@ -4,7 +4,24 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2021-06-14T00:00:00+03:00</updated>
+  <updated>2021-06-29T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Земля кочевников]]></title>
+      <link href="https://pegov.io/2021-06-29-nomad-land.html" />
+      <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
+      <updated>2021-06-29T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><img src="https://pegov.io/images/nomad-land.jpg" alt="Nomad Land" /></p>
+<p>Посмотрел с удовольствием!</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
       <link href="https://pegov.io/2021-06-14-россия.html" />
@@ -173,26 +190,6 @@
 </div></p>
 <p>Кайф какой.</p>
 <p>ps: <a href="https://www.youtube.com/watch?v=U-pyV7U7bxU">весь концерт</a></p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Space X]]></title>
-      <link href="https://pegov.io/2020-05-30-spacex.html" />
-      <id>urn:uuid:5b3a7563-d505-365e-8274-be53d4907183</id>
-      <updated>2020-05-30T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p>Это же просто космос какой-то! Совершенно охренительно!</p>
-<p><div class="media" data-provider="YouTube">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/OFocqVe3NuM?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
-<p><a href="https://nplus1.ru/news/2020/05/30/crew-dragon-first-flight">Немного деталей</a>, если вы не следили.</p>
 
         </div>
       </content>
