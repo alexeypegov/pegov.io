@@ -4,7 +4,13 @@
   <link href="https://pegov.io/short-atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2021-06-29T00:00:00+03:00</updated>
+  <updated>2021-07-15T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана]]></title>
+      <link href="https://pegov.io/2021-07-15-подстрочник.html" />
+      <id>urn:uuid:c9539221-00d4-351d-b33f-876cb47cb28f</id>
+      <updated>2021-07-15T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Земля кочевников]]></title>
       <link href="https://pegov.io/2021-06-29-nomad-land.html" />
@@ -58,11 +64,5 @@
       <link href="https://pegov.io/2020-08-06-angus-and-julia-stone-grizzly-bear.html" />
       <id>urn:uuid:b7710a04-6ca0-3523-8343-72eca7d145b3</id>
       <updated>2020-08-06T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Esbjörn Svensson Trio]]></title>
-      <link href="https://pegov.io/2020-06-10-esbjorn-svensson-trio.html" />
-      <id>urn:uuid:84f33391-5f21-31ac-92e0-1930edd0842a</id>
-      <updated>2020-06-10T00:00:00+03:00</updated>
     </entry>
 </feed>
