@@ -4,7 +4,24 @@
   <link href="https://pegov.io/atom.xml" rel="self" />
   <link href="https://pegov.io" />
   <id>https://pegov.io/</id>
-  <updated>2021-07-15T00:00:00+03:00</updated>
+  <updated>2021-07-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
+      <link href="https://pegov.io/2021-07-28-immunity.html" />
+      <id>urn:uuid:daf7d473-de80-3c57-8bd6-527dd9f810b0</id>
+      <updated>2021-07-28T00:00:00+03:00</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/lkvnpHFajt0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+<p>Вдруг вспомнил про этот альбом и решил переслушать. И снова залип.</p>
+
+        </div>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана]]></title>
       <link href="https://pegov.io/2021-07-15-подстрочник.html" />
@@ -169,25 +186,6 @@
 <p>Но все это приводило к одному результату — я не мог прочитать все, что добавлял, потому что читал на телефоне, где меня все время что-то отвлекало (да, я знаю про Do Not Disturb), а список непрочитанных статей рос, рос и рос, пока я на него не забивал и не пробовал какой-то новый подход.</p>
 <p>Все это продолжалось до тех пор, пока я случайно не узнал, что Instapaper <a href="https://www.instapaper.com/premium">за небольшую плату</a> умеет отсылать статьи на <a href="https://www.amazon.com/kindle-paperwhite/">Kindle</a>. С тех пор, раз в неделю, мне &quot;прилетает&quot; новый выпуск текстов, которые показались мне интересными — и это кайф, потому что я успеваю все прочитать, ведь на Киндл никто не пишет, а мне не зудит проверить рабочий чатик, посмотреть почту или узнать как там дела на мировой арене — в общем, Киндл — лучший гаджет эвер!</p>
 <p>Читайте!</p>
-
-        </div>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Angus & Julia Stone — Grizzly Bear]]></title>
-      <link href="https://pegov.io/2020-08-06-angus-and-julia-stone-grizzly-bear.html" />
-      <id>urn:uuid:b7710a04-6ca0-3523-8343-72eca7d145b3</id>
-      <updated>2020-08-06T00:00:00+03:00</updated>
-      <content type="xhtml">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><div class="media" data-provider="YouTube">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/JHhV9TPNmTI?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
-<p>Спотифай подсунул кайфовый трек!</p>
 
         </div>
       </content>
