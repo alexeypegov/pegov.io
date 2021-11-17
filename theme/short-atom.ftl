@@ -14,9 +14,7 @@
       <updated>${note.rfc_3339}</updated>
       <#if description?exists>
       <content type="html">
-        <div xmlns="http://www.w3.org/1999/xhtml">
         ${note.body_abs}
-        </div>
       </content>
       <author>
         <name>${vars.feed_author}</name>
