@@ -14,7 +14,9 @@
       <updated>${note.rfc_3339}</updated>
       <#if description?exists>
       <content type="html">
+	<![CDATA[
         ${note.body_abs}
+	]]>
       </content>
       <author>
         <name>${vars.feed_author}</name>
