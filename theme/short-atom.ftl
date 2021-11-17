@@ -13,7 +13,7 @@
       <id>urn:uuid:${note.uuid}</id>
       <updated>${note.rfc_3339}</updated>
       <#if description?exists>
-      <content type="xhtml">
+      <content type="html">
         <div xmlns="http://www.w3.org/1999/xhtml">
         ${note.body_abs}
         </div>
