@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pegov.io/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://fm.alexeypegov.com/">
   <title>Ложное движение</title>
-  <link href="https://pegov.io/atom.xml" rel="self" />
-  <link href="https://pegov.io" />
-  <id>https://pegov.io/</id>
+  <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
+  <link href="https://fm.alexeypegov.com" />
+  <id>https://fm.alexeypegov.com/</id>
   <updated>2021-07-28T00:00:00+03:00</updated>
     <entry>
       <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
-      <link href="https://pegov.io/2021-07-28-immunity.html" />
+      <link href="https://fm.alexeypegov.com/2021-07-28-immunity.html" />
       <id>urn:uuid:daf7d473-de80-3c57-8bd6-527dd9f810b0</id>
       <updated>2021-07-28T00:00:00+03:00</updated>
       <content type="xhtml">
@@ -24,7 +24,7 @@
     </entry>
     <entry>
       <title><![CDATA[Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана]]></title>
-      <link href="https://pegov.io/2021-07-15-подстрочник.html" />
+      <link href="https://fm.alexeypegov.com/2021-07-15-подстрочник.html" />
       <id>urn:uuid:c9539221-00d4-351d-b33f-876cb47cb28f</id>
       <updated>2021-07-15T00:00:00+03:00</updated>
       <content type="xhtml">
@@ -42,12 +42,12 @@
     </entry>
     <entry>
       <title><![CDATA[Земля кочевников]]></title>
-      <link href="https://pegov.io/2021-06-29-nomad-land.html" />
+      <link href="https://fm.alexeypegov.com/2021-06-29-nomad-land.html" />
       <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
       <updated>2021-06-29T00:00:00+03:00</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/nomad-land.jpg" alt="Nomad Land" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/nomad-land.jpg" alt="Nomad Land" /></p>
 <p>Посмотрел с удовольствием!</p>
 
         </div>
@@ -59,12 +59,12 @@
     </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
-      <link href="https://pegov.io/2021-06-14-россия.html" />
+      <link href="https://fm.alexeypegov.com/2021-06-14-россия.html" />
       <id>urn:uuid:d90a75f4-1f4f-3f67-ab9c-262a033bbea8</id>
       <updated>2021-06-14T00:00:00+03:00</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><img src="https://pegov.io/images/benkovich-russia.jpg" alt="Константин Бенькович — Россия" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/benkovich-russia.jpg" alt="Константин Бенькович — Россия" /></p>
 <p>Понравилась инсталляция Константина Беньковича — <a href="https://ru.benkovich.ru/%D1%87%D0%B0%D1%81%D1%8B%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1">Часы &quot;Россия&quot;</a>:</p>
 <blockquote>
 <p>Нижний Новгород – место, навсегда связанное с Андреем Сахаровым, Борисом Немцовым и Ириной Славиной. Академик Андрей Сахаров – предвестник нового времени и новой страны - провел семь лет в ссылке в Горьком за борьбу с тоталитарной системой. Борис Немцов – первый Нижегородский губернатор, перспективный политик, символ перемен и надежд – был убит за свои убеждения. Ирина Славина - независимая журналистка, общественная деятельница – совершила акт самосожжения в ответ на беззаконие, оставив перед смертью запись в Фейсбуке: &quot;В моей смерти прошу винить Российскую Федерацию&quot;.</p>
@@ -81,7 +81,7 @@
     </entry>
     <entry>
       <title><![CDATA[Расследование Карагодина]]></title>
-      <link href="https://pegov.io/2021-04-01-расследование-карагодина.html" />
+      <link href="https://fm.alexeypegov.com/2021-04-01-расследование-карагодина.html" />
       <id>urn:uuid:4285ad58-87f1-336c-8106-819709ce4220</id>
       <updated>2021-04-01T00:00:00+03:00</updated>
       <content type="xhtml">
@@ -97,7 +97,7 @@
     </entry>
     <entry>
       <title><![CDATA[Информационные автократии]]></title>
-      <link href="https://pegov.io/2021-03-11-guriev.html" />
+      <link href="https://fm.alexeypegov.com/2021-03-11-guriev.html" />
       <id>urn:uuid:f1f65fbb-75db-3ced-b207-93ac163a6b44</id>
       <updated>2021-03-11T00:00:00+03:00</updated>
       <content type="xhtml">
@@ -114,14 +114,12 @@
     </entry>
     <entry>
       <title><![CDATA[Yussef Dayes Trio — Welcome to the Hills (2020)]]></title>
-      <link href="https://pegov.io/2020-12-12-welcome-to-the-hills.html" />
+      <link href="https://fm.alexeypegov.com/2020-12-12-welcome-to-the-hills.html" />
       <id>urn:uuid:aed38ccd-674d-350e-8572-ec219bc5e98f</id>
       <updated>2020-12-12T00:00:00+03:00</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><div class="media" data-provider="YouTube">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/BL3q6c-2XR8?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
+        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BL3q6c-2XR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф, как, впрочем, и <a href="https://youtu.be/TLWygV_OGc0">все остальное</a>.</p>
 
         </div>
@@ -133,14 +131,12 @@
     </entry>
     <entry>
       <title><![CDATA[Контрольные отпечатки (1989-2008)]]></title>
-      <link href="https://pegov.io/2020-12-09-contacts.html" />
+      <link href="https://fm.alexeypegov.com/2020-12-09-contacts.html" />
       <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
       <updated>2020-12-09T00:00:00+03:00</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><div class="media" data-provider="YouTube">
-<iframe width=" 480" height="270" src="https://www.youtube.com/embed/ClqZC5oLUMI?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
+        <p><a href="https://www.youtube.com/watch?v=ClqZC5oLUMI">404 Not Found</a></p>
 <p><a href="https://www.imdb.com/title/tt1107269">35 коротеньких серий</a>, в которых фотографы сами рассказывают про свои снимки. Кайф.</p>
 
         </div>
@@ -152,14 +148,12 @@
     </entry>
     <entry>
       <title><![CDATA[Okshvo - Descobrir]]></title>
-      <link href="https://pegov.io/2020-10-07-okshvo-descobrir.html" />
+      <link href="https://fm.alexeypegov.com/2020-10-07-okshvo-descobrir.html" />
       <id>urn:uuid:7b53fbac-9281-35f1-9347-53f9a8038cef</id>
       <updated>2020-10-07T00:00:00+03:00</updated>
       <content type="xhtml">
         <div xmlns="http://www.w3.org/1999/xhtml">
-        <p><div class="media" data-provider="YouTube">
-<iframe width=" 459" height="344" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div></p>
+        <p><div class="media" data-provider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф!</p>
 
         </div>
@@ -171,7 +165,7 @@
     </entry>
     <entry>
       <title><![CDATA[Как я читаю статьи]]></title>
-      <link href="https://pegov.io/2020-08-27-how-i-read-articles.html" />
+      <link href="https://fm.alexeypegov.com/2020-08-27-how-i-read-articles.html" />
       <id>urn:uuid:58fda783-e776-362d-8e60-7a76255eff73</id>
       <updated>2020-08-27T00:00:00+03:00</updated>
       <content type="xhtml">

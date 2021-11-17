@@ -6,7 +6,7 @@ general:
   singles-dir: pages/
   single-template: page
   output-dir: docs/
-  base-url: https://pegov.io/
+  base-url: https://fm.alexeypegov.com/
   feeds:
     - atom
     - short-atom
@@ -20,12 +20,11 @@ general:
 
 vars:
   blog-title: Ложное движение
-  blog-url: https://pegov.io
+  blog-url: https://fm.alexeypegov.com
   feed-url: https://feeds.feedburner.com/false-movement
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
-  description: "Блог Алексея Пегова: о программировании, пленочной фотографии, удобном софте, интересном джазе, и не только."
-  keywords: "пегов,pegov,ложное движение,false movement"
+  description: 'Блог Алексея Пегова: о программировании, пленочной фотографии, удобном софте, джазе, и не только.'
+  keywords: 'пегов,pegov,ложное движение,false movement'
   blog-cover: /images/selfie.jpg
   note-cover: /i/favicon-180.png
-

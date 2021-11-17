@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pegov.io/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://fm.alexeypegov.com/">
   <title>Ложное движение</title>
-  <link href="https://pegov.io/short-atom.xml" rel="self" />
-  <link href="https://pegov.io" />
-  <id>https://pegov.io/</id>
+  <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
+  <link href="https://fm.alexeypegov.com" />
+  <id>https://fm.alexeypegov.com/</id>
   <updated>2021-07-28T00:00:00+03:00</updated>
     <entry>
       <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
-      <link href="https://pegov.io/2021-07-28-immunity.html" />
+      <link href="https://fm.alexeypegov.com/2021-07-28-immunity.html" />
       <id>urn:uuid:daf7d473-de80-3c57-8bd6-527dd9f810b0</id>
       <updated>2021-07-28T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана]]></title>
-      <link href="https://pegov.io/2021-07-15-подстрочник.html" />
+      <link href="https://fm.alexeypegov.com/2021-07-15-подстрочник.html" />
       <id>urn:uuid:c9539221-00d4-351d-b33f-876cb47cb28f</id>
       <updated>2021-07-15T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Земля кочевников]]></title>
-      <link href="https://pegov.io/2021-06-29-nomad-land.html" />
+      <link href="https://fm.alexeypegov.com/2021-06-29-nomad-land.html" />
       <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
       <updated>2021-06-29T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
-      <link href="https://pegov.io/2021-06-14-россия.html" />
+      <link href="https://fm.alexeypegov.com/2021-06-14-россия.html" />
       <id>urn:uuid:d90a75f4-1f4f-3f67-ab9c-262a033bbea8</id>
       <updated>2021-06-14T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Расследование Карагодина]]></title>
-      <link href="https://pegov.io/2021-04-01-расследование-карагодина.html" />
+      <link href="https://fm.alexeypegov.com/2021-04-01-расследование-карагодина.html" />
       <id>urn:uuid:4285ad58-87f1-336c-8106-819709ce4220</id>
       <updated>2021-04-01T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Информационные автократии]]></title>
-      <link href="https://pegov.io/2021-03-11-guriev.html" />
+      <link href="https://fm.alexeypegov.com/2021-03-11-guriev.html" />
       <id>urn:uuid:f1f65fbb-75db-3ced-b207-93ac163a6b44</id>
       <updated>2021-03-11T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Yussef Dayes Trio — Welcome to the Hills (2020)]]></title>
-      <link href="https://pegov.io/2020-12-12-welcome-to-the-hills.html" />
+      <link href="https://fm.alexeypegov.com/2020-12-12-welcome-to-the-hills.html" />
       <id>urn:uuid:aed38ccd-674d-350e-8572-ec219bc5e98f</id>
       <updated>2020-12-12T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Контрольные отпечатки (1989-2008)]]></title>
-      <link href="https://pegov.io/2020-12-09-contacts.html" />
+      <link href="https://fm.alexeypegov.com/2020-12-09-contacts.html" />
       <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
       <updated>2020-12-09T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Okshvo - Descobrir]]></title>
-      <link href="https://pegov.io/2020-10-07-okshvo-descobrir.html" />
+      <link href="https://fm.alexeypegov.com/2020-10-07-okshvo-descobrir.html" />
       <id>urn:uuid:7b53fbac-9281-35f1-9347-53f9a8038cef</id>
       <updated>2020-10-07T00:00:00+03:00</updated>
     </entry>
     <entry>
       <title><![CDATA[Как я читаю статьи]]></title>
-      <link href="https://pegov.io/2020-08-27-how-i-read-articles.html" />
+      <link href="https://fm.alexeypegov.com/2020-08-27-how-i-read-articles.html" />
       <id>urn:uuid:58fda783-e776-362d-8e60-7a76255eff73</id>
       <updated>2020-08-27T00:00:00+03:00</updated>
     </entry>
