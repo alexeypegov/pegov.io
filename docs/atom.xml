@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2021-07-28T00:00:00+03:00</updated>
+  <updated>2021-11-26T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Ян Ван Эйк]]></title>
+      <link href="https://fm.alexeypegov.com/2021-11-26-van-ajk.html" />
+      <id>urn:uuid:4928bd12-738b-3994-a5cd-ac90b4a97606</id>
+      <updated>2021-11-26T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/sb2G3v301Do?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
       <link href="https://fm.alexeypegov.com/2021-07-28-immunity.html" />
@@ -155,31 +171,6 @@
 	<![CDATA[
         <p><div class="media" data-provider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Как я читаю статьи]]></title>
-      <link href="https://fm.alexeypegov.com/2020-08-27-how-i-read-articles.html" />
-      <id>urn:uuid:58fda783-e776-362d-8e60-7a76255eff73</id>
-      <updated>2020-08-27T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>Я перепробовал кучу разных способов читать интересные статьи:</p>
-<ol>
-<li>Сохранял их в <a href="https://instapaper.com">Instapaper</a>, <a href="https://getpocket.com">Pocket</a> и <a href="https://support.apple.com/en-us/HT200294">Read Later</a> Safari</li>
-<li>Добавлял в Read Later <a href="http://pinboard.in/tour/#later">pinboard.in</a></li>
-<li>Нашел какой-то <a href="https://apps.apple.com/ru/app/reading-queue/id1387881185?l=en">специальный апп</a>, который позволяет читать только самую первую статью в очереди</li>
-<li>Создавал задачи в <a href="https://culturedcode.com/things/">Things</a></li>
-</ol>
-<p>Но все это приводило к одному результату — я не мог прочитать все, что добавлял, потому что читал на телефоне, где меня все время что-то отвлекало (да, я знаю про Do Not Disturb), а список непрочитанных статей рос, рос и рос, пока я на него не забивал и не пробовал какой-то новый подход.</p>
-<p>Все это продолжалось до тех пор, пока я случайно не узнал, что Instapaper <a href="https://www.instapaper.com/premium">за небольшую плату</a> умеет отсылать статьи на <a href="https://www.amazon.com/kindle-paperwhite/">Kindle</a>. С тех пор, раз в неделю, мне &quot;прилетает&quot; новый выпуск текстов, которые показались мне интересными — и это кайф, потому что я успеваю все прочитать, ведь на Киндл никто не пишет, а мне не зудит проверить рабочий чатик, посмотреть почту или узнать как там дела на мировой арене — в общем, Киндл — лучший гаджет эвер!</p>
-<p>Читайте!</p>
 
 	]]>
       </content>

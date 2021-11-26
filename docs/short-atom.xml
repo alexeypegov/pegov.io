@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2021-07-28T00:00:00+03:00</updated>
+  <updated>2021-11-26T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Ян Ван Эйк]]></title>
+      <link href="https://fm.alexeypegov.com/2021-11-26-van-ajk.html" />
+      <id>urn:uuid:4928bd12-738b-3994-a5cd-ac90b4a97606</id>
+      <updated>2021-11-26T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
       <link href="https://fm.alexeypegov.com/2021-07-28-immunity.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2020-10-07-okshvo-descobrir.html" />
       <id>urn:uuid:7b53fbac-9281-35f1-9347-53f9a8038cef</id>
       <updated>2020-10-07T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Как я читаю статьи]]></title>
-      <link href="https://fm.alexeypegov.com/2020-08-27-how-i-read-articles.html" />
-      <id>urn:uuid:58fda783-e776-362d-8e60-7a76255eff73</id>
-      <updated>2020-08-27T00:00:00+03:00</updated>
     </entry>
 </feed>
