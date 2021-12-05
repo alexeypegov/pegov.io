@@ -3,10 +3,11 @@
   <div class="sub byline">
     <time class="date" datetime="${note.rfc_3339}">${note.date}</time>
     <div class="tags">
-    <#list note.tags as tag>
-      <span class="tag">${tag}</span>
-    </#list>
+      <span class="tag">${note.tags?join("</span>,<span class=\"tag\">")}</span>
     </div>
+    <#if note.track?exists>
+    <div class="track">${note.track}</div>
+    </#if>
   </div>
   ${note.body}
 </article>
