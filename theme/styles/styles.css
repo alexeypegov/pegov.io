@@ -39,6 +39,7 @@
 
   --text-color: #444;
   --title-color: #444;
+  --title-decoration-color: #ddd;
   --subtitle-color: #444;
 
   --background-color: #fff;
@@ -64,6 +65,7 @@
 
     --text-color: #aaa;
     --title-color: #eee;
+    --title-decoration-color: #444;
     --subtitle-color: #eee;
 
     --link-color: #358CDB;
@@ -130,7 +132,7 @@ header > h1 {
 
 header > h1 > a[href] {
   color: var(--title-color);
-  text-decoration: none;
+  text-decoration-color: var(--title-decoration-color);
 }
 
 header nav {
@@ -160,6 +162,7 @@ article > h1 {
   color: var(--title-color);
   font-weight: bold;
   font-size: var(--note-title-text-size);
+  margin-left: -3%;
 }
 
 article > h3 {
@@ -179,7 +182,7 @@ article > h1 > a:hover {
 
 article > .sub {
   font-size: var(--note-details-text-size);
-  padding-top: .5em;
+  margin-left: -3%;
 }
 
 article > .sub > div {
