@@ -103,6 +103,7 @@ body {
   font-size: var(--font-size);
   font-family: var(--font-family);
   font-weight: var(--font-weight);
+  font-display: fallback;
   line-height: 1.42105;
 
   background-color: var(--background-color);
