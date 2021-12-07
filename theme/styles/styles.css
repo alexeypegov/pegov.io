@@ -292,6 +292,14 @@ footer {
     margin: 0 -1em 1em;
   }
 
+  article > h1 {
+    margin-left: 0;
+  }
+
+  article > .sub {
+    margin-left: 0;
+  }
+
   ul > li {
     padding-left: 1em;
   }
