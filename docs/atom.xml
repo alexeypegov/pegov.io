@@ -12,7 +12,7 @@
       <updated>2021-11-26T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/sb2G3v301Do?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/sb2G3v301Do?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 	]]>
       </content>
@@ -28,7 +28,7 @@
       <updated>2021-07-28T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/lkvnpHFajt0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/lkvnpHFajt0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Вдруг вспомнил про этот альбом и захотел переслушать. И снова залип.</p>
 
 	]]>
@@ -45,7 +45,7 @@
       <updated>2021-07-15T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/VgvUjKW1YWQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/VgvUjKW1YWQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Я узнал про этот фильм и книгу из вот этого интервью Олега Дормана. Я не смог найти фильм, поэтому читаю книгу, но в голове у меня все равно звучит ее голос (и если хотите такого же эффекта, то посмотрите интервью, в котором есть фрагменты фильма, или найдите сам фильм).</p>
 <p>Ну и, конечно, это непременно нужно читать. Или смотреть. Или слушать. Непременно.</p>
 
@@ -118,7 +118,7 @@
       <updated>2021-03-11T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Z66N_oKbs0k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Z66N_oKbs0k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Популярное объяснение текущей ситуации.</p>
 
 	]]>
@@ -135,7 +135,7 @@
       <updated>2020-12-12T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BL3q6c-2XR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BL3q6c-2XR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф, как, впрочем, и <a href="https://youtu.be/TLWygV_OGc0">все остальное</a>.</p>
 
 	]]>
@@ -169,7 +169,7 @@
       <updated>2020-10-07T00:00:00+03:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><div class="media" data-provider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/13tJgJwaUfU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф!</p>
 
 	]]>

@@ -5,9 +5,8 @@
     <div class="tags">
       <span class="tag">${note.tags?join("</span>,<span class=\"tag\">")}</span>
     </div>
-    <#if note.track?exists>
-    <div class="track">${note.track}</div>
-    </#if>
   </div>
+  <section>
   ${note.body}
+  </section>
 </article>
