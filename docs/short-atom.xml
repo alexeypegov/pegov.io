@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2021-11-26T00:00:00+03:00</updated>
+  <updated>2022-02-25T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[David Lynch's Weather Report 2/25/22]]></title>
+      <link href="https://fm.alexeypegov.com/2022-02-25-david-lynch.html" />
+      <id>urn:uuid:2e3b0ef5-c28d-3935-8780-66d40dd4c038</id>
+      <updated>2022-02-25T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Ян Ван Эйк]]></title>
       <link href="https://fm.alexeypegov.com/2021-11-26-van-ajk.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2020-12-09-contacts.html" />
       <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
       <updated>2020-12-09T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Okshvo - Descobrir]]></title>
-      <link href="https://fm.alexeypegov.com/2020-10-07-okshvo-descobrir.html" />
-      <id>urn:uuid:7b53fbac-9281-35f1-9347-53f9a8038cef</id>
-      <updated>2020-10-07T00:00:00+03:00</updated>
     </entry>
 </feed>
