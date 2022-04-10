@@ -4,6 +4,6 @@ Date: 2012-01-19
 Tags: цитата
 ---
 
-> I don’t believe anything really revolutionary has ever been invented by committee… I’m going to give you some advice that might be hard to take. That advice is: Work alone… — Steve Wozniack.
+> I don’t believe anything really revolutionary has ever been invented by committee... I’m going to give you some advice that might be hard to take. That advice is: Work alone... — Steve Wozniack.
 
-Кстати, об этом же написано в “[59 секундах](http://spleaner.appspot.com/note/59-%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4)”. Все эти брейнстормы и тп, все фигня, и одиночки эффективнее решают поставленные задачи. Собираться имеет смысл только для того, чтобы получить представление о картине в целом, понять  требования, услышать чего хотят или о чем думают люди вокруг. Все остальное происходит где-то вне этого, в другое время и в другом месте.
+Кстати, об этом же написано в "59 секундах". Все эти брейнстормы и тп, все фигня, и одиночки эффективнее решают поставленные задачи. Собираться имеет смысл только для того, чтобы получить представление о картине в целом, понять  требования, услышать чего хотят или о чем думают люди вокруг. Все остальное происходит где-то вне этого, в другое время и в другом месте.

@@ -8,6 +8,6 @@ Summary: Кайфовый альбом
 Cover: images/welcome-to-the-hills.jpg
 ---
 
-https://youtu.be/BL3q6c-2XR8
+https://www.youtube.com/watch?v=TLWygV_OGc0
 
 Кайф, как, впрочем, и [все остальное](https://youtu.be/TLWygV_OGc0).

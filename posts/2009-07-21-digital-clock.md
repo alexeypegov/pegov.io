@@ -6,4 +6,6 @@ Tags: дизайн
 
 ![B/W Clock](images/bw-clock.jpeg)
 
-Офигенские [часы](http://www.kibardindesign.com/special-projects/concept/black-and-white-clock.aspx)!
+Офигенские [часы][]!
+
+[часы]: http://www.kibardindesign.com/special-projects/concept/black-and-white-clock.aspx

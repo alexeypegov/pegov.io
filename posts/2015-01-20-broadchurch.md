@@ -7,4 +7,7 @@ Tags:
   - сериал
 ---
 
-Какой-то [совершенно офигенный сериал](http://www.imdb.com/title/tt2249364). А как они там все говорят! А какой там кайфовый [саундтрек](https://itunes.apple.com/ru/album/broadchurch-original-music/id953070768?l=en)! Аааааа!
+Какой-то [совершенно офигенный сериал][1]. А как они там все говорят! А какой там кайфовый [саундтрек][2]! Аааааа!
+
+[1]: http://www.imdb.com/title/tt2249364
+[2]: https://itunes.apple.com/ru/album/broadchurch-original-music/id953070768?l=en

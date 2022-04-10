@@ -6,4 +6,7 @@ Tags: слушаю
 
 ![ventriloquizzing.jpg](images/ventriloquizzing.jpg)
 
-Охрененные совершенно [англичане](http://ru.wikipedia.org/wiki/Fujiya_%26_Miyagi). Очень [рекомендую](http://www.discogs.com/Fujiya-Miyagi-Ventriloquizzing/master/309142)!
+Охрененные совершенно [англичане][1]. Очень [рекомендую][2]!
+
+[1]: http://ru.wikipedia.org/wiki/Fujiya_%26_Miyagi
+[2]: http://www.discogs.com/Fujiya-Miyagi-Ventriloquizzing/master/309142

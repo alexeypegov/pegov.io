@@ -1,5 +1,5 @@
 ---
-Title: Everything counts
+Title: DMK - Everything counts
 Date: 2012-02-02
 Tags:
   - саптрю

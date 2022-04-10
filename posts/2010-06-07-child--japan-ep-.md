@@ -6,4 +6,6 @@ Tags: слушаю
 
 ![Image](images/child-japan_ep.jpg)
 
-Обалденный [релиз](http://www.junodownload.com/products/1453568-02.htm)!
+Обалденный [релиз][1]!
+
+[1]: http://www.junodownload.com/products/1453568-02.htm

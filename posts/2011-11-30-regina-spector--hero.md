@@ -5,5 +5,3 @@ Tags: слушаю
 ---
 
 https://www.youtube.com/watch?v=-g-dlnH3wc8
-
-Очень!

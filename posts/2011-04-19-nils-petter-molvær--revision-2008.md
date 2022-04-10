@@ -6,6 +6,8 @@ Tags: слушаю
 
 ![re-vis10n.jpg](images/re-vis10n.jpg)
 
-Какой шикарный [альбом](http://www.discogs.com/Nils-Petter-Molv%C3%A6r-Re-Vision/release/1340072)!
+Какой шикарный [альбом][1]!
 
 Чувак, если вдруг интересно, родом из Норвегии и (кроме всего остального) играет на трубе. Амбиент.
+
+[1]: http://www.discogs.com/Nils-Petter-Molv%C3%A6r-Re-Vision/release/1340072

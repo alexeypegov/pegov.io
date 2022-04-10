@@ -5,5 +5,8 @@ Tags:
   - слушаю
 ---
 
-У Аппарата [новый альбом](https://itunes.apple.com/ru/album/krieg-und-frieden-music-for/id592588486).
+У Аппарата [новый альбом][1].
+
 И, послушав его пару дней, я вам скажу, что альбом офигенный!
+
+[1]: https://itunes.apple.com/ru/album/krieg-und-frieden-music-for/id592588486

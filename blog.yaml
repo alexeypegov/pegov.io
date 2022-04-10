@@ -17,6 +17,7 @@ general:
     - posts/images/
     - static/robots.txt
     - static/CNAME
+    - static/bio.jpg
 
 vars:
   blog-title: Ложное движение

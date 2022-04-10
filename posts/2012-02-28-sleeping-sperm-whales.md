@@ -6,4 +6,7 @@ Tags: разное
 
 ![sperm-whales.jpg](images/sperm-whales.jpg)
 
-Есть и [такие](http://en.wikipedia.org/wiki/Sperm_whale) киты. [via](http://thisisnthappiness.com/post/18425675420/sleeping-sperm-whales)
+Есть и [такие][1] киты. [via][2]
+
+[1]: http://en.wikipedia.org/wiki/Sperm_whale
+[2]: http://thisisnthappiness.com/post/18425675420/sleeping-sperm-whales

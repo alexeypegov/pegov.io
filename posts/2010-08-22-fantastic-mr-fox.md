@@ -6,6 +6,8 @@ Tags: саптрю
 
 ![Fantastic Mr. Fox](images/fantastik-mr-fox.jpg)
 
-[Великолепно](http://www.imdb.com/title/tt0432283/)!
+[Великолепно][1]!
 
 ps: cмотреть только с оригинальной дорожкой!
+
+[1]: http://www.imdb.com/title/tt0432283/

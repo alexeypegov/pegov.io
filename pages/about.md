@@ -4,6 +4,10 @@ Cover: images/selfie.jpg
 Summary: Несколько слов об этом сайте
 ---
 
-Меня зовут Алексей Пегов, я живу в Санкт-Петербурге, работаю программистом, фотографирую на пленку, катаю на "фиксе" и горных лыжах, путешествую, читаю, прусь от джаза и авторского кино. А еще я отец двух замечательных парней — Тимура и Захара.
+![](images/bio.jpg)
 
-Записи этого блога транслируются в [RSS-поток](https://feed.feedburner.com/false-movement), а так же в [Telegram](https://t.me/pegovinteresting). Кроме всего, в телеграмме есть [канал с потоком моих фотографий](https://t.me/pegovphotography) из Flickr'а. Связаться со мной лично можно через почту iam[at]alexeypegov.com или в той же телеге @alexeypegov.
+Записи этого блога транслируются в [RSS-поток][rss]. 
+
+Связаться со мной лично можно через почту iam[at]alexeypegov.com или в телеге @alexeypegov.
+
+[rss]: https://feeds.feedburner.com/false-movement

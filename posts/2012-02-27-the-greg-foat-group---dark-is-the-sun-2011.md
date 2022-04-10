@@ -6,4 +6,7 @@ Tags: слушаю
 
 ![greg-foat-group.jpg](images/greg-foat-group.jpg)
 
-Ой, какой здоровский [джаз](http://www.discogs.com/Greg-Foat-Group-Dark-Is-The-Sun/master/340163)! [via](http://holx.tumblr.com/)
+Ой, какой здоровский [джаз][1]! [via][2]
+
+[1]: http://www.discogs.com/Greg-Foat-Group-Dark-Is-The-Sun/master/340163
+[2]: http://holx.tumblr.com/

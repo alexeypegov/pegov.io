@@ -8,4 +8,6 @@ Tags:
 
 ![recomposed.jpeg](images/recomposed.jpeg)
 
-Очень интересная [интерпретация](http://www.discogs.com/Max-Richter-Recomposed-By-Max-Richter-Vivaldi-The-Four-Seasons-/master/499517)!
+Очень интересная [интерпретация][1]!
+
+[1]: http://www.discogs.com/Max-Richter-Recomposed-By-Max-Richter-Vivaldi-The-Four-Seasons-/master/499517

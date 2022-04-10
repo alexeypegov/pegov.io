@@ -7,5 +7,3 @@ Tags:
 ---
 
 http://www.youtube.com/watch?v=m9Et7UQh1tg
-
-via [duka](http://duka.tumblr.com/post/162707325)

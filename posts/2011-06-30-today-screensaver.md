@@ -5,4 +5,7 @@ Tags:
   - софт
 ---
 
-Нашел сегдня отличный [минималистичный скринсейвер](http://www.gingerbeardman.com/today/). Ну, а для ценителей [глючный](http://wakaba.c3.cx/s/lotsablankers/lotsaescher.html) из Эшера :)
+Нашел сегдня отличный [минималистичный скринсейвер][1]. Ну, а для ценителей [глючный][2] из Эшера :)
+
+[1]: http://www.gingerbeardman.com/today/
+[2]: http://wakaba.c3.cx/s/lotsablankers/lotsaescher.html

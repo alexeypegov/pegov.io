@@ -6,4 +6,6 @@ Tags: дизайн
 
 ![images/gravity_chair.jpg](images/gravity_chair.jpg)
 
-[Класс!](http://visboo.com/free-of-gravity-chair.html)
+[Класс][1]!
+
+[1]: http://visboo.com/free-of-gravity-chair.html

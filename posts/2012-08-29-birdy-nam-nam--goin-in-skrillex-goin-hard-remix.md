@@ -1,11 +1,11 @@
 ---
-Title: BIRDY NAM NAM - GOIN' IN (SKRILLEX 'GOIN HARD' REMIX)
+Title: Birdy Nam Nam - Goin' In (Skrillex "Goin' Hard" Mix)
 Date: 2012-08-29
 Tags:
   - слушаю
   - саптрю
 ---
 
-http://youtube.com/watch?v=_aZ-YRoJrnQ
+https://www.youtube.com/watch?v=sgU7XMUyAqY
 
 Энергично!

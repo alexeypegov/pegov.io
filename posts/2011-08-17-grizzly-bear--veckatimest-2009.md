@@ -6,4 +6,6 @@ Tags: слушаю
 
 ![veckatimest.jpg](images/veckatimest.jpg)
 
-Если понравился "[Ready, Able](http://spleaner.appspot.com/note/grizzly-bear-ready-able)", то очень советую послушать и альбом. Там всё — один замечательный вокал (все [4 участника группы](http://en.wikipedia.org/wiki/Grizzly_Bear_(band)) поют). Класс!
+Если понравился "Ready, Able", то очень советую послушать и альбом. Там всё — один замечательный вокал ([все 4 участника группы][1] поют). Класс!
+
+[1]: http://en.wikipedia.org/wiki/Grizzly_Bear_(band)

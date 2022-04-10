@@ -4,6 +4,6 @@ Date: 2012-05-24
 Tags: саптрю
 ---
 
-http://youtube.com/watch?v=SGxKhUuZ0Rc
+https://youtu.be/Q7Vontrxbqo
 
-Великолепно! +[ELEVEN!](http://www.youtube.com/watch?v=5FFRoYhTJQQ)
+Великолепно! +[ELEVEN!](https://www.youtube.com/watch?v=TqAu-DDlINs)

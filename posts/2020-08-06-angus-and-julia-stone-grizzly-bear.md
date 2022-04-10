@@ -6,5 +6,3 @@ Tags:
 ---
 
 https://youtu.be/JHhV9TPNmTI
-
-Спотифай подсунул кайфовый трек!

@@ -7,5 +7,3 @@ Tags:
 ---
 
 http://www.youtube.com/watch?v=rEUxlwb2uFI
-
-@via mike

@@ -6,4 +6,7 @@ Tags: слушаю
 
 ![glitch_mob.jpg](images/glitch_mob.jpg)
 
-Отличная [EPшка](http://www.discogs.com/Glitch-Mob-We-Can-Make-The-World-Stop/master/361791) и [альбом](http://www.discogs.com/Glitch-Mob-Drink-The-Sea/master/276827)!
+Отличная [EPшка][1] и [альбом][2]!
+
+[1]: http://www.discogs.com/Glitch-Mob-We-Can-Make-The-World-Stop/master/361791
+[2]: http://www.discogs.com/Glitch-Mob-Drink-The-Sea/master/276827

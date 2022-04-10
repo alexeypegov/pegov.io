@@ -6,4 +6,6 @@ Tags: слушаю
 
 ![twilight-session-2011.jpg](images/twilight-session-2011.jpg)
 
-Блин, чувак такой клевый сет [заделал](http://www.d-phrag.com/mixsets/d-phrag-twilight-session-2011)!! И мой любимый трек вначале! Круть!!!
+Блин, чувак такой клевый сет [заделал][1]!! И мой любимый трек вначале! Круть!!!
+
+[1]: http://www.d-phrag.com/mixsets/d-phrag-twilight-session-2011

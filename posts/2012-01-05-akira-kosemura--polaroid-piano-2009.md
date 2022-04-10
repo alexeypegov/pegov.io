@@ -6,4 +6,6 @@ Tags: слушаю
 
 ![kosemura.jpg](images/kosemura.jpg)
 
-Совершенно офигенный японец. Чудная [музыка](http://www.discogs.com/Akira-Kosemura-Polaroid-Piano/release/1922279) :)
+Совершенно офигенный японец. Чудная [музыка][1] :)
+
+[1]: http://www.discogs.com/Akira-Kosemura-Polaroid-Piano/release/1922279

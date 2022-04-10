@@ -4,4 +4,6 @@ Date: 2011-12-23
 Tags: слушаю
 ---
 
-Отличный [трек](http://www.youtube.com/watch?v=e1brxvvJe10)!
+https://www.youtube.com/watch?v=kBOaLjtR4mw
+
+Отличный трек!

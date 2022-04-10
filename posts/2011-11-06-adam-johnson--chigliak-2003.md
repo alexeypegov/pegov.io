@@ -7,4 +7,7 @@ Tags:
 
 ![chigliak.jpeg](images/chigliak.jpeg)
 
-Очень приятный [альбом](http://www.discogs.com/Adam-Johnson-Chigliak/release/134843), который можно [послушать онлайн](http://soundcloud.com/rinabasique/sets/adam-johnson-chigliak/)  :)
+Очень приятный [альбом][1], который можно [послушать онлайн][2]  :)
+
+[1]: http://www.discogs.com/Adam-Johnson-Chigliak/release/134843
+[2]: http://soundcloud.com/rinabasique/sets/adam-johnson-chigliak/

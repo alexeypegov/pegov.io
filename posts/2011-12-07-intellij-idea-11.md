@@ -6,4 +6,7 @@ Tags:
   - программирую
 ---
 
-Особо горжусь тем, что мы с [Сережей Ильиным](http://iserge.tumblr.com/tagged/favorite) в этом, крайнем для меня релизе, зафигачили [новый кросс-платформенный UI](http://spleaner.appspot.com/idea-ui-diff/idea-ui-diff.html)! :)
+Особо горжусь тем, что мы с [Сережей Ильиным][1] в этом, крайнем для меня релизе, зафигачили [новый кросс-платформенный UI][2]! :)
+
+[1]: http://iserge.tumblr.com/tagged/favorite
+[2]: http://spleaner.appspot.com/idea-ui-diff/idea-ui-diff.html

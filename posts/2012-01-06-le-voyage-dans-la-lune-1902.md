@@ -4,4 +4,6 @@ Date: 2012-01-06
 Tags: саптрю
 ---
 
-Охуенный какой [трип](http://www.nowness.com/media/embedvideo?itemid=1786&amp;issueid=1818)!
+https://www.youtube.com/watch?v=ZNAHcMMOHE8
+
+Охуенный какой трип!

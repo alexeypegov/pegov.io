@@ -8,4 +8,7 @@ Tags:
 
 ![nyman.jpg](images/nyman.jpg)
 
-Совершенно случайно, благодаря [этому твиту](https://twitter.com/chillygonzales/status/336104300327612416) открыл для себя Майкла Наймана. [Очень приятная музыка](https://itunes.apple.com/ru/album/michael-nyman-peter-greenaway/id457123413?l=en), рекомендую!
+Совершенно случайно, благодаря [этому твиту][1] открыл для себя Майкла Наймана. [Очень приятная музыка][2], рекомендую!
+
+[1]: https://twitter.com/chillygonzales/status/336104300327612416
+[2]: https://itunes.apple.com/ru/album/michael-nyman-peter-greenaway/id457123413?l=en

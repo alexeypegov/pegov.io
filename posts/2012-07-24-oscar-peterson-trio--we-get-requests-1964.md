@@ -8,4 +8,7 @@ Tags:
 
 ![we-get-requests.jpeg](images/we-get-requests.jpeg)
 
-Ой, какой кайфовый [альбом](http://en.wikipedia.org/wiki/We_Get_Requests)! Вот, например, [The Girl From Ipanema](http://www.youtube.com/watch?v=OcETI4dsMyc).
+Ой, какой кайфовый [альбом][1]! Вот, например, [The Girl From Ipanema][2].
+
+[1]: http://en.wikipedia.org/wiki/We_Get_Requests
+[2]: https://www.youtube.com/watch?v=6qGHyu5an1M

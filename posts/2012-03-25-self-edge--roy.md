@@ -1,5 +1,5 @@
 ---
-Title: Self Edge & Roy
+Title: Self Edge x Cone Mills x Roy
 Date: 2012-03-25
 Tags:
   - разное
