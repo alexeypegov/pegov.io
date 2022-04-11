@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-02-25T00:00:00+03:00</updated>
+  <updated>2022-04-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Право на Память. Арсений Рогинский о себе и о стране]]></title>
+      <link href="https://fm.alexeypegov.com/2022-04-11-pravo-na-pamyat.html" />
+      <id>urn:uuid:21f6b27b-0357-384e-9d16-ea2c598a0786</id>
+      <updated>2022-04-11T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[David Lynch's Weather Report 2/25/22]]></title>
       <link href="https://fm.alexeypegov.com/2022-02-25-david-lynch.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2020-12-12-welcome-to-the-hills.html" />
       <id>urn:uuid:aed38ccd-674d-350e-8572-ec219bc5e98f</id>
       <updated>2020-12-12T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Контрольные отпечатки (1989-2008)]]></title>
-      <link href="https://fm.alexeypegov.com/2020-12-09-contacts.html" />
-      <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
-      <updated>2020-12-09T00:00:00+03:00</updated>
     </entry>
 </feed>

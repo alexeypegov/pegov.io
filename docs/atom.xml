@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-02-25T00:00:00+03:00</updated>
+  <updated>2022-04-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Право на Память. Арсений Рогинский о себе и о стране]]></title>
+      <link href="https://fm.alexeypegov.com/2022-04-11-pravo-na-pamyat.html" />
+      <id>urn:uuid:21f6b27b-0357-384e-9d16-ea2c598a0786</id>
+      <updated>2022-04-11T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/ZqBfB8Z0tuY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+<p>Российское общество &quot;<a href="https://www.memo.ru">Мемориал</a>&quot; было ликвидировано 28 февраля 2022 года.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[David Lynch's Weather Report 2/25/22]]></title>
       <link href="https://fm.alexeypegov.com/2022-02-25-david-lynch.html" />
@@ -153,23 +170,6 @@
 	<![CDATA[
         <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/TLWygV_OGc0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Кайф, как, впрочем, и <a href="https://youtu.be/TLWygV_OGc0">все остальное</a>.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Контрольные отпечатки (1989-2008)]]></title>
-      <link href="https://fm.alexeypegov.com/2020-12-09-contacts.html" />
-      <id>urn:uuid:ea154547-4b90-3239-869b-ae66bea36059</id>
-      <updated>2020-12-09T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/pny7WZ7hZrY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-<p><a href="https://www.imdb.com/title/tt1107269">35 коротеньких серий</a>, в которых фотографы сами рассказывают про свои снимки. Кайф.</p>
 
 	]]>
       </content>
