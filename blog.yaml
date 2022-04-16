@@ -17,7 +17,6 @@ general:
     - posts/images/
     - static/robots.txt
     - static/CNAME
-    - static/bio.jpg
 
 vars:
   blog-title: Ложное движение
@@ -25,7 +24,7 @@ vars:
   feed-url: https://feeds.feedburner.com/false-movement
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
-  description: 'Блог Алексея Пегова: о программировании, пленочной фотографии, удобном софте, джазе, и не только.'
+  description: 'Личный блог Алексея Пегова'
   keywords: 'пегов,pegov,ложное движение,false movement'
   blog-cover: /images/selfie.jpg
   note-cover: /i/favicon-180.png
