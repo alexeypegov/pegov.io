@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-04-20T00:00:00+03:00</updated>
+  <updated>2022-05-02T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Drive My Car (2021)]]></title>
+      <link href="https://fm.alexeypegov.com/2022-05-02-drive-my-car.html" />
+      <id>urn:uuid:d8f7ccc4-dd24-3dcb-9058-f5bf9697d0e2</id>
+      <updated>2022-05-02T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Роднянский]]></title>
       <link href="https://fm.alexeypegov.com/2022-04-20-rodnyanskiy.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2021-04-01-расследование-карагодина.html" />
       <id>urn:uuid:4285ad58-87f1-336c-8106-819709ce4220</id>
       <updated>2021-04-01T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Информационные автократии]]></title>
-      <link href="https://fm.alexeypegov.com/2021-03-11-guriev.html" />
-      <id>urn:uuid:f1f65fbb-75db-3ced-b207-93ac163a6b44</id>
-      <updated>2021-03-11T00:00:00+03:00</updated>
     </entry>
 </feed>
