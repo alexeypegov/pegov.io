@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Content-Language" content="ru">
-    <#if note?exists>
-    <title>${note.title} - ${vars.blog_title}</title>
+    <#if title??>
+    <title>${title} - ${vars.blog_title}</title>
     <#elseif ndx?exists && ndx gt 1>
     <title>Страница ${ndx} - ${vars.blog_title}</title>
     <#else>
@@ -30,53 +30,27 @@
     <meta property="og:site_name" content="${vars.blog_title}" />
     <meta itemprop="name" content="${vars.blog_title}" />
     <meta name="keywords" content="${vars.keywords}" />
-    <#if !summary?exists>
-      <#if note?exists>
-        <#if note.summary?exists>
-          <#assign summary = note.summary>
-        </#if>
-      <#else>
-        <#assign summary = vars.description>
-      </#if>
-    </#if>
-    <#if summary?exists>
+    <#assign summary=summary!vars.description>
     <meta name="description" content="${summary}" />
     <meta property="og:description" content="${summary}" />
-    </#if>
-    <#if !title?exists>
-      <#if note?exists>
-        <#assign title = note.title>
-      <#else>
-        <#assign title = vars.blog_title>
-      </#if>
-    </#if>
+    <#assign title=title!vars.blog_title>
     <meta property="og:title" content="${title}" />
-    <#if note?exists>
-      <#assign url = vars.blog_url + note.link>
-    <#elseif ndx?exists && ndx gt 1>
+    <#if link??>
+      <#assign url = vars.blog_url + link>
+    <#elseif ndx?? && ndx gt 1>
       <#assign url = vars.blog_url + "/page-" + ndx + ".html">
     <#else>
       <#assign url = vars.blog_url>
     </#if>
     <meta property="og:url" content="${url}" />
-    <#if note?exists>
-      <#list note.tags as tag>
+    <#if tags??>
+      <#list tags as tag>
     <meta property="og:tag" content="${tag}" />
       </#list>
     </#if>
-    <#if note?exists>
-      <#if note.cover?exists>
-        <#assign cover = "/" + note.cover>
-      <#elseif vars.note_cover?exists>
-        <#assign cover = vars.note_cover>
-      </#if>
-    <#else>
-      <#assign cover = vars.blog_cover>
-    </#if>
-    <#if cover?exists>
+    <#assign cover=cover!vars.blog_cover>
     <meta itemprop="image" content="${vars.blog_url + cover}" />
     <meta property="og:image" content="${vars.blog_url + cover}" />
-    </#if>
 
     <!-- favicons -->
     <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">
