@@ -26,5 +26,5 @@ vars:
   feed-email: iam@alexeypegov.com
   description: 'Личный блог Алексея Пегова'
   keywords: 'пегов,pegov,ложное движение,false movement'
-  blog-cover: /images/selfie.jpg
+  blog-cover: /images/avatar.jpg
   note-cover: /i/favicon-180.png
