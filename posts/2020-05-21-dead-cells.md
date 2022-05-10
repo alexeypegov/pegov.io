@@ -3,7 +3,7 @@ Title: Dead Cells
 Date: 2020-05-21
 Tags:
   - играю
-Cover: images/dead-cells.jpg
+Cover: /images/dead-cells.jpg
 Summary: Dead Cells — кайф!
 ---
 

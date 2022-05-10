@@ -3,7 +3,7 @@ Title: Drive My Car (2021)
 Date: 2022-05-02
 Tags:
   - саптрю
-Cover: images/drive-my-car.jpg
+Cover: /images/drive-my-car.jpg
 Summary: Классное японское кино по рассказу Харуки Мураками.
 ---
 
