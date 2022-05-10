@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-05-02T00:00:00+03:00</updated>
+  <updated>2022-05-08T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[The Hand of God (2021)]]></title>
+      <link href="https://fm.alexeypegov.com/2022-05-08-the-hand-of-god.html" />
+      <id>urn:uuid:6bd41729-ca3a-3280-9507-caaf5a948a7f</id>
+      <updated>2022-05-08T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Drive My Car (2021)]]></title>
       <link href="https://fm.alexeypegov.com/2022-05-02-drive-my-car.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2021-06-14-россия.html" />
       <id>urn:uuid:d90a75f4-1f4f-3f67-ab9c-262a033bbea8</id>
       <updated>2021-06-14T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Расследование Карагодина]]></title>
-      <link href="https://fm.alexeypegov.com/2021-04-01-расследование-карагодина.html" />
-      <id>urn:uuid:4285ad58-87f1-336c-8106-819709ce4220</id>
-      <updated>2021-04-01T00:00:00+03:00</updated>
     </entry>
 </feed>
