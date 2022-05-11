@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-05-08T00:00:00+03:00</updated>
+  <updated>2022-05-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Gandhi]]></title>
+      <link href="https://fm.alexeypegov.com/2022-05-11-gandhi.html" />
+      <id>urn:uuid:81880d7a-a619-3576-b791-8d14479277fb</id>
+      <updated>2022-05-11T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[The Hand of God (2021)]]></title>
       <link href="https://fm.alexeypegov.com/2022-05-08-the-hand-of-god.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2021-06-29-nomad-land.html" />
       <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
       <updated>2021-06-29T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Россия]]></title>
-      <link href="https://fm.alexeypegov.com/2021-06-14-россия.html" />
-      <id>urn:uuid:d90a75f4-1f4f-3f67-ab9c-262a033bbea8</id>
-      <updated>2021-06-14T00:00:00+03:00</updated>
     </entry>
 </feed>
