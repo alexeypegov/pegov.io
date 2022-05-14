@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-05-11T00:00:00+03:00</updated>
+  <updated>2022-05-14T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Noize MC x Егор Летов — Все как у людей]]></title>
+      <link href="https://fm.alexeypegov.com/2022-05-14-noize-mc.html" />
+      <id>urn:uuid:2a58a2f4-cc1a-3661-8a4a-37804c25aa76</id>
+      <updated>2022-05-14T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/eLAHSRmFFzE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Gandhi]]></title>
       <link href="https://fm.alexeypegov.com/2022-05-11-gandhi.html" />
@@ -163,23 +179,6 @@
         <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/VgvUjKW1YWQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 <p>Я узнал про этот фильм и книгу из вот этого интервью Олега Дормана. Я не смог найти фильм, поэтому читаю книгу, но в голове у меня все равно звучит ее голос (и если хотите такого же эффекта, то посмотрите интервью, в котором есть фрагменты фильма, или найдите сам фильм).</p>
 <p>Ну и, конечно, это непременно нужно читать. Или смотреть. Или слушать. Непременно.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Земля кочевников]]></title>
-      <link href="https://fm.alexeypegov.com/2021-06-29-nomad-land.html" />
-      <id>urn:uuid:3fe1d7fd-52d6-3bc8-a82e-057b7cc13877</id>
-      <updated>2021-06-29T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/nomad-land.jpg" alt="Nomad Land" /></p>
-<p>Посмотрел с удовольствием!</p>
 
 	]]>
       </content>
