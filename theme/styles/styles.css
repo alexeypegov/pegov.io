@@ -33,7 +33,6 @@
 }
 
 :root {
-  /*--font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif;;*/
   --font-family:  "Literata", serif;
   --font-size: var(--base-font-size);
 

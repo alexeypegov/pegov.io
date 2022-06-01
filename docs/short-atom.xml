@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-05-19T00:00:00+03:00</updated>
+  <updated>2022-06-01T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Русский мир]]></title>
+      <link href="https://fm.alexeypegov.com/2022-06-01-russian-peace.html" />
+      <id>urn:uuid:bd7e8149-c7b3-354c-acae-735c964040f3</id>
+      <updated>2022-06-01T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Механические часы]]></title>
       <link href="https://fm.alexeypegov.com/2022-05-19-mechanical-watch.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2021-11-26-van-ajk.html" />
       <id>urn:uuid:4928bd12-738b-3994-a5cd-ac90b4a97606</id>
       <updated>2021-11-26T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Jon Hopkins - Immunity (2018)]]></title>
-      <link href="https://fm.alexeypegov.com/2021-07-28-immunity.html" />
-      <id>urn:uuid:daf7d473-de80-3c57-8bd6-527dd9f810b0</id>
-      <updated>2021-07-28T00:00:00+03:00</updated>
     </entry>
 </feed>
