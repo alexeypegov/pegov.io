@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-06-20T00:00:00+03:00</updated>
+  <updated>2022-08-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Про российский спорт]]></title>
+      <link href="https://fm.alexeypegov.com/2022-08-28-russian-sport.html" />
+      <id>urn:uuid:154a898f-0e55-30ec-86e2-5ce7e0064509</id>
+      <updated>2022-08-28T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Разрыв связи]]></title>
       <link href="https://fm.alexeypegov.com/2022-06-20-разрыв-связи.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-05-02-drive-my-car.html" />
       <id>urn:uuid:d8f7ccc4-dd24-3dcb-9058-f5bf9697d0e2</id>
       <updated>2022-05-02T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Роднянский]]></title>
-      <link href="https://fm.alexeypegov.com/2022-04-20-rodnyanskiy.html" />
-      <id>urn:uuid:9f1be7ce-2948-3cbc-b752-fd056d209a43</id>
-      <updated>2022-04-20T00:00:00+03:00</updated>
     </entry>
 </feed>
