@@ -7,10 +7,10 @@ Tags:
 Summary: Два очень важных видео про российский спорт
 ---
 
-Открытием последнего времени стал Витя Кравченко:
-
-https://www.youtube.com/watch?v=_0xw1LM65qY
-
-Ну и про [Касаткину и Рублева](https://www.youtube.com/watch?v=bFNAndV99Rc) кайф.
+Открытием последнего времени стал Витя Кравченко с видео про [Касаткину и Рублева][1] и [Легкую атлетику][2].
 
 Крайне рекомендую к просмотру.
+
+[1]: https://www.youtube.com/watch?v=bFNAndV99Rc
+[2]: https://www.youtube.com/watch?v=_0xw1LM65qY
+
