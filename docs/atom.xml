@@ -4,7 +4,34 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-08-28T00:00:00+03:00</updated>
+  <updated>2022-09-24T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Моя позиция]]></title>
+      <link href="https://fm.alexeypegov.com/2022-09-24-my-position.html" />
+      <id>urn:uuid:2f88a40d-c95a-3d1a-b1e8-d4e5347312b5</id>
+      <updated>2022-09-24T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/levashovo.jpg" alt="Levashovo" /></p>
+<p>Хочу как-то зафиксировать свою позицию:</p>
+<ol>
+<li>Убивать, пытать и унижать людей недопустимо, никак и никогда.</li>
+<li>Никакого особого пути у России нет, Россия такая же страна, как и любая другая, развитие вне мировой экономики для России не даст никаких преимуществ, а только усугубит ее отставание по всем направлениям.</li>
+<li>Для России нет никакой внешней угрозы, никто не хочет ее разделения. Для того, чтобы утверждать обратное, требуется больше доказательств, чем пропагандистские речи, транслируемые с экранов телевизоров.</li>
+<li>Чем дольше человек находится у власти, тем больше его желание эту власть удержать и усилить всеми доступными способами, включая развязывание бессмысленной войны с братским народом. Сменяемость власти — механизм защиты от подобного.</li>
+<li>Попытка переписать историю, оставляя в ней только победы, не поможет избежать ошибок в будущем, для этого требуется осознать и принять прошлое, <a href="https://www.livelib.ru/book/1004970745-neudobnoe-proshloe-pamyat-o-gosudarstvennyh-prestupleniyah-v-rossii-i-drugih-stranah-nikolaj-epple">каким бы оно ни было</a>.</li>
+<li>Для того, чтобы сказать правду, не требуется никому затыкать рот, даже если вы с ним совершенно несогласны. Правда от этого не становится меньшей правдой. И наоборот, если вы лишаете слова всех вокруг — это повод задуматься, правда ли то, что вы говорите.</li>
+</ol>
+<p>Как-то так.</p>
+<p>Картинка выше из музея <a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D0%B0%D1%88%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5">Левашовской пустоши</a>.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Про российский спорт]]></title>
       <link href="https://fm.alexeypegov.com/2022-08-28-russian-sport.html" />
@@ -161,23 +188,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/the-hand-of-god.jpg" alt="The Hand of God" /></p>
 <p>Очень приятное <a href="https://www.imdb.com/title/tt12680684/">кино</a>!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Drive My Car (2021)]]></title>
-      <link href="https://fm.alexeypegov.com/2022-05-02-drive-my-car.html" />
-      <id>urn:uuid:d8f7ccc4-dd24-3dcb-9058-f5bf9697d0e2</id>
-      <updated>2022-05-02T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/drive-my-car.jpg" alt="Drive My Car" /></p>
-<p>Классное <a href="https://www.imdb.com/title/tt14039582">японское кино</a> по рассказу Харуки Мурками.</p>
 
 	]]>
       </content>
