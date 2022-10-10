@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-09-24T00:00:00+03:00</updated>
+  <updated>2022-10-10T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Кружится голова]]></title>
+      <link href="https://fm.alexeypegov.com/2022-10-10-headache.html" />
+      <id>urn:uuid:58ca14f0-7bec-3ce1-989e-f1d45cf1d641</id>
+      <updated>2022-10-10T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Моя позиция]]></title>
       <link href="https://fm.alexeypegov.com/2022-09-24-my-position.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-05-11-gandhi.html" />
       <id>urn:uuid:81880d7a-a619-3576-b791-8d14479277fb</id>
       <updated>2022-05-11T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[The Hand of God (2021)]]></title>
-      <link href="https://fm.alexeypegov.com/2022-05-08-the-hand-of-god.html" />
-      <id>urn:uuid:6bd41729-ca3a-3280-9507-caaf5a948a7f</id>
-      <updated>2022-05-08T00:00:00+03:00</updated>
     </entry>
 </feed>
