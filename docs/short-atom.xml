@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-10-10T00:00:00+03:00</updated>
+  <updated>2022-10-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Спонсор Талибана]]></title>
+      <link href="https://fm.alexeypegov.com/2022-10-11-talibhan.html" />
+      <id>urn:uuid:32c3c694-90bf-3916-abea-0d45074e0801</id>
+      <updated>2022-10-11T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Кружится голова]]></title>
       <link href="https://fm.alexeypegov.com/2022-10-10-headache.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-05-14-noize-mc.html" />
       <id>urn:uuid:2a58a2f4-cc1a-3661-8a4a-37804c25aa76</id>
       <updated>2022-05-14T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Gandhi]]></title>
-      <link href="https://fm.alexeypegov.com/2022-05-11-gandhi.html" />
-      <id>urn:uuid:81880d7a-a619-3576-b791-8d14479277fb</id>
-      <updated>2022-05-11T00:00:00+03:00</updated>
     </entry>
 </feed>
