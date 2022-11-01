@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-10-11T00:00:00+03:00</updated>
+  <updated>2022-11-01T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Olive Kitteridge (2014)]]></title>
+      <link href="https://fm.alexeypegov.com/2022-11-01-olive-kitteridge.html" />
+      <id>urn:uuid:af59f3a9-c914-3331-a884-226172356551</id>
+      <updated>2022-11-01T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Спонсор Талибана]]></title>
       <link href="https://fm.alexeypegov.com/2022-10-11-talibhan.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-05-19-mechanical-watch.html" />
       <id>urn:uuid:90e17b5b-1cb5-3c8f-946c-7036f06d6dd5</id>
       <updated>2022-05-19T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Noize MC x Егор Летов — Все как у людей]]></title>
-      <link href="https://fm.alexeypegov.com/2022-05-14-noize-mc.html" />
-      <id>urn:uuid:2a58a2f4-cc1a-3661-8a4a-37804c25aa76</id>
-      <updated>2022-05-14T00:00:00+03:00</updated>
     </entry>
 </feed>

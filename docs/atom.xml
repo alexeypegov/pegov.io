@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-10-11T00:00:00+03:00</updated>
+  <updated>2022-11-01T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Olive Kitteridge (2014)]]></title>
+      <link href="https://fm.alexeypegov.com/2022-11-01-olive-kitteridge.html" />
+      <id>urn:uuid:af59f3a9-c914-3331-a884-226172356551</id>
+      <updated>2022-11-01T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/olive_kitteridge.jpg" alt="Olive Kitteridge" /></p>
+<p>Очень хороший <a href="https://www.imdb.com/title/tt3012698/">сериал</a> с Френсис МакДорманд и (совсем чуть-чуть) Биллом Мюрреем!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Спонсор Талибана]]></title>
       <link href="https://fm.alexeypegov.com/2022-10-11-talibhan.html" />
@@ -185,22 +202,6 @@
       <content type="html">
 	<![CDATA[
         <p>Совершенно офигительное и подробное описание устройства <a href="https://ciechanow.ski/mechanical-watch/">наручных механических часов</a> (eng).</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Noize MC x Егор Летов — Все как у людей]]></title>
-      <link href="https://fm.alexeypegov.com/2022-05-14-noize-mc.html" />
-      <id>urn:uuid:2a58a2f4-cc1a-3661-8a4a-37804c25aa76</id>
-      <updated>2022-05-14T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/eLAHSRmFFzE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 
 	]]>
       </content>
