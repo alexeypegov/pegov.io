@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-11-09T00:00:00+03:00</updated>
+  <updated>2022-11-23T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Пропаганда]]></title>
+      <link href="https://fm.alexeypegov.com/2022-11-23-propaganda.html" />
+      <id>urn:uuid:bf85e481-eb83-3d23-b8ec-2eda0e6ea4d5</id>
+      <updated>2022-11-23T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Архипелаг ГУЛАГ]]></title>
       <link href="https://fm.alexeypegov.com/2022-11-09-arkhipelag-gulag.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-06-10-pessimism-vs-optimism.html" />
       <id>urn:uuid:67966375-b726-3923-8454-30efaaf3f52a</id>
       <updated>2022-06-10T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Русский мир]]></title>
-      <link href="https://fm.alexeypegov.com/2022-06-01-russian-peace.html" />
-      <id>urn:uuid:bd7e8149-c7b3-354c-acae-735c964040f3</id>
-      <updated>2022-06-01T00:00:00+03:00</updated>
     </entry>
 </feed>
