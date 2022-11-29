@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-11-23T00:00:00+03:00</updated>
+  <updated>2022-11-29T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Мы очень больное общество]]></title>
+      <link href="https://fm.alexeypegov.com/2022-11-29-mi-o4en-bolnoe-obschestvo.html" />
+      <id>urn:uuid:64fbfb44-8112-3911-97cb-7b5774aaac3d</id>
+      <updated>2022-11-29T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/hjh7j6kPYFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Наталья Зубаревич: «Легли на дно и полёживаем» // «Скажи Гордеевой»"></iframe></div></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Пропаганда]]></title>
       <link href="https://fm.alexeypegov.com/2022-11-23-propaganda.html" />
@@ -199,31 +215,6 @@
 <p>Тогда мне казалось, что “жить прошлым” — это точный диагноз. Сегодня я думаю, что это приговор. — Тимофей Радя</p>
 </blockquote>
 <p><a href="https://t.me/xradyax/704">via</a></p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Пессимизм vs. Оптимизм]]></title>
-      <link href="https://fm.alexeypegov.com/2022-06-10-pessimism-vs-optimism.html" />
-      <id>urn:uuid:67966375-b726-3923-8454-30efaaf3f52a</id>
-      <updated>2022-06-10T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>Сын (3 года) просит купить арбуз:</p>
-<p>— Леш, давай купим арбуз?<br/>
-— Не хочу<br/>
-— Почему?<br/></p>
-<p>— Ну, а вдруг он будет невкусным?<br/></p>
-<p>Захар:</p>
-<p>— А вдруг он будет вкусным?</p>
-<p>Ахах.</p>
-<p>Купили.</p>
-<p>Вкусный.</p>
 
 	]]>
       </content>
