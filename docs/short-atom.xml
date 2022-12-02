@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-11-29T00:00:00+03:00</updated>
+  <updated>2022-12-02T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Kuala Lumpur]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-02-kl-visa-run.html" />
+      <id>urn:uuid:840dfaa8-958f-3604-b54f-8d8c50d4d061</id>
+      <updated>2022-12-02T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Мы очень больное общество]]></title>
       <link href="https://fm.alexeypegov.com/2022-11-29-mi-o4en-bolnoe-obschestvo.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-06-20-разрыв-связи.html" />
       <id>urn:uuid:f049b368-dd0d-35a7-96e5-988ce1081144</id>
       <updated>2022-06-20T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Жить прошлым — Тимофей Радя (2022)]]></title>
-      <link href="https://fm.alexeypegov.com/2022-06-13-жить-прошлым.html" />
-      <id>urn:uuid:98e44766-7cde-3cf3-b962-d2f1c65c7e26</id>
-      <updated>2022-06-13T00:00:00+03:00</updated>
     </entry>
 </feed>
