@@ -66,7 +66,7 @@
   <nav>
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
-    <a href="http://alexeypegov.com">Фотографирую</a>
+    <a href="/2022-09-24-my-position.html">ВОЙНА</a>
   </nav>
 </header>
 <main>
