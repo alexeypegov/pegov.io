@@ -4,7 +4,19 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-12-11T00:00:00+03:00</updated>
+  <updated>2022-12-22T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Автопортрет, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-22-selfportrait.html" />
+      <id>urn:uuid:99ba4a16-0cc3-3b6a-86df-f3a4671300e6</id>
+      <updated>2022-12-22T00:00:00+03:00</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Как мы искали Европу, а нашли войну]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-22-arkadiy-ostrovskiy.html" />
+      <id>urn:uuid:f941afa9-d105-31c8-a268-13f2a33ba117</id>
+      <updated>2022-12-22T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Память и тело в семейных фотографиях XX века (С. Адоньева)]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-11-pamyat-i-telo.html" />
@@ -52,17 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-10-10-headache.html" />
       <id>urn:uuid:58ca14f0-7bec-3ce1-989e-f1d45cf1d641</id>
       <updated>2022-10-10T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Моя позиция]]></title>
-      <link href="https://fm.alexeypegov.com/2022-09-24-my-position.html" />
-      <id>urn:uuid:2f88a40d-c95a-3d1a-b1e8-d4e5347312b5</id>
-      <updated>2022-09-24T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Про российский спорт]]></title>
-      <link href="https://fm.alexeypegov.com/2022-08-28-russian-sport.html" />
-      <id>urn:uuid:154a898f-0e55-30ec-86e2-5ce7e0064509</id>
-      <updated>2022-08-28T00:00:00+03:00</updated>
     </entry>
 </feed>
