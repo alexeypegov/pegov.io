@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-12-22T00:00:00+03:00</updated>
+  <updated>2022-12-23T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Буча]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-23-bucha.html" />
+      <id>urn:uuid:a0ddc638-358d-3ac1-bf1c-1e20c3b3fb71</id>
+      <updated>2022-12-23T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/IrGZ66uKcl0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations"></iframe></div></p>
+<p>The New York Times провели свое расследование убийств в Буче, и смогли идентифицировать российских военных, причастных к этим зверствам.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Автопортрет, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-22-selfportrait.html" />
@@ -184,29 +201,6 @@
 <p>По имеющимся сведениям, нелегальная добыча и сбыт бадахшанского лазурита является вторым по величине источником дохода движения Талибан, а также причиной коррупции правительственных структур Афганистана.</p>
 </blockquote>
 <p>Так что, похоже, я теперь еще и спонсор Талибана.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Кружится голова]]></title>
-      <link href="https://fm.alexeypegov.com/2022-10-10-headache.html" />
-      <id>urn:uuid:58ca14f0-7bec-3ce1-989e-f1d45cf1d641</id>
-      <updated>2022-10-10T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>Очень сложно себя ассоциировать с тем, что происходит. Невозможно себя с этим ассоциировать.</p>
-<p>Каждый день как сон. Как кошмар.</p>
-<p>И очень сложно себя деассоциировать со страной, в которой прожил 42 года, в которой живет твой сын, твой брат, твой отец.</p>
-<p>Это какой-то замкнутый круг, западня из которой не убежать.</p>
-<p>Блядская западня.</p>
-<p>Блядский сон.</p>
-<p>Блядская ложь.</p>
-<p>Блядская ужасная ложь, от которой кружится голова...</p>
 
 	]]>
       </content>

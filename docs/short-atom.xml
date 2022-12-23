@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-12-22T00:00:00+03:00</updated>
+  <updated>2022-12-23T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Буча]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-23-bucha.html" />
+      <id>urn:uuid:a0ddc638-358d-3ac1-bf1c-1e20c3b3fb71</id>
+      <updated>2022-12-23T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Автопортрет, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-22-selfportrait.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-10-11-talibhan.html" />
       <id>urn:uuid:32c3c694-90bf-3916-abea-0d45074e0801</id>
       <updated>2022-10-11T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Кружится голова]]></title>
-      <link href="https://fm.alexeypegov.com/2022-10-10-headache.html" />
-      <id>urn:uuid:58ca14f0-7bec-3ce1-989e-f1d45cf1d641</id>
-      <updated>2022-10-10T00:00:00+03:00</updated>
     </entry>
 </feed>
