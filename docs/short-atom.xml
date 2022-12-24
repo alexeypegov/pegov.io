@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-12-23T00:00:00+03:00</updated>
+  <updated>2022-12-24T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[The fragment of a dead tree, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2022-12-24-dead-tree.html" />
+      <id>urn:uuid:fc6579c5-ced7-3543-bc66-c11b120c1a53</id>
+      <updated>2022-12-24T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Буча]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-23-bucha.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-11-01-olive-kitteridge.html" />
       <id>urn:uuid:af59f3a9-c914-3331-a884-226172356551</id>
       <updated>2022-11-01T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Спонсор Талибана]]></title>
-      <link href="https://fm.alexeypegov.com/2022-10-11-talibhan.html" />
-      <id>urn:uuid:32c3c694-90bf-3916-abea-0d45074e0801</id>
-      <updated>2022-10-11T00:00:00+03:00</updated>
     </entry>
 </feed>
