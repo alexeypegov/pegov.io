@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2022-12-24T00:00:00+03:00</updated>
+  <updated>2023-01-04T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Мысли Захара]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-04-zakhary-thoughts.html" />
+      <id>urn:uuid:4a676ba5-83e6-3312-b962-5cf4caf295a7</id>
+      <updated>2023-01-04T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[The fragment of a dead tree, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-24-dead-tree.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-11-09-arkhipelag-gulag.html" />
       <id>urn:uuid:f978bbf4-2423-3c20-b341-5d00db78d4b2</id>
       <updated>2022-11-09T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Olive Kitteridge (2014)]]></title>
-      <link href="https://fm.alexeypegov.com/2022-11-01-olive-kitteridge.html" />
-      <id>urn:uuid:af59f3a9-c914-3331-a884-226172356551</id>
-      <updated>2022-11-01T00:00:00+03:00</updated>
     </entry>
 </feed>
