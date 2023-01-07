@@ -6,6 +6,12 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2023-01-07T00:00:00+03:00</updated>
     <entry>
+      <title><![CDATA[Сандармох, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
+      <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
+      <updated>2023-01-07T00:00:00+03:00</updated>
+    </entry>
+    <entry>
       <title><![CDATA[Колмановский, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
       <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-12-02-kl-visa-run.html" />
       <id>urn:uuid:840dfaa8-958f-3604-b54f-8d8c50d4d061</id>
       <updated>2022-12-02T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Мы очень больное общество]]></title>
-      <link href="https://fm.alexeypegov.com/2022-11-29-mi-o4en-bolnoe-obschestvo.html" />
-      <id>urn:uuid:64fbfb44-8112-3911-97cb-7b5774aaac3d</id>
-      <updated>2022-11-29T00:00:00+03:00</updated>
     </entry>
 </feed>

@@ -6,6 +6,24 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2023-01-07T00:00:00+03:00</updated>
     <entry>
+      <title><![CDATA[Сандармох, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
+      <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
+      <updated>2023-01-07T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/sandarmokh-2022@2x.jpg" alt="Сандармох, 2022" loading="lazy" width="50%" /></p>
+<p>В <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BC%D0%BE%D1%85">урочище Сандармох</a> в 1937-1938 годах был тайно убит и захоронен 6241 человек.</p>
+<p>Я побывал в этом месте в августе 2022 года.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[Колмановский, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
       <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
@@ -158,23 +176,6 @@
 <p><img src="https://fm.alexeypegov.com/images/kl-2.jpg" alt="Tower" /></p>
 <p><img src="https://fm.alexeypegov.com/images/kl-3.jpg" alt="Zakhary hug" /></p>
 <p><img src="https://fm.alexeypegov.com/images/kl-4.jpg" alt="Petronas" /></p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Мы очень больное общество]]></title>
-      <link href="https://fm.alexeypegov.com/2022-11-29-mi-o4en-bolnoe-obschestvo.html" />
-      <id>urn:uuid:64fbfb44-8112-3911-97cb-7b5774aaac3d</id>
-      <updated>2022-11-29T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/hjh7j6kPYFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Наталья Зубаревич: «Легли на дно и полёживаем» // «Скажи Гордеевой»"></iframe></div></p>
-<p>Хорошее интервью Натальи Зубаревич.</p>
 
 	]]>
       </content>
