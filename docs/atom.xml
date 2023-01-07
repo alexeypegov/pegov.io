@@ -4,7 +4,29 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-06T00:00:00+03:00</updated>
+  <updated>2023-01-07T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Колмановский, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
+      <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
+      <updated>2023-01-07T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/kFmJ_4tOvm8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Илья Колмановский об антибиотике из генов неандертальцев, &quot;эталон&quot; слона и &quot;автостоп&quot; у тихоходок"></iframe></div></p>
+<p>Финализируют цитатой из нобелевской речи Сахарова:</p>
+<blockquote>
+<p>Глубокоуважаемые дамы и господа!</p>
+<p>Мир, прогресс, права человека - эти три цели неразрывно связаны, нельзя достигнуть какой-либо одной из них, пренебрегая другими...</p>
+<p>Я убежден также, что свобода убеждений, наряду с другими гражданскими свободами, является основой научно-технического прогресса и гарантией от использования его достижений во вред человечеству.</p>
+</blockquote>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Abandoned car, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-06-abandoned-car.html" />
@@ -13,7 +35,7 @@
       <content type="html">
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/abandoned-car@2x.jpg" alt="Abandoned car" loading="lazy" width="50%" /></p>
-<p>В Тайланде природа отбирает свое назад очень быстро.</p>
+<p>В Тайланде природа забирает свое назад очень быстро.</p>
 
 	]]>
       </content>
@@ -153,23 +175,6 @@
 	<![CDATA[
         <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/hjh7j6kPYFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Наталья Зубаревич: «Легли на дно и полёживаем» // «Скажи Гордеевой»"></iframe></div></p>
 <p>Хорошее интервью Натальи Зубаревич.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Пропаганда]]></title>
-      <link href="https://fm.alexeypegov.com/2022-11-23-propaganda.html" />
-      <id>urn:uuid:bf85e481-eb83-3d23-b8ec-2eda0e6ea4d5</id>
-      <updated>2022-11-23T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/iVjKbWOyUTM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="«Удары возмездия» по Украине, ракета в Польше, Пригожин и кувалда"></iframe></div></p>
-<p>Не перестаю удивляться, как вообще можно воспринимать что-то, сказанное в такой злобной и агрессивной манере? Что за люди все это говорят, и что за люди, которые все это слушают?</p>
 
 	]]>
       </content>
