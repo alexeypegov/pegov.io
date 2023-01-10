@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-07T00:00:00+03:00</updated>
+  <updated>2023-01-10T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Захар, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-10-zakhars-autoportrait.html" />
+      <id>urn:uuid:169c0933-b8a7-3fae-b3a2-afa20c33dc83</id>
+      <updated>2023-01-10T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Сандармох, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2022-12-11-pamyat-i-telo.html" />
       <id>urn:uuid:0f9ac6d2-d7b1-3c4e-b179-47109ca76c6b</id>
       <updated>2022-12-11T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Kuala Lumpur]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-02-kl-visa-run.html" />
-      <id>urn:uuid:840dfaa8-958f-3604-b54f-8d8c50d4d061</id>
-      <updated>2022-12-02T00:00:00+03:00</updated>
     </entry>
 </feed>
