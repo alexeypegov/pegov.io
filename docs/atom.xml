@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-10T00:00:00+03:00</updated>
+  <updated>2023-01-14T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Отец, 2020]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-14-father.html" />
+      <id>urn:uuid:a840d86d-4b8d-30be-ba5e-fde9d57d0998</id>
+      <updated>2023-01-14T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/father-2020@2x.jpg" alt="Отец, 2020" loading="lazy" width="50%" /></p>
+<p>Отцу сегодня 85.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Захар, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-10-zakhars-autoportrait.html" />
@@ -13,7 +30,7 @@
       <content type="html">
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/zakhars-selfportrait@2x.jpg" alt="Автопортрет Захара" loading="lazy" width="50%" /></p>
-<p>Пока мы жили в Невшехире, я снял несколько своих автопортретов, а Захар, увидев это, решил снять себя. Только самостоятельно сжать грушу у него не получилось, так что пришлось помочь)</p>
+<p>Пока мы жили в Невшехире, я снял несколько своих автопортретов, а Захар, увидев это, решил снять себя. Только самостоятельно сжать грушу у него не получилось, так что пришлось помочь.</p>
 
 	]]>
       </content>
@@ -156,23 +173,6 @@
 	<![CDATA[
         <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/GbIrByTHZVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Как мы искали Европу, а нашли войну: фашистский шабаш, нерв русской культуры и Донбасс 8 лет назад"></iframe></div></p>
 <p>Хорошее интервью Аркадия Островского в Русских норм.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Память и тело в семейных фотографиях XX века (С. Адоньева)]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-11-pamyat-i-telo.html" />
-      <id>urn:uuid:0f9ac6d2-d7b1-3c4e-b179-47109ca76c6b</id>
-      <updated>2022-12-11T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/3fg8yXjz6mo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Память и тело в семейных фотографиях ХХ века (C. Адоньева)"></iframe></div></p>
-<p>Шикарные истории и снимки!</p>
 
 	]]>
       </content>
