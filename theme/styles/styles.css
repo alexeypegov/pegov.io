@@ -6,13 +6,14 @@
   --base-font-size: 18px;
   --font-weight: 400;
 
-  --blog-title-font-size: 3.052em;
-  --menu-font-size: 1.25em;
-  --note-title-text-size: 1.563em;
-  --note-subtitle-text-size: 1em;
-  --note-details-text-size: 1em;
-  --pre-font-size: 1em;
-  --footer-font-size: .8em;
+  --blog-title-font-size: 3.052rem;
+  --menu-font-size: 1.25rem;
+  --note-title-text-size: 1.563rem;
+  --note-subtitle-text-size: 1rem;
+  --note-details-text-size: 1rem;
+  --pre-font-size: 1rem;
+  --quote-font-size: 1.25rem;
+  --footer-font-size: .8rem;
 }
 
 @media (max-width: 1099px) {
@@ -22,13 +23,13 @@
     --base-font-size: 18px;
     /*--font-weight: 500;*/
 
-    --blog-title-font-size: 1.383em;
-    --menu-font-size: 1em;
-    --note-title-text-size: 1.067em;
-    --note-subtitle-text-size: 1em;
-    --note-details-text-size: 1em;
-    --pre-font-size: 1em;
-    --footer-font-size: 1em;
+    --blog-title-font-size: 1.383rem;
+    --menu-font-size: 1rem;
+    --note-title-text-size: 1.067rem;
+    --note-subtitle-text-size: 1rem;
+    --note-details-text-size: 1rem;
+    --pre-font-size: 1rem;
+    --footer-font-size: 1rem;
   }
 }
 
@@ -218,6 +219,7 @@ blockquote {
   padding-left: 1em;
   border-left: 2px solid var(--blockquote-border-color);
   color: var(--blockquote-text-color);
+  font-size: var(--quote-font-size);
 }
 
 pre {
