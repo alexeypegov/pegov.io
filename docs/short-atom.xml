@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-14T00:00:00+03:00</updated>
+  <updated>2023-01-19T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Голод]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-19-golod.html" />
+      <id>urn:uuid:15c8c6ba-b6bf-37e3-a777-bbf5f827e385</id>
+      <updated>2023-01-19T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Отец, 2020]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-14-father.html" />
@@ -57,12 +63,6 @@
       <title><![CDATA[Автопортрет, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2022-12-22-selfportrait.html" />
       <id>urn:uuid:99ba4a16-0cc3-3b6a-86df-f3a4671300e6</id>
-      <updated>2022-12-22T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Как мы искали Европу, а нашли войну]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-22-arkadiy-ostrovskiy.html" />
-      <id>urn:uuid:f941afa9-d105-31c8-a268-13f2a33ba117</id>
       <updated>2022-12-22T00:00:00+03:00</updated>
     </entry>
 </feed>

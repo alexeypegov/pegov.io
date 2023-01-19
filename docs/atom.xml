@@ -4,7 +4,28 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-14T00:00:00+03:00</updated>
+  <updated>2023-01-19T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Голод]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-19-golod.html" />
+      <id>urn:uuid:15c8c6ba-b6bf-37e3-a777-bbf5f827e385</id>
+      <updated>2023-01-19T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/rXi3kBXMWo8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Голод | Фильм Максима Курникова, Александра Архангельского, Татьяны Сорокиной"></iframe></div></p>
+<blockquote>
+<p>Обращение за помощью было отправлено всем, и многие люди из этой страны, и других стран, ответили на зов о помощи и были очень щедры. Но многие другие хотели узнать, кто виноват — засуха или политическая система? Чем же эти вопросы могут смягчить ужасные страдания? Какой смысл они имеют для тех, кто умирает от голода?</p>
+<p>Все политики мира, за исключением Соединенных Штатов, пытались найти предлог, для того, чтобы ничего не предпринимать и обвиняли во всем самих русских.</p>
+<p>Говорю вам: в мире что-то сгнило, но еще есть возможность это исправить. — Фритьоф Нансен</p>
+</blockquote>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Отец, 2020]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-14-father.html" />
@@ -156,23 +177,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/selfportrait-nevshehir@2x.jpg" alt="Автопортрет, Невшехир, 2022" loading="lazy" width="50%" /></p>
 <p>Снимок сделан ляйкой, а потом напечатан на бумаге для Instax'а</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Как мы искали Европу, а нашли войну]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-22-arkadiy-ostrovskiy.html" />
-      <id>urn:uuid:f941afa9-d105-31c8-a268-13f2a33ba117</id>
-      <updated>2022-12-22T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/GbIrByTHZVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Как мы искали Европу, а нашли войну: фашистский шабаш, нерв русской культуры и Донбасс 8 лет назад"></iframe></div></p>
-<p>Хорошее интервью Аркадия Островского в Русских норм.</p>
 
 	]]>
       </content>
