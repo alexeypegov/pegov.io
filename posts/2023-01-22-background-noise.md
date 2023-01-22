@@ -13,7 +13,7 @@ Summary: Неизвестная фича айфона
 
 Спрятано это все в **Settings &rarr; Accessibility &rarr; Audio/Visual &rarr; Background Sounds**.
 
-Я по этому поводу запилил шорткат, который умеет включать этот шум на указанное время:
+Я по этому поводу запилил [шорткат](https://support.apple.com/ru-ru/guide/shortcuts/welcome/ios), который умеет включать этот шум на указанное время:
 
 ![Шорткат](images/iphone-noise-2@2x.jpg)
 
