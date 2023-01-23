@@ -15,10 +15,8 @@
         <p>Оказалось, что уже несколько версий iOS умеет генерить разный фоновый шум:</p>
 <p><img src="https://fm.alexeypegov.com/images/iphone-noise-1.jpg" alt="Виды шумов" loading="lazy" srcset="https://fm.alexeypegov.com/images/iphone-noise-1@2x.jpg 2x" /></p>
 <p>Спрятано это все в <strong>Settings → Accessibility → Audio/Visual → Background Sounds</strong>.</p>
-<p>Я по этому поводу запилил <a href="https://support.apple.com/ru-ru/guide/shortcuts/welcome/ios">шорткат</a>, который умеет включать этот шум на указанное время:</p>
-<p><img src="https://fm.alexeypegov.com/images/iphone-noise-2.jpg" alt="Шорткат" loading="lazy" srcset="https://fm.alexeypegov.com/images/iphone-noise-2@2x.jpg 2x" /></p>
+<p>Я по этому поводу запилил <a href="https://www.icloud.com/shortcuts/9e6533272b5242a7ae0680bf3a1b7469">шорткат</a>, который умеет включать этот шум на указанное время (про &quot;шорткаты&quot; или &quot;команды&quot; можно прочитать <a href="https://support.apple.com/ru-ru/guide/shortcuts/welcome/ios">тут</a>).</p>
 <p>Включаю его перед сном или когда хочу чтобы ничего не отвлекало.</p>
-<p>Вот он <a href="https://www.icloud.com/shortcuts/9e6533272b5242a7ae0680bf3a1b7469">файликом</a>.</p>
 <p>Заодно выяснилось, что шорткаты в iOS не идеальны)</p>
 
 	]]>
