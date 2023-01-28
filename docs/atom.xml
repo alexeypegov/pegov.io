@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-22T00:00:00+03:00</updated>
+  <updated>2023-01-28T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Захар, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
+      <id>urn:uuid:6dfe9dcf-3ef8-308c-85ed-fcad451e6c0a</id>
+      <updated>2023-01-28T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/zakhar-2022.jpg" alt="Захар, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakhar-2022@2x.jpg 2x" /></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Фоновый шум]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-22-background-noise.html" />
@@ -164,23 +180,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/dead-tree.jpg" alt="The Fragment of a dead tree" loading="lazy" srcset="https://fm.alexeypegov.com/images/dead-tree@2x.jpg 2x" /></p>
 <p>Продолжаю эксперименты с форматом. Снимаю на Ляйку, проявляю, сканирую и печатаю на бумаге Instax.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Буча]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-23-bucha.html" />
-      <id>urn:uuid:a0ddc638-358d-3ac1-bf1c-1e20c3b3fb71</id>
-      <updated>2022-12-23T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/IrGZ66uKcl0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Exposing the Russian Military Unit Behind a Massacre in Bucha | Visual Investigations"></iframe></div></p>
-<p>The New York Times провели свое расследование убийств в Буче, и смогли идентифицировать российских военных, причастных к этим зверствам.</p>
 
 	]]>
       </content>
