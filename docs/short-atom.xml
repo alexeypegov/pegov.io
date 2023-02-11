@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-28T00:00:00+03:00</updated>
+  <updated>2023-02-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Nils Frahm - Music For Animals (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-11-music-for-animals.html" />
+      <id>urn:uuid:ae4f2e8d-9686-3267-af30-dd032d82904d</id>
+      <updated>2023-02-11T00:00:00+03:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Захар, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-01-04-zakhary-thoughts.html" />
       <id>urn:uuid:4a676ba5-83e6-3312-b962-5cf4caf295a7</id>
       <updated>2023-01-04T00:00:00+03:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[The fragment of a dead tree, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-24-dead-tree.html" />
-      <id>urn:uuid:fc6579c5-ced7-3543-bc66-c11b120c1a53</id>
-      <updated>2022-12-24T00:00:00+03:00</updated>
     </entry>
 </feed>

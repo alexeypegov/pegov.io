@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-01-28T00:00:00+03:00</updated>
+  <updated>2023-02-11T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Nils Frahm - Music For Animals (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-11-music-for-animals.html" />
+      <id>urn:uuid:ae4f2e8d-9686-3267-af30-dd032d82904d</id>
+      <updated>2023-02-11T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/music-for-animals.webp" alt="Cover" loading="lazy" srcset="https://fm.alexeypegov.com/images/music-for-animals@2x.webp 2x" /></p>
+<p>Кайфовый <a href="https://www.nilsfrahm.com/works/music-for-animals/">альбом</a>!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Захар, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
@@ -163,23 +180,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/zakharuy_thoughts_2023.jpg" alt="Мысли Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakharuy_thoughts_2023@2x.jpg 2x" /></p>
 <p>Несмотря на то, что они выглядят, как список задач, это все же его &quot;мысли&quot;)</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[The fragment of a dead tree, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2022-12-24-dead-tree.html" />
-      <id>urn:uuid:fc6579c5-ced7-3543-bc66-c11b120c1a53</id>
-      <updated>2022-12-24T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/dead-tree.jpg" alt="The Fragment of a dead tree" loading="lazy" srcset="https://fm.alexeypegov.com/images/dead-tree@2x.jpg 2x" /></p>
-<p>Продолжаю эксперименты с форматом. Снимаю на Ляйку, проявляю, сканирую и печатаю на бумаге Instax.</p>
 
 	]]>
       </content>
