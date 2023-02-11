@@ -1,7 +1,8 @@
 <#include "header.ftl">
 <article>
-  <h1>${title}</h1>
-  ${body}
+  <section>
+    ${body}
+  </section>
   <#if updated?exists>
   <p>
   Обновлено: ${updated}

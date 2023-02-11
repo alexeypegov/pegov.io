@@ -9,9 +9,9 @@
   <h1><a href="${slug}.html">${title}</a></h1>
   <div class="sub byline">
     <time class="date" datetime="${rfc_3339}">${date}</time>
-    <div class="tags">
-      <span class="tag">${tags?join("</span>,<span class=\"tag\">")}</span>
-    </div>
+    <#-- <div class="tags"> -->
+      <#-- <span class="tag">${tags?join("</span>,<span class=\"tag\">")}</span> -->
+    <#-- </div> -->
   </div>
   <section>
   ${body}

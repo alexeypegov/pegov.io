@@ -4,13 +4,15 @@ Cover: images/selfie.jpg
 Summary: Несколько слов об этом сайте
 ---
 
-![](images/selfie.jpg)
+Это автор сайта (образца 2022 года):
 
-Это я. Меня зовут Алексей и это мой личный блог. Больше десяти лет я нерегулярно пишу здесь о том, что со мной происходит, что меня волнует и интересует.
+![Selfie](images/selfie@2x.jpg)
 
-Записи транслируются в [RSS-поток][rss] и канал в [Telegram][tg].
+Записи транслируются в [RSS-поток][rss] и [тележку][tg].
 
-Связаться со мной лично можно через почту iam[at]alexeypegov.com или в телеге @alexeypegov.
+Связаться со мной лично можно через почту iam[at]alexeypegov.com, телегу [@alexeypegov][tm] или [mastodon][mastodon]
 
 [rss]: https://feeds.feedburner.com/false-movement
 [tg]: https://t.me/falsemovement
+[tm]: https://t.me/alexeypegov
+[mastodon]: https://toot.community/@alexeypegov
