@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-11T00:00:00+03:00</updated>
+  <updated>2023-02-12T00:00:00+03:00</updated>
+    <entry>
+      <title><![CDATA[Даркрум]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
+      <id>urn:uuid:8ddb0602-c739-3c43-839a-571a0fc6ca9a</id>
+      <updated>2023-02-12T00:00:00+03:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>А вот такой у меня <em>был</em> даркрум в Питере:</p>
+<p><img src="https://fm.alexeypegov.com/images/my-darkroom.jpg" alt="Даркрум" loading="lazy" srcset="https://fm.alexeypegov.com/images/my-darkroom@2x.jpg 2x" /></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Nils Frahm - Music For Animals (2022)]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-11-music-for-animals.html" />
@@ -163,23 +180,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/abandoned-car.jpg" alt="Abandoned car" loading="lazy" srcset="https://fm.alexeypegov.com/images/abandoned-car@2x.jpg 2x" /></p>
 <p>В Тайланде природа забирает свое назад очень быстро.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Мысли Захара]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-04-zakhary-thoughts.html" />
-      <id>urn:uuid:4a676ba5-83e6-3312-b962-5cf4caf295a7</id>
-      <updated>2023-01-04T00:00:00+03:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/zakharuy_thoughts_2023.jpg" alt="Мысли Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakharuy_thoughts_2023@2x.jpg 2x" /></p>
-<p>Несмотря на то, что они выглядят, как список задач, это все же его &quot;мысли&quot;)</p>
 
 	]]>
       </content>
