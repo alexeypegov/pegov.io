@@ -1,14 +1,18 @@
+<#setting locale="ru_RU">
+<#setting date_format="dd MMMM yyyy">
+
 <#assign title=(note.title)!title>
 <#assign slug=(note.slug)!slug>
-<#assign rfc_3339=(note.rfc_3339)!rfc_3339>
 <#assign tags=(note.tags)!tags>
 <#assign body=(note.body)!body>
-<#assign date=(note.date)!date>
+<#assign created_at=((note.created_at)!created_at)>
+  
+<#assign datetime=created_at?datetime(vars.datetime_format)>
 
 <article>
   <h1><a href="${slug}.html">${title}</a></h1>
   <div class="sub byline">
-    <time class="date" datetime="${rfc_3339}">${date}</time>
+    <time class="date" datetime="${created_at}">${datetime?date}</time>
     <#-- <div class="tags"> -->
       <#-- <span class="tag">${tags?join("</span>,<span class=\"tag\">")}</span> -->
     <#-- </div> -->

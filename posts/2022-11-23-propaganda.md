@@ -1,6 +1,7 @@
 ---
 Title: Пропаганда
 Date: 2022-11-23
+Tz: Asia/Bangkok
 Tags:
   - нашараша
   - война

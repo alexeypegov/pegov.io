@@ -1,6 +1,7 @@
 ---
 Title: Abandoned car, 2022
 Date: 2023-01-06
+Tz: Asia/Bangkok
 Tags:
   - фотографирую
 ---

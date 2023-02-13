@@ -1,6 +1,7 @@
 ---
 Title: Мысли Захара
 Date: 2023-01-04
+Tz: Asia/Bangkok
 Tags:
   - захар
 Summary: Некоторые мысли Захара

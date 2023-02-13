@@ -1,6 +1,7 @@
 ---
 Title: Захар, 2022
 Date: 2023-01-10
+Tz: Asia/Bangkok
 Tags:
   - снимаю
 ---

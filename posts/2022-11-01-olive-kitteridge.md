@@ -1,6 +1,7 @@
 ---
 Title: Olive Kitteridge (2014)
 Date: 2022-11-01
+Tz: Asia/Bangkok
 Tags:
   - саптрю
 Cover: /images/olive_kitteridge.jpg

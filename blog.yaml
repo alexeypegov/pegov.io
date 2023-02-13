@@ -21,7 +21,7 @@ general:
 vars:
   blog-title: Ложное движение
   blog-url: https://fm.alexeypegov.com
-  feed-url: https://feeds.feedburner.com/false-movement
+  feed-url: https://feed.alexeypegov.com
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
   description: 'Личный блог Алексея Пегова'

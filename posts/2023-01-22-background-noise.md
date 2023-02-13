@@ -1,6 +1,7 @@
 ---
 Title: Фоновый шум
 Date: 2023-01-22
+Tz: Asia/Bangkok
 Tags:
   - ios
   - шум
