@@ -277,22 +277,34 @@ pre {
   height: 100%;
 }
 
-ul {
+ul, ol {
   list-style: none;
+  margin-top: 1em;
+}
+
+li {
+  margin-top: .5em;
 }
 
 ul > li:before {
 /*  content: "\00B7";*/
   content: "\2022";
+  
   display: block;
   position: absolute;
   margin-left: -1em;
 }
 
+ol > li {
+  counter-increment: item;
+}
+
 ol > li:before {
+  content: counter(item) ".";
+
   display: block;
   position: absolute;
-  margin-left: -1em;
+  margin-left: -1.2em;
 }
 
 article img {
@@ -338,6 +350,10 @@ footer {
 
   ul > li {
     padding-left: 1em;
+  }
+
+  ol > li {
+    padding-left: 1.2em;
   }
 
   blockquote {
