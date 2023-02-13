@@ -3,6 +3,8 @@
 :root {
   /* size factor: 1.250 */
 
+  --base-size: 16px;
+
   --h1-size: 3.052rem;
   --h2-size: 2.441rem;
   --h3-size: 1.953rem;
@@ -16,6 +18,8 @@
 @media (max-width: 1099px) {
   :root {
     /* size factor: 1.067 */
+
+    --base-size: 18px;
 
     --h1-size: 1.383rem;
     --h2-size: 1.296rem;
@@ -93,13 +97,13 @@
 }
 
 html {
-  font-size: 100%; /* 16px */
+  font-size: var(--base-size); /* 16px */
 }
 
 body {
   font-family: var(--font-family);
 
-  font-weight: 400;
+  font-weight: var(--font-weight);
   line-height: 1.43;
 
   font-display: fallback;
@@ -110,7 +114,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
-  font-weight: 400;
   margin: 1rem 0 0;
   color: var(--title-color);
 }
