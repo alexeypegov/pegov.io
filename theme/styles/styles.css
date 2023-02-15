@@ -43,6 +43,7 @@
 
   --link-color: #33c;
   --link-decoration-color: #bbf;
+  --external-link-svg: transparent url(external-33c.svg) no-repeat 100% 70%;
 
   --note-title-decoration-color: #ddd;
   --note-details-color: #999;
@@ -67,6 +68,8 @@
 
     --link-color: #358CDB;
     --link-decoration-color: #32556B;
+    --external-link-svg: transparent url(external-358cdb.svg) no-repeat 100% 70%;
+
 
     --note-title-decoration-color: #444;
     --note-details-color: #666;
@@ -153,8 +156,8 @@ a:hover {
 }
 
 a[href ^= 'http']:not([href *= 'fm.alexeypegov.']) {
-    background: transparent url(external.svg) no-repeat 100% 70%;
-    padding-right: 17px;
+    background: var(--external-link-svg);
+    padding-right: 18px;
 }
 
 hr {
