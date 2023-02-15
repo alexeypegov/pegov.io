@@ -1,18 +1,14 @@
 <#include "header.ftl">
-<#list items as note>
+  <#list items as note>
   <#include "note_body.ftl">
 </#list>
 <nav class="paging">
 <#if prev_page?exists>
-<a id="prev" href="${prev_page}">позднее</a>
-<#else>
-<a nohref>позднее</a>
+<a id="prev" href="${prev_page}">назад</a>
 </#if>
-&#151;
+<#if prev_page?exists && next_page?exists>&#151;</#if>
 <#if next_page?exists>
-<a id="next" href="${next_page}">ранее</a>
-<#else>
-<a id="next" nohref>ранее</a>
+<a id="next" href="${next_page}">вперед</a>
 </#if>
 </nav>
 <script src="js/pure-swipe.min.js"></script>
