@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Literata:wght@400&display=swap');
 
 :root {
-  /* size factor: 1.250 */
+  /* size factor: 1.200 */
 
-  --base-size: 16px;
+  --base-size: 18px;
 
-  --h1-size: 3.052rem;
-  --h2-size: 2.441rem;
-  --h3-size: 1.953rem;
-  --h4-size: 1.563rem;
-  --h5-size: 1.25rem;
+  --h1-size: 2.448rem;
+  --h2-size: 2.074rem;
+  --h3-size: 1.728rem;
+  --h4-size: 1.44rem;
+  --h5-size: 1.2rem;
   --h6-size: 1rem;
 
-  --small-size: .8rem;
+  --small-size: .833rem;
 }
 
 @media (max-width: 1099px) {
@@ -26,7 +26,8 @@
     --h3-size: 1.215rem;
     --h4-size: 1.138rem;
     --h5-size: 1.067rem;
-    --h5-size: 1rem;
+    --h6-size: 1rem;
+
     --small-size: 0.937rem;
   }
 }
@@ -265,7 +266,7 @@ blockquote {
   padding-left: 1em;
   border-left: 2px solid var(--blockquote-border-color);
   color: var(--blockquote-text-color);
-  font-size: var(--h5-size);
+  font-size: var(--h6-size);
 }
 
 pre {
