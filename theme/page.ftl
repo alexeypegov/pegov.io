@@ -1,8 +1,8 @@
 <#include "header.ftl">
 <article>
-  <section>
+  <div itemprop="articleBody" class="text">
     ${body}
-  </section>
+  </div>
   <#if updated?exists>
   <p>
   Обновлено: ${updated}

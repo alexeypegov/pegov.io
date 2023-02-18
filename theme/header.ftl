@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
+  <head itemscope itemtype="http://schema.org/WebSite">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <#if title??>
     <title>${title} - ${vars.blog_title}</title>
@@ -20,12 +20,11 @@
     <link rel="next" id="link-later" href="${later}">
     </#if>
     <meta name="robots" content="index, follow">
-    <meta name="yandex-verification" content="289843372f0ccc45">
 
     <!-- meta -->
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ru_RU">
-    <meta property="og:site_name" content="${vars.blog_title}">
+    <meta itemprop="name" property="og:site_name" content="${vars.blog_title}">
     <meta name="keywords" content="${vars.keywords}">
     <#assign summary=summary!vars.description>
     <meta name="description" content="${summary}">
@@ -57,12 +56,12 @@
     <link rel="stylesheet" type="text/css" href="styles/styles.css">
   </head>
 <body>
-<header>
+<header itemscope itemtype="https://schema.org/WPHeader">
   <h1><a href="/">Ложное движение</a></h1>
-  <nav>
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement" role="navigation">
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
     <a href="/2022-09-24-my-position.html">ВОЙНА</a>
   </nav>
 </header>
-<main>
+<main itemscope itemtype="https://schema.org/Blog">

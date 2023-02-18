@@ -9,15 +9,15 @@
   
 <#assign datetime=created_at?datetime(vars.datetime_format)>
 
-<article>
-  <h2><a href="${slug}.html">${title}</a></h2>
+<article itemProp="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <h2 itemprop="headline"><a href="${slug}.html">${title}</a></h2>
   <div class="sub byline">
-    <time class="date" datetime="${created_at}">${datetime?date}</time>
+    <time itemprop="datePublished" class="date" datetime="${created_at}">${datetime?date}</time>
     <#-- <div class="tags"> -->
       <#-- <span class="tag">${tags?join("</span>,<span class=\"tag\">")}</span> -->
     <#-- </div> -->
   </div>
-  <div class="text">
+  <div itemprop="articleBody" class="text">
   ${body}
   </div>
 </article>
