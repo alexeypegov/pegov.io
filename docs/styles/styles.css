@@ -55,7 +55,7 @@
   --blockquote-text-color: #777;
   --pre-background-color: #eee;
 
-  --note-width: 1000px;
+  --note-width: 66%;
 
   --paging-text-color: #777;
 }
@@ -81,7 +81,7 @@
   }
 }
 
-@media (max-width: 1099px) {
+@media (max-width: 899px) {
   :root {
     --link-decoration-color: #33c;
     --note-title-decoration-color: #444;
@@ -156,19 +156,19 @@ a:hover {
 }
 
 a[href ^= 'http']:not([href *= 'fm.alexeypegov.']) {
-    background: var(--external-link-svg);
-    padding-right: 18px;
+  background: var(--external-link-svg);
+  padding-right: 18px;
 }
 
 hr {
-    margin: 1em 0;
-    border: 0;
-    border-bottom: 1px dashed var(--text-color);
-    background: transparent;
+  margin: 1rem 0;
+  border: 0;
+  border-bottom: 1px dashed var(--text-color);
+  background: transparent;
 }
 
 header {
-  margin: 4em 0em;
+  margin: 4rem 0rem;
   text-align: center;
 }
 
@@ -185,11 +185,11 @@ header > h1 > a[href] {
 header nav {
   font-family: var(--title-font-family);
   font-size: var(--h5-size);
-  padding-top: .5em;
+  padding-top: .5rem;
 }
 
 header nav a ~ a {
-  margin-left: 1em;
+  margin-left: 1rem;
 }
 
 main {
@@ -213,7 +213,7 @@ article > h2 {
 }
 
 article > h3 {
-  padding-top: 2em;
+  padding-top: 2rem;
   color: var(--subtitle-color);
 }
 
@@ -245,28 +245,30 @@ article .tags:before {
 }
 
 article .tag:not(:first-child) {
-  padding-left: .2em;
+  padding-left: .2rem;
 }
 
 article .media {
   position: relative;
+
+  width: 100%;
 
   height: 0;
   padding-bottom: 56.25%;
 }
 
 article > .text h1 {
-  padding-top: 1em;
+  padding-top: 1rem;
   color: var(--subtitle-color);
 }
 
 p, ul, pre, blockquote {
-  margin-top: 1em;
+  margin-top: 1rem;
 }
 
 blockquote {
-  margin: 1em;
-  padding-left: 1em;
+  margin: 1rem;
+  padding-left: 1rem;
   border-left: 2px solid var(--blockquote-border-color);
   color: var(--blockquote-text-color);
   font-size: var(--h6-size);
@@ -274,7 +276,7 @@ blockquote {
 
 pre {
   background-color: var(--pre-background-color);
-  padding: 1em;
+  padding: 1rem;
   border-radius: 5px;
   white-space: pre-wrap;
 }
@@ -289,20 +291,21 @@ pre {
 
 ul, ol {
   list-style: none;
-  margin-top: 1em;
+  margin-top: 1rem;
 }
 
 li {
-  margin-top: .5em;
+  margin-left: 2rem;
+  margin-top: .5rem;
 }
 
 ul > li:before {
 /*  content: "\00B7";*/
   content: "\2022";
-  
+
   display: block;
   position: absolute;
-  margin-left: -1em;
+  margin-left: -1rem;
 }
 
 ol > li {
@@ -314,12 +317,20 @@ ol > li:before {
 
   display: block;
   position: absolute;
-  margin-left: -1.2em;
+  margin-left: -1.2rem;
 }
 
 article img {
-  max-width: 1000px;
+  max-width: 80%;
 }
+
+/*
+article p:has(img) {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+*/
 
 nav.paging {
   padding: 2em 0;
@@ -347,7 +358,8 @@ footer {
   }
 
   article .media {
-    margin: 0 -1em 1em;
+    width: calc(100% + 2rem);
+    margin-left: -1rem;
   }
 
   article > h1 {
@@ -358,14 +370,6 @@ footer {
     margin-left: 0;
   }
 
-  ul > li {
-    padding-left: 1em;
-  }
-
-  ol > li {
-    padding-left: 1.2em;
-  }
-
   blockquote {
     margin: 1em 0;
   }
@@ -374,9 +378,13 @@ footer {
     margin: 0 !important;
   }
 
+  article p:has(img) {
+    display: flex;
+    justify-content: center;
+  }
+
   article img {
-    width: 100%;
-    width: calc(100% + 2em);
+    max-width: calc(100% + 2em);
     margin-left: -1em;
   }
 }
