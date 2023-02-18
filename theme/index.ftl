@@ -12,7 +12,7 @@
 </#if>
 </nav>
 <script src="js/pure-swipe.min.js"></script>
-<script type="text/javascript">
+<script>
   const f = function(id) {
     return function() {
       const anchor = document.getElementById(id);

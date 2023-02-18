@@ -34,8 +34,8 @@
 }
 
 :root {
-  --font-family:  "Literata", serif;
-  --title-font-family: 'Mulish', sans-serif;;
+  --font-family:  "Literata", Fallback, serif;
+  --title-font-family: 'Mulish', Fallback, sans-serif;;
 
   --text-color: #444;
   --title-color: #444;
@@ -109,11 +109,8 @@ html {
 body {
   font-family: var(--font-family);
 
-  font-weight: var(--font-weight);
   line-height: 1.43;
 
-  font-display: fallback;
-  
   background-color: var(--background-color);
   color: var(--text-color);
 }
@@ -209,7 +206,7 @@ article ~ article {
   margin-top: 3rem;
 }
 
-article > h1 {
+article > h2 {
   color: var(--title-color);
   font-size: var(--h4-size);
   font-family: var(--title-font-family);
@@ -220,12 +217,12 @@ article > h3 {
   color: var(--subtitle-color);
 }
 
-article > h1 > a[href] {
+article > h2 > a[href] {
   color: var(--title-color);
   text-decoration-color: var(--note-title-decoration-color);
 }
 
-article > h1 > a:hover {
+article > h2 > a:hover {
   text-decoration-color: var(--title-color);
 }
 
@@ -258,7 +255,7 @@ article .media {
   padding-bottom: 56.25%;
 }
 
-article > section h1 {
+article > .text h1 {
   padding-top: 1em;
   color: var(--subtitle-color);
 }

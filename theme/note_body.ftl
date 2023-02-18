@@ -10,14 +10,14 @@
 <#assign datetime=created_at?datetime(vars.datetime_format)>
 
 <article>
-  <h1><a href="${slug}.html">${title}</a></h1>
+  <h2><a href="${slug}.html">${title}</a></h2>
   <div class="sub byline">
     <time class="date" datetime="${created_at}">${datetime?date}</time>
     <#-- <div class="tags"> -->
       <#-- <span class="tag">${tags?join("</span>,<span class=\"tag\">")}</span> -->
     <#-- </div> -->
   </div>
-  <section>
+  <div class="text">
   ${body}
-  </section>
+  </div>
 </article>

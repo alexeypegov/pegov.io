@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta http-equiv="Content-Language" content="ru">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <#if title??>
     <title>${title} - ${vars.blog_title}</title>
     <#elseif ndx?exists && ndx gt 1>
@@ -11,30 +9,29 @@
     <#else>
     <title>${vars.blog_title}</title>
     </#if>
-    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
-    <link rel="index" id="link-index" href="${vars.blog_url}" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+    <link rel="index" id="link-index" href="${vars.blog_url}">
     <#if prev_page?exists>
       <#assign earlier = vars.blog_url + "/" + prev_page>
-    <link rel="prev" id="link-earlier" href="${earlier}" />
+    <link rel="prev" id="link-earlier" href="${earlier}">
     </#if>
     <#if next_page?exists>
       <#assign later = vars.blog_url + "/" + next_page>
-    <link rel="next" id="link-later" href="${later}" />
+    <link rel="next" id="link-later" href="${later}">
     </#if>
-    <meta name="robots" content="index, follow" />
-    <meta name="yandex-verification" content="289843372f0ccc45" />
+    <meta name="robots" content="index, follow">
+    <meta name="yandex-verification" content="289843372f0ccc45">
 
     <!-- meta -->
     <meta property="og:type" content="website">
-    <meta property="og:locale" content="ru_RU" />
-    <meta property="og:site_name" content="${vars.blog_title}" />
-    <meta itemprop="name" content="${vars.blog_title}" />
-    <meta name="keywords" content="${vars.keywords}" />
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="${vars.blog_title}">
+    <meta name="keywords" content="${vars.keywords}">
     <#assign summary=summary!vars.description>
-    <meta name="description" content="${summary}" />
-    <meta property="og:description" content="${summary}" />
+    <meta name="description" content="${summary}">
+    <meta property="og:description" content="${summary}">
     <#assign title=title!vars.blog_title>
-    <meta property="og:title" content="${title}" />
+    <meta property="og:title" content="${title}">
     <#if link??>
       <#assign url = vars.blog_url + link>
     <#elseif ndx?? && ndx gt 1>
@@ -42,23 +39,22 @@
     <#else>
       <#assign url = vars.blog_url>
     </#if>
-    <meta property="og:url" content="${url}" />
+    <meta property="og:url" content="${url}">
     <#if tags??>
       <#list tags as tag>
-    <meta property="og:tag" content="${tag}" />
+    <meta property="og:tag" content="${tag}">
       </#list>
     </#if>
     <#assign cover=cover!vars.blog_cover>
-    <meta itemprop="image" content="${vars.blog_url + cover}" />
-    <meta property="og:image" content="${vars.blog_url + cover}" />
+    <meta property="og:image" content="${vars.blog_url + cover}">
 
     <!-- favicons -->
     <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">
     <link rel="icon" type="image/png" sizes="180x180" href="i/favicon-180.png">
     <link rel="icon" type="image/png" sizes="196x196" href="i/favicon-196.png">
     <link rel="shortcut icon" type="image/png" href="i/favicon.png">
-    <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}"/>
-    <link rel="stylesheet" type="text/css" href="styles/styles.css"/>
+    <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
   </head>
 <body>
 <header>
