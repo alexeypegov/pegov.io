@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-12T00:00:00+07:00</updated>
+  <updated>2023-02-20T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Mgzavrebi - Kamara (2023)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
+      <id>urn:uuid:dde9dcd4-bd95-3134-a11a-25112f981672</id>
+      <updated>2023-02-20T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/mgzavrebi-kamara.jpg" alt="Mgzavrebi &quot;Kamara&quot; cover" loading="lazy" srcset="https://fm.alexeypegov.com/images/mgzavrebi-kamara@2x.jpg 2x" /></p>
+<p>Как же я соскучился <a href="https://mgzavrebi.bandcamp.com/album/kamara">по чувакам</a>! И как же хочется снова услышать их вживую!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Даркрум]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
@@ -164,23 +181,6 @@
 <p>Мир, прогресс, права человека - эти три цели неразрывно связаны, нельзя достигнуть какой-либо одной из них, пренебрегая другими...</p>
 <p>Я убежден также, что свобода убеждений, наряду с другими гражданскими свободами, является основой научно-технического прогресса и гарантией от использования его достижений во вред человечеству.</p>
 </blockquote>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Abandoned car, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-06-abandoned-car.html" />
-      <id>urn:uuid:c0e4fade-3fb5-300a-aeb4-cc0a7d85634e</id>
-      <updated>2023-01-06T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/abandoned-car.jpg" alt="Abandoned car" loading="lazy" srcset="https://fm.alexeypegov.com/images/abandoned-car@2x.jpg 2x" /></p>
-<p>В Тайланде природа забирает свое назад очень быстро.</p>
 
 	]]>
       </content>

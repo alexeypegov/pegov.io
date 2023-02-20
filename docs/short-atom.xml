@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-12T00:00:00+07:00</updated>
+  <updated>2023-02-20T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Mgzavrebi - Kamara (2023)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
+      <id>urn:uuid:dde9dcd4-bd95-3134-a11a-25112f981672</id>
+      <updated>2023-02-20T00:00:00+07:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Даркрум]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
       <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
       <updated>2023-01-07T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Abandoned car, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-06-abandoned-car.html" />
-      <id>urn:uuid:c0e4fade-3fb5-300a-aeb4-cc0a7d85634e</id>
-      <updated>2023-01-06T00:00:00+07:00</updated>
     </entry>
 </feed>
