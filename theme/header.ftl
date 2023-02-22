@@ -10,10 +10,13 @@
     <title>${vars.blog_title}</title>
     </#if>
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+
     <link rel="index" id="link-index" href="${vars.blog_url}">
     <#if prev_page?exists>
       <#assign earlier = vars.blog_url + "/" + prev_page>
     <link rel="prev" id="link-earlier" href="${earlier}">
+    <#else>
+    <link rel="canonical" href="${vars.blog_url}">
     </#if>
     <#if next_page?exists>
       <#assign later = vars.blog_url + "/" + next_page>
