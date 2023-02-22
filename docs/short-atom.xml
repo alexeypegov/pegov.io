@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-20T00:00:00+07:00</updated>
+  <updated>2023-02-22T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Вика, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
+      <id>urn:uuid:a0d114e3-0e2b-32a6-a80d-f8bb3d17748e</id>
+      <updated>2023-02-22T00:00:00+07:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Mgzavrebi - Kamara (2023)]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
@@ -57,12 +63,6 @@
       <title><![CDATA[Сандармох, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
       <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
-      <updated>2023-01-07T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Колмановский, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
-      <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
       <updated>2023-01-07T00:00:00+07:00</updated>
     </entry>
 </feed>

@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-20T00:00:00+07:00</updated>
+  <updated>2023-02-22T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Вика, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
+      <id>urn:uuid:a0d114e3-0e2b-32a6-a80d-f8bb3d17748e</id>
+      <updated>2023-02-22T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/vika-2022.jpg" alt="Вика, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/vika-2022@2x.jpg 2x" /></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Mgzavrebi - Kamara (2023)]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
@@ -159,28 +175,6 @@
         <p><img src="https://fm.alexeypegov.com/images/sandarmokh-2022.jpg" alt="Сандармох, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/sandarmokh-2022@2x.jpg 2x" /></p>
 <p>В <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BC%D0%BE%D1%85">урочище Сандармох</a> в 1937-1938 годах был тайно убит и захоронен 6241 человек.</p>
 <p>Я побывал в этом месте в августе 2022 года.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Колмановский, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-07-kolmanovskiy.html" />
-      <id>urn:uuid:04eae3bf-9e16-3aa7-81f6-b4cf78159087</id>
-      <updated>2023-01-07T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/kFmJ_4tOvm8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Илья Колмановский об антибиотике из генов неандертальцев, &quot;эталон&quot; слона и &quot;автостоп&quot; у тихоходок"></iframe></div></p>
-<p>Финализируют цитатой из нобелевской речи Сахарова:</p>
-<blockquote>
-<p>Глубокоуважаемые дамы и господа!</p>
-<p>Мир, прогресс, права человека - эти три цели неразрывно связаны, нельзя достигнуть какой-либо одной из них, пренебрегая другими...</p>
-<p>Я убежден также, что свобода убеждений, наряду с другими гражданскими свободами, является основой научно-технического прогресса и гарантией от использования его достижений во вред человечеству.</p>
-</blockquote>
 
 	]]>
       </content>
