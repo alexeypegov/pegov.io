@@ -10,9 +10,7 @@ Summary: Несколько слов об этом сайте
 
 Записи транслируются в [RSS-поток][rss] и [тележку][tg].
 
-Связаться со мной лично можно через почту iam[at]alexeypegov.com, телегу [@alexeypegov][tm] или [mastodon][mastodon]
+Связаться со мной лично можно по почте: iam[at]alexeypegov.com.
 
 [rss]: https://feeds.feedburner.com/false-movement
 [tg]: https://t.me/falsemovement
-[tm]: https://t.me/alexeypegov
-[mastodon]: https://toot.community/@alexeypegov
