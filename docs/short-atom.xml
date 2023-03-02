@@ -4,13 +4,7 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-24T00:00:00+07:00</updated>
-    <entry>
-      <title><![CDATA[Никогда снова]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-24-never-again.html" />
-      <id>urn:uuid:d54e2aa0-b13d-3624-bf4f-e64ab96e457d</id>
-      <updated>2023-02-24T00:00:00+07:00</updated>
-    </entry>
+  <updated>2023-02-22T00:00:00+07:00</updated>
     <entry>
       <title><![CDATA[Вика, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
@@ -64,5 +58,11 @@
       <link href="https://fm.alexeypegov.com/2023-01-10-zakhars-autoportrait.html" />
       <id>urn:uuid:169c0933-b8a7-3fae-b3a2-afa20c33dc83</id>
       <updated>2023-01-10T00:00:00+07:00</updated>
+    </entry>
+    <entry>
+      <title><![CDATA[Сандармох, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
+      <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
+      <updated>2023-01-07T00:00:00+07:00</updated>
     </entry>
 </feed>
