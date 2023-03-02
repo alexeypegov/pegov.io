@@ -4,7 +4,25 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-22T00:00:00+07:00</updated>
+  <updated>2023-02-24T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Никогда снова]]></title>
+      <link href="https://fm.alexeypegov.com/2023-02-24-never-again.html" />
+      <id>urn:uuid:d54e2aa0-b13d-3624-bf4f-e64ab96e457d</id>
+      <updated>2023-02-24T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>🇺🇦</p>
+<p>&amp;#1F1FA;</p>
+<p>&amp;#129409;</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Вика, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
@@ -45,9 +63,8 @@
       <updated>2023-02-12T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p>А вот такой даркрум был у меня в Питере:</p>
+        <p>А вот такой даркрум я забахал в Питере:</p>
 <p><img src="https://fm.alexeypegov.com/images/my-darkroom.jpg" alt="Даркрум" loading="lazy" srcset="https://fm.alexeypegov.com/images/my-darkroom@2x.jpg 2x" /></p>
-<p>Нашел на вики интересное, хотя и не совсем точное <a href="https://ru.wikipedia.org/wiki/Darkroom">описание</a>)</p>
 
 	]]>
       </content>
@@ -157,24 +174,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/zakhars-selfportrait.jpg" alt="Автопортрет Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakhars-selfportrait@2x.jpg 2x" /></p>
 <p>Пока мы жили в <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D1%88%D0%B5%D1%85%D0%B8%D1%80">Невшехире</a>, я снял несколько своих автопортретов, а Захар, увидев это, решил снять себя. Только самостоятельно сжать грушу у него не получилось, так что пришлось помочь.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Сандармох, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
-      <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
-      <updated>2023-01-07T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/sandarmokh-2022.jpg" alt="Сандармох, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/sandarmokh-2022@2x.jpg 2x" /></p>
-<p>В <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BC%D0%BE%D1%85">урочище Сандармох</a> в 1937-1938 годах был тайно убит и захоронен 6241 человек.</p>
-<p>Я побывал в этом месте в августе 2022 года.</p>
 
 	]]>
       </content>
