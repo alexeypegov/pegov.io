@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-02-22T00:00:00+07:00</updated>
+  <updated>2023-03-11T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[CODA (2021)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
+      <id>urn:uuid:6cc0353e-ae54-3eec-82ee-7a60c8530320</id>
+      <updated>2023-03-11T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/coda.jpg" alt="CODA, 2021" loading="lazy" srcset="https://fm.alexeypegov.com/images/coda@2x.jpg 2x" /></p>
+<p>Ох, какое классное <a href="https://www.imdb.com/title/tt10366460/">кино</a>!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Вика, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
@@ -156,24 +173,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/zakhars-selfportrait.jpg" alt="Автопортрет Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakhars-selfportrait@2x.jpg 2x" /></p>
 <p>Пока мы жили в <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D1%88%D0%B5%D1%85%D0%B8%D1%80">Невшехире</a>, я снял несколько своих автопортретов, а Захар, увидев это, решил снять себя. Только самостоятельно сжать грушу у него не получилось, так что пришлось помочь.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Сандармох, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-07-sandarmokh.html" />
-      <id>urn:uuid:cd36bea8-920a-3813-b03b-b9785faeacf5</id>
-      <updated>2023-01-07T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/sandarmokh-2022.jpg" alt="Сандармох, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/sandarmokh-2022@2x.jpg 2x" /></p>
-<p>В <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BC%D0%BE%D1%85">урочище Сандармох</a> в 1937-1938 годах был тайно убит и захоронен 6241 человек.</p>
-<p>Я побывал в этом месте в августе 2022 года.</p>
 
 	]]>
       </content>

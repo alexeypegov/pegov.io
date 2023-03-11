@@ -248,6 +248,10 @@ article .tag:not(:first-child) {
   padding-left: .2rem;
 }
 
+article .text > p:only-child {
+  font-size: var(--h5-size);
+}
+
 article .media {
   position: relative;
 
