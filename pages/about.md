@@ -4,13 +4,21 @@ Cover: images/selfie.jpg
 Summary: Несколько слов об этом сайте
 ---
 
-Это автор сайта (образца 2022 года):
+Привет!
+
+Меня зовут Алексей Пегов.
+
+Я увлекаюсь программированием и [пленочной фотографией][ph].
+
+Это я (образца 2022 года):
 
 ![Selfie](images/selfie@2x.jpg)
 
-Записи транслируются в [RSS-поток][rss] и [тележку][tg].
+Записи из этого блога транслируются в [RSS-поток][rss] и [тележку][tg]. 
 
-Связаться со мной лично можно по почте: iam[at]alexeypegov.com.
+Написать мне можно на iam[at]alexeypegov.com или в [телегу][tg2].
 
-[rss]: https://feeds.feedburner.com/false-movement
+[rss]: https://feed.alexeypegov.com
 [tg]: https://t.me/falsemovement
+[tg2]: https://t.me/alexeypegov
+[ph]: https://www.alexeypegov.com
