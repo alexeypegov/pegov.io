@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-11T00:00:00+07:00</updated>
+  <updated>2023-03-14T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Navalny, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-14-navalny.html" />
+      <id>urn:uuid:5ef57bd4-43b3-3caf-9e90-f36eb81c02e8</id>
+      <updated>2023-03-14T00:00:00+07:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[CODA (2021)]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-01-14-father.html" />
       <id>urn:uuid:a840d86d-4b8d-30be-ba5e-fde9d57d0998</id>
       <updated>2023-01-14T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-10-zakhars-autoportrait.html" />
-      <id>urn:uuid:169c0933-b8a7-3fae-b3a2-afa20c33dc83</id>
-      <updated>2023-01-10T00:00:00+07:00</updated>
     </entry>
 </feed>

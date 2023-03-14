@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-11T00:00:00+07:00</updated>
+  <updated>2023-03-14T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Navalny, 2022]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-14-navalny.html" />
+      <id>urn:uuid:5ef57bd4-43b3-3caf-9e90-f36eb81c02e8</id>
+      <updated>2023-03-14T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>Авторы выложили фильм в <a href="https://navalny-film.io/">свободный доступ</a>.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[CODA (2021)]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
@@ -156,23 +172,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/father-2020.jpg" alt="Отец, 2020" loading="lazy" srcset="https://fm.alexeypegov.com/images/father-2020@2x.jpg 2x" /></p>
 <p>Отцу сегодня 85.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-10-zakhars-autoportrait.html" />
-      <id>urn:uuid:169c0933-b8a7-3fae-b3a2-afa20c33dc83</id>
-      <updated>2023-01-10T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/zakhars-selfportrait.jpg" alt="Автопортрет Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakhars-selfportrait@2x.jpg 2x" /></p>
-<p>Пока мы жили в <a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D1%88%D0%B5%D1%85%D0%B8%D1%80">Невшехире</a>, я снял несколько своих автопортретов, а Захар, увидев это, решил снять себя. Только самостоятельно сжать грушу у него не получилось, так что пришлось помочь.</p>
 
 	]]>
       </content>
