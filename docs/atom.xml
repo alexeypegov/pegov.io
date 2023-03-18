@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-14T00:00:00+07:00</updated>
+  <updated>2023-03-18T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Close (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-18-close.html" />
+      <id>urn:uuid:f8100ac8-642e-3d10-b68a-39fa19a34bf4</id>
+      <updated>2023-03-18T00:00:00+07:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/close2022.jpg" alt="Close, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/close2022@2x.jpg 2x" /></p>
+<p>Хорошее <a href="https://www.imdb.com/title/tt9660502/">кино</a>!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Navalny, 2022]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-14-navalny.html" />
@@ -156,23 +173,6 @@
 <p>Все политики мира, за исключением Соединенных Штатов, пытались найти предлог, для того, чтобы ничего не предпринимать и обвиняли во всем самих русских.</p>
 <p>Говорю вам: в мире что-то сгнило, но еще есть возможность это исправить. — Фритьоф Нансен</p>
 </blockquote>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Отец, 2020]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-14-father.html" />
-      <id>urn:uuid:a840d86d-4b8d-30be-ba5e-fde9d57d0998</id>
-      <updated>2023-01-14T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/father-2020.jpg" alt="Отец, 2020" loading="lazy" srcset="https://fm.alexeypegov.com/images/father-2020@2x.jpg 2x" /></p>
-<p>Отцу сегодня 85.</p>
 
 	]]>
       </content>
