@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-18T00:00:00+07:00</updated>
+  <updated>2023-03-26T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[А. И. Солженицын. Архипелаг ГУЛАГ.]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-26-arkhipelag-gulag.html" />
+      <id>urn:uuid:a85ceb3d-b36d-30f8-b6a5-7711d01490e4</id>
+      <updated>2023-03-26T00:00:00+07:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Close (2022)]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-18-close.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-01-22-background-noise.html" />
       <id>urn:uuid:2b5932a0-bde5-3f09-8a3f-20465a231db3</id>
       <updated>2023-01-22T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Голод]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-19-golod.html" />
-      <id>urn:uuid:15c8c6ba-b6bf-37e3-a777-bbf5f827e385</id>
-      <updated>2023-01-19T00:00:00+07:00</updated>
     </entry>
 </feed>
