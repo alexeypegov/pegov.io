@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-26T00:00:00+07:00</updated>
+  <updated>2023-03-31T00:00:00+08:00</updated>
+    <entry>
+      <title><![CDATA[Картинки из марта 2023]]></title>
+      <link href="https://fm.alexeypegov.com/2023-03-31-march-images.html" />
+      <id>urn:uuid:ba5406c6-fd93-3811-ae4b-6c7ec0a460ef</id>
+      <updated>2023-03-31T00:00:00+08:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[А. И. Солженицын. Архипелаг ГУЛАГ.]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-26-arkhipelag-gulag.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
       <id>urn:uuid:6dfe9dcf-3ef8-308c-85ed-fcad451e6c0a</id>
       <updated>2023-01-28T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Фоновый шум]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-22-background-noise.html" />
-      <id>urn:uuid:2b5932a0-bde5-3f09-8a3f-20465a231db3</id>
-      <updated>2023-01-22T00:00:00+07:00</updated>
     </entry>
 </feed>
