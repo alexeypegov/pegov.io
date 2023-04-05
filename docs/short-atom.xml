@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-31T00:00:00+08:00</updated>
+  <updated>2023-04-05T00:00:00+08:00</updated>
+    <entry>
+      <title><![CDATA[Роман Либеров]]></title>
+      <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
+      <id>urn:uuid:e183dcf6-79d5-3bc4-8284-fa55f30d3d54</id>
+      <updated>2023-04-05T00:00:00+08:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Картинки из марта 2023]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-31-march-images.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-02-11-music-for-animals.html" />
       <id>urn:uuid:ae4f2e8d-9686-3267-af30-dd032d82904d</id>
       <updated>2023-02-11T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
-      <id>urn:uuid:6dfe9dcf-3ef8-308c-85ed-fcad451e6c0a</id>
-      <updated>2023-01-28T00:00:00+07:00</updated>
     </entry>
 </feed>

@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-03-31T00:00:00+08:00</updated>
+  <updated>2023-04-05T00:00:00+08:00</updated>
+    <entry>
+      <title><![CDATA[Роман Либеров]]></title>
+      <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
+      <id>urn:uuid:e183dcf6-79d5-3bc4-8284-fa55f30d3d54</id>
+      <updated>2023-04-05T00:00:00+08:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/tKWAnpECKgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Либеров – как творить в несвободной стране / вДудь"></iframe></div></p>
+<p>Хотел приятно провести вечер. И провел.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Картинки из марта 2023]]></title>
       <link href="https://fm.alexeypegov.com/2023-03-31-march-images.html" />
@@ -268,22 +285,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/music-for-animals.webp" alt="Cover" loading="lazy" srcset="https://fm.alexeypegov.com/images/music-for-animals@2x.webp 2x" /></p>
 <p>Кайфовый <a href="https://www.nilsfrahm.com/works/music-for-animals/">альбом</a>!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-01-28-zakhar-2022.html" />
-      <id>urn:uuid:6dfe9dcf-3ef8-308c-85ed-fcad451e6c0a</id>
-      <updated>2023-01-28T00:00:00+07:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/zakhar-2022.jpg" alt="Захар, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/zakhar-2022@2x.jpg 2x" /></p>
 
 	]]>
       </content>
