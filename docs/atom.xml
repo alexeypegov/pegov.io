@@ -30,15 +30,15 @@
       <content type="html">
 	<![CDATA[
         <p>Несколько картинок, которые снял в марте.</p>
-<p><img src="https://fm.alexeypegov.com/images/0323-01.webp" alt="Катя и Захар" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-01@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-02.webp" alt="Катя на террасе" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-02@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-03.webp" alt="Захар в ландри" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-03@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-04.webp" alt="Катя в ландри" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-04@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-05.webp" alt="Я и Захар на лестнице" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-05@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-06.webp" alt="Катя с Захаром читают (каждый свое)" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-06@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-07.webp" alt="Захар пишет буквы" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-07@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-08.webp" alt="ДР Захара" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-08@2x.webp 2x" /></p>
-<p><img src="https://fm.alexeypegov.com/images/0323-09.webp" alt="Захар в коробке" loading="lazy" srcset="https://fm.alexeypegov.com/images/0323-09@2x.webp 2x" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-01@2x.webp" alt="Катя и Захар" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-02@2x.webp" alt="Катя на террасе" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-03@2x.webp" alt="Захар в ландри" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-04@2x.webp" alt="Катя в ландри" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-05@2x.webp" alt="Я и Захар на лестнице" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-06@2x.webp" alt="Катя с Захаром читают (каждый свое)" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-07@2x.webp" alt="Захар пишет буквы" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-08@2x.webp" alt="ДР Захара" /></p>
+<p><img src="https://fm.alexeypegov.com/images/0323-09@2x.webp" alt="Захар в коробке" /></p>
 
 	]]>
       </content>
@@ -182,7 +182,7 @@
       <updated>2023-03-18T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/close2022.jpg" alt="Close, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/close2022@2x.jpg 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/close2022@2x.jpg" alt="Close, 2022" /></p>
 <p>Хорошее <a href="https://www.imdb.com/title/tt9660502/">кино</a>!</p>
 
 	]]>
@@ -199,7 +199,7 @@
       <updated>2023-03-14T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/navalny-2022.jpg" alt="Navalny, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/navalny-2022@2x.jpg 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/navalny-2022@2x.jpg" alt="Navalny, 2022" /></p>
 <p>Кто-то выложил фильм в <a href="https://navalny-film.io/">свободный доступ</a>.</p>
 
 	]]>
@@ -216,7 +216,7 @@
       <updated>2023-03-11T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/coda.jpg" alt="CODA, 2021" loading="lazy" srcset="https://fm.alexeypegov.com/images/coda@2x.jpg 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/coda@2x.jpg" alt="CODA, 2021" /></p>
 <p>Ох, какое классное <a href="https://www.imdb.com/title/tt10366460/">кино</a>!</p>
 
 	]]>
@@ -233,7 +233,7 @@
       <updated>2023-02-22T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/vika-2022.jpg" alt="Вика, 2022" loading="lazy" srcset="https://fm.alexeypegov.com/images/vika-2022@2x.jpg 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/vika-2022@2x.jpg" alt="Вика, 2022" /></p>
 
 	]]>
       </content>
@@ -249,7 +249,7 @@
       <updated>2023-02-20T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/mgzavrebi-kamara.jpg" alt="Mgzavrebi &quot;Kamara&quot; cover" loading="lazy" srcset="https://fm.alexeypegov.com/images/mgzavrebi-kamara@2x.jpg 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/mgzavrebi-kamara@2x.jpg" alt="Mgzavrebi &quot;Kamara&quot; cover" /></p>
 <p>Как же я соскучился <a href="https://mgzavrebi.bandcamp.com/album/kamara">по чувакам</a>! И как же хочется снова услышать их вживую!</p>
 
 	]]>
@@ -267,7 +267,7 @@
       <content type="html">
 	<![CDATA[
         <p>А вот такой даркрум я забахал в Питере:</p>
-<p><img src="https://fm.alexeypegov.com/images/my-darkroom.jpg" alt="Даркрум" loading="lazy" srcset="https://fm.alexeypegov.com/images/my-darkroom@2x.jpg 2x" /></p>
+<p><img src="https://fm.alexeypegov.com/images/my-darkroom@2x.jpg" alt="Даркрум" /></p>
 
 	]]>
       </content>
@@ -283,7 +283,7 @@
       <updated>2023-02-11T00:00:00+07:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/music-for-animals.webp" alt="Cover" loading="lazy" srcset="https://fm.alexeypegov.com/images/music-for-animals@2x.webp 2x" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/music-for-animals@2x.webp" alt="Cover" /></p>
 <p>Кайфовый <a href="https://www.nilsfrahm.com/works/music-for-animals/">альбом</a>!</p>
 
 	]]>

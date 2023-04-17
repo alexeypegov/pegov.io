@@ -342,6 +342,7 @@ ol > li:before {
 
 article img {
   max-width: 80%;
+  height: auto;
 }
 
 /*
