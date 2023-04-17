@@ -1,5 +1,5 @@
 ---
-Title: Привет)
+Title: О сайте
 Cover: images/selfie.jpg
 Summary: Несколько слов об этом сайте
 ---
