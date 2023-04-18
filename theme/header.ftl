@@ -24,10 +24,10 @@
     </#if>
     <meta name="robots" content="index, follow">
 
-    <!-- meta -->
+    <!-- opengraph meta, etc -->
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ru_RU">
-    <meta itemprop="name" property="og:site_name" content="${vars.blog_title}">
+    <meta property="og:site_name" content="${vars.blog_title}">
     <meta name="keywords" content="${vars.keywords}">
     <#assign summary=summary!vars.description>
     <meta name="description" content="${summary}">
@@ -51,9 +51,9 @@
     <meta property="og:image" content="${vars.blog_url + cover}">
 
     <!-- favicons -->
-    <link rel="icon" type="image/png" sizes="32x32" href="i/favicon-32.png">
-    <link rel="icon" type="image/png" sizes="180x180" href="i/favicon-180.png">
-    <link rel="icon" type="image/png" sizes="196x196" href="i/favicon-196.png">
+    <link rel="apple-touch-icon" href="i/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="i/favicon-180.png">
+    <link rel="apple-touch-icon" sizes="196x196" href="i/favicon-196.png">
     <link rel="shortcut icon" type="image/png" href="i/favicon.png">
     <link rel="alternate" type="application/atom+xml" title="Все заметки" href="${vars.feed_url}">
     <link rel="stylesheet" type="text/css" href="styles/styles.css">
@@ -61,7 +61,7 @@
 <body>
 <header itemscope itemtype="https://schema.org/WPHeader">
   <h1><a href="/">Ложное движение</a></h1>
-  <nav itemscope itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+  <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
     <a href="about.html">О блоге</a>
     <a href="use.html">Использую</a>
     <a href="/2022-09-24-my-position.html">ВОЙНА</a>

@@ -25,7 +25,7 @@ vars:
   feed-url: https://fm.alexeypegov.com/atom.xml
   feed-author: Алексей Пегов
   feed-email: iam@alexeypegov.com
-  description: 'Личный блог Алексея Пегова'
+  description: 'Личный блог Алексея Пегова: фотография на пленку, музыка и авторское кино'
   keywords: 'пегов,pegov,ложное движение,false movement'
   blog-cover: /images/avatar.jpg
   note-cover: /i/favicon-180.png
