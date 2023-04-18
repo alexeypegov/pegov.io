@@ -60,6 +60,8 @@
   --note-width: 66%;
 
   --paging-text-color: #777;
+
+  --image-background-color: #eee;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -81,6 +83,8 @@
 
     --blockquote-text-color: #ddd;
     --blockquote-background-color: #333;
+
+    --image-background-color: #222;
   }
 }
 
@@ -343,6 +347,7 @@ ol > li:before {
 article img {
   max-width: 80%;
   height: auto;
+  background-color: var(--image-background-color);
 }
 
 /*
