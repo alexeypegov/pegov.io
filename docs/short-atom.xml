@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-04-05T00:00:00+08:00</updated>
+  <updated>2023-04-25T00:00:00+07:00</updated>
+    <entry>
+      <title><![CDATA[Hong Kong]]></title>
+      <link href="https://fm.alexeypegov.com/2023-04-25-hong-kong.html" />
+      <id>urn:uuid:7e9b54e1-4e5c-3578-9506-9a99adb05637</id>
+      <updated>2023-04-25T00:00:00+07:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Роман Либеров]]></title>
       <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
       <id>urn:uuid:8ddb0602-c739-3c43-839a-571a0fc6ca9a</id>
       <updated>2023-02-12T00:00:00+07:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Nils Frahm - Music For Animals (2022)]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-11-music-for-animals.html" />
-      <id>urn:uuid:ae4f2e8d-9686-3267-af30-dd032d82904d</id>
-      <updated>2023-02-11T00:00:00+07:00</updated>
     </entry>
 </feed>
