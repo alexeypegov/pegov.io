@@ -60,8 +60,6 @@
   --note-width: 66%;
 
   --paging-text-color: #777;
-
-  --image-background-color: #eee;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -83,8 +81,6 @@
 
     --blockquote-text-color: #ddd;
     --blockquote-background-color: #333;
-
-    --image-background-color: #222;
   }
 }
 
@@ -344,19 +340,6 @@ ol > li:before {
   margin-left: -1.2rem;
 }
 
-article img {
-  height: auto;
-  background-color: var(--image-background-color);
-}
-
-/*
-article p:has(img) {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-}
-*/
-
 nav.paging {
   padding: 2rem 0;
   color: var(--paging-text-color);
@@ -406,11 +389,6 @@ footer {
     margin: 0 !important;
   }
 
-/*  article p:has(img) {
-    display: flex;
-    justify-content: center;
-  }
-*/
   article img {
     width: calc(100% + 2rem);
     margin-left: -1rem;
