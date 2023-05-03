@@ -345,7 +345,6 @@ ol > li:before {
 }
 
 article img {
-  max-width: 80%;
   height: auto;
   background-color: var(--image-background-color);
 }
@@ -359,24 +358,24 @@ article p:has(img) {
 */
 
 nav.paging {
-  padding: 2em 0;
+  padding: 2rem 0;
   color: var(--paging-text-color);
 }
 
 footer {
   text-align: center;
-  padding: 1em 0;
+  padding: 1rem 0;
   opacity: .3;
   font-size: var(--small-size);
 }
 
 @media all and (max-width: 1099px) {
   header {
-    margin: 2em 0;
+    margin: 2rem 0;
   }
 
   header nav a ~ a {
-    margin-left: .5em;
+    margin-left: .5rem;
   }
 
   main, footer {
@@ -400,18 +399,21 @@ footer {
     box-sizing: border-box;
     width: calc(100% + 2rem);
     margin-left: -1rem;
+    padding: 1rem;
   }
 
   .media iframe {
     margin: 0 !important;
   }
 
-  article p:has(img) {
+/*  article p:has(img) {
     display: flex;
     justify-content: center;
   }
-
+*/
   article img {
-    max-width: 100%;
+    width: calc(100% + 2rem);
+    margin-left: -1rem;
+    object-fit: scale-down;
   }
 }
