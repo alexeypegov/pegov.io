@@ -391,6 +391,7 @@ footer {
 
   article img {
     width: calc(100% + 2rem);
+    height: auto;
     margin-left: -1rem;
     object-fit: scale-down;
   }
