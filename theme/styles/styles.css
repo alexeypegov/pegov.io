@@ -16,7 +16,7 @@
   --small-size: .8rem;
 }
 
-@media (max-width: 1099px) {
+@media (max-width: 599px) {
   :root {
     /* size factor: 1.067 */
 
@@ -57,7 +57,7 @@
   
   --pre-background-color: #eee;
 
-  --note-width: 66%;
+  --note-width: 90%;
 
   --paging-text-color: #777;
 }
@@ -84,7 +84,7 @@
   }
 }
 
-@media (max-width: 899px) {
+@media (max-width: 599px) {
   :root {
     --link-decoration-color: #33c;
     --note-title-decoration-color: #444;
@@ -203,6 +203,7 @@ main {
 
 article {
   width: var(--note-width);
+  max-width: 800px;
 }
 
 article ~ article {
@@ -249,6 +250,12 @@ article .tags:before {
 
 article .tag:not(:first-child) {
   padding-left: .2rem;
+}
+
+article img {
+  object-fit: contain;
+  height: auto;
+  max-width: 100%;
 }
 
 /*
@@ -352,7 +359,7 @@ footer {
   font-size: var(--small-size);
 }
 
-@media all and (max-width: 1099px) {
+@media all and (max-width: 599px) {
   header {
     margin: 2rem 0;
   }
@@ -389,10 +396,15 @@ footer {
     margin: 0 !important;
   }
 
+  article p:has(img) {
+    margin: auto;
+  }
+
   article img {
     width: calc(100% + 2rem);
+    max-width: unset;
     height: auto;
     margin-left: -1rem;
-    object-fit: scale-down;
+    object-fit: contain;
   }
 }
