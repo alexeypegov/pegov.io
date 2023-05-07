@@ -396,10 +396,6 @@ footer {
     margin: 0 !important;
   }
 
-  article p:has(img) {
-    margin: auto;
-  }
-
   article img {
     width: calc(100% + 2rem);
     max-width: unset;
