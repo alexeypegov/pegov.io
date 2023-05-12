@@ -15,7 +15,7 @@
       <#if description?exists>
       <content type="html">
 	<![CDATA[
-        ${note.body_abs}
+        ${note.body}
 	]]>
       </content>
       <author>
