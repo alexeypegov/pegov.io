@@ -1,8 +1,10 @@
 ---
 Title: Моя позиция
 Date: 2022-09-24
+Updated: 2023-05-14
 Tags:
   - war
+Summary: Хочется как-то зафиксировать свою позицию
 ---
 
 ![Levashovo](images/levashovo.jpg)

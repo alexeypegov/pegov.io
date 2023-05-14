@@ -1,7 +1,7 @@
 ---
 Title: О сайте
 Cover: images/selfie.jpg
-Summary: Несколько слов об этом сайте
+Summary: Несколько слов об этом блоге
 Updated: 2023-05-14
 ---
 
