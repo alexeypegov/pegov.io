@@ -22,7 +22,9 @@
       <#assign later = vars.blog_url + "/" + next_page>
     <link rel="next" id="link-later" href="${later}">
     </#if>
-    <meta name="robots" content="index, follow">
+    <#if ndx?exists && ndx gt 1>
+    <meta name="robots" content="noindex">
+    </#if>
 
     <!-- opengraph meta, etc -->
     <meta property="og:type" content="website">

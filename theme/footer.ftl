@@ -1,4 +1,4 @@
 </main>
-<footer itemscope itemtype="https://schema.org/WPFooter">Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+<footer itemscope itemtype="https://schema.org/WPFooter">Made with ${vars.statique}.</footer>
 </body>
 </html>

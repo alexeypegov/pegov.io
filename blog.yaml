@@ -1,8 +1,7 @@
-# Blog configuration file
----
 general:
   notes-dir: posts/
   page-template: index
+  sitemap-template: sitemap
   singles-dir: pages/
   single-template: page
   output-dir: docs/

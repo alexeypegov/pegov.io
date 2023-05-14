@@ -2,6 +2,7 @@
 Title: О сайте
 Cover: images/selfie.jpg
 Summary: Несколько слов об этом сайте
+Updated: 2023-05-14
 ---
 
 Привет!
