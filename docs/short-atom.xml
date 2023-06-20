@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-04-25T00:00:00+00:00</updated>
+  <updated>2023-06-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Кучка азиатских картинок]]></title>
+      <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
+      <id>urn:uuid:30bfbf3c-db3d-3235-94d3-4237bb2372b1</id>
+      <updated>2023-06-20T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Hong Kong]]></title>
       <link href="https://fm.alexeypegov.com/2023-04-25-hong-kong.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
       <id>urn:uuid:dde9dcd4-bd95-3134-a11a-25112f981672</id>
       <updated>2023-02-20T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Даркрум]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
-      <id>urn:uuid:8ddb0602-c739-3c43-839a-571a0fc6ca9a</id>
-      <updated>2023-02-12T00:00:00+00:00</updated>
     </entry>
 </feed>

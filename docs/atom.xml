@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-04-25T00:00:00+00:00</updated>
+  <updated>2023-06-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Кучка азиатских картинок]]></title>
+      <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
+      <id>urn:uuid:30bfbf3c-db3d-3235-94d3-4237bb2372b1</id>
+      <updated>2023-06-20T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/asian-archive-2023.webp" alt="Asian Archive 2022-2023" /></p>
+<p>Собрал вместе фотографии из нашего азиатского путешествия</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Hong Kong]]></title>
       <link href="https://fm.alexeypegov.com/2023-04-25-hong-kong.html" />
@@ -275,23 +292,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/mgzavrebi-kamara.jpg" alt="Mgzavrebi &quot;Kamara&quot; cover" /></p>
 <p>Как же я соскучился <a href="https://mgzavrebi.bandcamp.com/album/kamara">по чувакам</a>! И как же хочется снова услышать их вживую!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Даркрум]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-12-darkroom.html" />
-      <id>urn:uuid:8ddb0602-c739-3c43-839a-571a0fc6ca9a</id>
-      <updated>2023-02-12T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>А вот такой даркрум я забахал в Питере:</p>
-<p><img src="https://fm.alexeypegov.com/images/my-darkroom.jpg" alt="Даркрум" /></p>
 
 	]]>
       </content>
