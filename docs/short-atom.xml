@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-06-20T00:00:00+00:00</updated>
+  <updated>2023-06-24T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Буду скучать - Пхукет]]></title>
+      <link href="https://fm.alexeypegov.com/2023-06-24-thai-journey-end.html" />
+      <id>urn:uuid:a899634a-52ba-3355-9747-f1554a3e2170</id>
+      <updated>2023-06-24T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Кучка азиатских картинок]]></title>
       <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
       <id>urn:uuid:a0d114e3-0e2b-32a6-a80d-f8bb3d17748e</id>
       <updated>2023-02-22T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Mgzavrebi - Kamara (2023)]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-20-mgzavrebi.html" />
-      <id>urn:uuid:dde9dcd4-bd95-3134-a11a-25112f981672</id>
-      <updated>2023-02-20T00:00:00+00:00</updated>
     </entry>
 </feed>
