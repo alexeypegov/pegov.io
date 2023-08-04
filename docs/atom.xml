@@ -4,7 +4,26 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-06-24T00:00:00+00:00</updated>
+  <updated>2023-08-04T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Россия]]></title>
+      <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
+      <id>urn:uuid:51b192d5-a327-33b0-a628-96e6b8f329fb</id>
+      <updated>2023-08-04T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/2023-navalny.webp" alt="Навальный" /></p>
+<p>Как <a href="https://meduza.io/news/2023/08/04/tsifra-prigovora-ne-dlya-menya-ona-dlya-vas-navalnyy-o-19-letnem-sroke">сказал сегодня Алексей</a>: Цифра приговора не для меня. Она для вас.</p>
+<p>А на этой фотографии, кроме Алексея, можно попробовать разглядеть и всю современную Россию.</p>
+<p>ps: Леха, держись!</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Буду скучать - Пхукет]]></title>
       <link href="https://fm.alexeypegov.com/2023-06-24-thai-journey-end.html" />
@@ -294,22 +313,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/coda.jpg" alt="CODA, 2021" /></p>
 <p>Ох, какое классное <a href="https://www.imdb.com/title/tt10366460/">кино</a>!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Вика, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
-      <id>urn:uuid:a0d114e3-0e2b-32a6-a80d-f8bb3d17748e</id>
-      <updated>2023-02-22T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/vika-2022.jpg" alt="Вика, 2022" /></p>
 
 	]]>
       </content>

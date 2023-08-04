@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-06-24T00:00:00+00:00</updated>
+  <updated>2023-08-04T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Россия]]></title>
+      <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
+      <id>urn:uuid:51b192d5-a327-33b0-a628-96e6b8f329fb</id>
+      <updated>2023-08-04T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Буду скучать - Пхукет]]></title>
       <link href="https://fm.alexeypegov.com/2023-06-24-thai-journey-end.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
       <id>urn:uuid:6cc0353e-ae54-3eec-82ee-7a60c8530320</id>
       <updated>2023-03-11T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Вика, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-02-22-vika-22.html" />
-      <id>urn:uuid:a0d114e3-0e2b-32a6-a80d-f8bb3d17748e</id>
-      <updated>2023-02-22T00:00:00+00:00</updated>
     </entry>
 </feed>
