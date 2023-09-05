@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-08-04T00:00:00+00:00</updated>
+  <updated>2023-09-05T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Утраченные иллюзии]]></title>
+      <link href="https://fm.alexeypegov.com/2023-09-05-утраченные-илюзии.html" />
+      <id>urn:uuid:0123c031-e480-3104-b7aa-7384bd8b9009</id>
+      <updated>2023-09-05T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
       <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-03-14-navalny.html" />
       <id>urn:uuid:5ef57bd4-43b3-3caf-9e90-f36eb81c02e8</id>
       <updated>2023-03-14T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[CODA (2021)]]></title>
-      <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
-      <id>urn:uuid:6cc0353e-ae54-3eec-82ee-7a60c8530320</id>
-      <updated>2023-03-11T00:00:00+00:00</updated>
     </entry>
 </feed>

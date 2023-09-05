@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-08-04T00:00:00+00:00</updated>
+  <updated>2023-09-05T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Утраченные иллюзии]]></title>
+      <link href="https://fm.alexeypegov.com/2023-09-05-утраченные-илюзии.html" />
+      <id>urn:uuid:0123c031-e480-3104-b7aa-7384bd8b9009</id>
+      <updated>2023-09-05T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><a href="https://www.ng.ru/ideas/2023-08-29/7_8812_illusions.html?print=Y">Директор Института США и Канады Валерий Гарбузов об утраченных иллюзиях уходящей эпохи</a></p>
+<p>Цитировать целиком не решился, поэтому только ссылка)</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Россия]]></title>
       <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
@@ -296,23 +313,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/navalny-2022.jpg" alt="Navalny, 2022" /></p>
 <p>Кто-то выложил фильм в <a href="https://navalny-film.io/">свободный доступ</a>.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[CODA (2021)]]></title>
-      <link href="https://fm.alexeypegov.com/2023-03-11-coda.html" />
-      <id>urn:uuid:6cc0353e-ae54-3eec-82ee-7a60c8530320</id>
-      <updated>2023-03-11T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/coda.jpg" alt="CODA, 2021" /></p>
-<p>Ох, какое классное <a href="https://www.imdb.com/title/tt10366460/">кино</a>!</p>
 
 	]]>
       </content>
