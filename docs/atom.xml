@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-09-05T00:00:00+00:00</updated>
+  <updated>2023-09-13T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Виталий Косарев — Вы здесь гости]]></title>
+      <link href="https://fm.alexeypegov.com/2023-09-13-standup.html" />
+      <id>urn:uuid:ae0b150c-4a22-36a5-b5f4-32802c0d7e47</id>
+      <updated>2023-09-13T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/zps5H5pqUiY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Вы Здесь Гости! (Stand Up 2023) | Виталий Косарев"></iframe></div></p>
+<p>Очень приятный стендап.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Утраченные иллюзии]]></title>
       <link href="https://fm.alexeypegov.com/2023-09-05-утраченные-илюзии.html" />
@@ -296,23 +313,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/close2022.jpg" alt="Close, 2022" /></p>
 <p>Хорошее <a href="https://www.imdb.com/title/tt9660502/">кино</a>!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Navalny, 2022]]></title>
-      <link href="https://fm.alexeypegov.com/2023-03-14-navalny.html" />
-      <id>urn:uuid:5ef57bd4-43b3-3caf-9e90-f36eb81c02e8</id>
-      <updated>2023-03-14T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/navalny-2022.jpg" alt="Navalny, 2022" /></p>
-<p>Кто-то выложил фильм в <a href="https://navalny-film.io/">свободный доступ</a>.</p>
 
 	]]>
       </content>
