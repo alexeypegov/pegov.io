@@ -64,8 +64,8 @@
 <header itemscope itemtype="https://schema.org/WPHeader">
   <h1><a href="/">Ложное движение</a></h1>
   <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
-    <a href="about.html">О блоге</a>
-    <a href="use.html">Использую</a>
+    <a href="about.html">О сайте</a>
+    <a href="https://alexeypegov.com">Фотографирую</a>
     <a href="/2022-09-24-my-position.html">ВОЙНА</a>
   </nav>
 </header>
