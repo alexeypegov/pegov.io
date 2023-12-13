@@ -16,7 +16,6 @@
       <#assign earlier = vars.blog_url + "/" + prev_page>
     <link rel="prev" id="link-earlier" href="${earlier}">
     <#else>
-    <link rel="canonical" href="${vars.blog_url}">
     </#if>
     <#if next_page?exists>
       <#assign later = vars.blog_url + "/" + next_page>
