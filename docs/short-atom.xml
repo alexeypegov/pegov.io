@@ -6,6 +6,12 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2024-01-01T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Охота на лис (1980)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-01-02-ohota-na-lis.html" />
+      <id>urn:uuid:eb75ff22-6bba-3f54-942a-fa4f02741fb7</id>
+      <updated>2024-01-01T00:00:00+00:00</updated>
+    </entry>
+    <entry>
       <title><![CDATA[Jean-Philippe Rameau & Grigory Sokolov]]></title>
       <link href="https://fm.alexeypegov.com/2024-01-01-jean-philippe-rameau.html" />
       <id>urn:uuid:45415506-a871-3aa4-816b-2bb376b7b3b5</id>
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
       <id>urn:uuid:e183dcf6-79d5-3bc4-8284-fa55f30d3d54</id>
       <updated>2023-04-05T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Картинки из марта 2023]]></title>
-      <link href="https://fm.alexeypegov.com/2023-03-31-march-images.html" />
-      <id>urn:uuid:ba5406c6-fd93-3811-ae4b-6c7ec0a460ef</id>
-      <updated>2023-03-31T00:00:00+00:00</updated>
     </entry>
 </feed>
