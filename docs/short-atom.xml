@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2023-12-06T00:00:00+00:00</updated>
+  <updated>2024-01-01T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Jean-Philippe Rameau & Grigory Sokolov]]></title>
+      <link href="https://fm.alexeypegov.com/2024-01-01-jean-philippe-rameau.html" />
+      <id>urn:uuid:45415506-a871-3aa4-816b-2bb376b7b3b5</id>
+      <updated>2024-01-01T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Картинки лето-осень 2023]]></title>
       <link href="https://fm.alexeypegov.com/2023-12-06-autumn-images.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-03-31-march-images.html" />
       <id>urn:uuid:ba5406c6-fd93-3811-ae4b-6c7ec0a460ef</id>
       <updated>2023-03-31T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[А. И. Солженицын. Архипелаг ГУЛАГ.]]></title>
-      <link href="https://fm.alexeypegov.com/2023-03-26-arkhipelag-gulag.html" />
-      <id>urn:uuid:a85ceb3d-b36d-30f8-b6a5-7711d01490e4</id>
-      <updated>2023-03-26T00:00:00+00:00</updated>
     </entry>
 </feed>
