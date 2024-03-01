@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-01-01T00:00:00+00:00</updated>
+  <updated>2024-03-01T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[R.I.P.]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-01-rip.html" />
+      <id>urn:uuid:7373b8a2-c072-3f11-8f9b-c2ab5c21fb94</id>
+      <updated>2024-03-01T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>Не могу сдержать слезы.</p>
+<p>Прощай, друг.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Охота на лис (1980)]]></title>
       <link href="https://fm.alexeypegov.com/2024-01-02-ohota-na-lis.html" />
@@ -196,23 +213,6 @@
 <p>От кофе за 10 баксов.</p>
 <p>От невообразимо желтого солнца, пару раз за неделю таки пробивавшегося через низко висящие облака.</p>
 <p>И от этого дядечки, с невероятной скоростью зашивавшего чей-то ботинок в одном из переулков <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8E%D0%BB%D1%83%D0%BD">Коулуна</a>.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Роман Либеров]]></title>
-      <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
-      <id>urn:uuid:e183dcf6-79d5-3bc4-8284-fa55f30d3d54</id>
-      <updated>2023-04-05T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/tKWAnpECKgU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Либеров – как творить в несвободной стране / вДудь"></iframe></div></p>
-<p>Хотел приятно провести вечер. И провел.</p>
 
 	]]>
       </content>

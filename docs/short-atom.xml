@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-01-01T00:00:00+00:00</updated>
+  <updated>2024-03-01T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[R.I.P.]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-01-rip.html" />
+      <id>urn:uuid:7373b8a2-c072-3f11-8f9b-c2ab5c21fb94</id>
+      <updated>2024-03-01T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Охота на лис (1980)]]></title>
       <link href="https://fm.alexeypegov.com/2024-01-02-ohota-na-lis.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-04-25-hong-kong.html" />
       <id>urn:uuid:7e9b54e1-4e5c-3578-9506-9a99adb05637</id>
       <updated>2023-04-25T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Роман Либеров]]></title>
-      <link href="https://fm.alexeypegov.com/2023-04-05-liberov.html" />
-      <id>urn:uuid:e183dcf6-79d5-3bc4-8284-fa55f30d3d54</id>
-      <updated>2023-04-05T00:00:00+00:00</updated>
     </entry>
 </feed>
