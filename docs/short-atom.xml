@@ -6,6 +6,12 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2024-03-18T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Приятно]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-18-priyatno.html" />
+      <id>urn:uuid:6eca7c89-6f9a-3553-b681-de0a73f728db</id>
+      <updated>2024-03-18T00:00:00+00:00</updated>
+    </entry>
+    <entry>
       <title><![CDATA[Комета]]></title>
       <link href="https://fm.alexeypegov.com/2024-03-18-pons-brook-comet.html" />
       <id>urn:uuid:41876177-8ed0-3e25-945b-344fae263e48</id>
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-06-24-thai-journey-end.html" />
       <id>urn:uuid:a899634a-52ba-3355-9747-f1554a3e2170</id>
       <updated>2023-06-24T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Кучка азиатских картинок]]></title>
-      <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
-      <id>urn:uuid:30bfbf3c-db3d-3235-94d3-4237bb2372b1</id>
-      <updated>2023-06-20T00:00:00+00:00</updated>
     </entry>
 </feed>

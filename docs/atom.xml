@@ -6,13 +6,32 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2024-03-18T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Приятно]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-18-priyatno.html" />
+      <id>urn:uuid:6eca7c89-6f9a-3553-b681-de0a73f728db</id>
+      <updated>2024-03-18T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>Несмотря на то, что выборами происходящее назвать нельзя, тем не менее, вот такая картинка:</p>
+<p><img src="https://fm.alexeypegov.com/images/vote24-results.png" alt="Результаты УИК 8276" /></p>
+<p>Приятно оказаться в компании тех, кто так высказался по поводу происходящего!</p>
+<p>ps: <a href="https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTGDVMHm6jfZGxBBObUqKP27oWrPT_ZT2MFt8WwTU5G3M4BP9iPDZ9RlyTktAM2Z2lLB5ZGbHGTd82A/pubhtml?gid=1210620809&amp;pli=1">экзит-поллс</a>, <a href="https://fm.alexeypegov.com/images/vote24-uik@2x.jpg">официальные</a></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[Комета]]></title>
       <link href="https://fm.alexeypegov.com/2024-03-18-pons-brook-comet.html" />
       <id>urn:uuid:41876177-8ed0-3e25-945b-344fae263e48</id>
       <updated>2024-03-18T00:00:00+00:00</updated>
       <content type="html">
 	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/CometPonsBrookVallestad.jpg" alt="Pons-Brook Comet" /></p>
+        <p><img src="https://fm.alexeypegov.com/images/comet-pons-brook.jpg" alt="Pons-Brook Comet" /></p>
 <p>Какая классная <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0_%D0%9F%D0%BE%D0%BD%D1%81%D0%B0_%E2%80%94_%D0%91%D1%80%D1%83%D0%BA%D1%81%D0%B0">комета</a>! (<a href="https://apod.nasa.gov/apod/ap240318.html">отсюда</a>)</p>
 
 	]]>
@@ -189,23 +208,6 @@
 <ul>
 <li>Круглосуточная жара за девять месяцев совершенно задолбала 🥵</li>
 </ul>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Кучка азиатских картинок]]></title>
-      <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
-      <id>urn:uuid:30bfbf3c-db3d-3235-94d3-4237bb2372b1</id>
-      <updated>2023-06-20T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/asian-archive-2023.webp" alt="Asian Archive 2022-2023" /></p>
-<p>Собрал вместе фотографии из нашего азиатского путешествия. Ну или вот <a href="https://www.instagram.com/p/CtsnOXjgvr_/">риил</a>.</p>
 
 	]]>
       </content>
