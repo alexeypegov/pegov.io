@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-03-01T00:00:00+00:00</updated>
+  <updated>2024-03-18T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Комета]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-18-pons-brook-comet.html" />
+      <id>urn:uuid:41876177-8ed0-3e25-945b-344fae263e48</id>
+      <updated>2024-03-18T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[R.I.P.]]></title>
       <link href="https://fm.alexeypegov.com/2024-03-01-rip.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-06-20-asian-archive.html" />
       <id>urn:uuid:30bfbf3c-db3d-3235-94d3-4237bb2372b1</id>
       <updated>2023-06-20T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Hong Kong]]></title>
-      <link href="https://fm.alexeypegov.com/2023-04-25-hong-kong.html" />
-      <id>urn:uuid:7e9b54e1-4e5c-3578-9506-9a99adb05637</id>
-      <updated>2023-04-25T00:00:00+00:00</updated>
     </entry>
 </feed>
