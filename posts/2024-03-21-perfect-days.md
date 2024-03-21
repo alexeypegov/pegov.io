@@ -1,0 +1,10 @@
+---
+Title: Perfect Days (2023)
+Date: 2024-03-21
+Tags:
+  - саптрю
+---
+
+![Perfect Days by Wim Wenders](images/perfect-days-2023@2x.jpg)
+
+Хорошее [кино](https://www.imdb.com/title/tt27503384/)!
