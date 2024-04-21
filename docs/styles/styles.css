@@ -241,11 +241,15 @@ article img {
   max-width: 100%;
 }
 
-article.image {
+article.object {
   text-align: center;
 }
 
-article.image .image-footer a {
+article .object-footer {
+  margin-top: .5rem;
+}
+
+article .object-footer a {
   text-decoration-color: var(--note-details-color);
 }
 
@@ -267,7 +271,7 @@ article>.text h1 {
   color: var(--subtitle-color);
 }
 
-p {
+article.text p {
   margin-top: 1rem;
 }
 

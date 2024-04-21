@@ -7,9 +7,9 @@
   
 <#assign parsed=date?date("yyyy-MM-dd")>
 
-<article itemscope itemtype="https://schema.org/ImageObject" class="image">
+<article itemscope itemtype="https://schema.org/ImageObject" class="object image">
   ${body}
-  <div class="image-footer">
+  <div class="object-footer">
 	<a href="${slug}.html"><time itemprop="datePublished" class="date" datetime="${parsed?string["yyyy-MM-dd'T00:00:00+00:00'"]}">${parsed?date}</time></a>
   </div>
 </article>
