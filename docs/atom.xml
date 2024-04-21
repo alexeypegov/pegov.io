@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-03-21T00:00:00+00:00</updated>
+  <updated>2024-04-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Секретное место Захара]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-21-zakhars-secret-place.html" />
+      <id>urn:uuid:6628f192-f871-33ac-8f86-7b033d8fd9dc</id>
+      <updated>2024-04-21T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><img src="https://fm.alexeypegov.com/images/zakhars-secret-place.webp" alt="Секретное место захара" /></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Perfect Days (2023)]]></title>
       <link href="https://fm.alexeypegov.com/2024-03-21-perfect-days.html" />
@@ -171,25 +187,6 @@
 	<![CDATA[
         <p><a href="https://www.ng.ru/ideas/2023-08-29/7_8812_illusions.html">Директор Института США и Канады Валерий Гарбузов об утраченных иллюзиях уходящей эпохи</a></p>
 <p>Цитировать целиком не решился, поэтому только ссылка)</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Россия]]></title>
-      <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
-      <id>urn:uuid:51b192d5-a327-33b0-a628-96e6b8f329fb</id>
-      <updated>2023-08-04T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><img src="https://fm.alexeypegov.com/images/2023-navalny.webp" alt="Навальный" /></p>
-<p>Как <a href="https://meduza.io/news/2023/08/04/tsifra-prigovora-ne-dlya-menya-ona-dlya-vas-navalnyy-o-19-letnem-sroke">сказал сегодня Алексей</a>: Цифра приговора не для меня. Она для вас.</p>
-<p>А на этой фотографии, кроме Алексея, можно попробовать разглядеть и всю современную Россию.</p>
-<p>ps: Леха, держись!</p>
 
 	]]>
       </content>

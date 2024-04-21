@@ -1,6 +1,7 @@
 <#include "header.ftl">
-  <#list items as note>
-  <#include "note_body.ftl">
+<#list items as note>
+  <#assign note_view=(note.view)!view!"note_body">
+  <#include "${note_view}.ftl">
 </#list>
 <nav class="paging">
 <#if prev_page?exists>

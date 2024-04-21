@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-03-21T00:00:00+00:00</updated>
+  <updated>2024-04-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Секретное место Захара]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-21-zakhars-secret-place.html" />
+      <id>urn:uuid:6628f192-f871-33ac-8f86-7b033d8fd9dc</id>
+      <updated>2024-04-21T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Perfect Days (2023)]]></title>
       <link href="https://fm.alexeypegov.com/2024-03-21-perfect-days.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-09-05-утраченные-илюзии.html" />
       <id>urn:uuid:0123c031-e480-3104-b7aa-7384bd8b9009</id>
       <updated>2023-09-05T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Россия]]></title>
-      <link href="https://fm.alexeypegov.com/2023-08-04-russia.html" />
-      <id>urn:uuid:51b192d5-a327-33b0-a628-96e6b8f329fb</id>
-      <updated>2023-08-04T00:00:00+00:00</updated>
     </entry>
 </feed>
