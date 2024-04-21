@@ -213,7 +213,8 @@ article>h2>a:hover {
   text-decoration-color: var(--title-color);
 }
 
-article>.sub {
+article>.sub,
+article>.object-footer {
   font-size: var(--h6-size);
   font-family: var(--title-font-family);
 }
