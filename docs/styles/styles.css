@@ -254,6 +254,11 @@ article .object-footer a {
   text-decoration-color: var(--note-details-color);
 }
 
+article.tweet {
+  text-align: left;
+  font-size: var(--h4-size);
+}
+
 /*
 article .text > p:only-child {
   font-size: var(--h5-size);

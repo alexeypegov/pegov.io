@@ -12,6 +12,12 @@
       <updated>2024-04-22T00:00:00+00:00</updated>
     </entry>
     <entry>
+      <title><![CDATA[Лошадиный суп]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-22-horse-soup.html" />
+      <id>urn:uuid:2a6feaec-adde-3777-839d-3747b6a182cc</id>
+      <updated>2024-04-22T00:00:00+00:00</updated>
+    </entry>
+    <entry>
       <title><![CDATA[Секретное место Захара]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-21-zakhars-secret-place.html" />
       <id>urn:uuid:6628f192-f871-33ac-8f86-7b033d8fd9dc</id>
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2024-01-01-jean-philippe-rameau.html" />
       <id>urn:uuid:45415506-a871-3aa4-816b-2bb376b7b3b5</id>
       <updated>2024-01-01T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Картинки лето-осень 2023]]></title>
-      <link href="https://fm.alexeypegov.com/2023-12-06-autumn-images.html" />
-      <id>urn:uuid:c62b557d-3d74-367f-9ae1-0bbf96aff224</id>
-      <updated>2023-12-06T00:00:00+00:00</updated>
     </entry>
 </feed>
