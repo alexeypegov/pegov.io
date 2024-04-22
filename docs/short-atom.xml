@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-21T00:00:00+00:00</updated>
+  <updated>2024-04-22T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Любитель мороженого]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-22-icecream-lover.html" />
+      <id>urn:uuid:c400e382-b2ad-3da2-9eab-77f942ab0d8b</id>
+      <updated>2024-04-22T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Секретное место Захара]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-21-zakhars-secret-place.html" />
@@ -58,11 +64,5 @@
       <link href="https://fm.alexeypegov.com/2023-12-06-autumn-images.html" />
       <id>urn:uuid:c62b557d-3d74-367f-9ae1-0bbf96aff224</id>
       <updated>2023-12-06T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Виталий Косарев — Вы здесь гости]]></title>
-      <link href="https://fm.alexeypegov.com/2023-09-13-standup.html" />
-      <id>urn:uuid:ae0b150c-4a22-36a5-b5f4-32802c0d7e47</id>
-      <updated>2023-09-13T00:00:00+00:00</updated>
     </entry>
 </feed>
