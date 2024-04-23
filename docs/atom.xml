@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-22T00:00:00+00:00</updated>
+  <updated>2024-04-23T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Золото бунта]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-23-zoloto-bunta.html" />
+      <id>urn:uuid:d5d91016-e625-3e99-9f5c-06362139fca4</id>
+      <updated>2024-04-23T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p>Буду писать сюда теперь как в твиттор — по чуть-чуть. В этот раз о <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE_%D0%B1%D1%83%D0%BD%D1%82%D0%B0">Золоте бунта</a> — романе Алексея Иванова, который утопил в таком количестве незнакомых слов, что даже заставил посмеяться первые несколько страниц от непонимания происходящего. Очень круто. 5/5.</p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Любитель мороженого]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-22-icecream-lover.html" />
@@ -148,27 +164,6 @@
 	<![CDATA[
         <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/8rIhH9keWt8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Охота на лис (4К, драма, реж. Вадим Абдрашитов, 1980 г.)"></iframe></div></p>
 <p>Хорошее кино!</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Jean-Philippe Rameau & Grigory Sokolov]]></title>
-      <link href="https://fm.alexeypegov.com/2024-01-01-jean-philippe-rameau.html" />
-      <id>urn:uuid:45415506-a871-3aa4-816b-2bb376b7b3b5</id>
-      <updated>2024-01-01T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>Несколько пьес <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%BE,_%D0%96%D0%B0%D0%BD-%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF">Жана-Филиппа Рамо</a> в исполнении <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%9B%D0%B8%D0%BF%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">Григория Соколова</a>.</p>
-<p>Дикари (Les sauvages):
-<div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/7OYHrCLsKR8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Rameau - Les sauvages - Grigory Sokolov"></iframe></div></p>
-<p>Циклопы (Les Cyclopes):
-<div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/mLmbZJAjeoI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Grigory Sokolov – Rameau: Les Cyclopes"></iframe></div></p>
-<p>С Новым годом!</p>
 
 	]]>
       </content>

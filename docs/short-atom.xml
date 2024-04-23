@@ -4,7 +4,13 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-22T00:00:00+00:00</updated>
+  <updated>2024-04-23T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Золото бунта]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-23-zoloto-bunta.html" />
+      <id>urn:uuid:d5d91016-e625-3e99-9f5c-06362139fca4</id>
+      <updated>2024-04-23T00:00:00+00:00</updated>
+    </entry>
     <entry>
       <title><![CDATA[Любитель мороженого]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-22-icecream-lover.html" />
@@ -57,12 +63,6 @@
       <title><![CDATA[Охота на лис (1980)]]></title>
       <link href="https://fm.alexeypegov.com/2024-01-02-ohota-na-lis.html" />
       <id>urn:uuid:eb75ff22-6bba-3f54-942a-fa4f02741fb7</id>
-      <updated>2024-01-01T00:00:00+00:00</updated>
-    </entry>
-    <entry>
-      <title><![CDATA[Jean-Philippe Rameau & Grigory Sokolov]]></title>
-      <link href="https://fm.alexeypegov.com/2024-01-01-jean-philippe-rameau.html" />
-      <id>urn:uuid:45415506-a871-3aa4-816b-2bb376b7b3b5</id>
       <updated>2024-01-01T00:00:00+00:00</updated>
     </entry>
 </feed>
