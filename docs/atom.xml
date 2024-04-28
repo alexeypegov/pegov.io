@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-23T00:00:00+00:00</updated>
+  <updated>2024-04-28T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Невозможно делать нормальный колледж в ненормальной стране]]></title>
+      <link href="https://fm.alexeypegov.com/2024-04-28-novocollege.html" />
+      <id>urn:uuid:b03ead8a-71d3-334d-b8c2-c663186de39d</id>
+      <updated>2024-04-28T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/T1jvUmqMCvU?start=586&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="&quot;Невозможно делать нормальный колледж в ненормальной стране&quot;. Новоколледж прекращает свою работу"></iframe></div></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Золото бунта]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-23-zoloto-bunta.html" />
@@ -147,22 +163,6 @@
 	<![CDATA[
         <p>Не могу сдержать слезы.</p>
 <p>Прощай, друг.</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Охота на лис (1980)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-01-02-ohota-na-lis.html" />
-      <id>urn:uuid:eb75ff22-6bba-3f54-942a-fa4f02741fb7</id>
-      <updated>2024-01-01T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/8rIhH9keWt8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Охота на лис (4К, драма, реж. Вадим Абдрашитов, 1980 г.)"></iframe></div></p>
 
 	]]>
       </content>
