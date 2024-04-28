@@ -17,6 +17,7 @@
 </#if>
 <#if isPartOf>
   "isPartOf": {
+    "@type": "Blog",
 	"@id": "${vars.blog.url}#Blog"
   },
 </#if>
