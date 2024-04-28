@@ -65,7 +65,7 @@
 <@schema type="WebPage" url="${vars.blog.url}${link}" description="${summary}" id="${vars.blog.url}${link}#Page" created="${created}" updated="${updated!created}"/>
 <#break/>
 <#case "full">
-<@schema type="BlogPosting" url="${vars.blog.url}${link}" description=summary!"" id="${vars.blog.url}${link}#Post" headline="title" image=cover!"" created=date updated=date!updated tags=tags isPartOf=true/>
+<@schema type="BlogPosting" url="${vars.blog.url}${link}" description=summary!"" id="${vars.blog.url}${link}#Post" headline=title image=cover!"" created=date updated=date!updated tags=tags isPartOf=true/>
 <#break/>
 <#default>
 <#break/>
