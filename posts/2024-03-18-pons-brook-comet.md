@@ -3,6 +3,7 @@ Title: Комета
 Date: 2024-03-18
 Tags:
   - космос
+Summary: офигенская комета
 ---
 
 ![Pons-Brook Comet](images/comet-pons-brook@2x.jpg)

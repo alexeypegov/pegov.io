@@ -19,12 +19,23 @@ general:
     - static/google8c29bab599fda3d2.html
 
 vars:
-  blog-title: Ложное движение
-  blog-url: https://fm.alexeypegov.com
-  feed-url: https://fm.alexeypegov.com/atom.xml
-  feed-author: Алексей Пегов
-  feed-email: iam@alexeypegov.com
-  description: 'Личный блог Алексея Пегова: фотография на пленку, музыка и авторское кино'
-  keywords: 'пегов,pegov,ложное движение,false movement'
-  blog-cover: /images/avatar.jpg
+  blog:
+    title: Ложное движение
+    url: https://fm.alexeypegov.com
+    description: 'Личный блог Алексея Пегова: фотография на пленку, музыка и авторское кино'
+    cover: /images/avatar.jpg
+  feeds:
+    - url: https://fm.alexeypegov.com/atom.xml
+      name: Все Записи
+  author:    
+    name: Алексей Пегов
+    email: iam@alexeypegov.com
+    url: https://alexeypegov.com
   note-cover: /i/favicon-180.png
+  pages:
+    - url: about.html
+      title: О сайте
+    - url: https://alexeypegov.com
+      title: Фотографирую
+    - url: /2022-09-24-my-position.html
+      title: ВОЙНА

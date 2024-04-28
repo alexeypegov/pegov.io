@@ -190,7 +190,7 @@ article {
 }
 
 article~article {
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 article>h2 {
@@ -298,7 +298,7 @@ blockquote~blockquote {
   margin-top: 3rem;
 }
 
-blockquote>p {
+article.text blockquote>p {
   margin-top: 0;
 }
 
@@ -354,9 +354,10 @@ nav.paging {
 
 footer {
   text-align: center;
-  padding: 1rem 0;
+  padding: 3rem 0 1rem;
   opacity: .3;
-  font-size: var(--small-size);
+  font-size: var(--base-size);
+  font-family: var(--title-font-family);
 }
 
 @media all and (width <=599px) {

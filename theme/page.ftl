@@ -1,6 +1,7 @@
+<#assign ld_type="page">
 <#include "header.ftl">
 <article>
-  <div itemprop="articleBody" class="text">
+  <div class="text">
     ${body}
   </div>
   <#if updated?exists>
