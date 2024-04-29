@@ -4,7 +4,7 @@ Date: 2023-01-06
 Tz: Asia/Bangkok
 Tags:
   - фотографирую
-Cover: /images/abandoned-car.jpg
+Cover: images/abandoned-car.jpg
 ---
 
 ![Abandoned car](images/abandoned-car@2x.jpg)

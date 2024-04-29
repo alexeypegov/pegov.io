@@ -5,7 +5,7 @@ Tz: Asia/Bangkok
 Tags:
   - захар
 Summary: Некоторые мысли Захара
-Cover: /images/zakharuy_thoughts_2023.jpg
+Cover: images/zakharuy_thoughts_2023.jpg
 ---
 
 ![Мысли Захара](images/zakharuy_thoughts_2023@2x.jpg)

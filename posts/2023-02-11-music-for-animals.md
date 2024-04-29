@@ -4,7 +4,6 @@ Date: 2023-02-11
 Tz: Asia/Bangkok
 Tags:
   - слушаю
-Cover: /images/music-for-animals.webp
 Summary: Кайфовый альбом!
 ---
 

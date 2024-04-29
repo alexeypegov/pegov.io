@@ -3,7 +3,7 @@ Title: The Hand of God (2021)
 Date: 2022-05-08
 Tags:
   - саптрю
-Cover: /images/the-hand-of-god.jpg
+Cover: images/the-hand-of-god.jpg
 Summary: Очень приятное кино!
 ---
 

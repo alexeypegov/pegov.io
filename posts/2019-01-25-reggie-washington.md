@@ -4,7 +4,7 @@ Date: 2019-01-25
 Tags:
   - слушаю
   - джаз
-Cover: /images/reggie-washington.jpg
+Cover: images/reggie-washington.jpg
 ---
 
 ![Reggie Washington - Vintage New Acoustic](images/reggie-washington.jpg)

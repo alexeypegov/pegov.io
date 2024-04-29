@@ -18,11 +18,32 @@
         ${note.body}
 	]]>
       </content>
+      <#else>
+      <content type="text">
+      <#switch note.view!"full">
+      <#case "tweet">
+      <#if note.tweet??>
+      ${note.tweet}
+      <#else>
+      ${note.body?replace('<[^>]+>','','r')}
+      </#if>
+      <#break/>
+      <#case "image">
+      ${vars.blog.url}/${note.cover}
+      <#break/>
+      <#case "video">
+      ${note.video}
+      <#break/>
+      <#default>
+      ${note.title}
+      <#break/>
+      </#switch>
+      </content>
+      </#if>
       <author>
         <name>${vars.author.name}</name>
         <email>${vars.author.email}</email>
       </author>
-      </#if>
     </entry>
   </#list>
 </feed>

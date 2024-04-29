@@ -4,7 +4,7 @@ Date: 2023-01-10
 Tz: Asia/Bangkok
 Tags:
   - снимаю
-Cover: /images/zakhars-selfportrait.jpg
+Cover: images/zakhars-selfportrait.jpg
 ---
 
 ![Автопортрет Захара](images/zakhars-selfportrait@2x.jpg)

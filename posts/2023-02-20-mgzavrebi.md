@@ -4,7 +4,7 @@ Date: 2023-02-20
 Tz: Asia/Bangkok
 Tags:
   - слушаю
-Cover: /images/mgzavrebi-kamara.jpg
+Cover: images/mgzavrebi-kamara.jpg
 Summary: Новый кайфовый альбом!
 ---
 

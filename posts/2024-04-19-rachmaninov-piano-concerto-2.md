@@ -6,6 +6,7 @@ Tags:
   - классика
 Summary: Запись Второго концерта для фортепиано с оркестром Сергея Рахманинова, Хельсинки, 1993 год
 View: video
+Video: https://www.youtube.com/watch?v=FRX5uM9cEos
 ---
 
 https://www.youtube.com/watch?v=FRX5uM9cEos

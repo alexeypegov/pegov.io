@@ -5,7 +5,7 @@ Tags:
   - слушаю
   - jazz
 Summary: Кайфовый альбом
-Cover: /images/welcome-to-the-hills.jpg
+Cover: images/welcome-to-the-hills.jpg
 ---
 
 https://www.youtube.com/watch?v=TLWygV_OGc0
