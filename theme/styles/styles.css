@@ -257,6 +257,7 @@ article .object-footer a {
 article.tweet {
   text-align: left;
   font-size: var(--h4-size);
+  color: var(--title-color);
 }
 
 /*
@@ -385,6 +386,10 @@ footer {
 
   article>.sub {
     margin-left: 0;
+  }
+
+  article~article {
+    margin-top: 2rem;
   }
 
   blockquote {
