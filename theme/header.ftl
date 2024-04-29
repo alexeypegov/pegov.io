@@ -58,7 +58,7 @@
     <link rel="apple-touch-icon" href="i/favicon-32.png">
     <link rel="apple-touch-icon" sizes="180x180" href="i/favicon-180.png">
     <link rel="apple-touch-icon" sizes="196x196" href="i/favicon-196.png">
-    <link rel="shortcut icon" type="image/png" href="i/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="i/favicon-32.png">
     <link rel="stylesheet" type="text/css" href="styles/styles.css">
     <#list vars.feeds as feed>
     <link rel="alternate" type="application/atom+xml" title="${feed.name}" href="${feed.url}">

@@ -17,8 +17,6 @@ general:
     - static/robots.txt
     - static/CNAME
     - static/google8c29bab599fda3d2.html
-    - static/favicon.png
-    - static/favicon.ico
 
 vars:
   blog:
