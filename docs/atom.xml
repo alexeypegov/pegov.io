@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-28T00:00:00+00:00</updated>
+  <updated>2024-05-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[The Yussef Dayes Experience]]></title>
+      <link href="https://fm.alexeypegov.com/2024-05-02-yussef-dayes.html" />
+      <id>urn:uuid:3a5578a5-3f5a-319a-8166-c340d667061c</id>
+      <updated>2024-05-02T00:00:00+00:00</updated>
+      <content type="html">
+	<![CDATA[
+        <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BnEgnrUCXPY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="The Yussef Dayes Experience - Live From Malibu"></iframe></div></p>
+
+	]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Невозможно делать нормальный колледж в ненормальной стране]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-28-novocollege.html" />
@@ -146,23 +162,6 @@
 	<![CDATA[
         <p><img src="https://fm.alexeypegov.com/images/comet-pons-brook.jpg" alt="Pons-Brook Comet" /></p>
 <p>Какая классная <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D1%82%D0%B0_%D0%9F%D0%BE%D0%BD%D1%81%D0%B0_%E2%80%94_%D0%91%D1%80%D1%83%D0%BA%D1%81%D0%B0">комета</a>! (<a href="https://apod.nasa.gov/apod/ap240318.html">отсюда</a>)</p>
-
-	]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[R.I.P.]]></title>
-      <link href="https://fm.alexeypegov.com/2024-03-01-rip.html" />
-      <id>urn:uuid:7373b8a2-c072-3f11-8f9b-c2ab5c21fb94</id>
-      <updated>2024-03-01T00:00:00+00:00</updated>
-      <content type="html">
-	<![CDATA[
-        <p>Не могу сдержать слезы.</p>
-<p>Прощай, друг.</p>
 
 	]]>
       </content>

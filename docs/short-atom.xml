@@ -4,7 +4,20 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-04-28T00:00:00+00:00</updated>
+  <updated>2024-05-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[The Yussef Dayes Experience]]></title>
+      <link href="https://fm.alexeypegov.com/2024-05-02-yussef-dayes.html" />
+      <id>urn:uuid:3a5578a5-3f5a-319a-8166-c340d667061c</id>
+      <updated>2024-05-02T00:00:00+00:00</updated>
+      <content type="text">
+      https://www.youtube.com/watch?v=BnEgnrUCXPY
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Невозможно делать нормальный колледж в ненормальной стране]]></title>
       <link href="https://fm.alexeypegov.com/2024-04-28-novocollege.html" />
@@ -118,21 +131,6 @@
       <updated>2024-03-18T00:00:00+00:00</updated>
       <content type="text">
       Комета
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[R.I.P.]]></title>
-      <link href="https://fm.alexeypegov.com/2024-03-01-rip.html" />
-      <id>urn:uuid:7373b8a2-c072-3f11-8f9b-c2ab5c21fb94</id>
-      <updated>2024-03-01T00:00:00+00:00</updated>
-      <content type="text">
-      Не могу сдержать слезы.
-Прощай, друг.
-
       </content>
       <author>
         <name>Алексей Пегов</name>
