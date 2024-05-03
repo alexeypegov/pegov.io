@@ -14,31 +14,31 @@
       <updated>${note.date?date("yyyy-MM-dd")?date}</updated>
       <#if description?exists>
       <content type="html">
-	<![CDATA[
-        ${note.body}
-	]]>
+<![CDATA[
+${note.body}
+]]>
       </content>
       <#else>
-      <content type="text">
-      <#switch note.view!"full">
-      <#case "tweet">
-      <#if note.tweet??>
-      ${note.tweet}
-      <#else>
-      ${note.body?replace('<[^>]+>','','r')}
-      </#if>
-      <#break/>
-      <#case "image">
-      ${vars.blog.url}/${note.cover}
-      <#break/>
-      <#case "video">
-      ${note.video}
-      <#break/>
-      <#default>
-      ${note.title}
-      <#break/>
-      </#switch>
-      </content>
+      <#rt><content type="text"><![CDATA[
+<#switch note.view!"full">
+<#case "tweet">
+<#if note.tweet??>
+<#t>${note.tweet}
+<#else>
+<#t>${note.body?trim?replace('<[^>]+>','','r')}
+</#if>
+<#break/>
+<#case "image">
+<#t>${vars.blog.url}/${note.cover}
+<#break/>
+<#case "video">
+<#t>${note.video}
+<#break/>
+<#default>
+<#t>${note.title}
+<#break/>
+</#switch>
+<#lt>]]></content>
       </#if>
       <author>
         <name>${vars.author.name}</name>
