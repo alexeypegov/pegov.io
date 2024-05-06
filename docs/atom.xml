@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-05-02T00:00:00+00:00</updated>
+  <updated>2024-05-06T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Немецкий язык]]></title>
+      <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
+      <id>urn:uuid:19d492db-0a1d-35c5-afd9-13bf649028be</id>
+      <updated>2024-05-06T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Я всегда хотел выучить немецкий язык по трем причинам: Tic Tac Toe, Rammstein и Einstürzende Neubauten. Первых давно уже нет, вторых давно не слушаю, а вот последние все еще радуют и &quot;легонько&quot; <a href="https://www.youtube.com/watch?v=CxDriPLyBqo">напоминают</a> о давнем желании. Да и Берлин. И Берлин.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[The Yussef Dayes Experience]]></title>
       <link href="https://fm.alexeypegov.com/2024-05-02-yussef-dayes.html" />
@@ -142,25 +158,6 @@
 <![CDATA[
 <p><img src="https://fm.alexeypegov.com/images/perfect-days-2023.jpg" alt="Perfect Days by Wim Wenders" /></p>
 <p>Хорошее <a href="https://www.imdb.com/title/tt27503384/">кино</a>!</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Приятно]]></title>
-      <link href="https://fm.alexeypegov.com/2024-03-18-priyatno.html" />
-      <id>urn:uuid:6eca7c89-6f9a-3553-b681-de0a73f728db</id>
-      <updated>2024-03-18T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Несмотря на то, что выборами это назвать язык не поворачивается, тем не менее, вот вам картинка:</p>
-<p><img src="https://fm.alexeypegov.com/images/vote24-results.png" alt="Результаты УИК 8276" /></p>
-<p>Приятно оказаться в компании тех, кто таким образом высказался по поводу происходящего!</p>
-<p>ps: <a href="https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTGDVMHm6jfZGxBBObUqKP27oWrPT_ZT2MFt8WwTU5G3M4BP9iPDZ9RlyTktAM2Z2lLB5ZGbHGTd82A/pubhtml?gid=1210620809&amp;pli=1">экзит-поллс</a>, <a href="https://fm.alexeypegov.com/images/vote24-uik@2x.jpg">официальные результаты</a></p>
 
 ]]>
       </content>
