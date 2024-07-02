@@ -4,18 +4,7 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-07-01T00:00:00+00:00</updated>
-    <entry>
-      <title><![CDATA[Nintendo Switch Lite]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-01-switch-lite.html" />
-      <id>urn:uuid:0df4e626-b854-3b76-901e-084373436780</id>
-      <updated>2024-07-01T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Nintendo Switch Lite]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
+  <updated>2024-05-06T00:00:00+00:00</updated>
     <entry>
       <title><![CDATA[Немецкий язык]]></title>
       <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
@@ -110,6 +99,17 @@
       <id>urn:uuid:42ccb728-b922-34fe-8bd2-f46d643e00a2</id>
       <updated>2024-04-19T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=FRX5uM9cEos]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[Perfect Days (2023)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-03-21-perfect-days.html" />
+      <id>urn:uuid:8c8ec0ef-064f-3923-aee7-f87a6e92d879</id>
+      <updated>2024-03-21T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Perfect Days (2023)]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
