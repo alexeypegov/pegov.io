@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-05-06T00:00:00+00:00</updated>
+  <updated>2024-07-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Return of the Obra Dinn]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-02-obra-dinn.html" />
+      <id>urn:uuid:3772cb4f-5be6-3781-88cf-77ac84fe56ad</id>
+      <updated>2024-07-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Return of the Obra Dinn]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Немецкий язык]]></title>
       <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:42ccb728-b922-34fe-8bd2-f46d643e00a2</id>
       <updated>2024-04-19T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=FRX5uM9cEos]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Perfect Days (2023)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-03-21-perfect-days.html" />
-      <id>urn:uuid:8c8ec0ef-064f-3923-aee7-f87a6e92d879</id>
-      <updated>2024-03-21T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Perfect Days (2023)]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

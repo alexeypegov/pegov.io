@@ -4,7 +4,31 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-05-06T00:00:00+00:00</updated>
+  <updated>2024-07-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Return of the Obra Dinn]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-02-obra-dinn.html" />
+      <id>urn:uuid:3772cb4f-5be6-3781-88cf-77ac84fe56ad</id>
+      <updated>2024-07-02T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Так получилось, что я иногда во что-то играю. Но я не геймер, зацепить меня сложно, поэтому играю я не часто. И еще реже встречаются игры, про которые хочется рассказать.</p>
+<p><a href="https://obradinn.com/">Return of the Obra Dinn</a> из этого короткого списка.</p>
+<p>По сути — это квест. Или даже не квест, а паззл. Или, и то, и другое.</p>
+<p>Смысл игры состоит в том, что вам нужно идентифицировать пропавших членов команды парусного судна Восточно-Индийской компании. Судно пришло, и кроме пары истлевших скелетов, на нем ничего нет, и вас нанимают выяснить, что же, черт побери, на нем произошло.</p>
+<p>Из артефактов в вашем распоряжении — несколько зарисовок команды судовым художником, карта маршрута и сам корабль. Только с этими артефактами каши не сваришь, поэтому бонусом ко всему этому вам даются часы, которые могут переносить вас в определенные сцены по пути следования судна. Или не сцены, а снепшоты. Снепшоты, потому что они полностью статичны, несмотря на то, что вы можете по ним в определенных пределах перемещаться, &quot;проваливаясь&quot; все раньше и раньше во времени. А из-за того, как выбраны эти моменты, а еще потому, что каждый такой момент сопровождается коротким аудио фрагментом, часто содержащим обрывок разговора его участников, каждая такая статическая сцена &quot;оживает&quot; в вашем воображении (а если вспомнить сеттинг, то становится понятно, что моменты эти зачастую крайне драматичны).</p>
+<p>В общем, Return of the Obra Dinn — это эдакий набор трагических фрагментов, перемещаясь и исследуя которые, вы постепенно соберете весь паззл целиком.</p>
+<p>И если вы думаете, что игра эта только про людей, которые что-то не поделили, то вы глубоко ошибаетесь)</p>
+<p>Ну и отдельно надо отметить то, как все это сделано, потому вы перемещаетесь в трехмерном пространстве, которое визуализировано с (sic!) помощью всего двух цветов! Собственно говоря, я узнал про эту игру из <a href="https://surma.dev/things/ditherpunk/">статьи про дизеринг</a> — алгоритме, на котором основана вся графика в ней.</p>
+<p>Играйте!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Немецкий язык]]></title>
       <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
@@ -141,23 +165,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/FRX5uM9cEos?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Grigory Sokolov - Rachmaninoff Piano Concerto No.2 in C minor, Op.18 - Video 1993"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Perfect Days (2023)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-03-21-perfect-days.html" />
-      <id>urn:uuid:8c8ec0ef-064f-3923-aee7-f87a6e92d879</id>
-      <updated>2024-03-21T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><img src="https://fm.alexeypegov.com/images/perfect-days-2023.jpg" alt="Perfect Days by Wim Wenders" /></p>
-<p>Хорошее <a href="https://www.imdb.com/title/tt27503384/">кино</a>!</p>
 
 ]]>
       </content>
