@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Literata:wght@400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root {
   /* size factor: 1.250 */
@@ -12,7 +11,8 @@
   --h5-size: 1.25rem;
   --h6-size: 1rem;
   --small-size: .8rem;
-  --font-family: "Literata", fallback, serif;
+  --font-family: 'Literata', fallback, serif;
+  --font-weight: 400;
   --title-font-family: 'Mulish', fallback, sans-serif;
   --text-color: #444;
   --title-color: #444;
@@ -91,6 +91,8 @@ html {
 
 body {
   font-family: var(--font-family);
+  font-weight: var(--font-weight);
+  font-optical-sizing: auto;
   line-height: 1.43;
   background-color: var(--background-color);
   color: var(--text-color);
