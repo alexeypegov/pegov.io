@@ -5,8 +5,8 @@
 <#assign parsed=date?date("yyyy-MM-dd")>
 
 <article class="object video">
-  ${body}
-  <div class="object-footer">
+  <div class="object-header">
 	<a href="${slug}.html"><time itemprop="datePublished" class="date">${parsed?date}</time></a>
   </div>
+  ${body}
 </article>

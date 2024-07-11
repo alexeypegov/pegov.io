@@ -216,7 +216,7 @@ article>h2>a:hover {
 }
 
 article>.sub,
-article>.object-footer {
+article>.object-header {
   font-size: var(--h6-size);
   font-family: var(--title-font-family);
 }
@@ -245,14 +245,14 @@ article img {
 }
 
 article.object {
-  text-align: center;
+  text-align: left;
 }
 
-article .object-footer {
-  margin-top: .5rem;
+article .object-header {
+  margin-bottom: .5rem;
 }
 
-article .object-footer a {
+article .object-header a {
   text-decoration-color: var(--note-details-color);
 }
 
