@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-07-13T00:00:00+00:00</updated>
+  <updated>2024-07-14T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Агендус постмортем]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-14-agendus-postmortem.html" />
+      <id>urn:uuid:49339f79-2c68-390b-8602-fdb6cae7f371</id>
+      <updated>2024-07-14T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Агендус постмортем]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Agendus]]></title>
       <link href="https://fm.alexeypegov.com/2024-07-13-agendus.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:2a6feaec-adde-3777-839d-3747b6a182cc</id>
       <updated>2024-04-22T00:00:00+00:00</updated>
       <content type="text"><![CDATA[С большим удовольствием прочел рассказ Владимира Сорокина &quot;Лошадиный суп&quot;, за который он в 2022 году получил премию О. Генри. Подумал, что надо бы почитать еще рассказов, и его, и вообще. И даже премия подходящая нашлась.]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Секретное место Захара]]></title>
-      <link href="https://fm.alexeypegov.com/2024-04-21-zakhars-secret-place.html" />
-      <id>urn:uuid:6628f192-f871-33ac-8f86-7b033d8fd9dc</id>
-      <updated>2024-04-21T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://fm.alexeypegov.com/images/zakhars-secret-place.jpg]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
