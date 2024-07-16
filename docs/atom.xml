@@ -4,7 +4,40 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-07-14T00:00:00+00:00</updated>
+  <updated>2024-07-16T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[The Cub (2024)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-16-the-cub.html" />
+      <id>urn:uuid:401955a0-9c6d-310a-807a-c41ee98a60de</id>
+      <updated>2024-07-16T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><img src="https://fm.alexeypegov.com/images/radio-nostalgia.jpg" alt="Radio nostalgia from Mars: The Cub, 2024" /></p>
+<p>Не часто встречаются игрушки, которые клево слушать, а еще разглядывать: вот <a href="https://thecubgame.com/">The Cub</a> как раз такая — я бы даже ее чуть попроще еще сделал, да помедленнее, так и хочется залипнуть...</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[бд]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-16-schema-schema-schema.html" />
+      <id>urn:uuid:dbdb6534-f459-39c6-bc76-b8bb6c1d2efa</id>
+      <updated>2024-07-16T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Потребовалось тут немного под веб пописать, сел придумывать схему бд и понял, как я по этому соскучился. Не смог вспомнить, когда последний раз писал SQL запрос! А это же кайф.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Агендус постмортем]]></title>
       <link href="https://fm.alexeypegov.com/2024-07-14-agendus-postmortem.html" />
@@ -155,38 +188,6 @@
       <content type="html">
 <![CDATA[
 <p>Буду писать сюда теперь совсем как в твиттор. В этот раз о <a href="https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE_%D0%B1%D1%83%D0%BD%D1%82%D0%B0">Золоте бунта</a> — романе Алексея Иванова, который утопил в таком количестве незнакомых слов, что даже заставил нервно посмеиваться первые несколько страниц от непонимания происходящего. Очень круто. 5/5.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Любитель мороженого]]></title>
-      <link href="https://fm.alexeypegov.com/2024-04-22-icecream-lover.html" />
-      <id>urn:uuid:c400e382-b2ad-3da2-9eab-77f942ab0d8b</id>
-      <updated>2024-04-22T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><img src="https://fm.alexeypegov.com/images/ice-cream-lover.webp" alt="Любитель мороженого" /></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Лошадиный суп]]></title>
-      <link href="https://fm.alexeypegov.com/2024-04-22-horse-soup.html" />
-      <id>urn:uuid:2a6feaec-adde-3777-839d-3747b6a182cc</id>
-      <updated>2024-04-22T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>С большим удовольствием прочел рассказ Владимира Сорокина &quot;Лошадиный суп&quot;, за который он в 2022 году получил <a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%9E._%D0%93%D0%B5%D0%BD%D1%80%D0%B8">премию О. Генри</a>. Подумал, что надо бы почитать еще рассказов, и его, и вообще. И даже премия подходящая нашлась.</p>
 
 ]]>
       </content>
