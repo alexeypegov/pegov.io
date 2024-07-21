@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-07-16T00:00:00+00:00</updated>
+  <updated>2024-07-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Bluey (2018-)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-07-21-bluey.html" />
+      <id>urn:uuid:6fd0b97a-56c8-3d75-8ae2-d420c5667eda</id>
+      <updated>2024-07-21T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Bluey (2018-)]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[The Cub (2024)]]></title>
       <link href="https://fm.alexeypegov.com/2024-07-16-the-cub.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:c759919b-afd1-3bd5-b2b9-2b27cdf5a638</id>
       <updated>2024-05-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=PCOab0Dluhg]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Золото бунта]]></title>
-      <link href="https://fm.alexeypegov.com/2024-04-23-zoloto-bunta.html" />
-      <id>urn:uuid:d5d91016-e625-3e99-9f5c-06362139fca4</id>
-      <updated>2024-04-23T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Буду писать сюда теперь совсем как в твиттор. В этот раз о Золоте бунта — романе Алексея Иванова, который утопил в таком количестве незнакомых слов, что даже заставил нервно посмеиваться первые несколько страниц от непонимания происходящего. Очень круто. 5/5.]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
