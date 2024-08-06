@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-07-21T00:00:00+00:00</updated>
+  <updated>2024-08-06T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Хороший вопрос]]></title>
+      <link href="https://fm.alexeypegov.com/2024-08-06-obmen.html" />
+      <id>urn:uuid:8e53e2ac-2ce0-3782-afc8-4b7177f7565c</id>
+      <updated>2024-08-06T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Хороший вопрос]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Bluey (2018-)]]></title>
       <link href="https://fm.alexeypegov.com/2024-07-21-bluey.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:3a5578a5-3f5a-319a-8166-c340d667061c</id>
       <updated>2024-05-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=BnEgnrUCXPY]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Хорошее интервью хорошего фотографа Александра Гронского]]></title>
-      <link href="https://fm.alexeypegov.com/2024-05-02-gronsky.html" />
-      <id>urn:uuid:c759919b-afd1-3bd5-b2b9-2b27cdf5a638</id>
-      <updated>2024-05-02T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=PCOab0Dluhg]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
