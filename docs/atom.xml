@@ -4,7 +4,30 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-08-06T00:00:00+00:00</updated>
+  <updated>2024-08-07T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Захар рисует]]></title>
+      <link href="https://fm.alexeypegov.com/2024-08-07-zakhar-paintings.html" />
+      <id>urn:uuid:67c78466-ee7e-3fb2-b70f-cc9faaf2d908</id>
+      <updated>2024-08-07T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Захар рисует в садике на каких-то кусочках бумаги, которые потом складывает по многу раз, крутые картинки.</p>
+<p>На одних идет дождь, светит радуга, ползают черепахи (самая большая — это сам Захар), есть мама и папа, а так же ракета (ищите):</p>
+<p><img src="https://fm.alexeypegov.com/images/zakhar-painting-1.webp" alt="Захар рисует" /></p>
+<p>На других люди летают по трубам (нет, Футураму он не смотрел) внутри трамвая, который перевозит подводную лодку:</p>
+<p><img src="https://fm.alexeypegov.com/images/zakhar-painting-2.webp" alt="Захар рисует" /></p>
+<p>На третьих извергаются вулканы и ходят прямоугольные пятиноги:</p>
+<p><img src="https://fm.alexeypegov.com/images/zakhar-painting-3.webp" alt="Захар рисует" /></p>
+<p>И так каждый день.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Хороший вопрос]]></title>
       <link href="https://fm.alexeypegov.com/2024-08-06-obmen.html" />
@@ -184,22 +207,6 @@
       <content type="html">
 <![CDATA[
 <p>Я когда-то подумывал выучить немецкий язык как минимум по трем причинам: Tic Tac Toe, Rammstein и Einstürzende Neubauten. Первых давно уже нет, вторых давно не слушаю, а вот последние все еще радуют и &quot;легонько&quot; <a href="https://www.youtube.com/watch?v=CxDriPLyBqo">напоминают</a> о давнем желании. Да и Берлин. И Берлин.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[The Yussef Dayes Experience]]></title>
-      <link href="https://fm.alexeypegov.com/2024-05-02-yussef-dayes.html" />
-      <id>urn:uuid:3a5578a5-3f5a-319a-8166-c340d667061c</id>
-      <updated>2024-05-02T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BnEgnrUCXPY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="The Yussef Dayes Experience - Live From Malibu"></iframe></div></p>
 
 ]]>
       </content>
