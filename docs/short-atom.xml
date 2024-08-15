@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-08-07T00:00:00+00:00</updated>
+  <updated>2024-08-15T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Характеристика]]></title>
+      <link href="https://fm.alexeypegov.com/2024-08-15-pizdezh.html" />
+      <id>urn:uuid:edc917ba-db09-3973-8064-f92a36664418</id>
+      <updated>2024-08-15T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Характеристика]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Захар рисует]]></title>
       <link href="https://fm.alexeypegov.com/2024-08-07-zakhar-paintings.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:3772cb4f-5be6-3781-88cf-77ac84fe56ad</id>
       <updated>2024-07-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Return of the Obra Dinn]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Немецкий язык]]></title>
-      <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
-      <id>urn:uuid:19d492db-0a1d-35c5-afd9-13bf649028be</id>
-      <updated>2024-05-06T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Я когда-то подумывал выучить немецкий язык как минимум по трем причинам: Tic Tac Toe, Rammstein и Einstürzende Neubauten. Первых давно уже нет, вторых давно не слушаю, а вот последние все еще радуют и _легонько_ напоминают о давнем желании. Да и Берлин. И Берлин. https://www.youtube.com/watch?v=CxDriPLyBqo]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

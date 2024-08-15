@@ -4,7 +4,26 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-08-07T00:00:00+00:00</updated>
+  <updated>2024-08-15T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Характеристика]]></title>
+      <link href="https://fm.alexeypegov.com/2024-08-15-pizdezh.html" />
+      <id>urn:uuid:edc917ba-db09-3973-8064-f92a36664418</id>
+      <updated>2024-08-15T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Заключение о смерти Алексея Навального, <a href="https://www.youtube.com/watch?v=lFEBD0MJPn4">полученное его супругой от Следственного комитета</a>, либо свидетельствует о том, что причину смерти не нашли, либо это попытка скрыть, что произошло на самом деле. Так считает бывший врач Навального Александр Полупан. На просьбу «Агентства» одним словом охарактеризовать текст СК, медик сказал:</p>
+<blockquote>
+<p>Пиздеж</p>
+</blockquote>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Захар рисует]]></title>
       <link href="https://fm.alexeypegov.com/2024-08-07-zakhar-paintings.html" />
@@ -191,22 +210,6 @@
 <p>И если вы думаете, что игра эта только про людей, которые что-то не поделили, то вы глубоко ошибаетесь)</p>
 <p>Ну и отдельно надо отметить то, как все это сделано, потому вы перемещаетесь в трехмерном пространстве, которое визуализировано с (sic!) помощью всего двух цветов! Собственно говоря, я узнал про эту игру из <a href="https://surma.dev/things/ditherpunk/">статьи про дизеринг</a> — алгоритме, на котором основана вся графика в ней.</p>
 <p>Играйте!</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Немецкий язык]]></title>
-      <link href="https://fm.alexeypegov.com/2024-05-06-einstuerzende-neubauten.html" />
-      <id>urn:uuid:19d492db-0a1d-35c5-afd9-13bf649028be</id>
-      <updated>2024-05-06T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Я когда-то подумывал выучить немецкий язык как минимум по трем причинам: Tic Tac Toe, Rammstein и Einstürzende Neubauten. Первых давно уже нет, вторых давно не слушаю, а вот последние все еще радуют и &quot;легонько&quot; <a href="https://www.youtube.com/watch?v=CxDriPLyBqo">напоминают</a> о давнем желании. Да и Берлин. И Берлин.</p>
 
 ]]>
       </content>
