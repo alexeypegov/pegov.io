@@ -45,6 +45,7 @@ elif [ $TYPE = "video" ]; then
   cat <<EOF | sed 's/^[ ]*//' > "$filename"
   ---
   Title:
+  Date: $(date +'%Y-%m-%d')
   Tags:
   View: video
   Video:

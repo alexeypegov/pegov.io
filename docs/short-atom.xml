@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-08-16T00:00:00+00:00</updated>
+  <updated>2024-09-18T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Монеточка - Переживу]]></title>
+      <link href="https://fm.alexeypegov.com/2024-09-18-perezhivu.html" />
+      <id>urn:uuid:c9488bc1-42e3-3eb7-92c7-1b48c1e48276</id>
+      <updated>2024-09-18T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=k1jFRnOIUcg]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Long Arm & Ruslan Gadzhimuradov]]></title>
       <link href="https://fm.alexeypegov.com/2024-08-16-long-arm-plus.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:9e64d901-fcc2-35ed-b25b-38bcae6e5fee</id>
       <updated>2024-07-13T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Agendus]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Seumas McNally Grand Prize]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-04-seumas-mcnally.html" />
-      <id>urn:uuid:735a0fab-34d2-368d-8952-f990263b7981</id>
-      <updated>2024-07-04T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Кстати, Return of the Obra Dinn получила в 2019 Seumas McNally Grand Prize. Так что если хочется поиграть во что-то и не знаете во что, то можно начать с этого списка: https://en.wikipedia.org/wiki/Seumas_McNally_Grand_Prize]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
