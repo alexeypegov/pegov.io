@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-09-26T00:00:00+00:00</updated>
+  <updated>2024-10-10T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Немножко картинок 2024]]></title>
+      <link href="https://fm.alexeypegov.com/2024-10-10-pictures-2024.html" />
+      <id>urn:uuid:dffb8bf2-dbfa-3aec-9195-dbb66727d030</id>
+      <updated>2024-10-10T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Немножко картинок 2024]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Ruti - Lungs (Calibre Remix)]]></title>
       <link href="https://fm.alexeypegov.com/2024-09-26-lungs.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:dbdb6534-f459-39c6-bc76-b8bb6c1d2efa</id>
       <updated>2024-07-16T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Потребовалось тут немного под веб пописать, сел придумывать схему бд и понял, как я по этому соскучился. Не смог вспомнить, когда последний раз писал SQL запрос! А это же кайф.]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Агендус постмортем]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-14-agendus-postmortem.html" />
-      <id>urn:uuid:49339f79-2c68-390b-8602-fdb6cae7f371</id>
-      <updated>2024-07-14T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Агендус постмортем]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
