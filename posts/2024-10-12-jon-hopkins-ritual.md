@@ -1,5 +1,5 @@
 ---
-Title: jon Hopkins - Ritual (2024)
+Title: Jon Hopkins - Ritual (2024)
 Date: 2024-10-12
 Tags:
   - слушаю
