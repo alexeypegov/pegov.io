@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-10-10T00:00:00+00:00</updated>
+  <updated>2024-10-12T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[jon Hopkins - Ritual (2024)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-10-12-jon-hopkins-ritual.html" />
+      <id>urn:uuid:98861240-453e-35fd-86ba-3a4da909ed0b</id>
+      <updated>2024-10-12T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[jon Hopkins - Ritual (2024)]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Немножко картинок 2024]]></title>
       <link href="https://fm.alexeypegov.com/2024-10-10-pictures-2024.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:401955a0-9c6d-310a-807a-c41ee98a60de</id>
       <updated>2024-07-16T00:00:00+00:00</updated>
       <content type="text"><![CDATA[The Cub (2024)]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[бд]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-16-schema-schema-schema.html" />
-      <id>urn:uuid:dbdb6534-f459-39c6-bc76-b8bb6c1d2efa</id>
-      <updated>2024-07-16T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Потребовалось тут немного под веб пописать, сел придумывать схему бд и понял, как я по этому соскучился. Не смог вспомнить, когда последний раз писал SQL запрос! А это же кайф.]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
