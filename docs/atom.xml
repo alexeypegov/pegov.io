@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-10-12T00:00:00+00:00</updated>
+  <updated>2024-10-22T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[600x]]></title>
+      <link href="https://fm.alexeypegov.com/2024-10-22-600x-zoom.html" />
+      <id>urn:uuid:ccfb5794-55a6-337c-bfee-5366a9b6993f</id>
+      <updated>2024-10-22T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/86ZCsUfgLRQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Euclid’s 208-Gigapixel glimpse into the Universe"></iframe></div></p>
+<p>Подробнее про &quot;<a href="https://ru.wikipedia.org/wiki/Euclid">Евклид</a>&quot;.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Jon Hopkins - Ritual (2024)]]></title>
       <link href="https://fm.alexeypegov.com/2024-10-12-jon-hopkins-ritual.html" />
@@ -186,23 +203,6 @@
 <![CDATA[
 <p><img src="https://fm.alexeypegov.com/images/bluey.jpg" alt="Bluey" /></p>
 <p>С большим удовольствием смотрим с мелким <a href="https://www.imdb.com/title/tt7678620/">очень классный мульт-сериал</a> про детей, родителей и их отношения. И вам рекомендуем)</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[The Cub (2024)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-16-the-cub.html" />
-      <id>urn:uuid:401955a0-9c6d-310a-807a-c41ee98a60de</id>
-      <updated>2024-07-16T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><img src="https://fm.alexeypegov.com/images/radio-nostalgia.jpg" alt="Radio nostalgia from Mars: The Cub, 2024" /></p>
-<p>Не часто встречаются игрушки, которые клево слушать, а еще разглядывать: вот <a href="https://thecubgame.com/">The Cub</a> как раз такая — я бы даже ее чуть попроще еще сделал, да помедленнее, так и хочется залипнуть...</p>
 
 ]]>
       </content>
