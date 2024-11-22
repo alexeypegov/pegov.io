@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-10-22T00:00:00+00:00</updated>
+  <updated>2024-11-23T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Juno Love - Nico Morano feat. Mewhy]]></title>
+      <link href="https://fm.alexeypegov.com/2024-11-23-juno-love.html" />
+      <id>urn:uuid:dd76cf8a-362e-345f-9544-244d9598d388</id>
+      <updated>2024-11-23T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Juno Love - Nico Morano feat. Mewhy]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[600x]]></title>
       <link href="https://fm.alexeypegov.com/2024-10-22-600x-zoom.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:8e53e2ac-2ce0-3782-afc8-4b7177f7565c</id>
       <updated>2024-08-06T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Хороший вопрос]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Bluey (2018-)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-07-21-bluey.html" />
-      <id>urn:uuid:6fd0b97a-56c8-3d75-8ae2-d420c5667eda</id>
-      <updated>2024-07-21T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Bluey (2018-)]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
