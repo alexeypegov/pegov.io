@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-11-23T00:00:00+00:00</updated>
+  <updated>2024-12-03T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Dreamwalker - Oscillations (2024)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-12-03-dreamwalker-oscillations-2024.html" />
+      <id>urn:uuid:26006fc5-0669-3f8d-9138-d3aaf0ec289f</id>
+      <updated>2024-12-03T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Dreamwalker - Oscillations (2024)]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Juno Love - Nico Morano feat. Mewhy]]></title>
       <link href="https://fm.alexeypegov.com/2024-11-23-juno-love.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:67c78466-ee7e-3fb2-b70f-cc9faaf2d908</id>
       <updated>2024-08-07T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Захар рисует]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Хороший вопрос]]></title>
-      <link href="https://fm.alexeypegov.com/2024-08-06-obmen.html" />
-      <id>urn:uuid:8e53e2ac-2ce0-3782-afc8-4b7177f7565c</id>
-      <updated>2024-08-06T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Хороший вопрос]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
