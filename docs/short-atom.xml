@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-12-03T00:00:00+00:00</updated>
+  <updated>2024-12-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Bill Laurence & Michael League - Yours (2024)]]></title>
+      <link href="https://fm.alexeypegov.com/2024-12-20-yours.html" />
+      <id>urn:uuid:1b2ad2e4-cde8-30eb-b8fd-340ba29afece</id>
+      <updated>2024-12-20T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=VnoK-6Cifxw]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Dreamwalker - Oscillations (2024)]]></title>
       <link href="https://fm.alexeypegov.com/2024-12-03-dreamwalker-oscillations-2024.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:edc917ba-db09-3973-8064-f92a36664418</id>
       <updated>2024-08-15T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Общая характеристика]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Захар рисует]]></title>
-      <link href="https://fm.alexeypegov.com/2024-08-07-zakhar-paintings.html" />
-      <id>urn:uuid:67c78466-ee7e-3fb2-b70f-cc9faaf2d908</id>
-      <updated>2024-08-07T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Захар рисует]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
