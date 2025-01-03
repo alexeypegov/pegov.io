@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-12-20T00:00:00+00:00</updated>
+  <updated>2025-01-04T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Anora, 2024]]></title>
+      <link href="https://fm.alexeypegov.com/2025-01-04-anora.html" />
+      <id>urn:uuid:336ca0c7-54ad-306d-a41a-b174bb2d71b8</id>
+      <updated>2025-01-04T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Anora, 2024]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Bill Laurence & Michael League - Yours (2024)]]></title>
       <link href="https://fm.alexeypegov.com/2024-12-20-yours.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:9044019b-e38c-39d5-b448-54c44c37420a</id>
       <updated>2024-08-16T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Long Arm & Ruslan Gadzhimuradov]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Общая характеристика]]></title>
-      <link href="https://fm.alexeypegov.com/2024-08-15-pizdezh.html" />
-      <id>urn:uuid:edc917ba-db09-3973-8064-f92a36664418</id>
-      <updated>2024-08-15T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Общая характеристика]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

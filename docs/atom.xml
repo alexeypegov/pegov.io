@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2024-12-20T00:00:00+00:00</updated>
+  <updated>2025-01-04T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Anora, 2024]]></title>
+      <link href="https://fm.alexeypegov.com/2025-01-04-anora.html" />
+      <id>urn:uuid:336ca0c7-54ad-306d-a41a-b174bb2d71b8</id>
+      <updated>2025-01-04T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><img src="https://fm.alexeypegov.com/images/anora-2024.jpg" alt="Anora, 2024" /></p>
+<p>Хорошее <a href="https://www.imdb.com/title/tt28607951/">кино</a>!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Bill Laurence & Michael League - Yours (2024)]]></title>
       <link href="https://fm.alexeypegov.com/2024-12-20-yours.html" />
@@ -166,26 +183,6 @@
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/rDKSo3eBkYI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Long Arm &amp; Ruslan Gadzhimuradov @ Академика Королёва 13"></iframe></div></p>
 <p>Я ходил на этих ребят лет 10 назад. Помню, что было это в каком-то маленьком клубе на улице Ломоносова, недалеко от Гостинки. В какой-то момент в клубе полностью вырубилось электричество, мгновенно стало тихо, и только Руслан продолжал еще какое-то время ебашить...</p>
 <p>Классно, что они все еще иногда выступают вместе.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Общая характеристика]]></title>
-      <link href="https://fm.alexeypegov.com/2024-08-15-pizdezh.html" />
-      <id>urn:uuid:edc917ba-db09-3973-8064-f92a36664418</id>
-      <updated>2024-08-15T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Цитата <a href="https://t.me/agentstvonews/6983">отсюда</a>:</p>
-<p>Заключение о смерти Алексея Навального, <a href="https://www.youtube.com/watch?v=lFEBD0MJPn4">полученное его супругой от Следственного комитета</a>, либо свидетельствует о том, что причину смерти не нашли, либо это попытка скрыть, что произошло на самом деле. Так считает бывший врач Навального Александр Полупан. На просьбу «Агентства» одним словом охарактеризовать текст СК, медик сказал:</p>
-<blockquote>
-<p>Пиздеж.</p>
-</blockquote>
 
 ]]>
       </content>
