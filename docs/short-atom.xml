@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-01-04T00:00:00+00:00</updated>
+  <updated>2025-01-06T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Apparat - Heroist]]></title>
+      <link href="https://fm.alexeypegov.com/2025-01-06-heroist.html" />
+      <id>urn:uuid:8aaf2a37-bffc-3ba4-817f-7cb1b15b6ffe</id>
+      <updated>2025-01-06T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=F8tLQbajsfI]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Anora, 2024]]></title>
       <link href="https://fm.alexeypegov.com/2025-01-04-anora.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:c9488bc1-42e3-3eb7-92c7-1b48c1e48276</id>
       <updated>2024-09-18T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=k1jFRnOIUcg]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Long Arm & Ruslan Gadzhimuradov]]></title>
-      <link href="https://fm.alexeypegov.com/2024-08-16-long-arm-plus.html" />
-      <id>urn:uuid:9044019b-e38c-39d5-b448-54c44c37420a</id>
-      <updated>2024-08-16T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Long Arm & Ruslan Gadzhimuradov]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
