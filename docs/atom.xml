@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-01-06T00:00:00+00:00</updated>
+  <updated>2025-01-31T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Mr. nobody against Putin]]></title>
+      <link href="https://fm.alexeypegov.com/2025-01-31-mnap.html" />
+      <id>urn:uuid:dec1f261-f544-3e9c-9628-e3f1d2f66f99</id>
+      <updated>2025-01-31T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/dcUeDa8FK_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="&#39;Mr. Nobody Against Putin&#39;: exclusive first trailer for undercover Russian propaganda documentary"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Apparat - Heroist]]></title>
       <link href="https://fm.alexeypegov.com/2025-01-06-heroist.html" />
@@ -165,22 +181,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/MM4FQJBkw-o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Ruti - Lungs (Calibre Remix)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Монеточка - Переживу]]></title>
-      <link href="https://fm.alexeypegov.com/2024-09-18-perezhivu.html" />
-      <id>urn:uuid:c9488bc1-42e3-3eb7-92c7-1b48c1e48276</id>
-      <updated>2024-09-18T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/k1jFRnOIUcg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Монеточка - ПЕРЕЖИВУ (Official Music Video 2023)"></iframe></div></p>
 
 ]]>
       </content>

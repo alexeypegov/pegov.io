@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-01-06T00:00:00+00:00</updated>
+  <updated>2025-01-31T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Mr. nobody against Putin]]></title>
+      <link href="https://fm.alexeypegov.com/2025-01-31-mnap.html" />
+      <id>urn:uuid:dec1f261-f544-3e9c-9628-e3f1d2f66f99</id>
+      <updated>2025-01-31T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=dcUeDa8FK_8]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Apparat - Heroist]]></title>
       <link href="https://fm.alexeypegov.com/2025-01-06-heroist.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:cbf00108-9c6c-3163-9ced-e1f386923a46</id>
       <updated>2024-09-26T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=MM4FQJBkw-o]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Монеточка - Переживу]]></title>
-      <link href="https://fm.alexeypegov.com/2024-09-18-perezhivu.html" />
-      <id>urn:uuid:c9488bc1-42e3-3eb7-92c7-1b48c1e48276</id>
-      <updated>2024-09-18T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=k1jFRnOIUcg]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
