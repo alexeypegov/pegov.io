@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-01-31T00:00:00+00:00</updated>
+  <updated>2025-02-07T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Mose Allison - Young Mans's Blues]]></title>
+      <link href="https://fm.alexeypegov.com/2025-02-07-young-mans-blues.html" />
+      <id>urn:uuid:b5b9bed3-ad5f-3b6c-bd90-e3d06539986a</id>
+      <updated>2025-02-07T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=X97ykx3rO3s]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Mr. nobody against Putin]]></title>
       <link href="https://fm.alexeypegov.com/2025-01-31-mnap.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:dffb8bf2-dbfa-3aec-9195-dbb66727d030</id>
       <updated>2024-10-10T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Немножко картинок 2024]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Ruti - Lungs (Calibre Remix)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-09-26-lungs.html" />
-      <id>urn:uuid:cbf00108-9c6c-3163-9ced-e1f386923a46</id>
-      <updated>2024-09-26T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=MM4FQJBkw-o]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
