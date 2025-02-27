@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-02-07T00:00:00+00:00</updated>
+  <updated>2025-02-27T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Leifur James - A Louder Silence (2018)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-02-27-leifur-james.html" />
+      <id>urn:uuid:7b8b26db-1690-37aa-b4df-880b14e8634f</id>
+      <updated>2025-02-27T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/8VoO8vbZI_Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Leifur James - Suns of Gold"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Mose Allison - Young Mans's Blues]]></title>
       <link href="https://fm.alexeypegov.com/2025-02-07-young-mans-blues.html" />
@@ -146,41 +162,6 @@
 <![CDATA[
 <p><img src="https://fm.alexeypegov.com/images/jon-hopkins-ritual.jpg" alt="Jon Hopkins - Ritual" /></p>
 <p>Ох, какой <a href="https://www.discogs.com/master/3583507-Jon-Hopkins-Ritual">классный релиз</a>!</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Немножко картинок 2024]]></title>
-      <link href="https://fm.alexeypegov.com/2024-10-10-pictures-2024.html" />
-      <id>urn:uuid:dffb8bf2-dbfa-3aec-9195-dbb66727d030</id>
-      <updated>2024-10-10T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><img src="https://fm.alexeypegov.com/images/2024-01.webp" alt="01" />
-<img src="https://fm.alexeypegov.com/images/2024-02.webp" alt="02" />
-<img src="https://fm.alexeypegov.com/images/2024-03.webp" alt="03" />
-<img src="https://fm.alexeypegov.com/images/2024-04.webp" alt="04" />
-<img src="https://fm.alexeypegov.com/images/2024-05.webp" alt="05" />
-<img src="https://fm.alexeypegov.com/images/2024-06.webp" alt="06" />
-<img src="https://fm.alexeypegov.com/images/2024-07.webp" alt="07" />
-<img src="https://fm.alexeypegov.com/images/2024-08.webp" alt="08" />
-<img src="https://fm.alexeypegov.com/images/2024-09.webp" alt="09" />
-<img src="https://fm.alexeypegov.com/images/2024-10.webp" alt="10" />
-<img src="https://fm.alexeypegov.com/images/2024-11.webp" alt="11" />
-<img src="https://fm.alexeypegov.com/images/2024-12.webp" alt="12" />
-<img src="https://fm.alexeypegov.com/images/2024-13.webp" alt="13" />
-<img src="https://fm.alexeypegov.com/images/2024-14.webp" alt="14" />
-<img src="https://fm.alexeypegov.com/images/2024-15.webp" alt="15" />
-<img src="https://fm.alexeypegov.com/images/2024-16.webp" alt="16" />
-<img src="https://fm.alexeypegov.com/images/2024-17.webp" alt="17" />
-<img src="https://fm.alexeypegov.com/images/2024-18.webp" alt="18" />
-<img src="https://fm.alexeypegov.com/images/2024-19.webp" alt="19" />
-<img src="https://fm.alexeypegov.com/images/2024-20.webp" alt="20" /></p>
 
 ]]>
       </content>

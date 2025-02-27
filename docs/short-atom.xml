@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-02-07T00:00:00+00:00</updated>
+  <updated>2025-02-27T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Leifur James - A Louder Silence (2018)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-02-27-leifur-james.html" />
+      <id>urn:uuid:7b8b26db-1690-37aa-b4df-880b14e8634f</id>
+      <updated>2025-02-27T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=8VoO8vbZI_Q]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Mose Allison - Young Mans's Blues]]></title>
       <link href="https://fm.alexeypegov.com/2025-02-07-young-mans-blues.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:98861240-453e-35fd-86ba-3a4da909ed0b</id>
       <updated>2024-10-12T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Jon Hopkins - Ritual (2024)]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Немножко картинок 2024]]></title>
-      <link href="https://fm.alexeypegov.com/2024-10-10-pictures-2024.html" />
-      <id>urn:uuid:dffb8bf2-dbfa-3aec-9195-dbb66727d030</id>
-      <updated>2024-10-10T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Немножко картинок 2024]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
