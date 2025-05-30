@@ -3,7 +3,7 @@ Title: Yussef Dayes Trio — Welcome to the Hills (2020)
 Date: 2020-12-12
 Tags:
   - слушаю
-  - jazz
+  - джаз
 Summary: Кайфовый альбом
 Cover: images/welcome-to-the-hills.jpg
 ---

@@ -3,7 +3,7 @@ Title: The Yussef Dayes Experience
 Date: 2024-05-02
 Tags:
   - слушаю
-  - jazz
+  - джаз
 View: video
 Video: https://www.youtube.com/watch?v=BnEgnrUCXPY
 ---

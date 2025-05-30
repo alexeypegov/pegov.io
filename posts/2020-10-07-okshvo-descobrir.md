@@ -2,7 +2,7 @@
 Title: Okshvo - Descobrir
 Date: 2020-10-07
 Tags:
-  - jazz
+  - джаз
   - слушаю
 Summary: кайфовый трек!
 ---
