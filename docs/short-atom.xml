@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-02-27T00:00:00+00:00</updated>
+  <updated>2025-06-01T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Last stop]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-01-last-stop.html" />
+      <id>urn:uuid:f5b317f9-7710-357a-b018-2a89de0943e1</id>
+      <updated>2025-06-01T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Last stop]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Leifur James - A Louder Silence (2018)]]></title>
       <link href="https://fm.alexeypegov.com/2025-02-27-leifur-james.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:ccfb5794-55a6-337c-bfee-5366a9b6993f</id>
       <updated>2024-10-22T00:00:00+00:00</updated>
       <content type="text"><![CDATA[600x]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Jon Hopkins - Ritual (2024)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-10-12-jon-hopkins-ritual.html" />
-      <id>urn:uuid:98861240-453e-35fd-86ba-3a4da909ed0b</id>
-      <updated>2024-10-12T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Jon Hopkins - Ritual (2024)]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
