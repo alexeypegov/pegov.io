@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-01T00:00:00+00:00</updated>
+  <updated>2025-06-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Beautiful Boys - Найди меня (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-02-beautiful-boys.html" />
+      <id>urn:uuid:75682835-9938-387d-94e3-b7b5cfeea882</id>
+      <updated>2025-06-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=LoSeVddcmwg]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Last stop]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-01-last-stop.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:dd76cf8a-362e-345f-9544-244d9598d388</id>
       <updated>2024-11-23T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Juno Love - Nico Morano feat. Mewhy]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[600x]]></title>
-      <link href="https://fm.alexeypegov.com/2024-10-22-600x-zoom.html" />
-      <id>urn:uuid:ccfb5794-55a6-337c-bfee-5366a9b6993f</id>
-      <updated>2024-10-22T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[600x]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-01T00:00:00+00:00</updated>
+  <updated>2025-06-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Beautiful Boys - Найди меня (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-02-beautiful-boys.html" />
+      <id>urn:uuid:75682835-9938-387d-94e3-b7b5cfeea882</id>
+      <updated>2025-06-02T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/LoSeVddcmwg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Где бы я ни был"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Last stop]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-01-last-stop.html" />
@@ -151,23 +167,6 @@
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/qNV1Zf70gXI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Nico Morano - Juno Love ft. Mewhy"></iframe></div></p>
 <p>Ощущение, как будто вернулся в 2003 год.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[600x]]></title>
-      <link href="https://fm.alexeypegov.com/2024-10-22-600x-zoom.html" />
-      <id>urn:uuid:ccfb5794-55a6-337c-bfee-5366a9b6993f</id>
-      <updated>2024-10-22T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/86ZCsUfgLRQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Euclid’s 208-Gigapixel glimpse into the Universe"></iframe></div></p>
-<p>Подробнее про &quot;<a href="https://ru.wikipedia.org/wiki/Euclid">Евклид</a>&quot;.</p>
 
 ]]>
       </content>
