@@ -29,7 +29,11 @@
     <#if summary??>
     <meta property="og:description" content="${summary}">
     </#if>
+    <#if ndx?? && ndx == 1>
+    <meta property="og:title" content="${vars.blog.description}">
+    <#else>
     <meta property="og:title" content="${title}">
+    </#if>
     <#if link??>
       <#assign url = vars.blog.url + link>
     <#elseif ndx?? && ndx gt 1>
@@ -45,6 +49,8 @@
     </#if>
     <#if cover??>
     <meta property="og:image" content="${vars.blog.url + "/" + cover}">
+    <#else>
+    <meta property="og:image" content="${vars.blog.url}/i/favicon-196.png">
     </#if>
 
     <#if prev_page??>
