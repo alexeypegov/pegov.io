@@ -1,6 +1,6 @@
-<#setting date_format="dd MMMM yyyy">
+<#setting date_format="yyyy-MM-dd">
 
-<#macro schema type url description id="" headline="" name=headline image="" created="" updated=created tags=[] isPartOf=false>
+<#macro schema type url description id="" headline="" name=headline image="" created="" updated=created items=[] tags=[] isPartOf=false>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -44,22 +44,38 @@
   "description": "${description}",
 </#if>
   "publisher": {
-	"@id": "Author#Person",
+	"@id": "https://alexeypegov.com#person",
     "@type": "Person",
 	"name": "${vars.author.name}",
 	"url": "${vars.author.url}" 	
   },
   "author": {
     "@type": "Person",
-	"@id": "Author#Person"
+	"@id": "https://alexeypegov.com#person"
   }
+<#list items>
+  ,
+  "blogPost": [
+  <#items as post>
+  {
+    "@type": "BlogPosting",
+    "headline": "${post.title}",
+    "url": "${vars.blog.url}/${post.slug}.html",
+    "datePublished": "${post.date}",
+    "author": {
+      "@id": "https://alexeypegov.com#person"
+    }
+  }<#sep>, </#sep>
+  </#items>
+  ]
+</#list>
 }
 </script>
 </#macro>
 
 <#switch ld_type>
 <#case "index">
-<@schema type="Blog" url="${vars.blog.url}" description="${vars.blog.description}" id="${vars.blog.url}#Blog" created="2009-03-27"/>
+<@schema type="Blog" url="${vars.blog.url}" description="${vars.blog.description}" id="${vars.blog.url}#Blog" name="${vars.blog.title}" created="2009-03-24" updated="${items[0].date}" items=items[0..*5]/>
 <#break/>
 <#case "page">
 <@schema type="WebPage" url="${vars.blog.url}${link}" description="${summary}" id="${vars.blog.url}${link}#Page" created="${created}" updated="${updated!created}"/>

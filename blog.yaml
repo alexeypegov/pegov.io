@@ -22,7 +22,7 @@ vars:
   blog:
     title: Ложное движение
     url: https://fm.alexeypegov.com
-    description: 'Личный блог Алексея Пегова: фотография на пленку, музыка и авторское кино'
+    description: 'Блог Алексея Пегова: заметки о фотографии, софте, играх и жизни.'
     cover: /images/avatar.jpg
   feeds:
     - url: https://fm.alexeypegov.com/atom.xml

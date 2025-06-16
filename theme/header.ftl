@@ -12,7 +12,9 @@
     </#if>
     
     <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
-    <#if ndx?? && ndx gt 1 || (view!"")=="tweet" || (view!"")=="image" || (view!"")=="video">
+    <#if ndx?? && ndx == 1>
+    <meta name="description" content="${vars.blog.description}"/>
+    <#elseif ndx?? && ndx gt 1 || (view!"")=="tweet" || (view!"")=="image" || (view!"")=="video">
     <meta name="robots" content="noindex">
     </#if>
     <#assign title=title!vars.blog.title>
