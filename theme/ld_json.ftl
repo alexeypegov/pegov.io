@@ -1,6 +1,6 @@
 <#setting date_format="yyyy-MM-dd">
 
-<#macro schema type url description id="" headline="" name=headline image="" created="" updated=created items=[] tags=[] isPartOf=false>
+<#macro schema type url description id="" headline="" name=headline image="i/favicon-196.png" created="" updated=created items=[] tags=[] isPartOf=false>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,7 +81,7 @@
 <@schema type="WebPage" url="${vars.blog.url}${link}" description="${summary}" id="${vars.blog.url}${link}#Page" created="${created}" updated="${updated!created}"/>
 <#break/>
 <#case "full">
-<@schema type="BlogPosting" url="${vars.blog.url}${link}" description=summary!"" id="${vars.blog.url}${link}#Post" headline=title image=cover!"" created=date updated=date!updated tags=tags isPartOf=true/>
+<@schema type="BlogPosting" url="${vars.blog.url}${link}" description=summary!"" id="${vars.blog.url}${link}#Post" headline=title image=cover!"i/favicon-196.png" created=date updated=date!updated tags=tags isPartOf=true/>
 <#break/>
 <#default>
 <#break/>
