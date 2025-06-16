@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-03T00:00:00+00:00</updated>
+  <updated>2025-06-16T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[В основном, просто пространство]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-16-mostly-just-space.html" />
+      <id>urn:uuid:386c2a2e-51c3-3432-9305-7d089ce634b3</id>
+      <updated>2025-06-16T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[В основном, просто пространство]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[FKJ - Detroit Special (Live from Oak Music Theater)]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-03-fkj-22-23-live-sessions.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:336ca0c7-54ad-306d-a41a-b174bb2d71b8</id>
       <updated>2025-01-04T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Anora, 2024]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Bill Laurence & Michael League - Yours (2024)]]></title>
-      <link href="https://fm.alexeypegov.com/2024-12-20-yours.html" />
-      <id>urn:uuid:1b2ad2e4-cde8-30eb-b8fd-340ba29afece</id>
-      <updated>2024-12-20T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=VnoK-6Cifxw]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
