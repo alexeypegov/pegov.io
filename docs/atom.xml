@@ -4,7 +4,54 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-16T00:00:00+00:00</updated>
+  <updated>2025-06-17T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[16 лет и продолжаем]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-17-16-years-and-counting.html" />
+      <id>urn:uuid:e1db0dd5-6002-3260-aab5-702aa4f76c51</id>
+      <updated>2025-06-17T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>В этом году исполнилось 16 лет моему старшему сыну, а значит и этому блогу. Я попросил Клода собрать кое-какую статистику по этому поводу.</p>
+<p>Первый пост — <a href="2009-03-24-тимур-алексеевич.html">Тимур Алексеевич</a> — опубликован 24 марта 2009 года. С тех пор накопилось немало всего.</p>
+<p><strong>В цифрах</strong></p>
+<ul>
+<li><strong>708 постов</strong> за 17 лет (2009–2025)</li>
+<li><strong>Средняя частота</strong>: 42 поста в год, 0.11 поста в день</li>
+<li><strong>Пиковый год</strong>: 2011 (191 пост)</li>
+<li><strong>Год молчания</strong>: 2017 (0 постов)</li>
+<li><strong>Самый продуктивный месяц</strong>: декабрь 2011 (30 постов)</li>
+<li><strong>Любимая дата</strong>: 1 февраля (5 постов в разные годы: <a href="2012-02-01-7-смертных-грехов.html">7 смертных грехов</a>, <a href="2012-02-01-the-black-workshop.html">The black workshop</a>, <a href="2012-02-01-картиночная-навигация.html">Картиночная навигация</a>, <a href="2012-02-01-пиксельная-линейка.html">Пиксельная линейка</a>, <a href="2012-02-01-позиция.html">Позиция</a>)</li>
+</ul>
+<p><strong>В тегах</strong> (которые сейчас не видны)</p>
+<ol>
+<li><strong>слушаю</strong> — 101 раз</li>
+<li><strong>саптрю</strong> — 62 раза</li>
+<li><strong>разное</strong> — 58 раз</li>
+<li><strong>жизнь</strong> — 28 раз</li>
+<li><strong>дизайн</strong> — 28 раз</li>
+<li><strong>цитата</strong> — 15 раз</li>
+<li><strong>софт</strong> — 15 раз</li>
+</ol>
+<p><strong>Случайная выборка</strong></p>
+<p>Вот пять случайных постов из архива:</p>
+<ul>
+<li><a href="2012-05-26-субурбы.html">субурбы</a> (2012)</li>
+<li><a href="2013-02-20-disney.html">Disney</a> (2013)</li>
+<li><a href="2011-03-09-voice-over.html">Voice Over</a> (2011)</li>
+<li><a href="2011-09-23-optimism-vs-pessimism.html">Optimism vs. Pessimism</a> (2011)</li>
+<li><a href="2011-10-23-massive-attack--paradise-circus-zeds-dead-remix.html">Massive Attack - Paradise Circus (Zeds Dead Remix)</a> (2011)</li>
+</ul>
+<p>Такие дела.</p>
+<p>ps: несколько лет назад я удалил процентов 10 постов, потому что ссылки в них протухли и восстановить их оказалось невозможно. Сейчас подумал, что надо было обновить ссылки через <a href="https://archive.org/">wayback machine</a>, а не удалять посты.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Бесполезная машина]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-16-useless-machine.html" />
@@ -157,22 +204,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/dcUeDa8FK_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="&#39;Mr. Nobody Against Putin&#39;: exclusive first trailer for undercover Russian propaganda documentary"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Apparat - Heroist]]></title>
-      <link href="https://fm.alexeypegov.com/2025-01-06-heroist.html" />
-      <id>urn:uuid:8aaf2a37-bffc-3ba4-817f-7cb1b15b6ffe</id>
-      <updated>2025-01-06T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/F8tLQbajsfI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Apparat - Heroist (Official Video)"></iframe></div></p>
 
 ]]>
       </content>
