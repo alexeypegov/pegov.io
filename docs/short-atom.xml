@@ -6,6 +6,17 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2025-06-16T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Бесполезная машина]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-16-useless-machine.html" />
+      <id>urn:uuid:472d7768-7b12-3a0f-9d90-5686fe6ec515</id>
+      <updated>2025-06-16T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Бесполезная машина]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[В основном, пространство]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-16-mostly-just-space.html" />
       <id>urn:uuid:386c2a2e-51c3-3432-9305-7d089ce634b3</id>
@@ -99,17 +110,6 @@
       <id>urn:uuid:8aaf2a37-bffc-3ba4-817f-7cb1b15b6ffe</id>
       <updated>2025-01-06T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=F8tLQbajsfI]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Anora, 2024]]></title>
-      <link href="https://fm.alexeypegov.com/2025-01-04-anora.html" />
-      <id>urn:uuid:336ca0c7-54ad-306d-a41a-b174bb2d71b8</id>
-      <updated>2025-01-04T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Anora, 2024]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

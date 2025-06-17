@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Бесполезная машина - Ложное движение</title>
+    
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+    <meta name="description" content="Как я фиксил баг в Агендусе">
+
+    <!-- opengraph meta, etc -->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Ложное движение">
+    <meta property="og:description" content="Как я фиксил баг в Агендусе">
+    <meta property="og:title" content="Бесполезная машина">
+    <meta property="og:url" content="https://fm.alexeypegov.com/2025-06-16-useless-machine.html">
+    <meta property="og:tag" content="программирую">
+    <meta property="og:image" content="https://fm.alexeypegov.com/i/favicon-196.png">
+
+    <link rel="prev" href="https://fm.alexeypegov.com/2025-06-16-mostly-just-space.html"/>
+    <link rel="next" href="https://fm.alexeypegov.com/2009-03-24-тимур-алексеевич.html"/>
+    <link rel="apple-touch-icon" href="i/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="i/favicon-180.png">
+    <link rel="apple-touch-icon" sizes="196x196" href="i/favicon-196.png">
+    <link rel="shortcut icon" type="image/png" href="i/favicon-32.png">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="alternate" type="application/atom+xml" title="Все Записи" href="https://fm.alexeypegov.com/atom.xml">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://fm.alexeypegov.com/2025-06-16-useless-machine.html#Post",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": "https://fm.alexeypegov.com/2025-06-16-useless-machine.html",
+  "headline": "Бесполезная машина",
+  "name": "Бесполезная машина",
+  "isPartOf": {
+    "@type": "Blog",
+	"@id": "https://fm.alexeypegov.com#Blog"
+  },
+  "image": "https://fm.alexeypegov.com/i/favicon-196.png",
+  "url": "https://fm.alexeypegov.com/2025-06-16-useless-machine.html",
+  "datePublished": "2025-06-16",
+  "dateModified": "2025-06-16",
+  "keywords": [
+    "программирую"
+  ],
+  "description": "Как я фиксил баг в Агендусе",
+  "publisher": {
+	"@id": "https://alexeypegov.com#person",
+    "@type": "Person",
+	"name": "Алексей Пегов",
+	"url": "https://alexeypegov.com" 	
+  },
+  "author": {
+    "@type": "Person",
+	"@id": "https://alexeypegov.com#person"
+  }
+}
+</script>
+  </head>
+<body>
+<header>
+  <h1><a href="/">Ложное движение</a></h1>
+  <nav>
+    <a href="about.html">О сайте</a>
+    <a href="https://alexeypegov.com">Фотографирую</a>
+    <a href="/2022-09-24-my-position.html">ВОЙНА</a>
+  </nav>
+</header>
+<main>
+
+<article class="text">
+  <h2><a href="2025-06-16-useless-machine.html">Бесполезная машина</a></h2>
+  <div class="sub byline">
+    <time class="date">16 июня 2025</time>
+  </div>
+  <div class="text">
+  <p>Вчера я пофиксил забавный баг в <a href="https://agendus.app">Агендусе</a>, способом, который напомнил мне <a href="https://www.youtube.com/watch?v=MCRXVcXYtfk">Бесполезную машину</a>.</p>
+<p>Однажды, Саша прислал мне такой скриншот со словами &quot;я ничего не трогал&quot;:</p>
+<p><img src="images/edit-mode-agendus-bug.jpg" alt="Скриншот с дополнительным столбцом переключателей у каждой строки" loading="lazy" width="295" height="640" srcset="images/edit-mode-agendus-bug@2x.jpg 2x" /></p>
+<p>Я на это посмотрел и решил, что это какой-то дикий глюк iOS и такого быть не может — ведь у меня нет режима редактирования списка.</p>
+<p>А потом мне Катя прислала точно такой же скриншот, с точно таким же комментарием.</p>
+<p>Фак.</p>
+<p>Я сел думать, и, спустя какое-то время, выяснил, что даже если ты не включаешь/поддерживаешь режим редактирования списка явно, пользователь в него все равно может перейти, если смахнет (свайпнет) двумя пальцами по списку вверх! Такая вот &quot;фича&quot;.</p>
+<p>Ну и, конечно, раз ты этот режим не включал, то оказалось, что не так-то просто его и выключить. Но, как говориться, &quot;голь на выдумки хитра&quot; — пришлось написать ту самую бесполезную машину, которая не делает ничего, пока не включится режим редактирования, чтобы взять и сразу его выключить!</p>
+<p>Такое вот программирование.</p>
+
+  </div>
+</article>
+</main>
+<footer>Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+</body>
+</html>

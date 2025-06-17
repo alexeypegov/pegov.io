@@ -6,6 +6,30 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2025-06-16T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Бесполезная машина]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-16-useless-machine.html" />
+      <id>urn:uuid:472d7768-7b12-3a0f-9d90-5686fe6ec515</id>
+      <updated>2025-06-16T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Вчера я пофиксил забавный баг в <a href="https://agendus.app">Агендусе</a>, способом, который напомнил мне <a href="https://www.youtube.com/watch?v=MCRXVcXYtfk">Бесполезную машину</a>.</p>
+<p>Однажды, Саша прислал мне такой скриншот со словами &quot;я ничего не трогал&quot;:</p>
+<p><img src="https://fm.alexeypegov.com/images/edit-mode-agendus-bug.jpg" alt="Скриншот с дополнительным столбцом переключателей у каждой строки" /></p>
+<p>Я на это посмотрел и решил, что это какой-то дикий глюк iOS и такого быть не может — ведь у меня нет режима редактирования списка.</p>
+<p>А потом мне Катя прислала точно такой же скриншот, с точно таким же комментарием.</p>
+<p>Фак.</p>
+<p>Я сел думать, и, спустя какое-то время, выяснил, что даже если ты не включаешь/поддерживаешь режим редактирования списка явно, пользователь в него все равно может перейти, если смахнет (свайпнет) двумя пальцами по списку вверх! Такая вот &quot;фича&quot;.</p>
+<p>Ну и, конечно, раз ты этот режим не включал, то оказалось, что не так-то просто его и выключить. Но, как говориться, &quot;голь на выдумки хитра&quot; — пришлось написать ту самую бесполезную машину, которая не делает ничего, пока не включится режим редактирования, чтобы взять и сразу его выключить!</p>
+<p>Такое вот программирование.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[В основном, пространство]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-16-mostly-just-space.html" />
       <id>urn:uuid:386c2a2e-51c3-3432-9305-7d089ce634b3</id>
@@ -149,23 +173,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/F8tLQbajsfI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Apparat - Heroist (Official Video)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Anora, 2024]]></title>
-      <link href="https://fm.alexeypegov.com/2025-01-04-anora.html" />
-      <id>urn:uuid:336ca0c7-54ad-306d-a41a-b174bb2d71b8</id>
-      <updated>2025-01-04T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><img src="https://fm.alexeypegov.com/images/anora-2024.jpg" alt="Anora, 2024" /></p>
-<p>Хорошее <a href="https://www.imdb.com/title/tt28607951/">кино</a>!</p>
 
 ]]>
       </content>
