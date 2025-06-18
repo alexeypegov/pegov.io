@@ -41,8 +41,13 @@ Summary: Немного статистики и инсайтов)
 - [Optimism vs. Pessimism](2011-09-23-optimism-vs-pessimism.html) (2011)
 - [Massive Attack - Paradise Circus (Zeds Dead Remix)](2011-10-23-massive-attack--paradise-circus-zeds-dead-remix.html) (2011)
 
+Напомню, что можно подписаться на этот блог в [RSS][rss], или в [телеге][tg].
+
 Такие дела.
 
 ps: несколько лет назад я удалил процентов 10 постов, потому что ссылки в них протухли и восстановить их оказалось невозможно. Сейчас подумал, что надо было обновить ссылки через [wayback machine](https://archive.org/), а не удалять посты.
 
 pps: клод конечно посчитал все коряво, так что пришлось переделать, уверенности нет, но какая сейчас уверенность?
+
+[rss]: https://fm.alexeypegov.com/atom.xml
+[tg]: https://t.me/falsemovement
