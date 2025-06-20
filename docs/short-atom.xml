@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-17T00:00:00+00:00</updated>
+  <updated>2025-06-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[GoGo Penguin - What We Are And What We Are Meant To Be]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-20-gogo-penguin.html" />
+      <id>urn:uuid:9dbb5b71-dacc-3844-8082-1f5ea08c79af</id>
+      <updated>2025-06-20T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=Lz_mNgEc9Mc]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[16 лет и продолжаем]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-17-16-years-and-counting.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:b5b9bed3-ad5f-3b6c-bd90-e3d06539986a</id>
       <updated>2025-02-07T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=X97ykx3rO3s]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Mr. nobody against Putin]]></title>
-      <link href="https://fm.alexeypegov.com/2025-01-31-mnap.html" />
-      <id>urn:uuid:dec1f261-f544-3e9c-9628-e3f1d2f66f99</id>
-      <updated>2025-01-31T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=dcUeDa8FK_8]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

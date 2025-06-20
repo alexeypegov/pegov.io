@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-17T00:00:00+00:00</updated>
+  <updated>2025-06-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[GoGo Penguin - What We Are And What We Are Meant To Be]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-20-gogo-penguin.html" />
+      <id>urn:uuid:9dbb5b71-dacc-3844-8082-1f5ea08c79af</id>
+      <updated>2025-06-20T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Lz_mNgEc9Mc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="GoGo Penguin - What We Are and What We Are Meant to Be"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[16 лет и продолжаем]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-17-16-years-and-counting.html" />
@@ -191,22 +207,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/X97ykx3rO3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Young Man&#39;s Blues"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Mr. nobody against Putin]]></title>
-      <link href="https://fm.alexeypegov.com/2025-01-31-mnap.html" />
-      <id>urn:uuid:dec1f261-f544-3e9c-9628-e3f1d2f66f99</id>
-      <updated>2025-01-31T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/dcUeDa8FK_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="&#39;Mr. Nobody Against Putin&#39;: exclusive first trailer for undercover Russian propaganda documentary"></iframe></div></p>
 
 ]]>
       </content>
