@@ -1,6 +1,6 @@
 <#assign ld_type="page">
 <#include "header.ftl">
-<article class="text">
+<article data-view="post">
   <div class="text">
     ${body}
   </div>

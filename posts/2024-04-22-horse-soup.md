@@ -1,6 +1,7 @@
 ---
 Title: Лошадиный суп
 Date: 2024-04-22
+Tags: читаю
 View: tweet
 ---
 
