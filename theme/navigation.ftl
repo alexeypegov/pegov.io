@@ -1,14 +1,14 @@
 <nav class="paging">
 <#if prev_page?exists>
-<a id="prev" href="${prev_page}">&larr;</a>
+<a id="prev" class="arrow" href="${prev_page}">&larr;</a>
 <#elseif prev??>
-<a id="prev" href="${next}.html">&larr;</a>
+<a id="prev" class="arrow" href="${next}.html">&larr;</a>
 </#if>
 <div class="key"></div>
 <#if next_page?exists>
-<a id="next" href="${next_page}">&rarr;</a>
+<a id="next" class="arrow" href="${next_page}">&rarr;</a>
 <#elseif next??>
-<a id="next" href="${prev}.html">&rarr;</a>
+<a id="next" class="arrow" href="${prev}.html">&rarr;</a>
 </#if>
 </nav>
 <script src="js/swiped-events.min.js"></script>

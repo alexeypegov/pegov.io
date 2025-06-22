@@ -29,7 +29,7 @@
   --blockquote-background-color: #eee;
   --pre-background-color: #eee;
   --note-width: 90%;
-  --paging-text-color: #777;
+  --paging-text-color: #aaa;
 }
 
 @media (width <=599px) {
@@ -63,6 +63,7 @@
     --blockquote-text-color: #ddd;
     --blockquote-background-color: #333;
     --separator-color: #666;
+    --paging-text-color: #555;
   }
 }
 
@@ -395,20 +396,20 @@ nav.paging {
   display: flex;
   flex-flow: row;
   gap: 2rem;
+  align-items: baseline;
 
-  font-size: var(--h5-size);
-  padding: 3rem 0;
+  padding: 1rem 0;
   color: var(--paging-text-color);
 
-  @media (width <= 599px) {
-    font-size: var(--h6-size);
+  .arrow {
+    font-size: x-large;
   }
 
   .key:before {
-    content: "Ctrl/Alt";
+    content: "Ctrl + ⇆";
 
     @media (width <= 599px) {
-      content: "Swipe";
+      content: "Смахни";
     }
   }
 }
