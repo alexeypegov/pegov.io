@@ -403,12 +403,19 @@ nav.paging {
 
   .arrow {
     font-size: x-large;
+
+    @media (hover: none) and (pointer: coarse) {
+      pointer-events: none;
+      cursor: default;
+      text-decoration: none;
+      color: var(--paging-text-color);
+    }
   }
 
   .key:before {
     content: "Ctrl + ⇆";
 
-    @media (width <= 599px) {
+    @media (hover: none) and (pointer: coarse) {
       content: "Смахни";
     }
   }
