@@ -398,13 +398,15 @@ nav.paging {
   gap: 2rem;
   align-items: baseline;
 
-  padding: 1rem 0;
+  padding-top: 1rem;
   color: var(--paging-text-color);
 
   .arrow {
     font-size: x-large;
 
-    @media (max-width: 768px), (hover: none) and (pointer: coarse) {
+    @media (max-width: 430px),
+      (max-width: 932px) and (orientation: landscape),
+      (hover: none) and (pointer: coarse) {
       pointer-events: none;
       cursor: default;
       text-decoration: none;
@@ -415,7 +417,9 @@ nav.paging {
   .key:before {
     content: "Ctrl + ⇆";
 
-    @media (hover: none) and (pointer: coarse) {
+    @media (max-width: 430px),
+      (max-width: 932px) and (orientation: landscape),
+      (hover: none) and (pointer: coarse) {
       content: "Смахни";
     }
   }
@@ -423,7 +427,7 @@ nav.paging {
 
 footer {
   text-align: center;
-  padding-bottom: 1rem;
+  padding: 1rem 0;
   opacity: 0.3;
   font-size: var(--base-size);
   font-family: var(--title-font-family);
