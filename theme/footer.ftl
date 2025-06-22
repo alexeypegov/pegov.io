@@ -1,4 +1,4 @@
 </main>
-<footer>${vars.statique}.</footer>
+<footer>${vars.statique}</footer>
 </body>
 </html>
