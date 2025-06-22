@@ -404,7 +404,7 @@ nav.paging {
   .arrow {
     font-size: x-large;
 
-    @media (hover: none) and (pointer: coarse) {
+    @media (max-width: 768px), (hover: none) and (pointer: coarse) {
       pointer-events: none;
       cursor: default;
       text-decoration: none;
