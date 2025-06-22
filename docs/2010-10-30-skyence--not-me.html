@@ -83,7 +83,29 @@
 
   </div>
 </article>
+<nav class="paging">
+<a id="prev" href="2010-11-09-consequences.html">&larr;</a>
+<div class="key"></div>
+<a id="next" href="2010-10-30-cdak-by-quite-and-orange-4k-demo.html">&rarr;</a>
+</nav>
+<script src="js/swiped-events.min.js"></script>
+<script src="js/kbd.js"></script>
+<script>
+  const f = function(id) {
+    return function() {
+      const anchor = document.getElementById(id);
+      if (anchor && anchor.getAttribute("href")) {
+        anchor.click();
+      }
+    }
+  };
+
+  document.addEventListener('swiped-left', f('next'));
+  document.addEventListener('swiped-right', f('prev'));
+  document.addEventListener('arrow-left', f('prev'));
+  document.addEventListener('arrow-right', f('next'));
+</script>
 </main>
-<footer>Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+<footer><a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
 </body>
 </html>

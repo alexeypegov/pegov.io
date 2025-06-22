@@ -167,6 +167,14 @@ header {
     & > a[href] {
       color: var(--title-color);
       text-decoration-color: var(--title-decoration-color);
+
+      &:hover {
+        text-decoration-color: var(--title-color);
+      }
+
+      @media (width <= 599px) {
+        text-decoration-color: var(--title-color);
+      }
     }
   }
 
@@ -189,6 +197,10 @@ main {
   display: flex;
   flex-flow: column;
   align-items: center;
+
+  @media (width <= 599px) {
+    padding: 0 1rem 0;
+  }
 }
 
 article {
@@ -380,20 +392,31 @@ ul {
 }
 
 nav.paging {
-  padding: 2rem 0;
+  display: flex;
+  flex-flow: row;
+  gap: 2rem;
+
+  font-size: var(--h5-size);
+  padding: 3rem 0;
   color: var(--paging-text-color);
+
+  @media (width <= 599px) {
+    font-size: var(--h6-size);
+  }
+
+  .key:before {
+    content: "Ctrl/Alt";
+
+    @media (width <= 599px) {
+      content: "Swipe";
+    }
+  }
 }
 
 footer {
   text-align: center;
-  padding: 3rem 0 1rem;
+  padding-bottom: 1rem;
   opacity: 0.3;
   font-size: var(--base-size);
   font-family: var(--title-font-family);
-}
-
-@media all and (width <=599px) {
-  :where(main, footer) {
-    padding: 0 1rem 1rem;
-  }
 }

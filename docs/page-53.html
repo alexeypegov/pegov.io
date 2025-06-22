@@ -197,11 +197,12 @@ Emily has probably been planning it since she was five!</p>
   </div>
 </article>
 <nav class="paging">
-<a id="prev" href="page-52.html">назад</a>
-&#151;
-<a id="next" href="page-54.html">вперед</a>
+<a id="prev" href="page-52.html">&larr;</a>
+<div class="key"></div>
+<a id="next" href="page-54.html">&rarr;</a>
 </nav>
-<script src="js/pure-swipe.min.js"></script>
+<script src="js/swiped-events.min.js"></script>
+<script src="js/kbd.js"></script>
 <script>
   const f = function(id) {
     return function() {
@@ -214,8 +215,10 @@ Emily has probably been planning it since she was five!</p>
 
   document.addEventListener('swiped-left', f('next'));
   document.addEventListener('swiped-right', f('prev'));
+  document.addEventListener('arrow-left', f('prev'));
+  document.addEventListener('arrow-right', f('next'));
 </script>
 </main>
-<footer>Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+<footer><a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
 </body>
 </html>

@@ -47,7 +47,29 @@
   <p>Посмотрел недавно несколько фильмов с Джином Хэкменом — <a href="https://www.imdb.com/title/tt0067116/">Французский связной</a> (1971), <a href="https://www.imdb.com/title/tt0073453/">Ночные ходы</a> (1975) и <a href="https://www.imdb.com/title/tt0071360">Разговор</a> (1974). Настолько &quot;живого&quot; и &quot;настоящего&quot; кино я не видел уже очень и очень давно.</p>
 
 </article>
+<nav class="paging">
+<a id="prev" href="2025-06-03-fkj-22-23-live-sessions.html">&larr;</a>
+<div class="key"></div>
+<a id="next" href="2025-06-02-beautiful-boys.html">&rarr;</a>
+</nav>
+<script src="js/swiped-events.min.js"></script>
+<script src="js/kbd.js"></script>
+<script>
+  const f = function(id) {
+    return function() {
+      const anchor = document.getElementById(id);
+      if (anchor && anchor.getAttribute("href")) {
+        anchor.click();
+      }
+    }
+  };
+
+  document.addEventListener('swiped-left', f('next'));
+  document.addEventListener('swiped-right', f('prev'));
+  document.addEventListener('arrow-left', f('prev'));
+  document.addEventListener('arrow-right', f('next'));
+</script>
 </main>
-<footer>Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+<footer><a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
 </body>
 </html>

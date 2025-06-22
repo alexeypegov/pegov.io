@@ -47,7 +47,29 @@
   <p>Кстати, Return of the Obra Dinn получила в 2019 Seumas McNally Grand Prize. Так что если хочется поиграть во что-то и не знаете во что, то можно начать с <a href="https://en.wikipedia.org/wiki/Seumas_McNally_Grand_Prize">этого списка</a>.</p>
 
 </article>
+<nav class="paging">
+<a id="prev" href="2024-07-13-agendus.html">&larr;</a>
+<div class="key"></div>
+<a id="next" href="2024-07-02-obra-dinn.html">&rarr;</a>
+</nav>
+<script src="js/swiped-events.min.js"></script>
+<script src="js/kbd.js"></script>
+<script>
+  const f = function(id) {
+    return function() {
+      const anchor = document.getElementById(id);
+      if (anchor && anchor.getAttribute("href")) {
+        anchor.click();
+      }
+    }
+  };
+
+  document.addEventListener('swiped-left', f('next'));
+  document.addEventListener('swiped-right', f('prev'));
+  document.addEventListener('arrow-left', f('prev'));
+  document.addEventListener('arrow-right', f('next'));
+</script>
 </main>
-<footer>Made with <a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
+<footer><a href="https://github.com/alexeypegov/statique">Statique</a>.</footer>
 </body>
 </html>

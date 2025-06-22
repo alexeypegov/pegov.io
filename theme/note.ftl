@@ -2,4 +2,5 @@
 <#assign ld_type=note_view>
 <#include "header.ftl">
 <#include "${note_view}.ftl">
+<#include "navigation.ftl">
 <#include "footer.ftl">
