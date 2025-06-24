@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-20T00:00:00+00:00</updated>
+  <updated>2025-06-24T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Подкасты и футбол]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-24-two-links.html" />
+      <id>urn:uuid:c813eef0-b2c1-3635-a5a6-1966ae99401b</id>
+      <updated>2025-06-24T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Поделюсь двума сервисами: podtube.me — сделать подкаст из любого ютуб-канала, и liveball.my — смотреть футбол где угодно (спасибо, Лёха). Пользуйтесь!]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[GoGo Penguin - What We Are And What We Are Meant To Be]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-20-gogo-penguin.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:7b8b26db-1690-37aa-b4df-880b14e8634f</id>
       <updated>2025-02-27T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=8VoO8vbZI_Q]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Mose Allison - Young Mans's Blues]]></title>
-      <link href="https://fm.alexeypegov.com/2025-02-07-young-mans-blues.html" />
-      <id>urn:uuid:b5b9bed3-ad5f-3b6c-bd90-e3d06539986a</id>
-      <updated>2025-02-07T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=X97ykx3rO3s]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

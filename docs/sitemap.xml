@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://fm.alexeypegov.com/</loc>
-    <lastmod>2025-06-20</lastmod>
+    <lastmod>2025-06-24</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -184,6 +184,10 @@
   <url>
     <loc>https://fm.alexeypegov.com/2012-11-09-33.html</loc>
     <lastmod>2012-11-09</lastmod>
+  </url>
+  <url>
+    <loc>https://fm.alexeypegov.com/2025-06-24-two-links.html</loc>
+    <lastmod>2025-06-24</lastmod>
   </url>
   <url>
     <loc>https://fm.alexeypegov.com/2011-07-24-joan-as-police-woman--flash.html</loc>

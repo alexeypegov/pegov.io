@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-20T00:00:00+00:00</updated>
+  <updated>2025-06-24T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Подкасты и футбол]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-24-two-links.html" />
+      <id>urn:uuid:c813eef0-b2c1-3635-a5a6-1966ae99401b</id>
+      <updated>2025-06-24T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Поделюсь двумя сервисами: <a href="https://podtube.me">podtube.me</a> — сделать подкаст из любого ютуб-канала, и <a href="https://liveball.my">liveball.my</a> — смотреть футбол где угодно (спасибо, Лёха). Пользуйтесь!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[GoGo Penguin - What We Are And What We Are Meant To Be]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-20-gogo-penguin.html" />
@@ -191,22 +207,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/8VoO8vbZI_Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Leifur James - Suns of Gold"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Mose Allison - Young Mans's Blues]]></title>
-      <link href="https://fm.alexeypegov.com/2025-02-07-young-mans-blues.html" />
-      <id>urn:uuid:b5b9bed3-ad5f-3b6c-bd90-e3d06539986a</id>
-      <updated>2025-02-07T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/X97ykx3rO3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Young Man&#39;s Blues"></iframe></div></p>
 
 ]]>
       </content>
