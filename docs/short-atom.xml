@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-24T00:00:00+00:00</updated>
+  <updated>2025-06-26T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Тиффани Болен]]></title>
+      <link href="https://fm.alexeypegov.com/2025-06-26-tiffany-aching.html" />
+      <id>urn:uuid:bdad785d-6a2c-30fa-8367-b6b502293dc2</id>
+      <updated>2025-06-26T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Короче, у меня проблема — на амазоне нет 4-й книги о Тиффани Болен, а есть сразу пятая! И на флибусте нет! И вообще непонятно, переводила ли Наталья Аллунан четвертую книгу, и что теперь делать, и как дальше жить, аааааа!!!!]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Подкасты и футбол]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-24-two-links.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:f5b317f9-7710-357a-b018-2a89de0943e1</id>
       <updated>2025-06-01T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Last stop]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Leifur James - A Louder Silence (2018)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-02-27-leifur-james.html" />
-      <id>urn:uuid:7b8b26db-1690-37aa-b4df-880b14e8634f</id>
-      <updated>2025-02-27T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=8VoO8vbZI_Q]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
