@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-06-30T00:00:00+00:00</updated>
+  <updated>2025-07-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Еще про Агендус, и про... Виндоуз]]></title>
+      <link href="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html" />
+      <id>urn:uuid:97a155c3-bdbb-37bc-84a1-49b4d052fb22</id>
+      <updated>2025-07-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Еще про Агендус, и про... Виндоуз]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Жара]]></title>
       <link href="https://fm.alexeypegov.com/2025-06-30-the-heat.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:4478fcb6-4b26-3921-8f36-7f5a652c4c47</id>
       <updated>2025-06-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Посмотрел недавно несколько фильмов с Джином Хэкменом — Французский связной (1971), Ночные ходы (1975) и Разговор (1974). Настолько "живого" и "настоящего" кино я не видел уже очень и очень давно. ]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Beautiful Boys - Найди меня (2022)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-02-beautiful-boys.html" />
-      <id>urn:uuid:75682835-9938-387d-94e3-b7b5cfeea882</id>
-      <updated>2025-06-02T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=LoSeVddcmwg]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

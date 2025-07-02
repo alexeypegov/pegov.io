@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Еще про Агендус, и про... Виндоуз - Ложное движение</title>
+    
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+    <meta name="description" content="Как я еще один баг в Агендусе фикшу">
+
+    <!-- opengraph meta, etc -->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Ложное движение">
+    <meta property="og:description" content="Как я еще один баг в Агендусе фикшу">
+    <meta property="og:title" content="Еще про Агендус, и про... Виндоуз">
+    <meta property="og:url" content="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html">
+    <meta property="og:tag" content="программирую">
+    <meta property="og:tag" content="агендус">
+    <meta property="og:image" content="https://fm.alexeypegov.com/i/favicon-196.png">
+
+    <link rel="prev" href="https://fm.alexeypegov.com/2025-06-30-the-heat.html"/>
+    <link rel="next" href="https://fm.alexeypegov.com/2009-03-24-тимур-алексеевич.html"/>
+    <link rel="apple-touch-icon" href="i/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="i/favicon-180.png">
+    <link rel="apple-touch-icon" sizes="196x196" href="i/favicon-196.png">
+    <link rel="shortcut icon" type="image/png" href="i/favicon-32.png">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="alternate" type="application/atom+xml" title="Все Записи" href="https://fm.alexeypegov.com/atom.xml">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html#Post",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": "https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html",
+  "headline": "Еще про Агендус, и про... Виндоуз",
+  "name": "Еще про Агендус, и про... Виндоуз",
+  "isPartOf": {
+    "@type": "Blog",
+	"@id": "https://fm.alexeypegov.com#Blog"
+  },
+  "image": "https://fm.alexeypegov.com/i/favicon-196.png",
+  "url": "https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html",
+  "datePublished": "2025-07-02",
+  "dateModified": "2025-07-02",
+  "keywords": [
+    "программирую",
+    "агендус"
+  ],
+  "description": "Как я еще один баг в Агендусе фикшу",
+  "publisher": {
+	"@id": "https://alexeypegov.com#person",
+    "@type": "Person",
+	"name": "Алексей Пегов",
+	"url": "https://alexeypegov.com" 	
+  },
+  "author": {
+    "@type": "Person",
+	"@id": "https://alexeypegov.com#person"
+  }
+}
+</script>
+  </head>
+<body>
+<header>
+  <h1><a href="/">Ложное движение</a></h1>
+  <nav>
+    <a href="about.html">О сайте</a>
+    <a href="https://alexeypegov.com">Фотографирую</a>
+    <a href="/2022-09-24-my-position.html">ВОЙНА</a>
+  </nav>
+</header>
+<main>
+
+<article data-view="post" id="2025-07-02-on-agendus-and-windows">
+  <h2><a href="2025-07-02-on-agendus-and-windows.html">Еще про Агендус, и про... Виндоуз</a></h2>
+  <div class="sub">
+    <time class="date">02 июля 2025</time>
+    <span class="tags">
+      <span class="tag">программирую</span>, <span class="tag">агендус</span>
+    </span>
+  </div>
+  <div class="text">
+  <p>В <a href="https://apps.apple.com/us/app/agendus-day-to-day-planner/id6475171944">Агендусе</a> есть баг: нельзя перенести напоминание в список, который с кем-то расшарен. На самом деле, это не мой баг — это баг Apple, который почему-то решил, что &quot;ну и черт с ним&quot; (это только через API так, в их-то приложении все работает). Но какая разница, чей это баг, если не работает оно в Агендусе, значит — проблема Агендуса.</p>
+<p>А я тут решил было, что пора это дело исправить, и даже сел исправлять, и оно даже как-то заработало, но сам способ, которым я решил воспользоваться, меня <a href="/2025-06-16-useless-machine.html">снова</a> натолкнул на ассоциации. И в этот раз — на ассоциации с Виндой, ахах.</p>
+<p>История такая: в какой-то одной из первых версий игры СимСити был баг, который приводил в некоторых ситуациях к крешу в новой, еще даже не совем готовой, бета версии Windows'95 — игра пыталась прочитать что-то из памяти, которую уже освободила, и все ломалось. А Microsoft'у очень было нужно, чтобы все старое в этой новой &quot;блестящей&quot; версии Винды работало, чтобы у людей вообще был стимул апгрейдиться, и лишние баги, особенно в популярных играх, им были не нужны, так что они <a href="https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/">баг нашли и... исправили</a>, причем не в SimCity, а у себя: они определяли, что запущена эта конкретная игра, и меняли режим работы памяти на старый, чтобы игра продолжала работать! Профит!</p>
+<p>Решение, конечно, интересное, но спорное, но тут уж как — назвался груздем, полезай в кузов.</p>
+<p>Вот так и я — смотрю, что напоминание не сохранилось, проверяю, что это похоже на перемещение напоминания из одного списка в другой, и просто создаю новое напоминание в нужном списке, а старое удаляю. Профит!</p>
+<p>Но по ходу выяснилось, как часто бывает, что Агендус к такому интересному подходу не совсем готов — и я задумался, а стоит ли овчинка вообще выделки...</p>
+
+  </div>
+</article>
+<nav class="paging">
+<a id="prev" class="arrow" href="2009-03-24-тимур-алексеевич.html">&larr;</a>
+<div class="key"></div>
+<a id="next" class="arrow" href="2025-06-30-the-heat.html">&rarr;</a>
+</nav>
+<script src="js/swiped-events.min.js"></script>
+<script src="js/kbd.js"></script>
+<script>
+  const f = function(id) {
+    return function() {
+      const anchor = document.getElementById(id);
+      if (anchor && anchor.getAttribute("href")) {
+        anchor.click();
+      }
+    }
+  };
+
+  document.addEventListener('swiped-left', f('next'));
+  document.addEventListener('swiped-right', f('prev'));
+  document.addEventListener('arrow-left', f('prev'));
+  document.addEventListener('arrow-right', f('next'));
+</script>
+</main>
+<footer><a href="https://github.com/alexeypegov/statique">Statique</a></footer>
+</body>
+</html>

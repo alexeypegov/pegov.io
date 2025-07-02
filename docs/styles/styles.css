@@ -12,7 +12,7 @@
   --h6-size: 1rem;
   --small-size: 0.8rem;
   --font-family: "Literata", fallback, serif;
-  --font-weight: 400;
+  --font-weight: 300;
   --title-font-family: "Mulish", fallback, sans-serif;
   --text-color: #444;
   --title-color: #444;
@@ -56,8 +56,7 @@
     --subtitle-color: #eee;
     --link-color: #358cdb;
     --link-decoration-color: #32556b;
-    --external-link-svg: transparent url("external-358cdb.svg") no-repeat 100%
-      70%;
+    --external-link-svg: transparent url("external-358cdb.svg") no-repeat 100% 70%;
     --note-title-decoration-color: #444;
     --note-details-color: #666;
     --blockquote-text-color: #ddd;
@@ -157,15 +156,15 @@ header {
   margin: 4rem 0;
   text-align: center;
 
-  @media (width <= 599px) {
+  @media (width <=599px) {
     margin: 2rem 0;
   }
 
-  & > h1 {
+  &>h1 {
     white-space: nowrap;
     font-family: var(--title-font-family);
 
-    & > a[href] {
+    &>a[href] {
       color: var(--title-color);
       text-decoration-color: var(--title-decoration-color);
 
@@ -173,7 +172,7 @@ header {
         text-decoration-color: var(--title-color);
       }
 
-      @media (width <= 599px) {
+      @media (width <=599px) {
         text-decoration-color: var(--title-color);
       }
     }
@@ -184,10 +183,10 @@ header {
     font-size: var(--h5-size);
     padding-top: 0.5rem;
 
-    a ~ a {
+    a~a {
       margin-left: 1rem;
 
-      @media (width <= 599px) {
+      @media (width <=599px) {
         margin-left: 0.5rem;
       }
     }
@@ -199,7 +198,7 @@ main {
   flex-flow: column;
   align-items: center;
 
-  @media (width <= 599px) {
+  @media (width <=599px) {
     padding: 0 1rem 0;
   }
 }
@@ -208,27 +207,27 @@ article {
   width: var(--note-width);
   max-width: 800px;
 
-  & ~ & {
+  &~& {
     margin-top: 5rem;
 
-    @media (width <= 599px) {
+    @media (width <=599px) {
       margin-top: 2rem;
     }
   }
 
-  & > h2 {
+  &>h2 {
     color: var(--title-color);
     font-size: var(--h4-size);
     font-family: var(--title-font-family);
   }
 
-  & > h3 {
+  &>h3 {
     padding-top: 2rem;
     color: var(--subtitle-color);
   }
 
-  & > h2 {
-    & > a[href] {
+  &>h2 {
+    &>a[href] {
       color: var(--title-color);
       text-decoration-color: var(--note-title-decoration-color);
 
@@ -238,7 +237,7 @@ article {
     }
   }
 
-  & > .sub {
+  &>.sub {
     font-size: var(--h6-size);
     font-family: var(--title-font-family);
 
@@ -250,7 +249,7 @@ article {
       content: "·";
     }
 
-    @media (width <= 599px) {
+    @media (width <=599px) {
       margin-left: 0;
     }
   }
@@ -260,7 +259,7 @@ article {
     height: auto;
     max-width: 100%;
 
-    @media (width <= 599px) {
+    @media (width <=599px) {
       width: calc(100% + 2rem);
       max-width: unset;
       height: auto;
@@ -268,7 +267,7 @@ article {
       object-fit: contain;
     }
 
-    & ~ & {
+    &~& {
       padding-top: 1rem;
     }
   }
@@ -299,7 +298,7 @@ article {
     height: 0;
     padding-bottom: 56.25%;
 
-    @media (width <= 599px) {
+    @media (width <=599px) {
       width: calc(100% + 2rem);
       margin-left: -1rem;
     }
@@ -311,7 +310,7 @@ article {
       width: 100%;
       height: 100%;
 
-      @media (width <= 599px) {
+      @media (width <=599px) {
         margin: 0 !important;
       }
     }
@@ -328,7 +327,7 @@ article {
       }
     }
 
-    & > .text {
+    &>.text {
       h1 {
         padding-top: 1rem;
         color: var(--subtitle-color);
@@ -353,11 +352,11 @@ blockquote {
   font-size: var(--h5-size);
   background-color: var(--blockquote-background-color);
 
-  & ~ & {
+  &~& {
     margin-top: 3rem;
   }
 
-  @media (width <= 599px) {
+  @media (width <=599px) {
     box-sizing: border-box;
     width: calc(100% + 2rem);
     margin-left: -1rem;
@@ -384,7 +383,7 @@ li {
 ul {
   list-style-type: none;
 
-  & > li::before {
+  &>li::before {
     content: "\2022";
     display: block;
     position: absolute;
@@ -405,8 +404,8 @@ nav.paging {
     font-size: x-large;
 
     @media (max-width: 430px),
-      (max-width: 932px) and (orientation: landscape),
-      (hover: none) and (pointer: coarse) {
+    (max-width: 932px) and (orientation: landscape),
+    (hover: none) and (pointer: coarse) {
       pointer-events: none;
       cursor: default;
       text-decoration: none;
@@ -418,8 +417,8 @@ nav.paging {
     content: "Ctrl + ⇆";
 
     @media (max-width: 430px),
-      (max-width: 932px) and (orientation: landscape),
-      (hover: none) and (pointer: coarse) {
+    (max-width: 932px) and (orientation: landscape),
+    (hover: none) and (pointer: coarse) {
       content: "Смахни";
     }
   }
