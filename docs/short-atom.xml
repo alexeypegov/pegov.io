@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-07-02T00:00:00+00:00</updated>
+  <updated>2025-07-10T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Идрак Мирзализаде - Это не я придумал (2025)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-07-10-idrak.html" />
+      <id>urn:uuid:1a86f7f8-fb1b-3f02-b3f8-cc0064293440</id>
+      <updated>2025-07-10T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://youtu.be/bOzV0Okh2kw]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Еще про Агендус, и про... Виндоуз]]></title>
       <link href="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:386c2a2e-51c3-3432-9305-7d089ce634b3</id>
       <updated>2025-06-16T00:00:00+00:00</updated>
       <content type="text"><![CDATA[В основном, пространство]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[FKJ - Detroit Special (Live from Oak Music Theater)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-03-fkj-22-23-live-sessions.html" />
-      <id>urn:uuid:4508d757-c40e-37bb-b4be-f942ebf9092c</id>
-      <updated>2025-06-03T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=LAszYwVmYBw]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

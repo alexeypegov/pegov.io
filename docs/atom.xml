@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-07-02T00:00:00+00:00</updated>
+  <updated>2025-07-10T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Идрак Мирзализаде - Это не я придумал (2025)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-07-10-idrak.html" />
+      <id>urn:uuid:1a86f7f8-fb1b-3f02-b3f8-cc0064293440</id>
+      <updated>2025-07-10T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/bOzV0Okh2kw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Идрак Мирзализаде. Стендап концерт Это не я придумал"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Еще про Агендус, и про... Виндоуз]]></title>
       <link href="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html" />
@@ -189,22 +205,6 @@
 <![CDATA[
 <p>Классная <a href="https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html">визуализация</a> расстояний и относительных размеров объектов Солнечной системы, в которой за единицу отсчета принят размер Луны — один пиксель.</p>
 <p>В правом нижнем углу есть переключалка на автоматический скролл со скоростью света — тоже впечатляет.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[FKJ - Detroit Special (Live from Oak Music Theater)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-03-fkj-22-23-live-sessions.html" />
-      <id>urn:uuid:4508d757-c40e-37bb-b4be-f942ebf9092c</id>
-      <updated>2025-06-03T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/LAszYwVmYBw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="FKJ - Detroit Special (Live from Royal Oak Music Theater) [Official Audio]"></iframe></div></p>
 
 ]]>
       </content>
