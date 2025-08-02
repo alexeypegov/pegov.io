@@ -12,7 +12,7 @@ RED='\033[0;31m'
 RESET='\033[0m'
 ITALIC='\033[3m'
 
-filename=$(printf "posts/%s-%s.md" $(date +'%Y-%m-%d') $SLUG)
+filename=$(printf "posts/Draft-%s-%s.md" $(date +'%Y-%m-%d') $SLUG)
 
 if [ -e "$filename" ]; then
   echo "${RED}ERROR:${RESET} ${ITALIC}${filename}${RESET} already exist!"
