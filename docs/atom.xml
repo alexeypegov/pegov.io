@@ -4,7 +4,26 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-08-04T00:00:00+00:00</updated>
+  <updated>2025-08-09T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Тло]]></title>
+      <link href="https://fm.alexeypegov.com/2025-08-09-tlo.html" />
+      <id>urn:uuid:de8a3729-e5ca-3a8e-921c-82e39c8c27d3</id>
+      <updated>2025-08-09T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>СЯУ, что встреченное мной впервые в сербском слово &quot;тло&quot; есть и в русском языке и, хотя практически вышло из употребления, всё ещё встречается как минимум в одном распространённом выражении.</p>
+<p>Так вот, &quot;тло&quot; и в сербском, и в русском означает одно и то же: землю, почву, основание — то, что под ногами.</p>
+<p>И хотя смысл от этого не особенно меняется, похоже, я не совсем верно понимал значение этого слова в <em>том</em> выражении. Ну вот, а теперь и вы знаете.</p>
+<p>Подсказка: <em>это</em> выражение связано с огнём.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Olafur Arnalds & Talos — A dawning (2025)]]></title>
       <link href="https://fm.alexeypegov.com/2025-08-04-a-dawning.html" />
@@ -146,56 +165,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Lz_mNgEc9Mc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="GoGo Penguin - What We Are and What We Are Meant to Be"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[16 лет и продолжаем]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-17-16-years-and-counting.html" />
-      <id>urn:uuid:e1db0dd5-6002-3260-aab5-702aa4f76c51</id>
-      <updated>2025-06-17T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>В этом году исполнилось 16 лет моему старшему сыну, а значит и этому блогу. Я попросил Клода собрать кое-какую статистику по этому поводу.</p>
-<p>Первый пост — <a href="2009-03-24-тимур-алексеевич.html">Тимур Алексеевич</a> — опубликован 24 марта 2009 года. С тех пор накопилось немало всего.</p>
-<p><strong>В цифрах</strong></p>
-<ul>
-<li>703 поста за 16 лет (март 2009 – март 2025)</li>
-<li>44 поста в год, 0.12 поста в день</li>
-<li>В 2011 награфоманил на 227 постов — почти каждые полтора дня!</li>
-<li>А в 2017 совсем забил</li>
-</ul>
-<p><img src="https://fm.alexeypegov.com/images/2025-posts-per-years.svg" alt="Посты по годам" /></p>
-<p><strong>В тегах</strong> (которые сейчас не видны)</p>
-<ol>
-<li>слушаю — 203 раза</li>
-<li>саптрю — 171 раз</li>
-<li>жизнь — 66 раз</li>
-<li>разное — 66 раз</li>
-<li>фотографирую — 37 раз</li>
-<li>дизайн — 36 раз</li>
-<li>софт — 33 раза</li>
-<li>кино — 30 раз</li>
-<li>цитата — 25 раз</li>
-<li>юзабилити — 20 раз</li>
-</ol>
-<p>Пять случайных постов из архива:</p>
-<ul>
-<li><a href="2012-05-26-субурбы.html">субурбы</a> (2012)</li>
-<li><a href="2013-02-20-disney.html">Disney</a> (2013)</li>
-<li><a href="2011-03-09-voice-over.html">Voice Over</a> (2011)</li>
-<li><a href="2011-09-23-optimism-vs-pessimism.html">Optimism vs. Pessimism</a> (2011)</li>
-<li><a href="2011-10-23-massive-attack--paradise-circus-zeds-dead-remix.html">Massive Attack - Paradise Circus (Zeds Dead Remix)</a> (2011)</li>
-</ul>
-<p>Напомню, что можно подписаться на этот блог в <a href="https://fm.alexeypegov.com/atom.xml">RSS</a>, или в <a href="https://t.me/falsemovement">телеге</a>.</p>
-<p>Такие дела.</p>
-<p>ps: несколько лет назад я удалил процентов 10 постов, потому что ссылки в них протухли и восстановить их оказалось невозможно. Сейчас подумал, что надо было обновить ссылки через <a href="https://archive.org/">wayback machine</a>, а не удалять посты.</p>
-<p>pps: клод конечно посчитал все коряво, так что пришлось переделать, уверенности нет, но какая сейчас уверенность?</p>
 
 ]]>
       </content>
