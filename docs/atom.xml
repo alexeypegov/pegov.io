@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-08-09T00:00:00+00:00</updated>
+  <updated>2025-08-11T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Близкие друзья]]></title>
+      <link href="https://fm.alexeypegov.com/2025-08-11-close-friends.html" />
+      <id>urn:uuid:69170db1-1845-31dc-88cf-5dc2488abb23</id>
+      <updated>2025-08-11T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Помню, как мне не хватало друзей, которые в какой-то момент уехали из России. Ощутил, как мне сейчас не хватает друзей, которые остались в России, или вернулись в Россию. Или тех, кто не в России, но не рядом. Ребят, мне вас всех не хватает.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Тло]]></title>
       <link href="https://fm.alexeypegov.com/2025-08-09-tlo.html" />
@@ -149,22 +165,6 @@
       <content type="html">
 <![CDATA[
 <p>Поделюсь двумя сервисами: <a href="https://podtube.me">podtube.me</a> — сделать подкаст из любого ютуб-канала, и <a href="https://liveball.my">liveball.my</a> — смотреть футбол где угодно (спасибо, Лёха). Пользуйтесь!</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[GoGo Penguin - What We Are And What We Are Meant To Be]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-20-gogo-penguin.html" />
-      <id>urn:uuid:9dbb5b71-dacc-3844-8082-1f5ea08c79af</id>
-      <updated>2025-06-20T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/Lz_mNgEc9Mc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="GoGo Penguin - What We Are and What We Are Meant to Be"></iframe></div></p>
 
 ]]>
       </content>
