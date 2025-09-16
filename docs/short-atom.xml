@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-09-15T00:00:00+00:00</updated>
+  <updated>2025-09-16T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Много кода]]></title>
+      <link href="https://fm.alexeypegov.com/2025-09-16-large-change.html" />
+      <id>urn:uuid:e72232a2-9587-3895-b0db-8299036fdedc</id>
+      <updated>2025-09-16T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Заметил, что портится настроение, если не смог разбить задачу на небольшие кусочки. Кажется, что что-то написанное за несколько дней (не так много, как можно подумать) — это какой-то такой внутренний порог, за который лучше не переступать. А вот если пилишь там что-то неделю, или две — все, настроение ни к черту. Речь именно про объем — который не вмещается нормально в голове. ]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[iOS 26]]></title>
       <link href="https://fm.alexeypegov.com/2025-09-15-ios26.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:6cc193f2-c77e-3b5f-9697-88a16123fd2d</id>
       <updated>2025-07-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=nlcIKh6sBtc]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Жара]]></title>
-      <link href="https://fm.alexeypegov.com/2025-06-30-the-heat.html" />
-      <id>urn:uuid:46c0bd4e-094e-3f8c-b783-90306bc8ed74</id>
-      <updated>2025-06-30T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Я знаю звук, который могу слушать бесконечно, и под который классно работать — это звук дождя. А где взять дождь, когда на улице +37 и на небе ни облачка? Если у вас мак или (sic!) винда — вот https://www.vanejung.com/elpy, а если нет, то вот https://mynoise.net/]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
