@@ -4,7 +4,28 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-09-16T00:00:00+00:00</updated>
+  <updated>2025-09-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Сафари в iOS 26]]></title>
+      <link href="https://fm.alexeypegov.com/2025-09-20-safari-share.html" />
+      <id>urn:uuid:fa4ca7d9-8324-3353-8758-fdee2349c1ee</id>
+      <updated>2025-09-20T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Я пользоался Сафари на телефоне по одной причине — в нем всегда была видна кнопка &quot;Поделиться&quot;. Ни в одном другом браузере этой кнопки на экране не было — всегда нужно было лезть в какое-то контекстное меню. А в Сафари это было супер удобно — можно было открыть страничку, и сразу ее расшарить кому-то, или отправить в какое-то приложение. Супер фича.</p>
+<p>Но вот вышла iOS 26, в которой Эппл &quot;поработал&quot; над интерфейсом Сафари, неким образом &quot;упростив&quot; его и убрав эту кнопку под троеточие.</p>
+<p><img src="https://fm.alexeypegov.com/images/safari-share.jpg" alt="Apple Safari iOS26" /></p>
+<p>Не поймите меня неправильно: я и сам считаю, что полезно что-то упрощать, оптимизировать, пересматривать. Но, позвольте спросить, в чем смысл вот этого конкретного упрощения? Чем мешала эта кнопка? Какое другое действие она усложняла? Что стало проще делать после того, как ее не стало?</p>
+<p>А задавал ли себе кто-то этот вопрос в Эппл?</p>
+<p>Сомневаюсь.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Много кода]]></title>
       <link href="https://fm.alexeypegov.com/2025-09-16-large-change.html" />
@@ -154,22 +175,6 @@
 <p>Решение, конечно, интересное, но спорное, но тут уж как — назвался груздем, полезай в кузов.</p>
 <p>Вот так и я — смотрю, что напоминание не сохранилось, проверяю, что это похоже на перемещение напоминания из одного списка в другой, и просто создаю новое напоминание в нужном списке, а старое удаляю. Профит!</p>
 <p>Но по ходу выяснилось, как часто бывает, что Агендус к такому интересному подходу не совсем готов — и я задумался, а стоит ли овчинка вообще выделки...</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Lorge - Royals (2013)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-07-02-lorde-royals.html" />
-      <id>urn:uuid:6cc193f2-c77e-3b5f-9697-88a16123fd2d</id>
-      <updated>2025-07-02T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/nlcIKh6sBtc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Lorde - Royals (US Version)"></iframe></div></p>
 
 ]]>
       </content>
