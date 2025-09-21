@@ -4,18 +4,7 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-09-20T00:00:00+00:00</updated>
-    <entry>
-      <title><![CDATA[Сафари в iOS 26]]></title>
-      <link href="https://fm.alexeypegov.com/2025-09-20-safari-share.html" />
-      <id>urn:uuid:fa4ca7d9-8324-3353-8758-fdee2349c1ee</id>
-      <updated>2025-09-20T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Сафари в iOS 26]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
+  <updated>2025-09-16T00:00:00+00:00</updated>
     <entry>
       <title><![CDATA[Много кода]]></title>
       <link href="https://fm.alexeypegov.com/2025-09-16-large-change.html" />
@@ -110,6 +99,17 @@
       <id>urn:uuid:97a155c3-bdbb-37bc-84a1-49b4d052fb22</id>
       <updated>2025-07-02T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Еще про Агендус, и про... Виндоуз]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[Lorge - Royals (2013)]]></title>
+      <link href="https://fm.alexeypegov.com/2025-07-02-lorde-royals.html" />
+      <id>urn:uuid:6cc193f2-c77e-3b5f-9697-88a16123fd2d</id>
+      <updated>2025-07-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=nlcIKh6sBtc]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
