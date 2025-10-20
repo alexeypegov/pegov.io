@@ -4,7 +4,28 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-09-16T00:00:00+00:00</updated>
+  <updated>2025-10-20T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Такая вот «Светлая полоса»]]></title>
+      <link href="https://fm.alexeypegov.com/2025-10-20-light-stripe.html" />
+      <id>urn:uuid:53fa2b58-845a-3b51-9b89-8200a03ec862</id>
+      <updated>2025-10-20T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Цитата <a href="https://t.me/rotondamedia/7769">отсюда</a>:</p>
+<blockquote>
+<p>В протоколе о дискредитации армии (ст. 20.3.3 КоАП РФ), который составили на певицу Диану Логинову из-за песни Noize MC «Светлая полоса», полицейские объяснили, в чём именно исполнение композиции нарушает закон.<br/><br/>Как сообщила «Ротонде» глава пресс-службы судов Дарья Лебедева, в протоколе полицейские привели цитату из соцсетей Noize MC. Поклонник артиста написал ему, что включал трек «Светлая полоса» в Киеве во время атаки дронов и чувствовал поддержку артиста.<br/><br/>«Таким образом, Алексеевым И.А. посредством как самой песни «Светлая полоса», так и комментария относительно её выпуска, в обществе формируется негативная оценка проведения Российской Федерацией специальной военной операции», — говорится в протоколе.</p>
+</blockquote>
+<p>Какие же все-таки клоуны.</p>
+<p>А <a href="https://youtu.be/KZagK23gGBM">песня хорошая</a>.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Много кода]]></title>
       <link href="https://fm.alexeypegov.com/2025-09-16-large-change.html" />
@@ -154,22 +175,6 @@
 <p>Решение, конечно, интересное, но спорное, но тут уж как — назвался груздем, полезай в кузов.</p>
 <p>Вот так и я — смотрю, что напоминание не сохранилось, проверяю, что это похоже на перемещение напоминания из одного списка в другой, и просто создаю новое напоминание в нужном списке, а старое удаляю. Профит!</p>
 <p>Но по ходу выяснилось, как часто бывает, что Агендус к такому интересному подходу не совсем готов — и я задумался, а стоит ли овчинка вообще выделки...</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Lorge - Royals (2013)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-07-02-lorde-royals.html" />
-      <id>urn:uuid:6cc193f2-c77e-3b5f-9697-88a16123fd2d</id>
-      <updated>2025-07-02T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/nlcIKh6sBtc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Lorde - Royals (US Version)"></iframe></div></p>
 
 ]]>
       </content>
