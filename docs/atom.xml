@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-10-20T00:00:00+00:00</updated>
+  <updated>2025-10-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[101]]></title>
+      <link href="https://fm.alexeypegov.com/2025-10-21-101.html" />
+      <id>urn:uuid:e6252bf5-2539-37fe-9202-04a0e0be2810</id>
+      <updated>2025-10-21T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Как-то незаметно на <a href="https://www.alexeypegov.com">(not) a visual diary</a> набралось аж сто картинок. Сегодня добавил еще одну. Если вдруг вам какая-то нравится и хочется иметь ее в виде открытки, то пришлите мне <a href="https://www.alexeypegov.com/about.html">каким-либо способом</a> свое имя, адрес и ссылку на понравившуюся картинку.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Такая вот «Светлая полоса»]]></title>
       <link href="https://fm.alexeypegov.com/2025-10-20-light-stripe.html" />
@@ -154,27 +170,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/bOzV0Okh2kw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Идрак Мирзализаде. Стендап концерт Это не я придумал"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Еще про Агендус, и про... Виндоуз]]></title>
-      <link href="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html" />
-      <id>urn:uuid:97a155c3-bdbb-37bc-84a1-49b4d052fb22</id>
-      <updated>2025-07-02T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>В <a href="https://apps.apple.com/us/app/agendus-day-to-day-planner/id6475171944">Агендусе</a> есть баг: нельзя перенести напоминание в список, который с кем-то расшарен. На самом деле, это не мой баг — это баг Apple, который почему-то решил, что &quot;ну и черт с ним&quot; (это только через API так, в их-то приложении все работает). Но какая разница, чей это баг, если не работает оно в Агендусе, значит — проблема Агендуса.</p>
-<p>А я тут решил было, что пора это дело исправить, и даже сел исправлять, и оно даже как-то заработало, но сам способ, которым я решил воспользоваться, меня <a href="/2025-06-16-useless-machine.html">снова</a> натолкнул на ассоциации. И в этот раз — на ассоциации с Виндой, ахах.</p>
-<p>История такая: в какой-то одной из первых версий игры СимСити был баг, который приводил в некоторых ситуациях к крешу в новой, еще даже не совем готовой, бета версии Windows'95 — игра пыталась прочитать что-то из памяти, которую уже освободила, и все ломалось. А Microsoft'у очень было нужно, чтобы все старое в этой новой &quot;блестящей&quot; версии Винды работало, чтобы у людей вообще был стимул апгрейдиться, и лишние баги, особенно в популярных играх, им были не нужны, так что они <a href="https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/">баг нашли и... исправили</a>, причем не в SimCity, а у себя: они определяли, что запущена эта конкретная игра, и меняли режим работы памяти на старый, чтобы игра продолжала работать! Профит!</p>
-<p>Решение, конечно, интересное, но спорное, но тут уж как — назвался груздем, полезай в кузов.</p>
-<p>Вот так и я — смотрю, что напоминание не сохранилось, проверяю, что это похоже на перемещение напоминания из одного списка в другой, и просто создаю новое напоминание в нужном списке, а старое удаляю. Профит!</p>
-<p>Но по ходу выяснилось, как часто бывает, что Агендус к такому интересному подходу не совсем готов — и я задумался, а стоит ли овчинка вообще выделки...</p>
 
 ]]>
       </content>

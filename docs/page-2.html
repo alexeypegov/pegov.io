@@ -35,6 +35,25 @@
 </header>
 <main>
 
+<article data-view="post" id="2025-07-02-on-agendus-and-windows">
+  <h2><a href="2025-07-02-on-agendus-and-windows.html">Еще про Агендус, и про... Виндоуз</a></h2>
+  <div class="sub">
+    <time class="date">02 июля 2025</time>
+    <span class="tags">
+      <span class="tag">программирую</span>, <span class="tag">агендус</span>
+    </span>
+  </div>
+  <div class="text">
+  <p>В <a href="https://apps.apple.com/us/app/agendus-day-to-day-planner/id6475171944">Агендусе</a> есть баг: нельзя перенести напоминание в список, который с кем-то расшарен. На самом деле, это не мой баг — это баг Apple, который почему-то решил, что &quot;ну и черт с ним&quot; (это только через API так, в их-то приложении все работает). Но какая разница, чей это баг, если не работает оно в Агендусе, значит — проблема Агендуса.</p>
+<p>А я тут решил было, что пора это дело исправить, и даже сел исправлять, и оно даже как-то заработало, но сам способ, которым я решил воспользоваться, меня <a href="/2025-06-16-useless-machine.html">снова</a> натолкнул на ассоциации. И в этот раз — на ассоциации с Виндой, ахах.</p>
+<p>История такая: в какой-то одной из первых версий игры СимСити был баг, который приводил в некоторых ситуациях к крешу в новой, еще даже не совем готовой, бета версии Windows'95 — игра пыталась прочитать что-то из памяти, которую уже освободила, и все ломалось. А Microsoft'у очень было нужно, чтобы все старое в этой новой &quot;блестящей&quot; версии Винды работало, чтобы у людей вообще был стимул апгрейдиться, и лишние баги, особенно в популярных играх, им были не нужны, так что они <a href="https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/">баг нашли и... исправили</a>, причем не в SimCity, а у себя: они определяли, что запущена эта конкретная игра, и меняли режим работы памяти на старый, чтобы игра продолжала работать! Профит!</p>
+<p>Решение, конечно, интересное, но спорное, но тут уж как — назвался груздем, полезай в кузов.</p>
+<p>Вот так и я — смотрю, что напоминание не сохранилось, проверяю, что это похоже на перемещение напоминания из одного списка в другой, и просто создаю новое напоминание в нужном списке, а старое удаляю. Профит!</p>
+<p>Но по ходу выяснилось, как часто бывает, что Агендус к такому интересному подходу не совсем готов — и я задумался, а стоит ли овчинка вообще выделки...</p>
+
+  </div>
+</article>
+
 <article class="object" data-view="video" id="2025-07-02-lorde-royals">
   <div class="sub">
   	<a href="2025-07-02-lorde-royals.html"><time itemprop="datePublished" class="date">02 июля 2025</time></a>
@@ -183,17 +202,6 @@
     </span>
   </div>
   <p>Посмотрел недавно несколько фильмов с Джином Хэкменом — <a href="https://www.imdb.com/title/tt0067116/">Французский связной</a> (1971), <a href="https://www.imdb.com/title/tt0073453/">Ночные ходы</a> (1975) и <a href="https://www.imdb.com/title/tt0071360">Разговор</a> (1974). Настолько &quot;живого&quot; и &quot;настоящего&quot; кино я не видел уже очень и очень давно.</p>
-
-</article>
-
-<article class="object" data-view="video" id="2025-06-02-beautiful-boys">
-  <div class="sub">
-  	<a href="2025-06-02-beautiful-boys.html"><time itemprop="datePublished" class="date">02 июня 2025</time></a>
-    <span class="tags">
-      <span class="tag">слушаю</span>
-    </span>
-  </div>
-  <p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/LoSeVddcmwg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Где бы я ни был"></iframe></div></p>
 
 </article>
 <nav class="paging">

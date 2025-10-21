@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-10-20T00:00:00+00:00</updated>
+  <updated>2025-10-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[101]]></title>
+      <link href="https://fm.alexeypegov.com/2025-10-21-101.html" />
+      <id>urn:uuid:e6252bf5-2539-37fe-9202-04a0e0be2810</id>
+      <updated>2025-10-21T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Как-то незаметно на https://alexeypegov.com набралось аж сто картинок. Сегодня добавил еще одну. Если вдруг вам какая-то нравится и хочется иметь ее в виде открытки, то пришлите мне каким-либо способом свое имя, адрес и ссылку на понравившуюся картинку.]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Такая вот «Светлая полоса»]]></title>
       <link href="https://fm.alexeypegov.com/2025-10-20-light-stripe.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:1a86f7f8-fb1b-3f02-b3f8-cc0064293440</id>
       <updated>2025-07-10T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/bOzV0Okh2kw]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Еще про Агендус, и про... Виндоуз]]></title>
-      <link href="https://fm.alexeypegov.com/2025-07-02-on-agendus-and-windows.html" />
-      <id>urn:uuid:97a155c3-bdbb-37bc-84a1-49b4d052fb22</id>
-      <updated>2025-07-02T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Еще про Агендус, и про... Виндоуз]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
