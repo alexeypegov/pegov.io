@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=ULpNiZU2tpg
 
 Какой офигенный [фонтан][f]!
 
-[f]: willmorrison.net/posts/marble-fountain/
+[f]: https://willmorrison.net/posts/marble-fountain/
