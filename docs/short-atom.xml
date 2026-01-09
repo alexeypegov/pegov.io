@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2025-11-14T00:00:00+00:00</updated>
+  <updated>2026-01-09T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Лермонтов, 2025]]></title>
+      <link href="https://fm.alexeypegov.com/2026-01-09-lermontov.html" />
+      <id>urn:uuid:f0369b98-b29c-36ab-a3cd-fdd669bbdba3</id>
+      <updated>2026-01-09T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Лермонтов, 2025]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Marble fountain]]></title>
       <link href="https://fm.alexeypegov.com/2025-11-14-marble-fountain.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:de8a3729-e5ca-3a8e-921c-82e39c8c27d3</id>
       <updated>2025-08-09T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Тло]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Olafur Arnalds & Talos — A dawning (2025)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-08-04-a-dawning.html" />
-      <id>urn:uuid:91273db6-0075-30a9-b646-7ecfbd3b815e</id>
-      <updated>2025-08-04T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=nEBbhgMp8Ok]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
