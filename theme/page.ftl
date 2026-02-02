@@ -4,7 +4,7 @@
   <div class="text">
     ${body}
   </div>
-  <#if updated?exists>
+  <#if updated??>
   <p>
   Обновлено: ${updated}
   </p>

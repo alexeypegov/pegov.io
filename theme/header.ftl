@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta charset="utf-8">
     <#if title??>
     <title>${title} - ${vars.blog.title}</title>
     <#elseif ndx?? && ndx gt 1>
@@ -23,7 +23,12 @@
     </#if>
 
     <!-- opengraph meta, etc -->
+    <#if date??>
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="${date}">
+    <#else>
     <meta property="og:type" content="website">
+    </#if>
     <meta property="og:locale" content="ru_RU">
     <meta property="og:site_name" content="${vars.blog.title}">
     <#if summary??>
@@ -42,6 +47,7 @@
       <#assign url = vars.blog.url>
     </#if>
     <meta property="og:url" content="${url}">
+    <link rel="canonical" href="${url}">
     <#if tags??>
       <#list tags as tag>
     <meta property="og:tag" content="${tag}">
@@ -52,6 +58,14 @@
     <#else>
     <meta property="og:image" content="${vars.blog.url}/i/favicon-196.png">
     </#if>
+
+    <!-- twitter card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="${title}">
+    <#if summary??>
+    <meta name="twitter:description" content="${summary}">
+    </#if>
+    <meta name="twitter:image" content="${vars.blog.url}/${cover!'i/favicon-196.png'}">
 
     <#if prev_page??>
     <link rel="prev" href="${vars.blog.url + "/" + prev_page}">
