@@ -6,6 +6,23 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2026-02-13T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[Star Trek: Strange New Worlds (2022)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-13-star-trek.html" />
+      <id>urn:uuid:d6c81c8f-295c-31cd-ac23-298c22771a66</id>
+      <updated>2026-02-13T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><img src="https://fm.alexeypegov.com/images/star-trek-strange-new-worlds.webp" alt="Star Trek: Strange Bew Worlds" /></p>
+<p>Блин, тикой клевый <a href="https://www.imdb.com/title/tt12327578/">вайб</a>!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[Rainbow KittenSurprise - It's Called: Freefall]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-13-freefall.html" />
       <id>urn:uuid:966630f3-4236-3baf-9f37-f248f2c62a04</id>
@@ -154,22 +171,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/O8cgxZsAkvw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="FKJ - Moments (Part 1)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Близкие друзья]]></title>
-      <link href="https://fm.alexeypegov.com/2025-08-11-close-friends.html" />
-      <id>urn:uuid:69170db1-1845-31dc-88cf-5dc2488abb23</id>
-      <updated>2025-08-11T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Помню, как мне не хватало друзей, которые в какой-то момент уехали из России. Ощутил, как мне сейчас не хватает друзей, которые остались в России, или вернулись в Россию. Или тех, кто не в России, но не рядом. Ребят, мне вас всех не хватает.</p>
 
 ]]>
       </content>
