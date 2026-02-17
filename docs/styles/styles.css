@@ -331,6 +331,10 @@ article {
     }
   }
 
+  p + .media {
+    margin-top: 1rem;
+  }
+
   .media {
     width: calc(100% + 4rem);
     margin-inline: -2rem;
