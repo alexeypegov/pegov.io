@@ -1,47 +1,31 @@
 @font-face {
   font-family: "Literata";
-  src: url("literata-v40-cyrillic_latin-300.woff2") format("woff2");
-  font-weight: 300;
+  src: url("Literata[opsz,wght].woff2") format("woff2");
+  font-weight: 300 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Literata";
-  src: url("literata-v40-cyrillic_latin-300italic.woff2") format("woff2");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Literata";
-  src: url("literata-v40-cyrillic_latin-regular.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Literata";
-  src: url("literata-v40-cyrillic_latin-italic.woff2") format("woff2");
-  font-weight: 400;
+  src: url("Literata-Italic[opsz,wght].woff2") format("woff2");
+  font-weight: 300 900;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Mulish";
-  src: url("mulish-v18-cyrillic_latin-regular.woff2") format("woff2");
-  font-weight: 400;
+  src: url("Mulish[wght].woff2") format("woff2");
+  font-weight: 200 900;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
   font-family: "Mulish";
-  src: url("mulish-v18-cyrillic_latin-italic.woff2") format("woff2");
-  font-weight: 400;
+  src: url("Mulish-Italic[wght].woff2") format("woff2");
+  font-weight: 200 900;
   font-style: italic;
   font-display: swap;
 }
@@ -59,6 +43,7 @@
   --small-size: 0.8rem;
   --font-family: "Literata", fallback, serif;
   --font-weight: 300;
+  --font-title-weight: 400;
   --title-font-family: "Mulish", fallback, sans-serif;
   color-scheme: light dark;
   --text-color: light-dark(#444, #bbb);
@@ -91,7 +76,8 @@
     --h5-size: 1.067rem;
     --h6-size: 1rem;
     --small-size: 0.937rem;
-    --font-weight: 300;
+    --font-weight: 400;
+    --font-title-weight: 500;
     --link-decoration-color: light-dark(#33c, #358cdb);
     --note-title-decoration-color: light-dark(#444, #eee);
     --note-width: 100%;
@@ -123,7 +109,7 @@ body {
   margin: 1rem 0 0;
   color: var(--title-color);
   text-wrap: balance;
-  font-weight: var(--font-weight);
+  font-weight: var(--font-title-weight);
 }
 
 h1 {
@@ -245,7 +231,7 @@ article {
     }
 
     &::before {
-      content: "·";
+      content: "⋯";
       display: block;
       text-align: center;
       font-size: var(--h2-size);
@@ -283,6 +269,7 @@ article {
   &>.sub {
     font-size: var(--h6-size);
     font-family: var(--title-font-family);
+    font-weight: var(--font-title-weight);
 
     :is(time, .tags) {
       color: var(--note-details-color);
