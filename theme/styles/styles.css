@@ -58,6 +58,7 @@
   --blockquote-border-color: #1e90ff;
   --blockquote-text-color: light-dark(#333, #ddd);
   --blockquote-background-color: light-dark(#eee, #333);
+  --image-background-color: light-dark(#f5f5f5, #2a2a2a);
   --pre-background-color: light-dark(#eee, #333);
   --separator-color: light-dark(#ccc, #666);
   --note-width: 90%;
@@ -285,20 +286,28 @@ article {
   }
 
   img {
+    display: block;
     object-fit: contain;
     height: auto;
     max-width: 100%;
 
-    @media (width <=599px) {
-      width: calc(100% + 2rem);
-      max-width: unset;
-      height: auto;
-      margin-left: -1rem;
-      object-fit: contain;
-    }
-
     &~& {
       padding-top: 1rem;
+    }
+  }
+
+  p:has(> img) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    background-color: var(--image-background-color);
+    padding-inline: 1rem;
+    margin-inline: -2rem;
+
+    @media (width <=599px) {
+      padding-inline: 0;
+      margin-inline: -1rem;
     }
   }
 
@@ -323,12 +332,13 @@ article {
   }
 
   .media {
-    width: 100%;
+    width: calc(100% + 4rem);
+    margin-inline: -2rem;
     aspect-ratio: 16 / 9;
 
     @media (width <=599px) {
       width: calc(100% + 2rem);
-      margin-left: -1rem;
+      margin-inline: -1rem;
     }
 
     iframe {
@@ -343,7 +353,7 @@ article {
     }
 
     blockquote {
-      p {
+      p:first-child {
         margin-top: 0;
       }
     }
@@ -364,7 +374,7 @@ article {
 }
 
 :where(ul, pre, blockquote) {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 blockquote {
@@ -374,6 +384,10 @@ blockquote {
   font-size: var(--h5-size);
   font-weight: var(--font-weight);
   background-color: var(--blockquote-background-color);
+  text-align: justify;
+  text-align-last: left;
+  hyphens: auto;
+  hanging-punctuation: first last;
 
   &~& {
     margin-top: 3rem;
