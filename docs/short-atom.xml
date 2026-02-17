@@ -6,6 +6,17 @@
   <id>https://fm.alexeypegov.com/</id>
   <updated>2026-02-17T00:00:00+00:00</updated>
     <entry>
+      <title><![CDATA[внимание брусника! — занавес]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-17-zanaves.html" />
+      <id>urn:uuid:04f77c66-d53b-3c39-980f-ef8a570270df</id>
+      <updated>2026-02-17T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=xZdxGk0-p_4]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
       <title><![CDATA[Billie Eilish — Chihiro]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-17-chihiro.html" />
       <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
@@ -99,17 +110,6 @@
       <id>urn:uuid:e72232a2-9587-3895-b0db-8299036fdedc</id>
       <updated>2025-09-16T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Заметил, что портится настроение, если не смог разбить задачу на небольшие кусочки. Кажется, что что-то написанное за несколько дней (не так много, как можно подумать) — это какой-то такой внутренний порог, за который лучше не переступать. А вот если пилишь там что-то неделю, или две — все, настроение ни к черту. Речь именно про объем — который не вмещается нормально в голове. ]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[iOS 26]]></title>
-      <link href="https://fm.alexeypegov.com/2025-09-15-ios26.html" />
-      <id>urn:uuid:f061e488-637e-324b-adf6-ede387e312aa</id>
-      <updated>2025-09-15T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[iOS 26]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
