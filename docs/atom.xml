@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-02-13T00:00:00+00:00</updated>
+  <updated>2026-02-17T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Billie Eilish — Chihiro]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-17-chihiro.html" />
+      <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
+      <updated>2026-02-17T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BY_XwvKogC8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Billie Eilish - CHIHIRO (Official Music Video)"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Star Trek: Strange New Worlds (2022)]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-13-star-trek.html" />
@@ -155,22 +171,6 @@
 <p><img src="https://fm.alexeypegov.com/images/ios26.jpg" alt="ios 26" /></p>
 <p>И вот смотрю я на все эти округлости и прозрачности, и думаю, что все же очень плохо, когда тебе нужно что-то сделать, но сделать ты этого не можешь (читай: AI), и ты не знаешь, что еще может быть таким же хайповым... кроме... может быть... а что, если... ну, а вдруг... может, мы просто переделаем весь UI, который, на самом-то деле, вроде работает, но, блин, нам же нужно что-то.. ну хоть что-то...</p>
 <p>Эх.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[FKJ - Moments (part 1)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-09-09-fkj-moments-1.html" />
-      <id>urn:uuid:2b47c0ac-ace0-3509-ac72-d24c3b4d44e9</id>
-      <updated>2025-09-09T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/O8cgxZsAkvw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="FKJ - Moments (Part 1)"></iframe></div></p>
 
 ]]>
       </content>

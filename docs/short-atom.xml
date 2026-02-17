@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-02-13T00:00:00+00:00</updated>
+  <updated>2026-02-17T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Billie Eilish — Chihiro]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-17-chihiro.html" />
+      <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
+      <updated>2026-02-17T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://youtu.be/BY_XwvKogC8]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Star Trek: Strange New Worlds (2022)]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-13-star-trek.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:f061e488-637e-324b-adf6-ede387e312aa</id>
       <updated>2025-09-15T00:00:00+00:00</updated>
       <content type="text"><![CDATA[iOS 26]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[FKJ - Moments (part 1)]]></title>
-      <link href="https://fm.alexeypegov.com/2025-09-09-fkj-moments-1.html" />
-      <id>urn:uuid:2b47c0ac-ace0-3509-ac72-d24c3b4d44e9</id>
-      <updated>2025-09-09T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=O8cgxZsAkvw]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
