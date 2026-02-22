@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-02-18T00:00:00+00:00</updated>
+  <updated>2026-02-22T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[>]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-22-olga-davydova.html" />
+      <id>urn:uuid:e64ff1d2-f763-35d9-86e2-2fb0b9c45130</id>
+      <updated>2026-02-22T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://youtu.be/VBYe_SRnlO0]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Oscar Niemeyer — Sphere]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-18-sphere.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:e6252bf5-2539-37fe-9202-04a0e0be2810</id>
       <updated>2025-10-21T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Как-то незаметно на https://alexeypegov.com набралось аж сто картинок. Сегодня добавил еще одну. Если вдруг вам какая-то нравится и хочется иметь ее в виде открытки, то пришлите мне каким-либо способом свое имя, адрес и ссылку на понравившуюся картинку.]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Такая вот «Светлая полоса»]]></title>
-      <link href="https://fm.alexeypegov.com/2025-10-20-light-stripe.html" />
-      <id>urn:uuid:53fa2b58-845a-3b51-9b89-8200a03ec862</id>
-      <updated>2025-10-20T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Такая вот «Светлая полоса»]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
