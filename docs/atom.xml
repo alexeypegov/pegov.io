@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-02-22T00:00:00+00:00</updated>
+  <updated>2026-02-23T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Apparat - Glimmerine (2026)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-23-glimmerine.html" />
+      <id>urn:uuid:96bde41f-55bf-34e5-b3a8-27e48f0a2188</id>
+      <updated>2026-02-23T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/IQEBG0ev1kA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Apparat - Glimmerine (Live from the Studio)"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[>]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-22-olga-davydova.html" />
@@ -146,22 +162,6 @@
 <![CDATA[
 <p><img src="https://fm.alexeypegov.com/images/frances-ha.jpg" alt="Frances Ha, 2012" /></p>
 <p>Приятное и легкое <a href="https://www.imdb.com/title/tt2347569/">кино</a>.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[101]]></title>
-      <link href="https://fm.alexeypegov.com/2025-10-21-101.html" />
-      <id>urn:uuid:e6252bf5-2539-37fe-9202-04a0e0be2810</id>
-      <updated>2025-10-21T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Как-то незаметно на <a href="https://www.alexeypegov.com">(not) a visual diary</a> набралось аж сто картинок. Сегодня добавил еще одну.</p>
 
 ]]>
       </content>

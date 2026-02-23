@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-02-22T00:00:00+00:00</updated>
+  <updated>2026-02-23T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Apparat - Glimmerine (2026)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-02-23-glimmerine.html" />
+      <id>urn:uuid:96bde41f-55bf-34e5-b3a8-27e48f0a2188</id>
+      <updated>2026-02-23T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://www.youtube.com/watch?v=IQEBG0ev1kA]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[>]]></title>
       <link href="https://fm.alexeypegov.com/2026-02-22-olga-davydova.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:d741f1cc-6f05-3c41-bbdc-4e7a0a21c764</id>
       <updated>2025-11-04T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Frances Ha, 2012]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[101]]></title>
-      <link href="https://fm.alexeypegov.com/2025-10-21-101.html" />
-      <id>urn:uuid:e6252bf5-2539-37fe-9202-04a0e0be2810</id>
-      <updated>2025-10-21T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Как-то незаметно на https://alexeypegov.com набралось аж сто картинок. Сегодня добавил еще одну. Если вдруг вам какая-то нравится и хочется иметь ее в виде открытки, то пришлите мне каким-либо способом свое имя, адрес и ссылку на понравившуюся картинку.]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
