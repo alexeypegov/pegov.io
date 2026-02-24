@@ -92,7 +92,8 @@
 
 html {
   font-size: var(--base-size);
-  /* 16px */
+
+  scrollbar-gutter: stable;
 }
 
 body {
@@ -103,6 +104,8 @@ body {
   text-wrap: pretty;
   background-color: var(--background-color);
   color: var(--text-color);
+
+  overflow: auto;
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
@@ -331,7 +334,7 @@ article {
     }
   }
 
-  p + .media {
+  p+.media {
     margin-top: 1rem;
   }
 
