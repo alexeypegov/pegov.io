@@ -65,6 +65,10 @@
   --paging-text-color: light-dark(#aaa, #555);
 }
 
+@view-transition {
+  navigation: auto;
+}
+
 @media (width <=599px) {
   :root {
     /* size factor: 1.067 */
