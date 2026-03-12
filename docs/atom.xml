@@ -4,7 +4,26 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-03-07T00:00:00+00:00</updated>
+  <updated>2026-03-12T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Про извлечение]]></title>
+      <link href="https://fm.alexeypegov.com/2026-03-12-extraction.html" />
+      <id>urn:uuid:7525d70e-79ad-3305-a8a3-1fc4f043cce1</id>
+      <updated>2026-03-12T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Я знаю, что есть фотографы, которые не проявляют отснятые пленки сразу (<a href="https://erickimphotography.com/blog/2015/03/23/what-i-learned-processing-164-rolls-of-film-after-waiting-a-year/">бывает, что и целый год</a>) — они считают, что ты слишком эмоционально связан с тем, что отснял, и нужно время, чтобы эту эмоциональную связь разорвать, затем чтбы более трезво взглянуть на результат.</p>
+<p>Мне этого никогда не удавалось, потому что нужно откуда-то взять этот год, когда тебе есть что достать и проявить, и отсмотреть, пока ты кладешь на полку свежеснятое, но я никогда не снимал столько, чтобы вот так отложить и ждать.</p>
+<p>Но я вдруг понял, что все равно делаю почти так, когда смотрю и выбираю какую бы еще картинку опубликовать: я просматриваю старые файлы, и обращаю внимание в них на что-то, что изначально мне совсем не показалось важным или интересным. И случается, что мне гораздо чаще что-то нравится, чем сразу после того, как я это снял и проявил.</p>
+<p>Я думал — причина не смотреть сразу в том, что ты из-за эмоциональной связи выберешь что-то неинтересное, но, похоже, что ты можешь и наоборот — не заметить что-то ценное, что возможно извлечь только спустя время.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Parcels - Overnight (2017)]]></title>
       <link href="https://fm.alexeypegov.com/2026-03-07-overnight.html" />
@@ -144,23 +163,6 @@
 <![CDATA[
 <p><img src="https://fm.alexeypegov.com/images/lermontov_2025.webp" alt="Лермонтов, 2025" /></p>
 <p>Очень хорошее <a href="https://www.imdb.com/title/tt37183983/">кино</a>.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Marble fountain]]></title>
-      <link href="https://fm.alexeypegov.com/2025-11-14-marble-fountain.html" />
-      <id>urn:uuid:608b5ce9-8baf-3ff2-926f-98eceb569438</id>
-      <updated>2025-11-14T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/ULpNiZU2tpg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Procedurally Generating Infinite Marble Runs — Marble Fountain"></iframe></div></p>
-<p>Какой офигенный <a href="https://willmorrison.net/posts/marble-fountain/">фонтан</a>!</p>
 
 ]]>
       </content>
