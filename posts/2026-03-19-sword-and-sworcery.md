@@ -8,9 +8,9 @@ Summary: Клевая небольшая игра с отличным саунд
 Cover: images/sword-and-sworcery-ep.jpg
 ---
 
-https://www.youtube.com/watch?v=F1KKtuolNbs
+https://vimeo.com/20379529
 
-Поиграл, как нынче говорят, "с кайфом")
+[Поиграл и послушал][s&s] , как нынче говорят, "с кайфом"
 
 
-[s&s]: https://en.wikipedia.org/wiki/Superbrothers:_Sword_%26_Sworcery_EP
+[s&s]: http://www.swordandsworcery.com/
