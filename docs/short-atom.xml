@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-03-12T00:00:00+00:00</updated>
+  <updated>2026-03-19T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Sword & Sworcery EP]]></title>
+      <link href="https://fm.alexeypegov.com/2026-03-19-sword-and-sworcery.html" />
+      <id>urn:uuid:ec163b07-1c55-35c7-aef7-5136669bb0a6</id>
+      <updated>2026-03-19T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Sword & Sworcery EP]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Про извлечение]]></title>
       <link href="https://fm.alexeypegov.com/2026-03-12-extraction.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:966630f3-4236-3baf-9f37-f248f2c62a04</id>
       <updated>2026-02-13T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/U2WDdccgaDY]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Лермонтов, 2025]]></title>
-      <link href="https://fm.alexeypegov.com/2026-01-09-lermontov.html" />
-      <id>urn:uuid:f0369b98-b29c-36ab-a3cd-fdd669bbdba3</id>
-      <updated>2026-01-09T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Лермонтов, 2025]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

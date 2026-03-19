@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fm.alexeypegov.com/</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-03-19</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -432,6 +432,10 @@
   <url>
     <loc>https://fm.alexeypegov.com/2011-12-05-call-me.html</loc>
     <lastmod>2011-12-05</lastmod>
+  </url>
+  <url>
+    <loc>https://fm.alexeypegov.com/2026-03-19-sword-and-sworcery.html</loc>
+    <lastmod>2026-03-19</lastmod>
   </url>
   <url>
     <loc>https://fm.alexeypegov.com/2012-10-21-solino-2002.html</loc>
