@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-03-19T00:00:00+00:00</updated>
+  <updated>2026-04-10T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Durand Jones & The Indications — Whitchoo]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-10-witchoo.html" />
+      <id>urn:uuid:82cb4b98-8f86-3a95-b804-65846ef50ef1</id>
+      <updated>2026-04-10T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://youtu.be/d7vTtnevlO4]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Sword & Sworcery EP]]></title>
       <link href="https://fm.alexeypegov.com/2026-03-19-sword-and-sworcery.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:d6c81c8f-295c-31cd-ac23-298c22771a66</id>
       <updated>2026-02-13T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Star Trek: Strange New Worlds (2022)]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Rainbow KittenSurprise - It's Called: Freefall]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-13-freefall.html" />
-      <id>urn:uuid:966630f3-4236-3baf-9f37-f248f2c62a04</id>
-      <updated>2026-02-13T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://youtu.be/U2WDdccgaDY]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
