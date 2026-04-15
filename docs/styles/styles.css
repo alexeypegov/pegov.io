@@ -382,6 +382,19 @@ article {
     font-size: var(--h4-size);
     color: var(--title-color);
   }
+
+  &[data-view="deleted"] {
+    text-align: center;
+
+    p.deleted-title {
+      font-size: var(--h3-size);
+      padding-bottom: 1.5rem;
+    }
+
+    p.deleted-cause {
+      padding-bottom: 1.5rem;
+    }
+  }
 }
 
 :where(ul, pre, blockquote) {
