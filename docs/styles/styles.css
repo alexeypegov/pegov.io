@@ -155,6 +155,7 @@ a:hover {
 }
 
 a[href^="http"]:not([href*="fm.alexeypegov."]) {
+  white-space: nowrap;
   &::after {
     content: "";
     display: inline-block;
