@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-04-10T00:00:00+00:00</updated>
+  <updated>2026-04-22T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Agendus. 2026.2]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-22-agendus-2026.html" />
+      <id>urn:uuid:050e68a3-bbfa-3f32-88c1-33312fc92dab</id>
+      <updated>2026-04-22T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Agendus. 2026.2]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Durand Jones & The Indications — Whitchoo]]></title>
       <link href="https://fm.alexeypegov.com/2026-04-10-witchoo.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
       <updated>2026-02-17T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/BY_XwvKogC8]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Star Trek: Strange New Worlds (2022)]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-13-star-trek.html" />
-      <id>urn:uuid:d6c81c8f-295c-31cd-ac23-298c22771a66</id>
-      <updated>2026-02-13T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Star Trek: Strange New Worlds (2022)]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

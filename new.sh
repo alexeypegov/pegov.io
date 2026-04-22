@@ -12,7 +12,7 @@ RED='\033[0;31m'
 RESET='\033[0m'
 ITALIC='\033[3m'
 
-filename=$(printf "posts/Draft-%s-%s.md" $(date +'%Y-%m-%d') $SLUG)
+filename=$(printf "posts/%s-%s.md" $(date +'%Y-%m-%d') $SLUG)
 
 if [ -e "$filename" ]; then
   echo "${RED}ERROR:${RESET} ${ITALIC}${filename}${RESET} already exist!"
@@ -27,6 +27,7 @@ if [ $TYPE = "post" ]; then
   Tags:
   Summary:
   Cover:
+  Draft: remove this line to publish not
   ---
 
 EOF
@@ -38,6 +39,7 @@ elif [ $TYPE = "tweet" ]; then
   Tags:
   View: tweet
   Tweet: 
+  Draft: remove this line to publish not
   ---
 
 EOF
@@ -49,6 +51,7 @@ elif [ $TYPE = "video" ]; then
   Tags:
   View: video
   Video:
+  Draft: remove this line to publish not
   ---
 
 EOF
