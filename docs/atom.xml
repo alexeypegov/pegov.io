@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-04-22T00:00:00+00:00</updated>
+  <updated>2026-04-29T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Roy Haynes, Phineas Newborn Jr., Paul Chambers - We Three (1959)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-29-reflections.html" />
+      <id>urn:uuid:61324ef7-f509-372e-988b-1cbc39d70873</id>
+      <updated>2026-04-29T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/LdYr1WCuIKw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Reflection"></iframe></div></p>
+<p>Какой кайфовый <a href="https://www.discogs.com/master/318767-Roy-Haynes-With-Phineas-Newborn-Paul-Chambers-We-Three">альбом</a></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Agendus 2026.2]]></title>
       <link href="https://fm.alexeypegov.com/2026-04-22-agendus-2026.html" />
@@ -147,22 +164,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/xZdxGk0-p_4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="внимание брусника! – Занавес | Gainer x МТС Лейбл (LIVE)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Billie Eilish — Chihiro]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-17-chihiro.html" />
-      <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
-      <updated>2026-02-17T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/BY_XwvKogC8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Billie Eilish - CHIHIRO (Official Music Video)"></iframe></div></p>
 
 ]]>
       </content>

@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-04-22T00:00:00+00:00</updated>
+  <updated>2026-04-29T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Roy Haynes, Phineas Newborn Jr., Paul Chambers - We Three (1959)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-29-reflections.html" />
+      <id>urn:uuid:61324ef7-f509-372e-988b-1cbc39d70873</id>
+      <updated>2026-04-29T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Roy Haynes, Phineas Newborn Jr., Paul Chambers - We Three (1959)]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Agendus 2026.2]]></title>
       <link href="https://fm.alexeypegov.com/2026-04-22-agendus-2026.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:04f77c66-d53b-3c39-980f-ef8a570270df</id>
       <updated>2026-02-17T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://www.youtube.com/watch?v=xZdxGk0-p_4]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Billie Eilish — Chihiro]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-17-chihiro.html" />
-      <id>urn:uuid:ea1d0d38-5b3a-39e7-91a5-271d8daf6ffc</id>
-      <updated>2026-02-17T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://youtu.be/BY_XwvKogC8]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

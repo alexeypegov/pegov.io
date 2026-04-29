@@ -27,7 +27,7 @@ if [ $TYPE = "post" ]; then
   Tags:
   Summary:
   Cover:
-  Draft: remove this line to publish not
+  Draft: remove this line to publish
   ---
 
 EOF
@@ -39,7 +39,7 @@ elif [ $TYPE = "tweet" ]; then
   Tags:
   View: tweet
   Tweet: 
-  Draft: remove this line to publish not
+  Draft: remove this line to publish
   ---
 
 EOF
@@ -51,7 +51,7 @@ elif [ $TYPE = "video" ]; then
   Tags:
   View: video
   Video:
-  Draft: remove this line to publish not
+  Draft: remove this line to publish
   ---
 
 EOF
