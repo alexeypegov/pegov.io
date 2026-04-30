@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-04-29T00:00:00+00:00</updated>
+  <updated>2026-04-30T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Восстановление 20-летней Сеги Дримкаст]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-30-sega-dreamcast-restoration.html" />
+      <id>urn:uuid:d9a52ad9-44ed-308f-a758-3e36b0ae7f84</id>
+      <updated>2026-04-30T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Восстановление 20-летней Сеги Дримкаст]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Roy Haynes, Phineas Newborn Jr., Paul Chambers - We Three (1959)]]></title>
       <link href="https://fm.alexeypegov.com/2026-04-29-reflections.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:9034ab13-2a1a-31f4-a446-b05617a455c5</id>
       <updated>2026-02-18T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Oscar Niemeyer — Sphere]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[внимание брусника! — занавес]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-17-zanaves.html" />
-      <id>urn:uuid:04f77c66-d53b-3c39-980f-ef8a570270df</id>
-      <updated>2026-02-17T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=xZdxGk0-p_4]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
