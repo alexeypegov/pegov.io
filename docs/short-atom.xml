@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-04-30T00:00:00+00:00</updated>
+  <updated>2026-07-12T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Почему тигры оранжевые]]></title>
+      <link href="https://fm.alexeypegov.com/2026-07-12-about-color.html" />
+      <id>urn:uuid:9b8cbeb2-1219-321d-a47e-4bd49e514361</id>
+      <updated>2026-07-12T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Почему тигры оранжевые]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Восстановление 20-летней Сеги Дримкаст]]></title>
       <link href="https://fm.alexeypegov.com/2026-04-30-sega-dreamcast-restoration.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:e64ff1d2-f763-35d9-86e2-2fb0b9c45130</id>
       <updated>2026-02-22T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/VBYe_SRnlO0]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Oscar Niemeyer — Sphere]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-18-sphere.html" />
-      <id>urn:uuid:9034ab13-2a1a-31f4-a446-b05617a455c5</id>
-      <updated>2026-02-18T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Oscar Niemeyer — Sphere]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
