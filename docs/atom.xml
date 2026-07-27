@@ -4,7 +4,25 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-07-12T00:00:00+00:00</updated>
+  <updated>2026-07-27T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Про переводы]]></title>
+      <link href="https://fm.alexeypegov.com/2026-07-27-translation.html" />
+      <id>urn:uuid:0e39a41a-0cee-3645-ad40-c291bea04b2f</id>
+      <updated>2026-07-27T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Мне никогда особенно не нравились попытки локализовывать названия и имена в переводах: Фродо Сумниксу я предпочитал Фродо Бэггинса, а Невиллу Долгопупсу – Невилла Лонгботтома.</p>
+<p>Не знаю почему, позможно потому же, почему мне никогда не нравились, например, попытки локализовать интерфейсы приложений – почему-то все эти &quot;Резать/Склеить&quot; (Cut/Combine, была такая удобная фича в DOS Navigator'е времен флоппи дисков, на которые целиком далеко не все файлы помещались) звучали для меня как-то очень неуклюже и не &quot;по-настоящему&quot;.</p>
+<p>А сегодня я узнал (из книжки Галины Юзефович &quot;<a href="https://www.amazon.com/%D0%A5%D0%BE%D0%B3%D0%B2%D0%B0%D1%80%D1%82%D1%81%D0%B0-%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5-%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%D0%B0-%D0%A1%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%80%D0%B8%D1%83%D0%BC-ebook/dp/B0GCZK9D9Q">Ключи от Хогвардса</a>&quot;), что в переводческом мире эти два подхода давно (аж с начала XIX века!) выделены во вполне официальные стратегии – <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D1%84%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B5">доместикацию и форенизацию</a> (domestication vs. foreignization), и именами собственными эти стратегии далеко не ограничиваются.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Почему тигры оранжевые]]></title>
       <link href="https://fm.alexeypegov.com/2026-07-12-about-color.html" />
@@ -148,22 +166,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/IQEBG0ev1kA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Apparat - Glimmerine (Live from the Studio)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Лекция Ольги Давыдовой «Теория фотографии: что-то помимо Барта»]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-22-olga-davydova.html" />
-      <id>urn:uuid:e64ff1d2-f763-35d9-86e2-2fb0b9c45130</id>
-      <updated>2026-02-22T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/VBYe_SRnlO0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Лекция Ольги Давыдовой «Теория фотографии: что-то помимо Барта»"></iframe></div></p>
 
 ]]>
       </content>
