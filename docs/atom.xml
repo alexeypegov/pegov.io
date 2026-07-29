@@ -4,7 +4,28 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-29T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Гуляем на все]]></title>
+      <link href="https://fm.alexeypegov.com/2026-07-29-money.html" />
+      <id>urn:uuid:9b524108-b515-37e5-85b3-158ab3d44a66</id>
+      <updated>2026-07-29T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Предыстория: мы пытаемся развивать у младшего (7 лет) финансовую грамотность – даем ему раз в неделю немного денег на небольшие карманные расходы, с условием, что он может их тратить на какие-то внеплановые ништяки – морожку там, и все такое.</p>
+<p>И вот, сегодня он уговорил меня зайти в китайскую барахолку, чтобы выбрать себе брызгалку (у нас тут очередная волна жары).</p>
+<p>Денег ему немного не хватило, я добавил, и вот после магазина мы идем по улице, и он, ни к кому особенно не обращаясь, выдает:</p>
+<p>— Я потратил сегодня все свои деньги...</p>
+<p>(и дальше, без паузы и с большим воодушевлением)</p>
+<p>— НО БУДУТ ЕЩЕ! В понедельник!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Даешь форенизацию!]]></title>
       <link href="https://fm.alexeypegov.com/2026-07-27-translation.html" />
@@ -150,22 +171,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/kIxFtDz_1hs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Amazon Music presents: Parcels – Overnight"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Apparat - Glimmerine (2026)]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-23-glimmerine.html" />
-      <id>urn:uuid:96bde41f-55bf-34e5-b3a8-27e48f0a2188</id>
-      <updated>2026-02-23T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/IQEBG0ev1kA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Apparat - Glimmerine (Live from the Studio)"></iframe></div></p>
 
 ]]>
       </content>

@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-07-27T00:00:00+00:00</updated>
+  <updated>2026-07-29T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Гуляем на все]]></title>
+      <link href="https://fm.alexeypegov.com/2026-07-29-money.html" />
+      <id>urn:uuid:9b524108-b515-37e5-85b3-158ab3d44a66</id>
+      <updated>2026-07-29T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Гуляем на все]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Даешь форенизацию!]]></title>
       <link href="https://fm.alexeypegov.com/2026-07-27-translation.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:3ab5fb74-2cc3-3c92-b2b8-20e12bc68f8d</id>
       <updated>2026-03-07T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/kIxFtDz_1hs]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Apparat - Glimmerine (2026)]]></title>
-      <link href="https://fm.alexeypegov.com/2026-02-23-glimmerine.html" />
-      <id>urn:uuid:96bde41f-55bf-34e5-b3a8-27e48f0a2188</id>
-      <updated>2026-02-23T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://www.youtube.com/watch?v=IQEBG0ev1kA]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
