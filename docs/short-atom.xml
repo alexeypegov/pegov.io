@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-07-29T00:00:00+00:00</updated>
+  <updated>2026-08-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Нежелательное]]></title>
+      <link href="https://fm.alexeypegov.com/2026-08-02-nezhelatelnoe.html" />
+      <id>urn:uuid:94d3d276-f9a2-3d9d-b89b-06f1b683d9f8</id>
+      <updated>2026-08-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Нежелательное]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Гуляем на все]]></title>
       <link href="https://fm.alexeypegov.com/2026-07-29-money.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:7525d70e-79ad-3305-a8a3-1fc4f043cce1</id>
       <updated>2026-03-12T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Про извлечение]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Parcels - Overnight (2017)]]></title>
-      <link href="https://fm.alexeypegov.com/2026-03-07-overnight.html" />
-      <id>urn:uuid:3ab5fb74-2cc3-3c92-b2b8-20e12bc68f8d</id>
-      <updated>2026-03-07T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://youtu.be/kIxFtDz_1hs]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>

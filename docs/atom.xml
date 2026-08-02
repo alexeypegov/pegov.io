@@ -4,7 +4,27 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-07-29T00:00:00+00:00</updated>
+  <updated>2026-08-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Нежелательное]]></title>
+      <link href="https://fm.alexeypegov.com/2026-08-02-nezhelatelnoe.html" />
+      <id>urn:uuid:94d3d276-f9a2-3d9d-b89b-06f1b683d9f8</id>
+      <updated>2026-08-02T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p>Читаю взахлеб книжку Алексея Иванова &quot;Вегетация&quot;. Нет, не читаю, не так: только что ее прочитал. А там, в самом конце... уже после всего, одно-единственное примечание:</p>
+<blockquote>
+<p>Генеральная прокуратура РФ признала нежелательной деятельность Greanpeace в России.</p>
+</blockquote>
+<p>Это так смешно. Какие же они клоуны.</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Гуляем на все]]></title>
       <link href="https://fm.alexeypegov.com/2026-07-29-money.html" />
@@ -155,22 +175,6 @@
 <p>Мне этого никогда не удавалось, потому что нужно откуда-то взять этот год, когда тебе есть что достать и проявить, и отсмотреть, пока ты кладешь на полку свежеснятое, но я никогда не снимал столько, чтобы вот так отложить и ждать.</p>
 <p>Но я вдруг понял, что все равно делаю почти так, когда смотрю и выбираю какую бы еще картинку опубликовать: я просматриваю старые файлы, и обращаю внимание в них на что-то, что изначально мне совсем не показалось важным или интересным. И случается, что мне гораздо чаще что-то нравится, чем сразу после того, как я это снял и проявил.</p>
 <p>Я думал — причина не смотреть сразу в том, что ты из-за эмоциональной связи выберешь что-то неинтересное, но, похоже, что ты можешь и наоборот — не заметить что-то ценное, что возможно извлечь только спустя время.</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Parcels - Overnight (2017)]]></title>
-      <link href="https://fm.alexeypegov.com/2026-03-07-overnight.html" />
-      <id>urn:uuid:3ab5fb74-2cc3-3c92-b2b8-20e12bc68f8d</id>
-      <updated>2026-03-07T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/kIxFtDz_1hs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Amazon Music presents: Parcels – Overnight"></iframe></div></p>
 
 ]]>
       </content>
