@@ -34,6 +34,8 @@
   --separator-color: light-dark(#ccc, #666);
   --note-width: 90%;
   --paging-text-color: light-dark(#aaa, #555);
+  --link-decoration-offset: 0.15em;
+  --link-decortion-thickness: 0.07em;
 }
 
 @view-transition {
@@ -52,11 +54,13 @@
     --h5-size: 1.067rem;
     --h6-size: 1rem;
     --small-size: 0.937rem;
-    --font-weight: 400;
+    --font-weight: 500;
     --font-title-weight: 500;
     --link-decoration-color: light-dark(#33c, #358cdb);
     --note-title-decoration-color: light-dark(#444, #eee);
     --note-width: 100%;
+    --link-decoration-offset: 0.1em;
+    --link-decortion-thickness: 0.05em;
   }
 }
 
@@ -118,8 +122,8 @@ h6 {
 a[href] {
   color: var(--link-color);
   text-decoration-color: var(--link-decoration-color);
-  text-underline-offset: 0.15em;
-  text-decoration-thickness: 0.07em;
+  text-underline-offset: var(--link-decoration-offset);
+  text-decoration-thickness: var(--link-decortion-thickness);
   overflow-wrap: break-word;
 }
 
