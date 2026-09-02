@@ -396,10 +396,6 @@ blockquote {
   hyphens: auto;
   hanging-punctuation: first last;
 
-  &~& {
-    margin-top: 3rem;
-  }
-
   @media (width <=599px) {
     box-sizing: border-box;
     width: calc(100% + 2rem);
