@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-08-02T00:00:00+00:00</updated>
+  <updated>2026-09-02T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Клоуны и книги]]></title>
+      <link href="https://fm.alexeypegov.com/2026-09-02-clowns-and-books.html" />
+      <id>urn:uuid:19871cfd-900f-34f1-bf4f-0a0a9cc9f7a7</id>
+      <updated>2026-09-02T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Клоуны и книги]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Нежелательное]]></title>
       <link href="https://fm.alexeypegov.com/2026-08-02-nezhelatelnoe.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:ec163b07-1c55-35c7-aef7-5136669bb0a6</id>
       <updated>2026-03-19T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Sword & Sworcery EP]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Про извлечение]]></title>
-      <link href="https://fm.alexeypegov.com/2026-03-12-extraction.html" />
-      <id>urn:uuid:7525d70e-79ad-3305-a8a3-1fc4f043cce1</id>
-      <updated>2026-03-12T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Про извлечение]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
