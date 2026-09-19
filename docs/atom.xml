@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-09-02T00:00:00+00:00</updated>
+  <updated>2026-09-19T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Max Richter - The Nature Of Daylight]]></title>
+      <link href="https://fm.alexeypegov.com/2026-09-19-the-nature-of-daylight.html" />
+      <id>urn:uuid:f50f7720-74e5-302d-88f5-ef9c90fc1874</id>
+      <updated>2026-09-19T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/InyT9Gyoz_o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Max Richter - On The Nature Of Daylight (Official Video)"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Клоуны и книги]]></title>
       <link href="https://fm.alexeypegov.com/2026-09-02-clowns-and-books.html" />
@@ -162,23 +178,6 @@
       <content type="html">
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/d7vTtnevlO4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Durand Jones &amp; The Indications - Witchoo (Official Video)"></iframe></div></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Sword & Sworcery EP]]></title>
-      <link href="https://fm.alexeypegov.com/2026-03-19-sword-and-sworcery.html" />
-      <id>urn:uuid:ec163b07-1c55-35c7-aef7-5136669bb0a6</id>
-      <updated>2026-03-19T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="Vimeo"><iframe src="https://player.vimeo.com/video/20379529?app_id=122963" width="480" height="272" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Audience Calibration Procedure"></iframe></div></p>
-<p><a href="http://www.swordandsworcery.com/">Поиграл и послушал</a> , как нынче говорят, &quot;с кайфом&quot;</p>
 
 ]]>
       </content>

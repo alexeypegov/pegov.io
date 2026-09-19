@@ -4,7 +4,18 @@
   <link href="https://fm.alexeypegov.com/short-atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-09-02T00:00:00+00:00</updated>
+  <updated>2026-09-19T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Max Richter - The Nature Of Daylight]]></title>
+      <link href="https://fm.alexeypegov.com/2026-09-19-the-nature-of-daylight.html" />
+      <id>urn:uuid:f50f7720-74e5-302d-88f5-ef9c90fc1874</id>
+      <updated>2026-09-19T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[https://youtu.be/InyT9Gyoz_o]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Клоуны и книги]]></title>
       <link href="https://fm.alexeypegov.com/2026-09-02-clowns-and-books.html" />
@@ -99,17 +110,6 @@
       <id>urn:uuid:82cb4b98-8f86-3a95-b804-65846ef50ef1</id>
       <updated>2026-04-10T00:00:00+00:00</updated>
       <content type="text"><![CDATA[https://youtu.be/d7vTtnevlO4]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Sword & Sworcery EP]]></title>
-      <link href="https://fm.alexeypegov.com/2026-03-19-sword-and-sworcery.html" />
-      <id>urn:uuid:ec163b07-1c55-35c7-aef7-5136669bb0a6</id>
-      <updated>2026-03-19T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[Sword & Sworcery EP]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
