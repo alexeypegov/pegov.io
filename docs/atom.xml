@@ -4,7 +4,23 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-09-19T00:00:00+00:00</updated>
+  <updated>2026-09-21T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Richter. The Enigma (Bruno Monsaingeon, 1998)]]></title>
+      <link href="https://fm.alexeypegov.com/2026-09-21-svyatoslav-richter.html" />
+      <id>urn:uuid:7c539897-3fd7-31e5-8313-aff3d28cb874</id>
+      <updated>2026-09-21T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/ZNmb7It0G7c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Richter: The Enigma (Bruno Monsaingeon, 1998)"></iframe></div></p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Max Richter - The Nature Of Daylight]]></title>
       <link href="https://fm.alexeypegov.com/2026-09-19-the-nature-of-daylight.html" />
@@ -162,22 +178,6 @@
 <![CDATA[
 <p>Выкатил <a href="https://apps.apple.com/ru/app/%D0%B0%D0%B3%D0%B5%D0%BD%D0%B4%D1%83%D1%81-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BD%D1%8C/id6475171944">Agendus 2026.2</a> с несколькими серьезными переделками, кучей багфиксов и новой фичей автозаполнения создаваемых напоминаний из истории.</p>
 <p>Скоро нас всех поглотит какой-нибудь клон OpenClaw, так что успейте насладиться созданием напоминаний и событий вручную пока еще не поздно!</p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Durand Jones & The Indications — Whitchoo]]></title>
-      <link href="https://fm.alexeypegov.com/2026-04-10-witchoo.html" />
-      <id>urn:uuid:82cb4b98-8f86-3a95-b804-65846ef50ef1</id>
-      <updated>2026-04-10T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/d7vTtnevlO4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Durand Jones &amp; The Indications - Witchoo (Official Video)"></iframe></div></p>
 
 ]]>
       </content>
