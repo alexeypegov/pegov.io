@@ -4,7 +4,24 @@
   <link href="https://fm.alexeypegov.com/atom.xml" rel="self" />
   <link href="https://fm.alexeypegov.com" />
   <id>https://fm.alexeypegov.com/</id>
-  <updated>2026-09-21T00:00:00+00:00</updated>
+  <updated>2026-09-29T00:00:00+00:00</updated>
+    <entry>
+      <title><![CDATA[Max Richter - Dona Nobis Pacem 2 (from "The Leftovers" - Season 1) - Angèle Dubeau & La Pietà]]></title>
+      <link href="https://fm.alexeypegov.com/2026-09-29-leftovers.html" />
+      <id>urn:uuid:2e59d15d-2424-3796-8e4c-4b59c04e2c4f</id>
+      <updated>2026-09-29T00:00:00+00:00</updated>
+      <content type="html">
+<![CDATA[
+<p><div class="media" data-rovider="YouTube"><iframe width="200" height="113" src="https://www.youtube.com/embed/v0UBZ3hINBY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Max Richter: Dona Nobis Pacem 2 (from &quot;The Leftovers&quot; - Season 1) - Angèle Dubeau &amp; La Pietà"></iframe></div></p>
+<p>А какой крутой <a href="https://www.imdb.com/title/tt2699128/">сериал</a>!</p>
+
+]]>
+      </content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
     <entry>
       <title><![CDATA[Richter. The Enigma (Bruno Monsaingeon, 1998)]]></title>
       <link href="https://fm.alexeypegov.com/2026-09-21-svyatoslav-richter.html" />
@@ -161,23 +178,6 @@
 <![CDATA[
 <p><div class="media" data-rovider="YouTube"><iframe width="200" height="150" src="https://www.youtube.com/embed/LdYr1WCuIKw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Reflection"></iframe></div></p>
 <p>Какой кайфовый <a href="https://www.discogs.com/master/318767-Roy-Haynes-With-Phineas-Newborn-Paul-Chambers-We-Three">альбом</a></p>
-
-]]>
-      </content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
-      <title><![CDATA[Agendus 2026.2]]></title>
-      <link href="https://fm.alexeypegov.com/2026-04-22-agendus-2026.html" />
-      <id>urn:uuid:050e68a3-bbfa-3f32-88c1-33312fc92dab</id>
-      <updated>2026-04-22T00:00:00+00:00</updated>
-      <content type="html">
-<![CDATA[
-<p>Выкатил <a href="https://apps.apple.com/ru/app/%D0%B0%D0%B3%D0%B5%D0%BD%D0%B4%D1%83%D1%81-%D0%BF%D0%BB%D0%B0%D0%BD-%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BD%D1%8C/id6475171944">Agendus 2026.2</a> с несколькими серьезными переделками, кучей багфиксов и новой фичей автозаполнения создаваемых напоминаний из истории.</p>
-<p>Скоро нас всех поглотит какой-нибудь клон OpenClaw, так что успейте насладиться созданием напоминаний и событий вручную пока еще не поздно!</p>
 
 ]]>
       </content>
