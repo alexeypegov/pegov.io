@@ -1,5 +1,5 @@
 ---
-Title: Max Richter - Dona Nobis Pacem 2 (from "The Leftovers" - Season 1) - Angèle Dubeau & La Pietà
+Title: Max Richter - Dona Nobis Pacem 2 - Angèle Dubeau & La Pietà
 Date: 2026-09-29
 Tags:
   - слушаю
