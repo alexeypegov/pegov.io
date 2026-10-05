@@ -6,6 +6,7 @@ Tags:
   - саптрю
 View: video
 Video: https://youtu.be/InyT9Gyoz_o
+Deleted: что-то слишком грусное
 ---
 
 https://youtu.be/InyT9Gyoz_o

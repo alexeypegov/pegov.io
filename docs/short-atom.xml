@@ -28,17 +28,6 @@
       </author>
     </entry>
     <entry>
-      <title><![CDATA[Max Richter - The Nature Of Daylight]]></title>
-      <link href="https://fm.alexeypegov.com/2026-09-19-the-nature-of-daylight.html" />
-      <id>urn:uuid:f50f7720-74e5-302d-88f5-ef9c90fc1874</id>
-      <updated>2026-09-19T00:00:00+00:00</updated>
-      <content type="text"><![CDATA[https://youtu.be/InyT9Gyoz_o]]></content>
-      <author>
-        <name>Алексей Пегов</name>
-        <email>iam@alexeypegov.com</email>
-      </author>
-    </entry>
-    <entry>
       <title><![CDATA[Клоуны и книги]]></title>
       <link href="https://fm.alexeypegov.com/2026-09-02-clowns-and-books.html" />
       <id>urn:uuid:19871cfd-900f-34f1-bf4f-0a0a9cc9f7a7</id>
@@ -110,6 +99,17 @@
       <id>urn:uuid:61324ef7-f509-372e-988b-1cbc39d70873</id>
       <updated>2026-04-29T00:00:00+00:00</updated>
       <content type="text"><![CDATA[Roy Haynes, Phineas Newborn Jr., Paul Chambers - We Three (1959)]]></content>
+      <author>
+        <name>Алексей Пегов</name>
+        <email>iam@alexeypegov.com</email>
+      </author>
+    </entry>
+    <entry>
+      <title><![CDATA[Agendus 2026.2]]></title>
+      <link href="https://fm.alexeypegov.com/2026-04-22-agendus-2026.html" />
+      <id>urn:uuid:050e68a3-bbfa-3f32-88c1-33312fc92dab</id>
+      <updated>2026-04-22T00:00:00+00:00</updated>
+      <content type="text"><![CDATA[Agendus 2026.2]]></content>
       <author>
         <name>Алексей Пегов</name>
         <email>iam@alexeypegov.com</email>
