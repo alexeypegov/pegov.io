@@ -17,25 +17,35 @@
   --font-title-weight: 500;
   --title-font-family: "Raleway", fallback, sans-serif;
   color-scheme: light dark;
-  --text-color: light-dark(#444, #bbb);
-  --title-color: light-dark(#444, #eee);
-  --title-decoration-color: light-dark(#ddd, #444);
-  --subtitle-color: light-dark(#444, #eee);
-  --background-color: light-dark(#fff, #1c1c1c);
-  --link-color: light-dark(#33c, #358cdb);
-  --link-decoration-color: light-dark(#bbf, #32556b);
-  --note-title-decoration-color: light-dark(#ddd, #444);
-  --note-details-color: light-dark(#999, #666);
+  /* colors: system colors mixed by % of text into background */
+  --text-color: color-mix(in srgb, CanvasText 72%, Canvas);
+  --title-color: color-mix(in srgb, CanvasText 90%, Canvas);
+  --title-decoration-color: color-mix(in srgb, CanvasText 15%, Canvas);
+  --subtitle-color: color-mix(in srgb, CanvasText 90%, Canvas);
+  --background-color: Canvas;
+  --link-color: LinkText;
+  --link-decoration-color: color-mix(in srgb, LinkText 30%, Canvas);
+  --note-title-decoration-color: color-mix(in srgb, CanvasText 15%, Canvas);
+  --note-details-color: color-mix(in srgb, CanvasText 35%, Canvas);
   --blockquote-border-color: #1e90ff;
-  --blockquote-text-color: light-dark(#333, #ddd);
-  --blockquote-background-color: light-dark(#eee, #333);
-  --image-background-color: light-dark(#f5f5f5, #2a2a2a);
-  --pre-background-color: light-dark(#eee, #333);
-  --separator-color: light-dark(#ccc, #666);
+  --blockquote-text-color: color-mix(in srgb, CanvasText 82%, Canvas);
+  --blockquote-background-color: color-mix(in srgb, CanvasText 8%, Canvas);
+  --image-background-color: color-mix(in srgb, CanvasText 5%, Canvas);
+  --pre-background-color: color-mix(in srgb, CanvasText 8%, Canvas);
+  /* dark needs more contrast for rules */
+  --separator-color: light-dark(color-mix(in srgb, CanvasText 20%, Canvas),
+      color-mix(in srgb, CanvasText 33%, Canvas));
   --note-width: 90%;
-  --paging-text-color: light-dark(#aaa, #555);
+  --paging-text-color: color-mix(in srgb, CanvasText 30%, Canvas);
   --link-decoration-offset: 0.15em;
   --link-decortion-thickness: 0.07em;
+}
+
+/* AccentColor is not supported everywhere; a var() can't fall back on its own */
+@supports (color: AccentColor) {
+  :root {
+    --blockquote-border-color: AccentColor;
+  }
 }
 
 @view-transition {
@@ -56,8 +66,8 @@
     --small-size: 0.937rem;
     --font-weight: 500;
     --font-title-weight: 500;
-    --link-decoration-color: light-dark(#33c, #358cdb);
-    --note-title-decoration-color: light-dark(#444, #eee);
+    --link-decoration-color: LinkText;
+    --note-title-decoration-color: color-mix(in srgb, CanvasText 90%, Canvas);
     --note-width: 100%;
     --link-decoration-offset: 0.1em;
     --link-decortion-thickness: 0.05em;
@@ -127,8 +137,22 @@ a[href] {
   overflow-wrap: break-word;
 }
 
+/* only color properties work in :visited, custom properties are ignored */
+a[href]:visited {
+  color: VisitedText;
+  text-decoration-color: color-mix(in srgb, VisitedText 30%, Canvas);
+
+  @media (width <=599px) {
+    text-decoration-color: VisitedText;
+  }
+}
+
 a:hover {
   text-decoration-color: var(--link-color);
+}
+
+a[href]:visited:hover {
+  text-decoration-color: VisitedText;
 }
 
 a[href^="http"]:not([href*="fm.alexeypegov."]) {
@@ -139,7 +163,7 @@ a[href^="http"]:not([href*="fm.alexeypegov."]) {
     height: 0.75em;
     margin-left: 0.2em;
     vertical-align: middle;
-    background-color: var(--link-color);
+    background-color: currentColor;
     mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath d='M 40.960938 4.9804688 A 2.0002 2.0002 0 0 0 40.740234 5 L 28 5 A 2.0002 2.0002 0 1 0 28 9 L 36.171875 9 L 22.585938 22.585938 A 2.0002 2.0002 0 1 0 25.414062 25.414062 L 39 11.828125 L 39 20 A 2.0002 2.0002 0 1 0 43 20 L 43 7.2460938 A 2.0002 2.0002 0 0 0 40.960938 4.9804688 z M 12.5 8 C 8.3826878 8 5 11.382688 5 15.5 L 5 35.5 C 5 39.617312 8.3826878 43 12.5 43 L 32.5 43 C 36.617312 43 40 39.617312 40 35.5 L 40 26 A 2.0002 2.0002 0 1 0 36 26 L 36 35.5 C 36 37.446688 34.446688 39 32.5 39 L 12.5 39 C 10.553312 39 9 37.446688 9 35.5 L 9 15.5 C 9 13.553312 10.553312 12 12.5 12 L 22 12 A 2.0002 2.0002 0 1 0 22 8 L 12.5 8 z'/%3E%3C/svg%3E");
     mask-repeat: no-repeat;
     mask-size: contain;
