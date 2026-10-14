@@ -138,7 +138,7 @@ a[href] {
 }
 
 /* only color properties work in :visited, custom properties are ignored */
-a[href]:visited {
+.text a[href]:visited {
   color: VisitedText;
   text-decoration-color: color-mix(in srgb, VisitedText 30%, Canvas);
 
@@ -151,7 +151,7 @@ a:hover {
   text-decoration-color: var(--link-color);
 }
 
-a[href]:visited:hover {
+.text a[href]:visited:hover {
   text-decoration-color: VisitedText;
 }
 
